@@ -3,7 +3,7 @@ title: 'KodamaNews - January 2025'
 date: '2025-01-05T18:00:00+0200'
 locale: en
 author: Robin
-public: false
+public: true
 twin: kodamanews-january25-jp
 ---
 
