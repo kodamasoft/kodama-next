@@ -1,5 +1,5 @@
 
-import { FaBandcamp, FaSoundcloud, FaYoutube, FaTwitter, FaDiscord, FaEnvelope } from 'react-icons/fa';
+import { FaBandcamp, FaSoundcloud, FaYoutube, FaTwitter, FaDiscord, FaEnvelope, FaCoffee } from 'react-icons/fa';
 import BoothSVG from '../public/assets/icons/booth.svg';
 import BskySVG from '../public/assets/icons/bsky.svg';
 
@@ -12,6 +12,7 @@ const iconClass = 'text-slate-500 no-underline hover:text-slate-50 hover:scale-1
 const iconLinks = [
   { href: 'mailto:kodamasoft@example.com', icon: FaEnvelope },
   { href: 'https://discord.gg/NEnrfX6e', icon: FaDiscord },
+  { href: "https://ko-fi.com/kodamasoft", icon: FaCoffee },
   { href: 'https://twitter.com/kodamasoft', icon: FaTwitter },
   { href: 'https://bsky.app/profile/kodamasoft.bsky.social', icon: BskySVG },
   { href: 'https://www.youtube.com/@kodamasoft', icon: FaYoutube },
