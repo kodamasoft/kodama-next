@@ -19,15 +19,15 @@
 			{
 				"slug": "eclectic-resonance-escapism",
 				"status": "accepting",
-				"percentage": "0",
-				"duration": "00:00",
-				"finished_tracks": "0",
+				"percentage": "20",
+				"duration": "21:24",
+				"finished_tracks": "4",
 				"deadline": "2025-03-23T23:59:59Z",
 				"mastering": {
 					"status": "pending",
 					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"
 				},
-				"artwork_comission": "sketching",
+				"artwork_comission": "completed",
 				"color": "#68bd7d"
 			},
 			{
@@ -105,9 +105,9 @@
 			{
 				"slug": "gensokyo-party-6-border-in-stasis",
 				"status": "accepting",
-				"percentage": "40",
-				"duration": "17:36",
-				"finished_tracks": "4",
+				"percentage": "45",
+				"duration": "21:22",
+				"finished_tracks": "5",
 				"deadline": "2025-03-15T23:59:59Z",
 				"mastering": {
 					"status": "pending",
