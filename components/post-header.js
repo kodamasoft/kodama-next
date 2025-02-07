@@ -13,10 +13,11 @@ export default function PostHeader({ title, date, author, twin }) {
       <div className="text-slate-400">
         <DateFormatter dateString={date} />
       </div>
-      { twin ? 
+      {// Unnecessary due to workaround with global locale
+      /*{ twin ? 
       ( <Link href={"/posts/" + twin.slug}>
           Check {twin.locale.toUpperCase()} article
-      </Link> ) : null }
+      </Link> ) : null }*/}
     </div>
   )
 }

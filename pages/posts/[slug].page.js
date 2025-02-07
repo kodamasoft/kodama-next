@@ -3,7 +3,7 @@ import ErrorPage from 'next/error'
 import Head from 'next/head'
 
 import Layout from '../../components/layout'
-import Header from '../../components/header'
+import Header from '../../components/headerBlogPosts'
 import Container from '../../components/container'
 import PostHeader from '../../components/post-header'
 import PostBody from '../../components/post-body'
@@ -18,10 +18,12 @@ export default function Post({ post, preview }) {
   if (!router.isFallback && !post?.slug) {
     return <ErrorPage statusCode={404} />
   }
+  console.log(post.slug);
+  console.log(post.twin.slug);
   
   return (
     <Layout preview={preview}>
-        <Header />
+        <Header slug = {post.slug} twinSlug = {post.twin.slug} />
         {router.isFallback ? (
           <p>Loading…</p>
         ) : (
@@ -65,7 +67,7 @@ export async function getStaticProps({ params }) {
       'slug',
       'locale'
     ])
-  } 
+  }
 
   return {
     props: {
