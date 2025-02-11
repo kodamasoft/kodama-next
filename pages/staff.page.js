@@ -1,5 +1,6 @@
 import Layout from '../components/layout'
 import Head from 'next/head'
+import Link from 'next/link'
 
 import Container from '../components/container'
 import Header from '../components/header'
@@ -11,8 +12,11 @@ import staffJson from '/public/assets/staff/stafflist.json';
 
 import { WEBSITE_NAME } from '../lib/constants'
 
+import { FaBandcamp, FaSoundcloud, FaYoutube, FaTwitter, FaSpotify, FaApple, FaInstagram, FaBlog } from 'react-icons/fa';
+import VGMDBIcon from '../public/assets/icons/vgmdb.svg'
 
 export default function Staff({ }) {
+    const socialOrder = ['twitter', 'vgmdb', 'bandcamp', 'soundcloud','spotify', 'apple', 'instagram', 'youtube', 'website'];
     return (
         <>
             <Layout>
@@ -30,9 +34,10 @@ export default function Staff({ }) {
                         </ProseContainer>
                         <div className='max-w-4xl mx-auto font-medium'>
 
-                            {staffJson.map((staff, index) => (
+                            {staffJson.map((staff, index) => (                                
                                 (typeof staff._legacy === 'undefined') ?
-                                    <div key={index} className="flex flex-col md:grid md:grid-cols-[150px,1fr] gap-4 mb-10">
+                                <div key={index} className='mb-10'>
+                                    <div className="flex flex-col md:grid md:grid-cols-[150px,1fr] gap-4">
                                         <div className="">
                                             <Image src={"/assets/staff/pictures/kodama_" + staff._collabId + ".png"} alt={staff.name} className="w-full rounded-lg" width={150} height={150} />
                                         </div>
@@ -49,6 +54,31 @@ export default function Staff({ }) {
                                         </div>
                                         <p className="col-span-2 mt-2 w-full">{staff.description}</p>
                                     </div>
+                                    
+                                    
+                                    {staff.socials && (
+                                        <div className='flex w-full justify-start flex-row gap-4 my-4'>
+                                            {socialOrder.map((social, index) => {
+                                            if (staff.socials[social]) {
+                                                return (
+                                                <Link key={index} href={staff.socials[social]} className="text-4xl hover:scale-105 transition">
+                                                    {social === 'vgmdb' && <VGMDBIcon className="w-8 h-8" />}
+                                                    {social === 'bandcamp' && <FaBandcamp />}
+                                                    {social === 'soundcloud' && <FaSoundcloud />}
+                                                    {social === 'twitter' && <FaTwitter />}
+                                                    {social === 'youtube' && <FaYoutube />}
+                                                    {social === 'instagram' && <FaInstagram />}
+                                                    {social === 'website' && <FaBlog />}
+                                                    {social === 'apple' && <FaApple />}
+                                                    {social === 'spotify' && <FaSpotify />}
+                                                </Link>
+                                                );
+                                            }
+                                                return null;
+                                            })}
+                                        </div>
+                                    )}
+                                </div>
                                     : null
                             ))}
                         </div>

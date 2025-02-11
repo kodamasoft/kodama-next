@@ -7,7 +7,15 @@
 		"pronouns": "she/her",
 		"dateOfBirth": "June 16th",
 		"placeOfBirth": "France",
-		"description": "Founded KodamaSoft in 2017, and started writing and developing on Stellar Sanctuary, a visual novel still in developement. In 2020, Robin decided to expand on another side of the circle: KodamaSounds, focused on a multitude of arrangement & original work album compilation projects. She soon started to learn music on her own starting with KodamaSounds’ second album in 2021, all the while supervising every single album published on the circle to this day."
+		"description": "Founded KodamaSoft in 2017, and started writing and developing on Stellar Sanctuary, a visual novel still in developement. In 2020, Robin decided to expand on another side of the circle: KodamaSounds, focused on a multitude of arrangement & original work album compilation projects. She soon started to learn music on her own starting with KodamaSounds’ second album in 2021, all the while supervising every single album published on the circle to this day.",
+		"socials": {
+			"twitter": "https://twitter.com/Fivda_",
+			"bandcamp": "https://kodamasounds.bandcamp.com/",
+			"soundcloud": "https://soundcloud.com/fivda",
+			"youtube": "https://www.youtube.com/channel/UCiYBeqqQUagH-q-sAdsQPOw",
+			"vgmdb": "https://vgmdb.net/artist/36408",
+			"website": "https://linktr.ee/fivda"
+		}
 	},
 	{
 		"_collabId": "Kopan",
@@ -17,7 +25,14 @@
 		"pronouns": "he/him",
 		"dateOfBirth": "March 13th",
 		"placeOfBirth": "Algeria",
-		"description": "Kopan is one of the earliest KodamaSounds member, and joined in 2017 as the lead sound composer of Stellar Sanctuary alongside postblankvoid. Since then, he’s produced music for most of our album releases as one of the most faithful artists of the circle, with his jazzy & rhythmic influences!"
+		"description": "Kopan is one of the earliest KodamaSounds member, and joined in 2017 as the lead sound composer of Stellar Sanctuary alongside postblankvoid. Since then, he’s produced music for most of our album releases as one of the most faithful artists of the circle, with his jazzy & rhythmic influences!",
+		"socials": {
+			"twitter": "https://twitter.com/__korpikopan__",
+			"bandcamp": "https://kopan.bandcamp.com/",
+			"soundcloud": "https://soundcloud.com/oussalahmalik",
+			"youtube": "https://www.youtube.com/user/Korpikopan",
+			"vgmdb": "https://vgmdb.net/artist/34999"
+		}
 	},
 	{
 		"_collabId": "postblankvoid",
@@ -28,10 +43,11 @@
 		"dateOfBirth": "N/A",
 		"placeOfBirth": "Minneapolis, Minnesota, USA",
 		"description": "postblankvoid joined the team as early as 2017, producing some of the earliest BGM of Stellar Sanctuary alongside Kopan. With roots deep within the electronic scene and more niche & retro medias, they’ve got quite the unique and experimental touch!",
-		"twitter": "https://twitter.com/postblankvoid",
-		"youtube": "https://www.youtube.com/channel/UCDRUeyxFWOHx3RRjIEbTaWQ",
-		"soundcloud": "https://soundcloud.com/postblankvoid",
-		"bandcamp": "N/A"
+		"socials": {
+			"twitter": "https://twitter.com/postblankvoid",
+			"youtube": "https://www.youtube.com/channel/UCDRUeyxFWOHx3RRjIEbTaWQ",
+			"soundcloud": "https://soundcloud.com/postblankvoid"
+		}
 	},
 	{
 		"_collabId": "Garrrros",
@@ -42,9 +58,12 @@
 		"dateOfBirth": "N/A",
 		"placeOfBirth": "France",
 		"description": "Garrrros joined us in 2019, and took charge of almost every visual aspect of Stellar Sanctuary, and is basically our lead artist designer here at KodamaSoft / KodamaSounds! They’ve also produced those adorable Kodamas on this page!",
-		"website": "https://peudle.tumblr.com/about",
-		"twitter": "https://twitter.com/Garrrros",
-		"instagram": "https://www.instagram.com/garrrros/?hl=en"
+		"socials": {
+			"twitter": "https://twitter.com/Garrrros",
+			"instagram": "https://www.instagram.com/garrrros/?hl=en",
+			"website": "https://peudle.tumblr.com/about",
+			"vgmdb": "https://vgmdb.net/artist/52161"
+		}
 	},
 	{
 		"_collabId": "Scramel",
@@ -55,11 +74,16 @@
 		"dateOfBirth": "October 31st",
 		"placeOfBirth": "Caracas, Venezuela",
 		"description": "Hobbyist musician, full-stack web developer, based remixer, digital artist, and hopefully a game developer in the near future. Joined KodamaSounds for Stellar Sanctuary BGM production around 2020.",
-		"website": "https://scramel.github.io/works/",
-		"twitter": "https://twitter.com/scramelworks",
-		"youtube": "https://www.youtube.com/Scramel",
-		"soundcloud": "https://soundcloud.com/scramel",
-		"bandcamp": "https://scramel.bandcamp.com/"
+		"socials": {
+			"twitter": "https://twitter.com/scramelworks",
+			"bandcamp": "https://scramel.bandcamp.com",
+			"youtube": "https://www.youtube.com/channel/UC3d2oC_tquc8RjHdCX-kgVA",
+			"soundcloud": "https://soundcloud.com/scramel",
+			"website": "https://scramel.github.io/works/#/",
+			"vgmdb": "https://vgmdb.net/artist/34298",
+			"apple": "https://music.apple.com/us/artist/scramel/1529921469",
+			"spotify": "https://open.spotify.com/artist/5tb0TchU1DOGgRwd0RDZTT"
+		}
 	},
 	{
 		"_collabId": "Vintagestep",
@@ -70,10 +94,10 @@
 		"dateOfBirth": "March 27th",
 		"placeOfBirth": "Colombia",
 		"description": "Vintagestep joined us in 2021, right after our first album release. Currently in hiatus, but has quite a few surprises up their sleeves…",
-		"twitter": "https://twitter.com/Vintagestep",
-		"youtube": "N/A",
-		"soundcloud": "https://soundcloud.com/thomas-705373194",
-		"bandcamp": "N/A"
+		"socials": {
+			"soundcloud": "https://soundcloud.com/thomas-705373194",
+			"twitter": "https://twitter.com/Vintagestep"
+		}
 	},
 	{
 		"_collabId": "Yanis",
@@ -84,7 +108,10 @@
 		"dateOfBirth": "1998",
 		"placeOfBirth": "France",
 		"description": "Yanis started helping us out in 2021 as our lead Japanese interpret & translator, for any kind of documentation and exchanges with artists. Without him, you probably wouldn’t be able to see as many japanese speaking artists on our albums!",
-		"twitter": "https://twitter.com/UshiromiYanis"
+		"socials": {
+			"twitter": "https://twitter.com/UshiromiYanis",
+			"vgmdb": "https://vgmdb.net/artist/50012"
+		}
 	},
 	{
 		"_collabId": "YOKAI",
@@ -95,10 +122,13 @@
 		"dateOfBirth": "N/A",
 		"placeOfBirth": "France",
 		"description": "YOKAI is single person EDM/Electro project inspired by the Japanese electronic scene and videogames music. His roots and inspirations can be found in the J-Pop scene but also in traditional Japanese music. A lots of his songs use traditional instruments like the shamisen, alongside epic/gothic-typed orchestrations and ambient atmospheres. Joined the Sound staff in 2021.",
-		"twitter": "https://twitter.com/YokaiYokai11",
-		"youtube": "https://www.youtube.com/channel/UCmBJ37jRNJvaIBAbPJCzJEg",
-		"soundcloud": "https://soundcloud.com/user-786511194",
-		"bandcamp": "https://yokaiproducer.bandcamp.com/"
+		"socials": {
+			"twitter": "https://twitter.com/YokaiYokai11",
+			"youtube": "https://www.youtube.com/channel/UCmBJ37jRNJvaIBAbPJCzJEg",
+			"soundcloud": "https://soundcloud.com/user-786511194",
+			"bandcamp": "https://yokaiproducer.bandcamp.com/",
+			"vgmdb": "https://vgmdb.net/artist/46083"
+		}
 	},
 	{
 		"_collabId": "Maxx",
@@ -109,8 +139,11 @@
 		"dateOfBirth": "Dec 19th, 1990",
 		"placeOfBirth": "Liège, Belgium",
 		"description": "A legally blind guitarist and producer that tries his best to overcome the challenges of making music while not being able to see, while producing the hottest guitar riffs out there. Often collaborating with Kopan, Maxx decided to join us in 2023!",
-		"twitter": "https://twitter.com/MaxTheEcchitaku",
-		"youtube": "https://www.youtube.com/c/MaxTheEcchitaku"
+		"socials": {
+			"twitter": "https://twitter.com/MaxTheEcchitaku",
+			"youtube": "https://www.youtube.com/c/MaxTheEcchitaku",
+			"vgmdb": "https://vgmdb.net/artist/47431"
+		}
 	},
 	{
 		"_collabId": "AIKATYPE",
@@ -121,8 +154,12 @@
 		"dateOfBirth": "N/A",
 		"placeOfBirth": "Italy",
 		"description": "AIKATYPE is a multi-faceted music composer for VGM and OSTs who occasionally dabbles in EDM experiments and sound design. They’ve had several musical arrangements on their belt, focusing on production by ear and unique visions. Joined in December 2023.",
-		"twitter": "https://twitter.com/aikatype",
-		"soundcloud": "https://soundcloud.com/aikatype"
+		"socials": {
+			"twitter": "https://twitter.com/aikatype",
+			"soundcloud": "https://soundcloud.com/aikatype",
+			"youtube": "https://www.youtube.com/@aikatype",
+			"vgmdb": "https://vgmdb.net/artist/60619"
+		}
 	},
 	{
 		"_collabId": "trailmix37",
@@ -133,8 +170,11 @@
 		"dateOfBirth": "N/A",
 		"placeOfBirth": "N/A",
 		"description": "A NEET that joined us in December 2023. They like music a lot! They also like cats. They asked me to tell you that it’s nice to meet you.",
-		"twitter": "https://twitter.com/trailmix37",
-		"soundcloud": "https://soundcloud.com/trailmix38"
+		"socials": {
+			"twitter": "https://twitter.com/trailmix37",
+			"soundcloud": "https://soundcloud.com/trailmix38",
+			"vgmdb": "https://vgmdb.net/artist/59889"
+		}
 	},
 	{
 		"_collabId": "Zeth",
@@ -145,8 +185,11 @@
 		"dateOfBirth": "2002",
 		"placeOfBirth": "Malaysia",
 		"description": "Born into an environment of coffee-loving people and growing up playing rhythm game his whole life, Zeth is a graphic designer who works for people around rhythm games and independent music circles as a way for him to give back to the community that started his graphic design life. Being entirely self-taught since 2021, and not having a \"style\" (according to himself), he has worked for multiple community rhythm game tournaments, album/song jackets, 3D renders, and almost everything in between.",
-		"twitter": "https://twitter.com/ZethZ161",
-		"website": "https://zethlim.crd.co/"
+		"socials": {
+			"twitter": "https://twitter.com/ZethZ161",
+			"website": "https://zethlim.crd.co/",
+			"vgmdb": "https://vgmdb.net/artist/53348"
+		}
 	},
 	{
 		"_collabId": "ne_pura",
@@ -157,8 +200,11 @@
 		"dateOfBirth": "March 4th",
 		"placeOfBirth": "Australia",
 		"description": "Usually either drawing or practicing drawing, ne_pura is an illustrator who likes tea, crazy basslines, cool and cute art, completing projects before deadlines, or doing anything that gives a challenge!",
-		"twitter": "https://twitter.com/nepperoni",
-		"website": "https://www.pixiv.net/en/users/56006676"
+		"socials": {
+			"twitter": "https://twitter.com/nepperoni",
+			"website": "https://www.pixiv.net/en/users/56006676",
+			"vgmdb": "https://vgmdb.net/artist/60617"
+		}
 	},
 	{
 		"_collabId": "Bonnie",
@@ -169,10 +215,12 @@
 		"dateOfBirth": "February 14th, 2001",
 		"placeOfBirth": "Cagnes-sur-Mer, France",
 		"description": "Web developer, self-taught digital 2D artist, 3D artist, photograph, cosplayer, game developer or even wannabe musician, there isn't a discipline that doesn't interest Bonnie! Her desire to become a jack-of-all-trades and her thirst for knowledge mean that she is always interested in new artistic fields and facing new challenges. She's also a dog fan.",
-		"twitter": "https://twitter.com/Doggibelle",
-		"website": "https://doggibelle.quest",
-		"instagram": "https://www.instagram.com/doggibelle/",
-		"youtube": "https://www.youtube.com/channel/UCOs209bHg9wXIsPsbmrZw7w"
+		"socials": {
+			"twitter": "https://twitter.com/Doggibelle",
+			"instagram": "https://www.instagram.com/doggibelle/",
+			"youtube": "https://www.youtube.com/channel/UCOs209bHg9wXIsPsbmrZw7w",
+			"website": "https://doggibelle.quest"
+		}
 	},
 	{
 		"_collabId": "Kat",
@@ -182,7 +230,10 @@
 		"pronouns": "she/her",
 		"dateOfBirth": "February 16th",
 		"placeOfBirth": "France",
-		"description": "Eager about fishing, Kat joined us in 2024 alongside Bonnie as an assistant web developer. Little did she know that there'd be no fish to catch there, nor spare time to watch movies - nothing but incessant requests about a website to work on. But we still count on her as a side agent."
+		"description": "Eager about fishing, Kat joined us in 2024 alongside Bonnie as an assistant web developer. Little did she know that there'd be no fish to catch there, nor spare time to watch movies - nothing but incessant requests about a website to work on. But we still count on her as a side agent.",
+		"socials": {
+			"twitter" : "https://x.com/VIIweights"
+		}
 	},
 	{
 		"_collabId": "Dwimepon",
