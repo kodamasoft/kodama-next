@@ -25,7 +25,14 @@
 		"pronouns": "he/him",
 		"dateOfBirth": "March 13th",
 		"placeOfBirth": "Algeria",
-		"description": "Kopan is one of the earliest KodamaSounds member, and joined in 2017 as the lead sound composer of Stellar Sanctuary alongside postblankvoid. Since then, he’s produced music for most of our album releases as one of the most faithful artists of the circle, with his jazzy & rhythmic influences!"
+		"description": "Kopan is one of the earliest KodamaSounds member, and joined in 2017 as the lead sound composer of Stellar Sanctuary alongside postblankvoid. Since then, he’s produced music for most of our album releases as one of the most faithful artists of the circle, with his jazzy & rhythmic influences!",
+		"socials": {
+			"twitter": "https://twitter.com/__korpikopan__",
+			"bandcamp": "https://kopan.bandcamp.com/",
+			"soundcloud": "https://soundcloud.com/oussalahmalik",
+			"youtube": "https://www.youtube.com/user/Korpikopan",
+			"vgmdb": "https://vgmdb.net/artist/34999"
+		}
 	},
 	{
 		"_collabId": "postblankvoid",
@@ -54,7 +61,8 @@
 		"socials": {
 			"twitter": "https://twitter.com/Garrrros",
 			"instagram": "https://www.instagram.com/garrrros/?hl=en",
-			"website": "https://peudle.tumblr.com/about"
+			"website": "https://peudle.tumblr.com/about",
+			"vgmdb": "https://vgmdb.net/artist/52161"
 		}
 	},
 	{
@@ -67,11 +75,14 @@
 		"placeOfBirth": "Caracas, Venezuela",
 		"description": "Hobbyist musician, full-stack web developer, based remixer, digital artist, and hopefully a game developer in the near future. Joined KodamaSounds for Stellar Sanctuary BGM production around 2020.",
 		"socials": {
-			"website": "https://scramel.github.io/works/",
 			"twitter": "https://twitter.com/scramelworks",
-			"youtube": "https://www.youtube.com/Scramel",
+			"bandcamp": "https://scramel.bandcamp.com",
+			"youtube": "https://www.youtube.com/channel/UC3d2oC_tquc8RjHdCX-kgVA",
 			"soundcloud": "https://soundcloud.com/scramel",
-			"bandcamp": "https://scramel.bandcamp.com/"
+			"website": "https://scramel.github.io/works/#/",
+			"vgmdb": "https://vgmdb.net/artist/34298",
+			"apple": "https://music.apple.com/us/artist/scramel/1529921469",
+			"spotify": "https://open.spotify.com/artist/5tb0TchU1DOGgRwd0RDZTT"
 		}
 	},
 	{
@@ -98,7 +109,8 @@
 		"placeOfBirth": "France",
 		"description": "Yanis started helping us out in 2021 as our lead Japanese interpret & translator, for any kind of documentation and exchanges with artists. Without him, you probably wouldn’t be able to see as many japanese speaking artists on our albums!",
 		"socials": {
-			"twitter": "https://twitter.com/UshiromiYanis"
+			"twitter": "https://twitter.com/UshiromiYanis",
+			"vgmdb": "https://vgmdb.net/artist/50012"
 		}
 	},
 	{
@@ -114,7 +126,8 @@
 			"twitter": "https://twitter.com/YokaiYokai11",
 			"youtube": "https://www.youtube.com/channel/UCmBJ37jRNJvaIBAbPJCzJEg",
 			"soundcloud": "https://soundcloud.com/user-786511194",
-			"bandcamp": "https://yokaiproducer.bandcamp.com/"
+			"bandcamp": "https://yokaiproducer.bandcamp.com/",
+			"vgmdb": "https://vgmdb.net/artist/46083"
 		}
 	},
 	{
@@ -128,7 +141,8 @@
 		"description": "A legally blind guitarist and producer that tries his best to overcome the challenges of making music while not being able to see, while producing the hottest guitar riffs out there. Often collaborating with Kopan, Maxx decided to join us in 2023!",
 		"socials": {
 			"twitter": "https://twitter.com/MaxTheEcchitaku",
-			"youtube": "https://www.youtube.com/c/MaxTheEcchitaku"
+			"youtube": "https://www.youtube.com/c/MaxTheEcchitaku",
+			"vgmdb": "https://vgmdb.net/artist/47431"
 		}
 	},
 	{
@@ -142,7 +156,9 @@
 		"description": "AIKATYPE is a multi-faceted music composer for VGM and OSTs who occasionally dabbles in EDM experiments and sound design. They’ve had several musical arrangements on their belt, focusing on production by ear and unique visions. Joined in December 2023.",
 		"socials": {
 			"twitter": "https://twitter.com/aikatype",
-			"soundcloud": "https://soundcloud.com/aikatype"
+			"soundcloud": "https://soundcloud.com/aikatype",
+			"youtube": "https://www.youtube.com/@aikatype",
+			"vgmdb": "https://vgmdb.net/artist/60619"
 		}
 	},
 	{
@@ -156,7 +172,8 @@
 		"description": "A NEET that joined us in December 2023. They like music a lot! They also like cats. They asked me to tell you that it’s nice to meet you.",
 		"socials": {
 			"twitter": "https://twitter.com/trailmix37",
-			"soundcloud": "https://soundcloud.com/trailmix38"
+			"soundcloud": "https://soundcloud.com/trailmix38",
+			"vgmdb": "https://vgmdb.net/artist/59889"
 		}
 	},
 	{
@@ -170,7 +187,8 @@
 		"description": "Born into an environment of coffee-loving people and growing up playing rhythm game his whole life, Zeth is a graphic designer who works for people around rhythm games and independent music circles as a way for him to give back to the community that started his graphic design life. Being entirely self-taught since 2021, and not having a \"style\" (according to himself), he has worked for multiple community rhythm game tournaments, album/song jackets, 3D renders, and almost everything in between.",
 		"socials": {
 			"twitter": "https://twitter.com/ZethZ161",
-			"website": "https://zethlim.crd.co/"
+			"website": "https://zethlim.crd.co/",
+			"vgmdb": "https://vgmdb.net/artist/53348"
 		}
 	},
 	{
@@ -184,7 +202,8 @@
 		"description": "Usually either drawing or practicing drawing, ne_pura is an illustrator who likes tea, crazy basslines, cool and cute art, completing projects before deadlines, or doing anything that gives a challenge!",
 		"socials": {
 			"twitter": "https://twitter.com/nepperoni",
-			"website": "https://www.pixiv.net/en/users/56006676"
+			"website": "https://www.pixiv.net/en/users/56006676",
+			"vgmdb": "https://vgmdb.net/artist/60617"
 		}
 	},
 	{
@@ -211,7 +230,10 @@
 		"pronouns": "she/her",
 		"dateOfBirth": "February 16th",
 		"placeOfBirth": "France",
-		"description": "Eager about fishing, Kat joined us in 2024 alongside Bonnie as an assistant web developer. Little did she know that there'd be no fish to catch there, nor spare time to watch movies - nothing but incessant requests about a website to work on. But we still count on her as a side agent."
+		"description": "Eager about fishing, Kat joined us in 2024 alongside Bonnie as an assistant web developer. Little did she know that there'd be no fish to catch there, nor spare time to watch movies - nothing but incessant requests about a website to work on. But we still count on her as a side agent.",
+		"socials": {
+			"twitter" : "https://x.com/VIIweights"
+		}
 	},
 	{
 		"_collabId": "Dwimepon",

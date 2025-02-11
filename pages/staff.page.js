@@ -1,5 +1,6 @@
 import Layout from '../components/layout'
 import Head from 'next/head'
+import Link from 'next/link'
 
 import Container from '../components/container'
 import Header from '../components/header'
@@ -11,11 +12,11 @@ import staffJson from '/public/assets/staff/stafflist.json';
 
 import { WEBSITE_NAME } from '../lib/constants'
 
-import { FaBandcamp, FaSoundcloud, FaYoutube, FaTwitter, FaDiscord, FaEnvelope, FaCoffee, FaInstagram, FaBlog } from 'react-icons/fa';
-
+import { FaBandcamp, FaSoundcloud, FaYoutube, FaTwitter, FaSpotify, FaApple, FaInstagram, FaBlog } from 'react-icons/fa';
+import VGMDBIcon from '../public/assets/icons/vgmdb.svg'
 
 export default function Staff({ }) {
-    const socialOrder = ['twitter', 'instagram', 'youtube', 'soundcloud', 'bandcamp', 'website'];
+    const socialOrder = ['twitter', 'vgmdb', 'bandcamp', 'soundcloud','spotify', 'apple', 'instagram', 'youtube', 'website'];
     return (
         <>
             <Layout>
@@ -56,18 +57,21 @@ export default function Staff({ }) {
                                     
                                     
                                     {staff.socials && (
-                                        <div className='flex w-full justify-start flex-row gap-4 m-4'>
+                                        <div className='flex w-full justify-start flex-row gap-4 my-4'>
                                             {socialOrder.map((social, index) => {
                                             if (staff.socials[social]) {
                                                 return (
-                                                <a key={index} href={staff.socials[social]} className="text-4xl hover:scale-105 transition">
+                                                <Link key={index} href={staff.socials[social]} className="text-4xl hover:scale-105 transition">
+                                                    {social === 'vgmdb' && <VGMDBIcon className="w-8 h-8" />}
                                                     {social === 'bandcamp' && <FaBandcamp />}
                                                     {social === 'soundcloud' && <FaSoundcloud />}
                                                     {social === 'twitter' && <FaTwitter />}
                                                     {social === 'youtube' && <FaYoutube />}
                                                     {social === 'instagram' && <FaInstagram />}
                                                     {social === 'website' && <FaBlog />}
-                                                </a>
+                                                    {social === 'apple' && <FaApple />}
+                                                    {social === 'spotify' && <FaSpotify />}
+                                                </Link>
                                                 );
                                             }
                                                 return null;
