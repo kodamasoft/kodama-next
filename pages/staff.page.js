@@ -11,8 +11,11 @@ import staffJson from '/public/assets/staff/stafflist.json';
 
 import { WEBSITE_NAME } from '../lib/constants'
 
+import { FaBandcamp, FaSoundcloud, FaYoutube, FaTwitter, FaDiscord, FaEnvelope, FaCoffee, FaInstagram, FaBlog } from 'react-icons/fa';
+
 
 export default function Staff({ }) {
+    const socialOrder = ['twitter', 'instagram', 'youtube', 'soundcloud', 'bandcamp', 'website'];
     return (
         <>
             <Layout>
@@ -30,9 +33,10 @@ export default function Staff({ }) {
                         </ProseContainer>
                         <div className='max-w-4xl mx-auto font-medium'>
 
-                            {staffJson.map((staff, index) => (
+                            {staffJson.map((staff, index) => (                                
                                 (typeof staff._legacy === 'undefined') ?
-                                    <div key={index} className="flex flex-col md:grid md:grid-cols-[150px,1fr] gap-4 mb-10">
+                                <div key={index} className='mb-10'>
+                                    <div className="flex flex-col md:grid md:grid-cols-[150px,1fr] gap-4">
                                         <div className="">
                                             <Image src={"/assets/staff/pictures/kodama_" + staff._collabId + ".png"} alt={staff.name} className="w-full rounded-lg" width={150} height={150} />
                                         </div>
@@ -49,6 +53,28 @@ export default function Staff({ }) {
                                         </div>
                                         <p className="col-span-2 mt-2 w-full">{staff.description}</p>
                                     </div>
+                                    
+                                    
+                                    {staff.socials && (
+                                        <div className='flex w-full justify-start flex-row gap-4 m-4'>
+                                            {socialOrder.map((social, index) => {
+                                            if (staff.socials[social]) {
+                                                return (
+                                                <a key={index} href={staff.socials[social]} className="text-4xl hover:scale-105 transition">
+                                                    {social === 'bandcamp' && <FaBandcamp />}
+                                                    {social === 'soundcloud' && <FaSoundcloud />}
+                                                    {social === 'twitter' && <FaTwitter />}
+                                                    {social === 'youtube' && <FaYoutube />}
+                                                    {social === 'instagram' && <FaInstagram />}
+                                                    {social === 'website' && <FaBlog />}
+                                                </a>
+                                                );
+                                            }
+                                                return null;
+                                            })}
+                                        </div>
+                                    )}
+                                </div>
                                     : null
                             ))}
                         </div>
