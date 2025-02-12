@@ -12,7 +12,7 @@ import staffJson from '/public/assets/staff/stafflist.json';
 
 import { WEBSITE_NAME } from '../lib/constants'
 
-import { FaBandcamp, FaSoundcloud, FaYoutube, FaTwitter, FaSpotify, FaApple, FaInstagram, FaBlog } from 'react-icons/fa';
+import { FaBandcamp, FaSoundcloud, FaYoutube, FaTwitter, FaSpotify, FaApple, FaInstagram, FaGlobe } from 'react-icons/fa';
 import VGMDBIcon from '../public/assets/icons/vgmdb.svg'
 
 export default function Staff({ }) {
@@ -68,7 +68,7 @@ export default function Staff({ }) {
                                                     {social === 'twitter' && <FaTwitter />}
                                                     {social === 'youtube' && <FaYoutube />}
                                                     {social === 'instagram' && <FaInstagram />}
-                                                    {social === 'website' && <FaBlog />}
+                                                    {social === 'website' && <FaGlobe />}
                                                     {social === 'apple' && <FaApple />}
                                                     {social === 'spotify' && <FaSpotify />}
                                                 </Link>
