@@ -11,7 +11,7 @@ const iconClass = 'text-slate-500 no-underline hover:text-slate-50 hover:scale-1
 // Array of icon links to simplify component structure
 const iconLinks = [
   { href: 'mailto:kodamasoft@example.com', icon: FaEnvelope },
-  { href: 'https://discord.gg/NEnrfX6e', icon: FaDiscord },
+  { href: 'https://discord.gg/9ZmHv3r', icon: FaDiscord },
   { href: "https://ko-fi.com/kodamasoft", icon: FaCoffee },
   { href: 'https://twitter.com/kodamasoft', icon: FaTwitter },
   { href: 'https://bsky.app/profile/kodamasoft.bsky.social', icon: BskySVG },
