@@ -5,10 +5,10 @@
       {
 				"slug": "eclectic-resonance-paradise",
 				"status": "accepting",
-				"percentage": "10",
-				"duration": "04:15",
-				"finished_tracks": "0",
-				"deadline": "2025-03-23T23:59:59Z",
+				"percentage": "50",
+				"duration": "24:32",
+				"finished_tracks": "7",
+				"deadline": "2025-06-20T23:59:59Z",
 				"mastering": {
 					"status": "pending",
 					"engineer": "R-Man (Resonant Union)"
@@ -19,9 +19,9 @@
 			{
 				"slug": "eclectic-resonance-escapism",
 				"status": "accepting",
-				"percentage": "70",
-				"duration": "38:40",
-				"finished_tracks": "7",
+				"percentage": "90",
+				"duration": "1:09:18",
+				"finished_tracks": "11",
 				"deadline": "2025-03-23T23:59:59Z",
 				"mastering": {
 					"status": "pending",
@@ -105,9 +105,9 @@
 			{
 				"slug": "gensokyo-party-6-border-in-stasis",
 				"status": "accepting",
-				"percentage": "65",
-				"duration": "33:25",
-				"finished_tracks": "8",
+				"percentage": "80",
+				"duration": "38:20",
+				"finished_tracks": "9",
 				"deadline": "2025-03-15T23:59:59Z",
 				"mastering": {
 					"status": "pending",
