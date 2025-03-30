@@ -104,10 +104,10 @@
 		"projects": [
 			{
 				"slug": "gensokyo-party-6-border-in-stasis",
-				"status": "accepting",
-				"percentage": "80",
-				"duration": "38:20",
-				"finished_tracks": "9",
+				"status": "about-to-release",
+				"percentage": "100",
+				"duration": "1:03:55",
+				"finished_tracks": "14",
 				"deadline": "2025-03-15T23:59:59Z",
 				"mastering": {
 					"status": "pending",
