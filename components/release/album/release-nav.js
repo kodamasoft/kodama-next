@@ -12,6 +12,8 @@ export default function ReleaseNav({ ...props }) {
 						<Image
 							src="/assets/kodamaspeed.png"
 							style={{
+								position: 'relative',
+								top: '5px',
 								objectFit: 'cover',
 								objectPosition: 'center',
 							}}
