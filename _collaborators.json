@@ -1799,6 +1799,92 @@
 			"vgmdb": "https://vgmdb.net/artist/70695"
 		}
 	},
+	"Len": {
+		"name": "Len",
+		"links": {
+			"twitter": "https://x.com/Len_licht",
+			"youtube": "https://www.youtube.com/channel/UCeSqfHUxhOawRDmPJWmMnpg",
+			"vgmdb": "https://vgmdb.net/artist/60828"
+		}
+	},
+	"SoundCirclet": {
+		"name": "SoundCirclet",
+		"links": {
+			"twitter": "https://x.com/SoundCirclet",
+			"bluesky": "https://bsky.app/profile/soundcirclet.net",
+			"bandcamp": "https://soundcirclet.bandcamp.com",
+			"youtube": "https://www.youtube.com/channel/UC95Xopdv7f_L2AbfE-VMuxA",
+			"soundcloud": "https://soundcloud.com/soundcirclet",
+			"website": "https://www.soundcirclet.net",
+			"spotify": "https://open.spotify.com/artist/6CoLwCySMSJpmgxFcqMmkX",
+			"apple": "https://music.apple.com/artist/soundcirclet/1464394297",
+			"vgmdb": "https://vgmdb.net/artist/20565"
+		}
+	},
+	"KaNa": {
+		"name": "KaNa",
+		"links": {
+			"twitter": "https://x.com/kanaijuin",
+			"bluesky": "link",
+			"bandcamp": "https://kanaijuin.bandcamp.com",
+			"youtube": "https://www.youtube.com/channel/UCOt9ImjcJIDAa6Z4chd0UMQ",
+			"soundcloud": "https://soundcloud.com/kanaijuin",
+			"apple": "https://music.apple.com/artist/kana/434025584",
+			"spotify": "https://open.spotify.com/artist/3pZsTuQKmljBk6PBnbA3Tq",
+			"website": "https://ffm.bio/bnmjrxq",
+			"vgmdb": "https://vgmdb.net/artist/9241"
+		}
+	},
+	"wrashi": {
+		"name": "wrashi",
+		"links": {
+			"twitter": "https://x.com/wrashi_",
+			"bluesky": "https://bsky.app/profile/did:plc:g6amuofbkh246nq47eb7oing",
+			"soundcloud": "https://soundcloud.com/wrashi",
+			"website": "https://alchemzik.com",
+			"vgmdb": "https://vgmdb.net/artist/57040"
+		}
+	},
+	"Hexacube": {
+		"name": "Hexacube",
+		"links": {
+			"twitter": "https://x.com/hexacube0415",
+			"bandcamp": "https://hexacube.bandcamp.com",
+			"youtube": "https://www.youtube.com/channel/UCZfmt9bWeFsUqrwKmYLRo2g",
+			"soundcloud": "https://soundcloud.com/hexacube",
+			"spotify": "https://open.spotify.com/artist/5hJqGqabrZpKPZF30MfqBX",
+			"apple": "https://music.apple.com/artist/hexacube/1598710668",
+			"website": "https://linktr.ee/hexacube",
+			"vgmdb": "https://vgmdb.net/artist/59847"
+		}
+	},
+	"vervid!": {
+		"name": "vervid!",
+		"links": {
+			"twitter": "https://x.com/vvdxsounds_",
+			"bluesky": "https://bsky.app/profile/vvdxsounds.bsky.social",
+			"bandcamp": "https://vvdxsounds.bandcamp.com",
+			"youtube": "https://www.youtube.com/channel/UClDW5-NybMItV2ItZ5NJwMA",
+			"soundcloud": "https://soundcloud.com/vvdxsounds",
+			"spotify": "https://open.spotify.com/artist/2FHBgTSXQrxlVLTOHx4SH1",
+			"apple": "https://music.apple.com/artist/vervid/1637447424",
+			"website": "https://linktr.ee/vervidseeker",
+			"vgmdb": "https://vgmdb.net/artist/64363"
+		}
+	},
+	"Yozu C": {
+		"name": "Yozu C",
+		"links": {
+			"twitter": "https://x.com/YozuC_Tunes",
+			"bandcamp": "https://yozushitunes.bandcamp.com/",
+			"youtube": "https://youtube.com/@yozushitunes",
+			"soundcloud": "https://soundcloud.com/yozushitunes",
+			"apple": "https://music.apple.com/artist/yozu-c/1776731860",
+			"spotify": "https://open.spotify.com/artist/3odqZhWuKmPOp9iX2i5NFO",
+			"website": "https://bio.link/yozuctune",
+			"vgmdb": "https://vgmdb.net/artist/70952"
+		}
+	},
 	"Sample": {
 		"name": {
 			"en": "Sample",
