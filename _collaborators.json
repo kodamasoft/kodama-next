@@ -1885,6 +1885,18 @@
 			"vgmdb": "https://vgmdb.net/artist/70952"
 		}
 	},
+	"SnugglyBun": {
+		"name": "SnugglyBun",
+		"links": {
+			"twitter": "link",
+			"bluesky": "https://bsky.app/profile/snugglybun.bsky.social",
+			"bandcamp": "https://valeriasan.bandcamp.com/",
+			"youtube": "https://www.youtube.com/@snugglybun",
+			"website": "https://snugglybun.nekoweb.org/",
+			"apple": "https://music.apple.com/artist/snugglybun/1798268734",
+			"vgmdb": "link"
+		}
+	},
 	"Sample": {
 		"name": {
 			"en": "Sample",
