@@ -239,5 +239,20 @@
         "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_ljTbY3QAohF8U_5YzI-pKFrQ8KzH6gyt0",
         "website": "/releases/eclectic-resonance-hollow-horizons",
         "vgmdb": "https://vgmdb.net/album/137951"
+    },
+    "gensokyo-party-vol6": {
+        "id": "KSDL-0019",
+        "releaseDate": "2025-05-05T00:00:00+0200",
+        "name": "Gensokyo Party Vol. 6 Border in Stasis",
+        "cover": "/assets/discography/covers/0019.png",
+        "coverColor": "cf5595",
+        "bandcamp": "",
+        "booth": "",
+        "appleMusic": "",
+        "spotify": "",
+        "deezer": "",
+        "youtubeMusic": "",
+        "website": "/releases/gensokyo-party-vol6",
+        "vgmdb": "https://vgmdb.net/album/137952"
     }
 }
