@@ -1,9 +1,13 @@
 {
     "slug": "gensokyo-party-vol6",
-    "logo": "/assets/discography/logos/0014.png",
-    "color": "F01857",
+    "logo": "/assets/discography/logos/0019.png",
+    "color": "cf5595",
     "soundcloud_track_id": "1811869095",
-    "cover": "/assets/discography/covers/0014.png",
+    "cover": "/assets/discography/covers/0019.png",
+    "background": {
+		"image": "/assets/discography/backgrounds/0019.png",
+		"color": "314660"
+	},
     "title": "Gensokyo Party Vol. 6 Border in Stasis",
     "circle": {
         "name": "KodamaSounds",
