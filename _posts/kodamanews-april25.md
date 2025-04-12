@@ -45,11 +45,11 @@ The new deadlines are as followed:
 - **August 15th**: Mastering completion.
 - **August 22nd**: Audio Crossfade completion.
 - **August 25th**: Video Crossfade completion.
-- **June 1st**: Announcement & Final release of the album
+- **September 1st**: Announcement & Final release of the album
 
 ### Vanilla Parfait \-a Vanillaware tribute album-
 
-Unfortunately, due to the deluge of releases for this year, and the lack of progression and submission for this specific project, this is the first time we have to axe a deadline altogether due to lack of interest. Therefore, Vanilla Parfait will release or have a proper deadline only when we will reach a good enough amount of content (such as at least 7, or around 40 minutes of runtime). We hope that this album can at least release sometime next year, but we figure that for a niche project of this scale, it’s better for us to take our time than rush it or have it release with too small of a momentum. We apologize for any artist or listener who was looking for this album’s release this year, but we hope it just means even more polish for this important project.
+Unfortunately, due to the deluge of releases for this year, and the lack of progression and submission for this specific project, this is the first time we have to axe a deadline altogether due to lack of interest. Therefore, Vanilla Parfait will release or have a proper deadline only when we will reach a good enough amount of content (such as at least 7 tracks, or around 40 minutes of runtime). We hope that this album can at least release sometime next year, but we figure that for a niche project of this scale, it’s better for us to take our time than rush it or have it release with too small of a momentum. We apologize for any artist or listener who was looking for this album’s release this year, but we hope it just means even more polish for this important project.
 
 ### Schedule
 
