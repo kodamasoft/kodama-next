@@ -1,6 +1,6 @@
 ---
 title: 'KodamaNews - April 2025'
-date: '2025-04-12T18:00:00+0200'
+date: '2025-04-13T16:00:00+0200'
 locale: jp
 author: Robin
 public: true
