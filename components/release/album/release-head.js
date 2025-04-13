@@ -22,7 +22,7 @@ export default function ReleaseHead({
 								src={background.image}
 								alt="Background"
 								fill={true}
-								quality={50}
+								quality={20}
 								style={{ 
 									zIndex: '2',
 									objectFit: 'cover',
