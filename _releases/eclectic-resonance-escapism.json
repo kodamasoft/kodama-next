@@ -1,0 +1,236 @@
+{
+	"slug": "eclectic-resonance-escapism",
+	"logo": "/assets/discography/logos/0018.png",
+	"color": "ffed8c",
+	"soundcloud_track_id": "2078535276",
+	"cover": "/assets/discography/covers/0018.png",
+	"background": {
+		"image": "/assets/discography/backgrounds/0018.png",
+		"color": "4d73c9"
+	},
+	"title": "ECLECTIC RESONANCE Escapism",
+	"circle": {
+		"name": "KodamaSounds",
+		"link": "/"
+	},
+	"specification": "Trance & Uplifting EDM Original Work Album",
+	"release_date": "27 Apr 2025 (M3-2025 Spring)",
+	"catalog": "KSDL-0018",
+	"price": "Pre-Order & Event Price: 14€ / 2200 yen | Post Release Price: 17€ / 2700 yen",
+	"store": {
+		"bandcamp": {
+			"name": "Bandcamp",
+			"link": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-escapism"
+		},
+		"booth": {
+			"name": "BOOTH",
+			"link": "https://kodamasoft.booth.pm/items/6782310"
+		}
+	},
+	"tracklist": [
+		{
+			"_isMultiDisc": true,
+			"_discNames": ["Disc1: Elevation", "Disc2: Daydream"]
+		},
+		{
+			"01": {
+				"title": "Phosphorus",
+				"artist": "SoundCirclet",
+				"description": ["• Composer & Arranger: dante gofar","","• Programmed, Produced & Mixed by SoundCirclet","• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)","","• Used Software: FL Studio 21","• Used VSTs & Samples: Serum","","• About this track: sorry there's not much to say, i made trance again...!","","BPM: 135","Key: F minor","Genre: trance"]
+			},
+			"02": {
+				"title": "Telesto",
+				"artist": "trailmix37",
+				"description": ["• Composer & Arranger: trailmix37 (KodamaSounds)","","• Programmed, Produced & Mixed by trailmix37 (KodamaSounds)","• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)","","• About this track: Inspired by Aran, Taishi, Ujico, and Nhato's tracks of similar styles","","BPM: 128","Key: G Minor","Genre: Progressive House/Trance"]
+			},
+			"03": {
+				"title": "Unfold Your Wings",
+				"artist": "Raphtalix",
+				"description": ["• Composer & Arranger: Raphtalix","","• Programmed, Produced & Mixed by Raphtalix","• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)","","• Used Software: FL Studio","• Used VSTs & Samples: VST: Serum, Spire, Sylenth1 / Noticeable Samples: FBS_150_TommysFill_FRK, Fill Gendang 1, ATE2 Percussion Loop - 050 - 136 BPM, VDE3 128 BPM Angel Tonal Riser, SOLTAN_MR_120_perc_loop_ruler, vybeRNBSprinkles","","BPM: 140 BPM","Key: G# Major","Genre: Uplifting Trance"]
+			},
+			"04": {
+				"title": "Beside the Well Whose Waters Glisten",
+				"artist": "GOETIΛ",
+				"description": ["• Composer & Arranger: GOETIΛ (Sigillum Azoetia)","","• Programmed, Produced, Mixed & Mastered by GOETIΛ (Sigillum Azoetia)","• Additional Mastering: Loudness Fix","BPM: 143","Key: E Min","Genre: N/A"]
+			},
+			"05": {
+				"title": "Halcyon",
+				"artist": "KaNa",
+				"description": ["• Composer & Arranger: KaNa (Otographic Music / Snow Freques)","","• Programmed, Produced & Mixed by KaNa (Otographic Music / Snow Freques)","• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)","","• About this track: Enjoy a momentary escape from reality with uplifting, positive sounds filled with hope for tomorrow! When we close our eyes, there is a blue sky and we are always free to spread our wings and fly. There we can soar as high as we want on the wind. We can go as far as our imagination can take us, just like \"Halcyon\".","","BPM: 128","Key: B /G#m","Genre: Progressive Trance"]
+			},
+			"06": {
+				"title": "Ancient Ruins",
+				"artist": "wrashi",
+				"description": ["• Composer & Arranger: wrashi (Alchemzik Records)","• Programmed, Produced & Mixed by wrashi (Alchemzik Records)","• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)","","• Used Software: Ableton Live 12","• Used VSTs & Samples: Diva, Serum, Serum2, Spire, Nexus4","","• About this track: liberate from human","","BPM: 138","Key: A♭Maj (maybe)","Genre: Uplifting Trance"]
+			},
+			"07": {
+				"title": "Rise",
+				"artist": "Hexacube",
+				"description": ["• Composer & Arranger: Hexacube","","• Programmed, Produced & Mixed by Hexacube","• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)","","• Used Software: FL Studio","• Used VSTs & Samples: Usually Spire, and Serum, Vital etc. And for sample, I used mostly Nhato sample packs in this one.","","• About this track: I tried making progressive and calm trance. I think it's good to take a break doing something calm like this.","","BPM: 134","Key: F#maj","Genre: Uplifting Trance"]
+			},
+			"08": {
+				"title": "Orbital",
+				"artist": "PSYQUO",
+				"description": ["• Composer & Arranger: PSYQUO","","• Programmed, Produced, Mixed & Mastered by PSYQUO","• Additional Mastering: Loudness Fix","","• Used Software: FL Studio","• Used VSTs & Samples: Surge XT (main arp), Albion One (strings and brass), AbbeyRoad Modern Drummer (acoustic drum fills)","","• About this track: Hey, it is PSYQUO again! The track \"Orbital\" is about embodying a journey orbiting through space. I feel like everything in the universe is destined to orbit around, don't you think? Try to imagine circling around through our vast universe while listening to the track. That's it for me and as always, thanks for listening!","","BPM: 138","Key: F minor -20 cents","Genre: Progressive Trance"]
+			}
+		},
+		{
+			"01": {
+				"title": "tell me",
+				"artist": "vervid!",
+				"description": ["• Composer & Arranger: vervid!","","• Programmed, Produced & Mixed by vervid!","• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)","","• Used Software: FL Studio 2024","","BPM: 138","Key: A min","Genre: Dreamy Psytrance/Uplifting Trance"]
+			},
+			"02": {
+				"title": "Noctilucent Glow",
+				"artist": "MetaMusic",
+				"description": ["• Composer & Arranger: MetaMusic","","• Programmed, Produced & Mixed by MetaMusic","• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)","","• Used Software: Renoise","• Used VSTs & Samples: Warp Star SFX from Kirby's Return to Dream Land","","• About this track: noctilucent clouds are made purely of ice crystals, forming around 80 km above the ground. too faint to see during the day, they only show themselves during astronomical twilight, when the sun barely illuminates the upper atmosphere. the grass may be greener on the other side, but fleeting beauty still shimmers overhead. don't forget to look up from the lawn every once in a while.","","BPM: 138","Key: D# Major","Genre: Uplifting Trance"]
+			},
+			"03": {
+				"title": "Echoes of Hope",
+				"artist": "MegaStrike",
+				"description": ["• Composer & Arranger: MegaStrike","","• Programmed, Produced & Mixed by MegaStrike","• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)","","• Used Software: FL Studio","• Used VSTs & Samples: Dune 3, Nexus, Omnisphere, Native Instruments Utopia, Heavyocity Vocalise 2, Mimi Page Light & Shadow, Black Octopus Leviathan","","• About this track: I rarely mix organic instruments with super modern electronic sounds and to be honest it turned out really well. Also the creation of this track wouldn't be possible without Fivda so, thanks.","BPM: 138","Key: G minor, briefly changes to A# minor at around 3:22","Genre: Uplifting Trance"]
+			},
+			"04": {
+				"title": "coalescent",
+				"artist": "Monochrome",
+				"description": ["• Composer & Arranger: Monochrome","• Vocals: Mo Xu (Synthesizer V 2)","• Lyrics: Monochrome","","• Programmed, Produced & Mixed by Monochrome","• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)","","• About this track: I had an idea for this album for the longest time, unable to figure out how to move forward with it or if I even wanted to.  I wasn't able to make the time I wanted for it, and every day that passed this album loomed more and more over my head, pressuring me to make something or give up. Mere days before the deadline, I finally sat down and forced myself to make progress - and at that moment, all the inspiration hit me in a wave.  Despite believing I didn't have enough time, I was suddenly writing lyrics and using Synthesizer V 2 (which had released the same day), and I turned a minute-long snippet into 8 minutes of soaring emotions.  I think incorporating vocals ended up being critical to breathing life into this track - though she only appeared in brief bursts, Mo Xu's incredibly rich vocal qualities were the soul that I was trying to capture for so long.  It was immensely reassuring that I was able to pull through when it counted, and that it turned out how it did with so little time left.","","BPM: 140","Key: D minor","Genre: Uplifting Trance"]
+			},
+			"05": {
+				"title": "Free From Emotion",
+				"artist": "Eyhz",
+				"description": ["• Composer & Arranger: Eyhz (Bliss And Innocence)","","• Programmed, Produced & Mixed by Eyhz (Bliss And Innocence)","• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)","","• Used VSTs & Samples: Vocals are from producer space euphoric trance vocals","","BPM: 128","Key: E","Genre: Prog Vocal House"]
+			},
+			"06": {
+				"title": "Purity",
+				"artist": "sanmal",
+				"description": ["• Composer & Arranger: sanmal (MYORPH)","","• Programmed, Produced & Mixed by sanmal (MYORPH)","• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)","","• Used Software: Ableton Live","• Used VSTs & Samples: Serum2 KORG M1 Sylenth1","","• About this track: Fast, uplifting, techno.","","BPM: 160","Key: Fmin","Genre: N/A"]
+			},
+			"07": {
+				"title": "Blooming Flower",
+				"artist": "SnugglyBun",
+				"description": ["• Composer & Arranger: SnugglyBun","","• Programmed, Produced & Mixed by SnugglyBun","• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)","","• Used Software: Renoise 3.4.4","• Used VSTs & Samples: Stock Renoise effects, Valhalla Supermassive, Valhalla Shimmer and reFX Nexus","","• About this track: I've been trying to make trance stuff for a while now, and I think this is the first time where it all finally came together. I wanted to play with the idea of the song using repetition while still feeling varied enough, usually in most of my other songs I tend to introduce new ideas quite quickly instead of reusing what i have; meanwhile in this one I let it develop according to the ideas already established beforehand.","","BPM: 150","Key: F# Minor","Genre: Trance"]
+			},
+			"08": {
+				"title": "Sweet Fallin",
+				"artist": "Yozu C",
+				"description": ["• Composer & Arranger: Sandi Setiawan","","• Programmed, Produced, Mixed & Mastered by Sandi Setiawan","• Additional Mastering: Loudness Fix","","• Used Software: Ableton Live 11 Suite","• Used VSTs & Samples: Xfer Serum, Vital","","• About this track: Introducing \"Sweet Fallin\" for ECLECTIC RESONANCE Escapism! Let \"Sweet Falling\" transport you to a realm of pure bliss, where music meets magic. Inspired by life's simple joys, \"Sweet Fallin\" is a heartfelt ode to happiness and resilience.","","BPM: 140","Key: F major","Genre: N/A"]
+			}
+		}
+	],
+	"youtube_id": "bZ3TQjGWGu4",
+	"credits": {
+		"1": {
+			"role": "Composer & Arranger",
+			"id": "SoundCirclet"
+		},
+		"2": {
+			"role": "Composer & Arranger",
+			"id": "trailmix37"
+		},
+		"3": {
+			"role": "Composer & Arranger",
+			"id": "Raphtalix"
+		},
+		"4": {
+			"role": "Composer & Arranger",
+			"id": "GOETIA"
+		},
+		"5": {
+			"role": "Composer & Arranger",
+			"id": "KaNa"
+		},
+		"6": {
+			"role": "Composer & Arranger",
+			"id": "wrashi"
+		},
+		"7": {
+			"role": "Composer & Arranger",
+			"id": "Hexacube"
+		},
+		"8": {
+			"role": "Composer & Arranger",
+			"id": "PSYQUO"
+		},
+		"9": {
+			"role": "Composer & Arranger",
+			"id": "vervid!"
+		},
+		"10": {
+			"role": "Composer & Arranger",
+			"id": "MetaMusic"
+		},
+		"11": {
+			"role": "Composer & Arranger",
+			"id": "MegaStrike"
+		},
+		"12": {
+			"role": "Composer & Arranger",
+			"id": "Monochrome"
+		},
+		"13": {
+			"id": "Eyhz",
+			"role": "Composer & Arranger"
+		},
+		"14": {
+			"id": "sanmal",
+			"role": "Composer & Arranger"
+		},
+		"15": {
+			"id": "SnugglyBun",
+			"role": "Composer & Arranger"
+		},
+		"16": {
+			"id": "Yozu C",
+			"role": "Composer & Arranger"
+		},
+		"17": {
+			"id": "malicent",
+			"role": "Mastering Engineer"
+		},
+		"18": {
+			"id": "Volumetrique",
+			"role": "Audio Crossfade"
+		},
+		"19": {
+			"id": "ne_pura",
+			"role": "Illustration"
+		},
+		"20": {
+			"id": "Zeth",
+			"role": "Logo Designer"
+		},
+		"21": {
+			"id": "Fivda",
+			"role": "Supervisor & Planner"
+		},
+		"22": {
+			"id": "Yanis",
+			"role": "Japanese Translator"
+		},
+		"23": {
+			"id": "Len",
+			"role": "Crossfade Video"
+		},
+		"24": {
+			"id": "SpiralFlip",
+			"role": "Composer & Arranger"
+		},
+		"25": {
+			"id": "Bonnie",
+			"role": "Web"
+		},
+		"26": {
+			"id": "Kat",
+			"role": "Web"
+		},
+		"27": {
+			"id": "RLZY",
+			"role": "Special Thanks"
+		},
+		"28": {
+			"id": "Claire",
+			"role": "Special Thanks"
+		}
+	},
+	"footer": "All music and visuals owned by KodamaSounds and their respective artists"
+}
