@@ -5,23 +5,23 @@
       {
 				"slug": "eclectic-resonance-paradise",
 				"status": "accepting",
-				"percentage": "0",
-				"duration": "00:00",
-				"finished_tracks": "0",
-				"deadline": "2025-03-23T23:59:59Z",
+				"percentage": "50",
+				"duration": "24:32",
+				"finished_tracks": "7",
+				"deadline": "2025-06-20T23:59:59Z",
 				"mastering": {
 					"status": "pending",
 					"engineer": "R-Man (Resonant Union)"
 				},
-				"artwork_comission": "sketching",
+				"artwork_comission": "completed",
 				"color": "#dbb458"
 			},
 			{
 				"slug": "eclectic-resonance-escapism",
-				"status": "accepting",
-				"percentage": "20",
-				"duration": "21:24",
-				"finished_tracks": "4",
+				"status": "about-to-release",
+				"percentage": "100",
+				"duration": "1:41:38",
+				"finished_tracks": "16",
 				"deadline": "2025-03-23T23:59:59Z",
 				"mastering": {
 					"status": "pending",
@@ -33,15 +33,15 @@
 			{
 				"slug": "eclectic-resonance-uprising-3",
 				"status": "accepting",
-				"percentage": "0",
-				"duration": "00:00",
-				"finished_tracks": "0",
+				"percentage": "5",
+				"duration": "02:43",
+				"finished_tracks": "1",
 				"deadline": "2025-09-13T23:59:59Z",
 				"mastering": {
 					"status": "pending",
-					"engineer": "TBD"
+					"engineer": "blobdash"
 				},
-				"artwork_comission": "pending",
+				"artwork_comission": "completed",
 				"color": "#6cc3b9"
 			},
       {
@@ -104,10 +104,10 @@
 		"projects": [
 			{
 				"slug": "gensokyo-party-6-border-in-stasis",
-				"status": "accepting",
-				"percentage": "45",
-				"duration": "21:22",
-				"finished_tracks": "5",
+				"status": "about-to-release",
+				"percentage": "100",
+				"duration": "1:03:55",
+				"finished_tracks": "14",
 				"deadline": "2025-03-15T23:59:59Z",
 				"mastering": {
 					"status": "pending",

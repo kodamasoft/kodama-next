@@ -240,6 +240,21 @@
         "website": "/releases/eclectic-resonance-hollow-horizons",
         "vgmdb": "https://vgmdb.net/album/137951"
     },
+    "eclectic-resonance-escapism": {
+        "id": "KSDL-0018",
+        "releaseDate": "2025-04-27T00:00:00+0200",
+        "name": "ECLECTIC RESONANCE Escapism",
+        "cover": "/assets/discography/covers/0018.png",
+        "coverColor": "#fdfc93",
+        "bandcamp": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-escapism",
+        "booth": "https://kodamasoft.booth.pm/items/6782310",
+        "appleMusic": "",
+        "spotify": "",
+        "deezer": "",
+        "youtubeMusic": "",
+        "website": "/releases/eclectic-resonance-escapism",
+        "vgmdb": "https://vgmdb.net/album/145978"
+    },
     "gensokyo-party-vol6": {
         "id": "KSDL-0019",
         "releaseDate": "2025-05-05T00:00:00+0200",
