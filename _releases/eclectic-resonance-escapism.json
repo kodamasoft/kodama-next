@@ -5,6 +5,7 @@
 	"soundcloud_track_id": "2078535276",
 	"cover": "/assets/discography/covers/0018.png",
 	"background": {
+		"video": "/assets/discography/backgrounds/0018.mp4",
 		"image": "/assets/discography/backgrounds/0018.png",
 		"color": "4d73c9"
 	},
