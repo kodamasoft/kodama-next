@@ -254,5 +254,20 @@
         "youtubeMusic": "",
         "website": "/releases/eclectic-resonance-escapism",
         "vgmdb": "https://vgmdb.net/album/145978"
+    },
+    "gensokyo-party-vol6": {
+        "id": "KSDL-0019",
+        "releaseDate": "2025-05-05T00:00:00+0200",
+        "name": "Gensokyo Party Vol. 6 Border in Stasis",
+        "cover": "/assets/discography/covers/0019.png",
+        "coverColor": "cf5595",
+        "bandcamp": "",
+        "booth": "",
+        "appleMusic": "",
+        "spotify": "",
+        "deezer": "",
+        "youtubeMusic": "",
+        "website": "/releases/gensokyo-party-vol6",
+        "vgmdb": "https://vgmdb.net/album/137952"
     }
 }
