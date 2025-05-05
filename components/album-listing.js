@@ -8,6 +8,7 @@ import VgmdbSVG from '../public/assets/icons/vgmdb.svg'
 
 import albumsJSON from '/public/assets/discography/albums.json'
 import Image from "next/image";
+import {useState} from 'react'
 import useTranslation from 'next-translate/useTranslation'
 import DateFormatter from './date-formatter'
 
@@ -24,11 +25,36 @@ export default function AlbumListing({ slug }) {
         }
     }
 
+    const [showModal, setShowModal] = useState(false);
+
     return (
         <div className="not-prose group relative w-full md:max-w-2xl mx-auto content-center border-solid border border-violet-500/50 hover:border-violet-500 rounded-xl flex flex-col md:flex-row my-5 transition items-center">
 
             <div className="relative h-52 w-52 my-5 mx-auto md:m-5 md:mr-0 aspect-square rounded-md shadow-lg transition overflow-clip flex-none" style={{ backgroundColor: album.coverColor }}>
-                <Image src={album.cover} alt={album.name} sizes="13rem" quality={100} priority={true} width={208} height={208} />
+                <Image src={album.cover} alt={album.name} sizes="13rem" quality={100} priority={true} width={208} height={208} onClick={() => setShowModal(true)} style={{ cursor: 'pointer' }}/>
+
+                {showModal && (
+                    <div
+                        onClick={() => setShowModal(false)}
+                        style={{
+                            position: 'fixed',
+                            top: 0, left: 0,
+                            width: '100vw', height: '100vh',
+                            backgroundColor: 'rgba(0,0,0,0.8)',
+                            display: 'flex', alignItems: 'center', justifyContent: 'center',
+                            zIndex: 1000,
+                        }}
+                    >
+                    <Image
+                        src={album.cover}
+                        alt={album.name}
+                        unoptimized
+                        fill
+                        style={{ objectFit: 'contain'}}
+                        />
+                    </div>
+                )}
+
             </div>
 
             <div className="flex flex-col flex-initial py-5 px-10 text-white">
