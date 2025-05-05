@@ -18,13 +18,13 @@
 			},
 			{
 				"slug": "eclectic-resonance-escapism",
-				"status": "about-to-release",
+				"status": "released",
 				"percentage": "100",
 				"duration": "1:41:38",
 				"finished_tracks": "16",
 				"deadline": "2025-03-23T23:59:59Z",
 				"mastering": {
-					"status": "pending",
+					"status": "completed",
 					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"
 				},
 				"artwork_comission": "completed",
@@ -104,13 +104,13 @@
 		"projects": [
 			{
 				"slug": "gensokyo-party-6-border-in-stasis",
-				"status": "about-to-release",
+				"status": "released",
 				"percentage": "100",
 				"duration": "1:03:55",
 				"finished_tracks": "14",
 				"deadline": "2025-03-15T23:59:59Z",
 				"mastering": {
-					"status": "pending",
+					"status": "completed",
 					"engineer": "blobdash"
 				},
 				"artwork_comission": "completed",
