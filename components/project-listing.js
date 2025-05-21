@@ -54,7 +54,7 @@ export default function ProjectListing({ project, category }) {
 					<span className={statusBadgeStyles(project.status)}>{status}</span> | {project.percentage}% |{' '}
 					{project.duration}
 				</p>
-				<div className="w-full border border-1 border-white/50 h-2 rounded-full overflow-hidden mt-2 p-0 m-0">
+				<div className="w-full border border border-white/50 h-2 rounded-full overflow-hidden mt-2 p-0 m-0">
 					<div
 						className="h-full rounded-full p-0 m-0"
 						style={{ 

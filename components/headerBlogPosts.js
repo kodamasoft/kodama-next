@@ -24,7 +24,7 @@ export default function Header({slug, twinSlug}) {
 	let canDisplayBanner = new Date().getMonth() <= 3 && new Date().getFullYear() === 2024;
 
 	return (
-		<header className="relative w-100 h-auto text-white text-center flex flex-col select-none bg-[url('/assets/big_01_space_g.png')] bg-center bg-cover">
+		<header className="relative w-full h-auto text-white text-center flex flex-col select-none bg-[url('/assets/big_01_space_g.png')] bg-center bg-cover">
 
 			{
 				canDisplayBanner &&
@@ -38,12 +38,12 @@ export default function Header({slug, twinSlug}) {
 
 			<h1 className={headerStyles.header_title}>
 				<Link href="/" className="cursor-pointer">
-					<Image src={logo} alt={WEBSITE_NAME} height={150} className="cursor-pointer mx-auto max-w-full drop-shadow" />
+					<Image src={logo} alt={WEBSITE_NAME} height={150} className="cursor-pointer mx-auto max-w-full drop-shadow-sm" />
 				</Link>
 			</h1>
 
 			{/* MOBILE NAVBAR */}
-			<Disclosure as="nav" className="bg-purple-900/30 backdrop-blur text-white sm:hidden">
+			<Disclosure as="nav" className="bg-purple-900/30 backdrop-blur-sm text-white sm:hidden">
 				{({ open }) => (
 					<>
 						<Disclosure.Button>
@@ -70,12 +70,12 @@ export default function Header({slug, twinSlug}) {
 								<div id="navbar" className="flex flex-col sm:flex-row justify-center p-4 gap-4 items-center">
 
 									{links.map((link, index) => (
-										<Link href={link.href} key={index} className="text-gray-300 hover:bg-purple-700/50 hover:text-white px-3 py-2 rounded-md text-sm font-medium border-2 border-transparent focus-visible:border-purple-600 focus-visible:outline-none transition">
+										<Link href={link.href} key={index} className="text-gray-300 hover:bg-purple-700/50 hover:text-white px-3 py-2 rounded-md text-sm font-medium border-2 border-transparent focus-visible:border-purple-600 focus-visible:outline-hidden transition">
 											{link.label}
 										</Link>
 									))}
 
-									<LocaleSwitcher slug={slug} twinSlug={twinSlug} className="w-fit m-0 text-gray-300 bg-gray-900/50 hover:bg-purple-700/50 hover:text-white px-3 py-2 rounded-md text-sm font-medium border-2 border-transparent focus-visible:border-purple-600 focus-visible:outline-none transition"></LocaleSwitcher>
+									<LocaleSwitcher slug={slug} twinSlug={twinSlug} className="w-fit m-0 text-gray-300 bg-gray-900/50 hover:bg-purple-700/50 hover:text-white px-3 py-2 rounded-md text-sm font-medium border-2 border-transparent focus-visible:border-purple-600 focus-visible:outline-hidden transition"></LocaleSwitcher>
 								</div>
 							</Disclosure.Panel>
 						</Transition>
@@ -85,16 +85,16 @@ export default function Header({slug, twinSlug}) {
 
 
 			{/* DESKTOP NAVBAR */}
-			<nav className="bg-purple-900/30 backdrop-blur text-white hidden sm:block">
+			<nav className="bg-purple-900/30 backdrop-blur-sm text-white hidden sm:block">
 				<div id="navbar" className="flex flex-col sm:flex-row justify-center p-4 gap-4 items-center">
 
 					{links.map((link, index) => (
-						<Link href={link.href} key={index} className="text-gray-300 hover:bg-purple-700/50 hover:text-white px-3 py-2 rounded-md text-sm font-medium border-2 border-transparent focus-visible:border-purple-600 focus-visible:outline-none transition">
+						<Link href={link.href} key={index} className="text-gray-300 hover:bg-purple-700/50 hover:text-white px-3 py-2 rounded-md text-sm font-medium border-2 border-transparent focus-visible:border-purple-600 focus-visible:outline-hidden transition">
 							{link.label}
 						</Link>
 					))}
 
-					<LocaleSwitcher slug={slug} twinSlug={twinSlug} className="w-fit m-0 text-gray-300 bg-gray-900/50 hover:bg-purple-700/50 hover:text-white px-3 py-2 rounded-md text-sm font-medium border-2 border-transparent focus-visible:border-purple-600 focus-visible:outline-none transition"></LocaleSwitcher>
+					<LocaleSwitcher slug={slug} twinSlug={twinSlug} className="w-fit m-0 text-gray-300 bg-gray-900/50 hover:bg-purple-700/50 hover:text-white px-3 py-2 rounded-md text-sm font-medium border-2 border-transparent focus-visible:border-purple-600 focus-visible:outline-hidden transition"></LocaleSwitcher>
 				</div>
 			</nav>
 		</header>

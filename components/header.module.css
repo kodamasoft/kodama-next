@@ -1,5 +1,6 @@
+@reference "../styles/index.css";
 .header_title {
-    @apply font-['Audiowide'] text-7xl py-8 grow;
-    text-shadow: 0px 0px 20px #8b6abd;
-    font-size: clamp(2rem, -0.0930rem + 9.3023vw, 4.5rem);
+	@apply font-['Audiowide'] text-7xl py-8 grow;
+	text-shadow: 0px 0px 20px #8b6abd;
+	font-size: clamp(2rem, -0.093rem + 9.3023vw, 4.5rem);
 }

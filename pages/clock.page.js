@@ -21,9 +21,9 @@ export default function Clock() {
                         setPassword("");
                     }
                 }}>
-                    <input className="border-b-2 border-white focus:border-b-3 focus:bg-neutral-900 focus:border-white px-4 py-2 text-white bg-black outline-none transition-colors duration-200 ease-in-out"
+                    <input className="border-b-2 border-white focus:border-b-3 focus:bg-neutral-900 focus:border-white px-4 py-2 text-white bg-black outline-hidden transition-colors duration-200 ease-in-out"
                         type="text" value={password} onChange={(e) => setPassword(e.target.value)} />
-                    <button className="bg-white text-black px-4 py-2 border-b-2 border-white focus:outline-none focus:ring-2 focus:ring-cyan-500 transition-all duration-200 ease-in-out" type="submit">
+                    <button className="bg-white text-black px-4 py-2 border-b-2 border-white focus:outline-hidden focus:ring-2 focus:ring-cyan-500 transition-all duration-200 ease-in-out" type="submit">
                         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-6 h-6">
                             <path strokeLinecap="round" strokeLinejoin="round" d="M8.25 4.5l7.5 7.5-7.5 7.5" />
                         </svg>

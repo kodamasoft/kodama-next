@@ -114,7 +114,7 @@ export default function ReleaseTracklist({ credits }) {
 														key={link[0]}
 													>
 														<LinkIcon
-															className="min-w-6 w-auto fw-bold h-6 hover:text-[color:var(--release-color)] focus:text-[color:var(--release-color)] transition-all duration-300 ease-in-out"
+															className="min-w-6 w-auto fw-bold h-6 hover:text-(--release-color) focus:text-(--release-color) transition-all duration-300 ease-in-out"
 															linkObj={link[1]}
 														/>
 													</Link>

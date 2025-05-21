@@ -16,8 +16,8 @@ export default function StellarSanctuary({ }) {
         <>
             <Meta />
             <div className="relative overflow-hidden bg-[url('/assets/big_01_space_g.png')] bg-cover bg-center bg-no-repeat">
-                <Image src={SpaceBackgroundStars} alt="Space Background Stars" className="absolute top-0 left-0 z-0 object-cover animate-spin-stars blur-sm" />
-                <div className="prose prose-lg lg:prose-xl mx-auto pt-12 prose-invert prose-ul:mb-12 pb-12 relative z-10 bg-black/40 px-12 backdrop-blur">
+                <Image src={SpaceBackgroundStars} alt="Space Background Stars" className="absolute top-0 left-0 z-0 object-cover animate-spin-stars blur-xs" />
+                <div className="prose prose-lg lg:prose-xl mx-auto pt-12 prose-invert prose-ul:mb-12 pb-12 relative z-10 bg-black/40 px-12 backdrop-blur-sm">
 
                     <Link href="/"><Image src={KodamaSoftLogo} alt="KodamaSoft" className="w-64 mx-auto" /></Link>
                     <h1><Image src={StellarSanctuaryLogo} alt="KODAMA COMET -Stellar Sanctuary-" /></h1>
