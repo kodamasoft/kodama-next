@@ -1,16 +1,18 @@
-import { Disclosure, Transition } from '@headlessui/react'
-import { ChevronRightIcon } from '@heroicons/react/20/solid'
+import { Disclosure, Transition } from '@headlessui/react';
+import { ChevronRightIcon } from '@heroicons/react/20/solid';
 
-import trackStyles from './release-track.module.scss'
-import { useRouter } from 'next/router'
-
+import trackStyles from './release-track.module.scss';
+import { useRouter } from 'next/router';
 
 export default function ReleaseTrack({ track, key }) {
-	const { locale } = useRouter()
+	const { locale } = useRouter();
 
 	function Track({ trackKey, track, locale }) {
 		return (
-			<div className="container max-w-screen-sm mx-auto mb-4 flex content-start items-start px-2 md:px-8" key={trackKey}>
+			<div
+				className="container max-w-screen-sm mx-auto mb-4 flex content-start items-start px-2 md:px-8"
+				key={trackKey}
+			>
 				<div className={trackStyles.track_number}>
 					{track[0].padStart(2, '0')}
 				</div>
@@ -19,23 +21,27 @@ export default function ReleaseTrack({ track, key }) {
 						{/* check if title is an object,
 							if so print the title depending on the locale
 							is not print the title */}
-						{typeof track[1].title === 'object' ? track[1].title[locale] : track[1].title}
+						{typeof track[1].title === 'object'
+							? track[1].title[locale]
+							: track[1].title}
 					</div>
 
 					{track[1].artist && (
 						<>
 							<div className="text-sm grow text-left select-none text-white/50 font-extralight	">
-								{typeof track[1].artist === 'object' ? track[1].artist[locale] : track[1].artist}
+								{typeof track[1].artist === 'object'
+									? track[1].artist[locale]
+									: track[1].artist}
 							</div>
 						</>
 					)}
 				</div>
 			</div>
-		)
+		);
 	}
 
 	if (track[1].description === undefined) {
-		return <Track track={track} trackKey={key} />
+		return <Track track={track} trackKey={key} />;
 	}
 	return (
 		<Disclosure className="accordion mb-4" key={key} as="div">
@@ -61,11 +67,11 @@ export default function ReleaseTrack({ track, key }) {
 								<p key={index} className="mb-2 text-sm">
 									{descParagraph}
 								</p>
-							)
+							);
 						})}
 					</div>
 				</Disclosure.Panel>
 			</Transition>
 		</Disclosure>
-	)
+	);
 }
