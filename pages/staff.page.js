@@ -20,12 +20,16 @@ import {
 	FaApple,
 	FaInstagram,
 	FaGlobe,
+	FaPatreon
 } from 'react-icons/fa';
 import VGMDBIcon from '../public/assets/icons/vgmdb.svg';
+import BskyIcon from '../public/assets/icons/bsky.svg';
 
 export default function Staff({}) {
 	const socialOrder = [
 		'twitter',
+		'bsky',
+		'patreon',
 		'vgmdb',
 		'bandcamp',
 		'soundcloud',
@@ -131,12 +135,20 @@ export default function Staff({}) {
 																		<VGMDBIcon className="w-8 h-8" />
 																	)}
 																	{social ===
+																		'bsky' && (
+																		<BskyIcon className="w-8 h-8" />
+																	)}
+																	{social ===
 																		'bandcamp' && (
 																		<FaBandcamp />
 																	)}
 																	{social ===
 																		'soundcloud' && (
 																		<FaSoundcloud />
+																	)}
+																	{social ===
+																		'patreon' && (
+																		<FaPatreon />
 																	)}
 																	{social ===
 																		'twitter' && (
