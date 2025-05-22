@@ -1,14 +1,14 @@
-import { WEBSITE_NAME } from '../lib/constants'
-import LocaleSwitcher from './locale-switcher'
-import headerStyles from './header.module.css'
-import Link from 'next/link'
-import Image from 'next/image'
-import logo from '../public/assets/logo_white.png'
-import useTranslation from 'next-translate/useTranslation'
-import { Disclosure, Transition } from '@headlessui/react'
+import { WEBSITE_NAME } from '../lib/constants';
+import LocaleSwitcher from './locale-switcher';
+import headerStyles from './header.module.css';
+import Link from 'next/link';
+import Image from 'next/image';
+import logo from '../public/assets/logo_white.png';
+import useTranslation from 'next-translate/useTranslation';
+import { Disclosure, Transition } from '@headlessui/react';
 
 export default function Header() {
-	const { t, lang } = useTranslation()
+	const { t, lang } = useTranslation();
 
 	let links = [
 		{ href: '/', label: 'Home' },
@@ -21,10 +21,10 @@ export default function Header() {
 			label: 'COUNTERFEST RECORDS',
 		},
 		// { href: '/blog', label: 'Blog' }
-	]
+	];
 
 	let canDisplayBanner =
-		new Date().getMonth() <= 3 && new Date().getFullYear() === 2024
+		new Date().getMonth() <= 3 && new Date().getFullYear() === 2024;
 
 	return (
 		<header className="relative w-full h-auto text-white text-center flex flex-col select-none bg-[url('/assets/big_01_space_g.png')] bg-center bg-cover">
@@ -145,5 +145,5 @@ export default function Header() {
 				</div>
 			</nav>
 		</header>
-	)
+	);
 }

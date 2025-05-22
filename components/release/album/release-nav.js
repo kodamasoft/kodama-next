@@ -1,7 +1,7 @@
-import LocaleSwitcher from '../../locale-switcher'
-import Link from 'next/link'
-import Image from 'next/image'
-import React from 'react'
+import LocaleSwitcher from '../../locale-switcher';
+import Link from 'next/link';
+import Image from 'next/image';
+import React from 'react';
 
 export default function ReleaseNav({ ...props }) {
 	return (
@@ -27,5 +27,5 @@ export default function ReleaseNav({ ...props }) {
 				</div>
 			</header>
 		</div>
-	)
+	);
 }

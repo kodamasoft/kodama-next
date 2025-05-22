@@ -80,7 +80,10 @@ function ResizablePanel({ isOpened, children }) {
 					animate={{ opacity: 1 }}
 					exit={{ opacity: 0 }}
 				>
-					<div ref={ref} className={`${height ? 'absolute' : 'relative'}`}>
+					<div
+						ref={ref}
+						className={`${height ? 'absolute' : 'relative'}`}
+					>
 						{children}
 					</div>
 				</motion.div>
