@@ -20,7 +20,7 @@ import {
 	FaApple,
 	FaInstagram,
 	FaGlobe,
-	FaPatreon
+	FaPatreon,
 } from 'react-icons/fa';
 import VGMDBIcon from '../public/assets/icons/vgmdb.svg';
 import BskyIcon from '../public/assets/icons/bsky.svg';

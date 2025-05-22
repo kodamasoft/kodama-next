@@ -38,7 +38,7 @@ export default function Footer() {
 						<Link
 							key={index}
 							href={href}
-							className="footer_svg_container outline-none"
+							className="footer_svg_container outline-hidden"
 						>
 							<IconComponent className={iconClass} />
 						</Link>

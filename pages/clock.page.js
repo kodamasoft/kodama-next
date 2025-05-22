@@ -28,13 +28,13 @@ export default function Clock() {
 					}}
 				>
 					<input
-						className="border-b-2 border-white focus:border-b-3 focus:bg-neutral-900 focus:border-white px-4 py-2 text-white bg-black outline-none transition-colors duration-200 ease-in-out"
+						className="border-b-2 border-white focus:border-b-3 focus:bg-neutral-900 focus:border-white px-4 py-2 text-white bg-black outline-hidden transition-colors duration-200 ease-in-out"
 						type="text"
 						value={password}
 						onChange={(e) => setPassword(e.target.value)}
 					/>
 					<button
-						className="bg-white text-black px-4 py-2 border-b-2 border-white focus:outline-none focus:ring-2 focus:ring-cyan-500 transition-all duration-200 ease-in-out"
+						className="bg-white text-black px-4 py-2 border-b-2 border-white focus:outline-hidden focus:ring-2 focus:ring-cyan-500 transition-all duration-200 ease-in-out"
 						type="submit"
 					>
 						<svg

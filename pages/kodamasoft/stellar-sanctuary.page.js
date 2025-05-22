@@ -19,9 +19,9 @@ export default function StellarSanctuary({}) {
 				<Image
 					src={SpaceBackgroundStars}
 					alt="Space Background Stars"
-					className="absolute top-0 left-0 z-0 object-cover animate-spin-stars blur-sm"
+					className="absolute top-0 left-0 z-0 object-cover animate-spin-stars blur-xs"
 				/>
-				<div className="prose prose-lg lg:prose-xl mx-auto pt-12 prose-invert prose-ul:mb-12 pb-12 relative z-10 bg-black/40 px-12 backdrop-blur">
+				<div className="prose prose-lg lg:prose-xl mx-auto pt-12 prose-invert prose-ul:mb-12 pb-12 relative z-10 bg-black/40 px-12 backdrop-blur-sm">
 					<Link href="/">
 						<Image
 							src={KodamaSoftLogo}

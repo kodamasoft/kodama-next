@@ -28,7 +28,7 @@ export default function ReleaseDescription({
 	const [showModal, setShowModal] = useState(false);
 
 	return (
-		<div className="container mx-auto my-16 grid grid-cols-1 lg:grid-cols-[1fr,2fr] gap-4">
+		<div className="container mx-auto my-16 grid grid-cols-1 lg:grid-cols-[1fr_2fr] gap-4">
 			<div className="relative max-w-xs md:max-w-xl lg:max-w-3xl mx-auto mb-4">
 				<Image
 					src={cover}
