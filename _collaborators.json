@@ -1723,6 +1723,8 @@
 		"name": "Bonnie",
 		"links": {
 			"twitter": "https://x.com/Doggibelle",
+			"bluesky": "https://bsky.app/profile/bonnie.doggibelle.quest",
+			"patreon": "https://www.patreon.com/doggibelle",
 			"youtube": "https://www.youtube.com/channel/UCOs209bHg9wXIsPsbmrZw7w",
 			"website": "https://links.doggibelle.quest",
 			"vgmdb": "https://vgmdb.net/artist/70693"
@@ -1913,27 +1915,6 @@
 			"soundcloud": "link",
 			"website": "link",
 			"vgmdb": "link"
-		}
-	},
-	"Kat": {
-		"name": {
-			"en": "Kat",
-			"jp": "Kat"
-		},
-		"links": {
-			"twitter": "https://twitter.com/VIIweights",
-			"website": "https://letterboxd.com/CaptainKatyusha/"
-		}
-	},
-	"Bonnie": {
-		"name": {
-			"en": "Bonnie",
-			"jp": "Bonnie"
-		},
-		"links": {
-			"twitter": "https://twitter.com/Doggibelle",
-			"youtube": "https://www.youtube.com/channel/UCOs209bHg9wXIsPsbmrZw7w",
-			"website": "https://links.doggibelle.quest"
 		}
 	}
 }

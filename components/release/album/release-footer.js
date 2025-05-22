@@ -4,7 +4,7 @@ export default function ReleaseNav({ title, slug, footer_string }) {
 	return (
 		<footer className="container mx-auto mt-16 mb-8 px-2 flex flex-wrap text-[#999] text-sm justify-between align-middle items-end">
 			<div>
-				<Link href={'/' + slug}>{title}</Link>
+				<Link href={'/releases/' + slug}>{title}</Link>
 				<br />
 				<span>©2021–{new Date().getFullYear()} </span>
 				<Link href="/"> KodamaSounds</Link>

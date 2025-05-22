@@ -20,12 +20,16 @@ import {
 	FaApple,
 	FaInstagram,
 	FaGlobe,
+	FaPatreon
 } from 'react-icons/fa';
 import VGMDBIcon from '../public/assets/icons/vgmdb.svg';
+import BskyIcon from '../public/assets/icons/bsky.svg';
 
 export default function Staff({}) {
 	const socialOrder = [
 		'twitter',
+		'bsky',
+		'patreon',
 		'vgmdb',
 		'bandcamp',
 		'soundcloud',
@@ -53,7 +57,7 @@ export default function Staff({}) {
 							{staffJson.map((staff, index) =>
 								typeof staff._legacy === 'undefined' ? (
 									<div key={index} className="mb-10">
-										<div className="flex flex-col md:grid md:grid-cols-[150px_1fr] gap-4">
+										<div className="flex flex-col md:grid md:grid-cols-[150px,1fr] gap-4">
 											<div className="">
 												<Image
 													src={
@@ -131,12 +135,20 @@ export default function Staff({}) {
 																		<VGMDBIcon className="w-8 h-8" />
 																	)}
 																	{social ===
+																		'bsky' && (
+																		<BskyIcon className="w-8 h-8" />
+																	)}
+																	{social ===
 																		'bandcamp' && (
 																		<FaBandcamp />
 																	)}
 																	{social ===
 																		'soundcloud' && (
 																		<FaSoundcloud />
+																	)}
+																	{social ===
+																		'patreon' && (
+																		<FaPatreon />
 																	)}
 																	{social ===
 																		'twitter' && (
