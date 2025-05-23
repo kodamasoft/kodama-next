@@ -1,7 +1,7 @@
-import Image from 'next/image'
-import useTranslation from 'next-translate/useTranslation'
-import ReleaseNav from './release-nav'
-import styles from './release-head.module.css'
+import Image from 'next/image';
+import useTranslation from 'next-translate/useTranslation';
+import ReleaseNav from './release-nav';
+import styles from './release-head.module.css';
 
 export default function ReleaseHead({
 	slug,
@@ -10,26 +10,28 @@ export default function ReleaseHead({
 	sc_track_id,
 	color,
 }) {
-	const { t } = useTranslation('release')
+	const { t } = useTranslation('release');
 
 	return (
 		<>
 			<div className={background ? 'mx-auto' : 'container mx-auto'}>
 				{background ? (
-					<div className='relative overflow-hidden'>
+					<div className="relative overflow-hidden">
 						{background.image && (
 							<Image
 								src={background.image}
 								alt="Background"
 								fill={true}
 								quality={20}
-								style={{ 
+								style={{
 									zIndex: '2',
 									objectFit: 'cover',
 									filter: 'blur(25px) brightness(0.5)',
-									maskImage: 'linear-gradient(to bottom, rgba(0, 0, 0, 1) 90%, rgba(0, 0, 0, 0) 100%)',
-									WebkitMaskImage: 'linear-gradient(to bottom, rgba(0, 0, 0, 1) 90%, rgba(0, 0, 0, 0) 100%)'
-								}} 
+									maskImage:
+										'linear-gradient(to bottom, rgba(0, 0, 0, 1) 90%, rgba(0, 0, 0, 0) 100%)',
+									WebkitMaskImage:
+										'linear-gradient(to bottom, rgba(0, 0, 0, 1) 90%, rgba(0, 0, 0, 0) 100%)',
+								}}
 							/>
 						)}
 						{background.video && (
@@ -41,25 +43,29 @@ export default function ReleaseHead({
 								muted
 								plays
 								src={background.video}
-								style={{ 
+								style={{
 									zIndex: '3',
-									maskImage: 'linear-gradient(to bottom, rgba(0, 0, 0, 1) 90%, rgba(0, 0, 0, 0) 100%)',
-									WebkitMaskImage: 'linear-gradient(to bottom, rgba(0, 0, 0, 1) 90%, rgba(0, 0, 0, 0) 100%)'
-								}} 
+									maskImage:
+										'linear-gradient(to bottom, rgba(0, 0, 0, 1) 90%, rgba(0, 0, 0, 0) 100%)',
+									WebkitMaskImage:
+										'linear-gradient(to bottom, rgba(0, 0, 0, 1) 90%, rgba(0, 0, 0, 0) 100%)',
+								}}
 							></video>
 						)}
-						
-						<div className='md:container relative mx-auto z-10'>
-							<ReleaseNav className="bg-[#232426] md:bg-transparent"/>
+
+						<div className="md:container relative mx-auto z-10">
+							<ReleaseNav className="bg-[#232426] md:bg-transparent" />
 							<div className="relative w-[800px] h-[500px] max-w-full mx-auto">
 								<Image
 									src={logo}
 									height="340"
 									width="1000"
 									alt="Logo"
-									className='object-contain object-center p-6 md:relative -top-14 w-[1000px] h-[500px] max-w-full mx-auto'
+									className="object-contain object-center p-6 md:relative -top-14 w-[1000px] h-[500px] max-w-full mx-auto"
 									quality={100}
-									style={{ filter: 'drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.75))' }}
+									style={{
+										filter: 'drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.75))',
+									}}
 								/>
 							</div>
 						</div>
@@ -73,7 +79,7 @@ export default function ReleaseHead({
 								height="340"
 								width="1000"
 								alt="Logo"
-								className='object-contain object-center p-6 md:relative -top-14 w-[1000px] h-[500px] max-w-full mx-auto'
+								className="object-contain object-center p-6 md:relative -top-14 w-[1000px] h-[500px] max-w-full mx-auto"
 								quality={100}
 							/>
 						</div>
@@ -106,5 +112,5 @@ export default function ReleaseHead({
 				</div>
 			</div>
 		</>
-	)
+	);
 }

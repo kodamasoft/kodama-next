@@ -1,0 +1,6 @@
+@theme {
+	--font-namco50-sans: sans-serif;
+
+	--color-namco50-p-background: hsl(0, 0, 0);
+	--color-namco50-p-stroke: hsl(0, 0, 100);
+}
