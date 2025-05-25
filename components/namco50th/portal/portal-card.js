@@ -2,12 +2,18 @@ import Link from 'next/link';
 import Image from 'next/image';
 import cn from '../../../lib/cn';
 
-export default function PortalCard({ name, image, href, disabled }) {
+export default function PortalCard({
+	name,
+	image,
+	href,
+	disabled,
+	presentedBy,
+}) {
 	return (
 		<Link
 			href={href}
 			className={cn(
-				'w-full',
+				'w-full font-namco50-mono',
 				disabled ? 'pointer-events-none opacity-40' : 'cursor-pointer'
 			)}
 		>
@@ -17,8 +23,11 @@ export default function PortalCard({ name, image, href, disabled }) {
 					!disabled && 'hover:border-namco50-p-stroke-focused'
 				)}
 			>
+				<div className="flex flex-col items-center justify-center w-full h-full bg-namco50-p-background text-lg lg:text-xl text-namco50-p-foreground p-2 lg:p-3">
+					<span>Presented by {presentedBy}</span>
+				</div>
 				{/* Cover image */}
-				<div className="relative w-full h-20 px-4 py-2">
+				<div className="relative w-full h-20 lg:h-32 px-4 py-2">
 					{image ? (
 						<Image
 							className="w-full h-full object-contain"
@@ -31,8 +40,8 @@ export default function PortalCard({ name, image, href, disabled }) {
 					)}
 				</div>
 				<div className="flex flex-col items-center justify-center w-full h-full bg-namco50-p-background">
-					<div className="flex flex-col items-center justify-center py-4 font-namco50-mono text-lg">
-						<span>{name}</span>
+					<div className="flex flex-col items-center justify-center lg:gap-2 py-4 lg:py-3.5 text-lg lg:text-2xl">
+						<span className="whitespace-nowrap">{name}</span>
 						<span className="text-namco50-p-foreground/60">
 							{disabled ? '???????????' : 'Click to Enter'}
 						</span>

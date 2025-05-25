@@ -1,3 +1,5 @@
+import '@hackernoon/pixel-icon-library/fonts/iconfont.css';
+
 export default function Layout({ children }) {
 	return (
 		<div>
