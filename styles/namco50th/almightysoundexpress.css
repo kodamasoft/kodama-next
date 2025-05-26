@@ -1,0 +1,17 @@
+@theme {
+	--font-namco50-ase-sans: 'var(--font-tomorrow)', sans-serif;
+
+	--color-namco50-ase-background: hsl(0, 0%, 0%);
+	--color-namco50-ase-foreground: hsl(0, 0%, 100%);
+}
+
+@font-face {
+	font-family: '3270';
+	src:
+		url('/assets/namco50th/portal/fonts/3270-Regular.woff') format('woff'),
+		url('/assets/namco50th/portal/fonts/3270-Regular.ttf')
+			format('truetype');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}

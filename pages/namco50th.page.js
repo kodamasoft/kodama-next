@@ -1,5 +1,5 @@
 import Head from 'next/head';
-import Layout from '../components/namco50th/layout';
+import Layout from '../components/namco50th/portal/layout';
 import PortalCard from '../components/namco50th/portal/portal-card';
 import ASELogo from '/public/assets/namco50th/almightysoundexpress/ase-logo.webp';
 import GSCLogo from '/public/assets/namco50th/gamesoundcollage/gsc-logo.png';
@@ -13,7 +13,7 @@ const projectInfos = [
 		name: 'Almighty Sound Express',
 		image: ASELogo,
 		href: '/namco50th/almightysoundexpress',
-		presentedBy: 'Team Name',
+		presentedBy: 'Almighty Arrange Project',
 		isDisabled: false,
 	},
 	{
@@ -144,7 +144,6 @@ export default function Discography() {
 						page={currentPage}
 						totalPages={totalPages}
 					/>
-
 				</div>
 			</Layout>
 		</>
