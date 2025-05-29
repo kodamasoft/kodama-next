@@ -40,8 +40,21 @@ export default function MusicPlayer({
 	songList = [],
 }) {
 	const [playing, setPlaying] = useState(false);
+	const [duration, setDuration] = useState(0);
+	const [progress, setProgress] = useState(0);
+
 	const togglePlay = () => setPlaying(true);
 	const togglePause = () => setPlaying(false);
+
+	// Handle duration updates
+	const handleDuration = (duration) => {
+		setDuration(duration);
+	};
+
+	// Handle progress updates
+	const handleProgress = (state) => {
+		setProgress(state.playedSeconds);
+	};
 
 	const playerContextValue = {
 		playing,
@@ -61,6 +74,8 @@ export default function MusicPlayer({
 				}}
 				url={href}
 				playing={playing}
+				onDuration={handleDuration}
+				onProgress={handleProgress}
 			/>
 			<div className={cn(className)}>{children}</div>
 		</PlayerContext.Provider>
