@@ -1,16 +1,44 @@
-'use client';
-import ReactPlayer from 'react-player';
 import cn from '../../lib/cn';
 import { createContext } from 'react';
 import { useContext, useState, useEffect } from 'react';
+import dynamic from 'next/dynamic';
+import { Music } from 'lucide-react';
+import typeDef from './types';
 
+// ReactPlayer has some funky mechanic with SSR, so we need to dynamically import it
+const ReactPlayer = dynamic(() => import('react-player'), { ssr: false });
 const PlayerContext = createContext({
 	playing: false,
 	togglePlay: () => {},
 	togglePause: () => {},
+	/** @type {SongItem[]} */
+	songList: [],
+	currentSongIndex: 0,
 });
 
-export default function MusicPlayer({ children, href, className }) {
+export function usePlayerContext() {
+	const context = useContext(PlayerContext);
+	if (!context) {
+		throw new Error('usePlayerContext must be used within a MusicPlayer');
+	}
+	return context;
+}
+
+/**
+ *
+ * @param {Object} props - Component props
+ * @param {React.ReactNode} props.children - Child components
+ * @param {string} props.href - The URL of the music file
+ * @param {string} [props.className] - Additional class names for styling
+ * @param {SongItem[]} [props.songList=[]] - List of songs with metadata
+ * @returns {JSX.Element} - Rendered MusicPlayer component
+ */
+export default function MusicPlayer({
+	children,
+	href,
+	className,
+	songList = [],
+}) {
 	const [playing, setPlaying] = useState(false);
 	const togglePlay = () => setPlaying(true);
 	const togglePause = () => setPlaying(false);
@@ -19,40 +47,56 @@ export default function MusicPlayer({ children, href, className }) {
 		playing,
 		togglePlay,
 		togglePause,
+		songList,
+		currentSongIndex: 0,
 	};
 
-    /* TODO Handle hydration mismatch */
 	return (
 		<PlayerContext.Provider value={playerContextValue}>
-			{typeof window !== 'undefined' && (
-				<ReactPlayer
-					style={{
-						position: 'fixed',
-						pointerEvents: 'none',
-						opacity: 0,
-					}}
-					url={href}
-					playing={playing}
-				/>
-			)}
-
+			<ReactPlayer
+				style={{
+					position: 'fixed',
+					pointerEvents: 'none',
+					opacity: 0,
+				}}
+				url={href}
+				playing={playing}
+			/>
 			<div className={cn(className)}>{children}</div>
 		</PlayerContext.Provider>
 	);
 }
 
-MusicPlayer.Play = function PlayButton({ children, className }) {
-	const { playing, togglePlay } = useContext(PlayerContext);
-	const [isMounted, setIsMounted] = useState(false);
-
-	useEffect(() => {
-		setIsMounted(true);
-	}, []);
-
-	if (!isMounted) {
-		// Return a placeholder with the same dimensions during server render
-		return <button className={cn('h-6 w-6', className)}>{children}</button>;
+MusicPlayer.Title = function MusicPlayerTitle({ className }) {
+	const { songList, currentSongIndex } = usePlayerContext();
+	if (songList.length === 0) {
+		return null;
 	}
+
+	const currentSong = songList[currentSongIndex];
+	return (
+		<span className={cn('whitespace-nowrap', className)}>
+			{currentSong.title}
+		</span>
+	);
+};
+
+MusicPlayer.Artist = function MusicPlayerArtist({ className }) {
+	const { songList, currentSongIndex } = usePlayerContext();
+	if (songList.length === 0) {
+		return null;
+	}
+
+	const currentSong = songList[currentSongIndex];
+	return (
+		<span className={cn('whitespace-nowrap', className)}>
+			{currentSong.artist}
+		</span>
+	);
+};
+
+MusicPlayer.Play = function PlayButton({ children, className }) {
+	const { playing, togglePlay } = usePlayerContext();
 
 	if (playing) {
 		return null;
@@ -66,18 +110,7 @@ MusicPlayer.Play = function PlayButton({ children, className }) {
 };
 
 MusicPlayer.Pause = function PauseButton({ children, className }) {
-	const { playing, togglePause } = useContext(PlayerContext);
-
-	const [isMounted, setIsMounted] = useState(false);
-
-	useEffect(() => {
-		setIsMounted(true);
-	}, []);
-
-	if (!isMounted) {
-		// Return a placeholder with the same dimensions during server render
-		return <button className={cn('h-6 w-6', className)}>{children}</button>;
-	}
+	const { playing, togglePause } = usePlayerContext();
 
 	if (!playing) {
 		return null;
