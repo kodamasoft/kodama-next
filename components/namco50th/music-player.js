@@ -1,18 +1,23 @@
+'use client';
 import cn from '../../lib/cn';
-import { createContext } from 'react';
-import { useContext, useState, useEffect } from 'react';
+import { createContext, useRef } from 'react';
 import dynamic from 'next/dynamic';
-import { Music } from 'lucide-react';
-import typeDef from './types';
+import { useContext, useState, useEffect } from 'react';
 
-// ReactPlayer has some funky mechanic with SSR, so we need to dynamically import it
-const ReactPlayer = dynamic(() => import('react-player'), { ssr: false });
+// Workaround for the issue with ReactPlayer not accepting on dynamic import with NextJS 13
+// https://github.com/cookpete/react-player/issues/1455#issuecomment-1207154843
+const ReactPlayer = dynamic(() => import('./react-player'), { ssr: false });
+
 const PlayerContext = createContext({
 	playing: false,
 	togglePlay: () => {},
 	togglePause: () => {},
+	seek: () => {},
+
 	/** @type {SongItem[]} */
 	songList: [],
+	duration: 0,
+	progress: 0,
 	currentSongIndex: 0,
 });
 
@@ -41,42 +46,87 @@ export default function MusicPlayer({
 }) {
 	const [playing, setPlaying] = useState(false);
 	const [duration, setDuration] = useState(0);
+	const [seeking, setSeeking] = useState(false);
+	const [playerReady, setPlayerReady] = useState(false);
 	const [progress, setProgress] = useState(0);
+	const [mounted, setMounted] = useState(false);
+	const playerRef = useRef(null);
 
 	const togglePlay = () => setPlaying(true);
 	const togglePause = () => setPlaying(false);
 
-	// Handle duration updates
+	useEffect(() => {
+		setMounted(true);
+		return () => {
+			setMounted(false);
+
+			// Unmount cleanup
+			setSeeking(false);
+			setPlaying(false);
+			setPlayerReady(false);
+		};
+	}, []);
+
+	const handleReady = () => {
+		console.log('Player ready:', playerRef.current);
+		setPlayerReady(true);
+	};
+
+	const seek = (time) => {
+		console.log('Attempting to seek to:', time);
+
+		if (!playerReady) {
+			console.warn('Player not ready yet');
+			return;
+		}
+
+		console.log(time);
+		if (playerRef.current) {
+			console.log(playerRef.current);
+			setSeeking(true);
+			playerRef.current.seekTo(time);
+			setSeeking(false);
+		}
+	};
+
 	const handleDuration = (duration) => {
 		setDuration(duration);
 	};
 
-	// Handle progress updates
 	const handleProgress = (state) => {
-		setProgress(state.playedSeconds);
+		if (!seeking) {
+			setProgress(state.played);
+		}
 	};
 
 	const playerContextValue = {
 		playing,
 		togglePlay,
 		togglePause,
+		duration,
+		progress,
 		songList,
 		currentSongIndex: 0,
+		seek,
 	};
 
 	return (
 		<PlayerContext.Provider value={playerContextValue}>
-			<ReactPlayer
-				style={{
-					position: 'fixed',
-					pointerEvents: 'none',
-					opacity: 0,
-				}}
-				url={href}
-				playing={playing}
-				onDuration={handleDuration}
-				onProgress={handleProgress}
-			/>
+			{mounted && (
+				<ReactPlayer
+					playerRef={playerRef}
+					style={{
+						position: 'fixed',
+						pointerEvents: 'none',
+						opacity: 0,
+					}}
+					url={href}
+					playing={playing}
+					onReady={handleReady}
+					onDuration={handleDuration}
+					onProgress={handleProgress}
+				/>
+			)}
 			<div className={cn(className)}>{children}</div>
 		</PlayerContext.Provider>
 	);
