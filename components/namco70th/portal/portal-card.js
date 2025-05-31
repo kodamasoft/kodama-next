@@ -13,17 +13,17 @@ export default function PortalCard({
 		<Link
 			href={href}
 			className={cn(
-				'w-full font-namco50-mono',
+				'w-full font-namco70-mono',
 				disabled ? 'pointer-events-none opacity-40' : 'cursor-pointer'
 			)}
 		>
 			<div
 				className={cn(
-					'w-full border-3 border-namco50-p-stroke',
-					!disabled && 'hover:border-namco50-p-stroke-focused'
+					'w-full border-3 border-namco70-p-stroke',
+					!disabled && 'hover:border-namco70-p-stroke-focused'
 				)}
 			>
-				<div className="flex flex-col items-center justify-center w-full h-full bg-namco50-p-background text-lg lg:text-xl text-namco50-p-foreground p-2 lg:p-3">
+				<div className="flex flex-col items-center justify-center w-full h-full bg-namco70-p-background text-lg lg:text-xl text-namco70-p-foreground p-2 lg:p-3">
 					<span>Presented by {presentedBy}</span>
 				</div>
 				{/* Cover image */}
@@ -39,10 +39,10 @@ export default function PortalCard({
 						<div className="w-full h-full" />
 					)}
 				</div>
-				<div className="flex flex-col items-center justify-center w-full h-full bg-namco50-p-background">
+				<div className="flex flex-col items-center justify-center w-full h-full bg-namco70-p-background">
 					<div className="flex flex-col items-center justify-center lg:gap-2 py-4 lg:py-3.5 text-lg lg:text-2xl">
 						<span className="whitespace-nowrap">{name}</span>
-						<span className="text-namco50-p-foreground/60">
+						<span className="text-namco70-p-foreground/60">
 							{disabled ? '???????????' : 'Click to Enter'}
 						</span>
 					</div>

@@ -1,12 +1,12 @@
 import Image from 'next/image';
-import Jacket from '../../public/assets/namco50th/almightysoundexpress/jacket.png';
-import Layout from '../../components/namco50th/almightysoundexpress/layout';
+import Jacket from '../../public/assets/namco70th/almightysoundexpress/jacket.png';
+import Layout from '../../components/namco70th/almightysoundexpress/layout';
 import Link from 'next/link';
-import MusicPlayer from '../../components/namco50th/music-player';
+import MusicPlayer from '../../components/namco70th/music-player';
 import { ChevronFirst, ChevronLast, Disc3, Pause, Play } from 'lucide-react';
-import SeekBar from '../../components/namco50th/almightysoundexpress/seek-bar';
+import SeekBar from '../../components/namco70th/almightysoundexpress/seek-bar';
 
-/** @typedef {import('../../components/namco50th/types').SongItem} SongItem */
+/** @typedef {import('../../components/namco70th/types').SongItem} SongItem */
 
 const CROSSFADE_URL =
 	'https://soundcloud.com/almighty-arrange-project/almighty-sound-express-album-crossfade';
@@ -54,10 +54,10 @@ export default function AlmightySoundExpress() {
 					>
 						<SeekBar />
 						<div className="flex items-center justify-between p-2 h-full">
-							<div className="flex gap-4 items-center justify-center w-full max-w-1/2 text-sm bg-namco50-ase-accent text-namco50-ase-foreground-1 px-4 py-2 rounded-full">
+							<div className="flex gap-4 items-center justify-center w-full max-w-1/2 text-sm bg-namco70-ase-accent text-namco70-ase-foreground-1 px-4 py-2 rounded-full">
 								<Disc3 className="h-4 w-4 shrink-0" />
 								<div className="overflow-hidden">
-									<div className="flex gap-[1ch] items-center whitespace-nowrap animate-namco50-ase-marquee">
+									<div className="flex gap-[1ch] items-center whitespace-nowrap animate-namco70-ase-marquee">
 										<MusicPlayer.Title />
 										<span>-</span>
 										<MusicPlayer.Artist />

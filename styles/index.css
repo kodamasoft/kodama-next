@@ -1,6 +1,6 @@
 @import 'tailwindcss';
-@import './namco50th/portal.css';
-@import './namco50th/almightysoundexpress.css';
+@import './namco70th/portal.css';
+@import './namco70th/almightysoundexpress.css';
 
 @plugin '@tailwindcss/typography';
 @plugin '@headlessui/tailwindcss';

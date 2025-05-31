@@ -1,18 +1,18 @@
 import Head from 'next/head';
-import Layout from '../components/namco50th/portal/layout';
-import PortalCard from '../components/namco50th/portal/portal-card';
-import ASELogo from '/public/assets/namco50th/almightysoundexpress/ase-logo.webp';
-import GSCLogo from '/public/assets/namco50th/gamesoundcollage/gsc-logo.png';
+import Layout from '../components/namco70th/portal/layout';
+import PortalCard from '../components/namco70th/portal/portal-card';
+import ASELogo from '/public/assets/namco70th/almightysoundexpress/ase-logo.webp';
+import GSCLogo from '/public/assets/namco70th/gamesoundcollage/gsc-logo.png';
 import cn from '../lib/cn';
-import PortalHeader from '../components/namco50th/portal/portal-header';
+import PortalHeader from '../components/namco70th/portal/portal-header';
 import { useMemo, useState, useEffect } from 'react';
-import PortalPagination from '../components/namco50th/portal/pagination';
+import PortalPagination from '../components/namco70th/portal/pagination';
 
 const projectInfos = [
 	{
 		name: 'Almighty Sound Express',
 		image: ASELogo,
-		href: '/namco50th/almightysoundexpress',
+		href: '/namco70th/almightysoundexpress',
 		presentedBy: 'Almighty Arrange Project',
 		isDisabled: false,
 	},
@@ -20,56 +20,56 @@ const projectInfos = [
 		name: 'Game Sound Collage',
 		image: GSCLogo,
 		presentedBy: 'Team Name',
-		href: '/namco50th/gamesoundcollage',
+		href: '/namco70th/gamesoundcollage',
 		isDisabled: false,
 	},
 	{
 		name: '?????????',
 		image: '',
 		presentedBy: 'Team Name',
-		href: '/namco50th/almightysoundexpress',
+		href: '/namco70th/almightysoundexpress',
 		isDisabled: true,
 	},
 	{
 		name: '?????????',
 		image: '',
 		presentedBy: 'Team Name',
-		href: '/namco50th/almightysoundexpress',
+		href: '/namco70th/almightysoundexpress',
 		isDisabled: true,
 	},
 	{
 		name: '?????????',
 		image: '',
 		presentedBy: 'Team Name',
-		href: '/namco50th/almightysoundexpress',
+		href: '/namco70th/almightysoundexpress',
 		isDisabled: true,
 	},
 	{
 		name: '?????????',
 		image: '',
 		presentedBy: 'Team Name',
-		href: '/namco50th/almightysoundexpress',
+		href: '/namco70th/almightysoundexpress',
 		isDisabled: true,
 	},
 	{
 		name: '?????????',
 		image: '',
 		presentedBy: 'Team Name',
-		href: '/namco50th/almightysoundexpress',
+		href: '/namco70th/almightysoundexpress',
 		isDisabled: true,
 	},
 	{
 		name: '?????????',
 		image: '',
 		presentedBy: 'Team Name',
-		href: '/namco50th/almightysoundexpress',
+		href: '/namco70th/almightysoundexpress',
 		isDisabled: true,
 	},
 	{
 		name: '?????????',
 		image: '',
 		presentedBy: 'Team Name',
-		href: '/namco50th/almightysoundexpress',
+		href: '/namco70th/almightysoundexpress',
 		isDisabled: true,
 	},
 ];
@@ -114,7 +114,7 @@ export default function Discography() {
 		<>
 			<Layout>
 				<Head>
-					<title>Namco 50th Anniversary</title>
+					<title>Namco 70th Anniversary</title>
 				</Head>
 				<div className="w-full h-full">
 					<PortalHeader />

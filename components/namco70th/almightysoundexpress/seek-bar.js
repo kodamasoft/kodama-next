@@ -84,10 +84,10 @@ export default function SeekBar({ className }) {
 			/>
 
 			{/* Custom styled track background */}
-			<div className="w-full h-0.5 rounded-full bg-namco50-ase-foreground/40 overflow-hidden">
+			<div className="w-full h-0.5 rounded-full bg-namco70-ase-foreground/40 overflow-hidden">
 				{/* Progress fill */}
 				<div
-					className="h-full bg-namco50-ase-foreground rounded-full transition-all ease-out"
+					className="h-full bg-namco70-ase-foreground rounded-full transition-all ease-out"
 					style={{
 						width: `${localValue}%`,
 						transitionDuration: isDragging ? '0ms' : '100ms',
@@ -97,7 +97,7 @@ export default function SeekBar({ className }) {
 
 			{/* Custom thumb that appears on hover/focus/drag */}
 			<div
-				className="absolute h-3 w-3 rounded-full bg-namco50-ase-foreground transition-transform"
+				className="absolute h-3 w-3 rounded-full bg-namco70-ase-foreground transition-transform"
 				style={{
 					left: `${localValue}%`,
 					transform: `translateX(-50%) scale(${isDragging || isHovering ? 1 : 0})`,

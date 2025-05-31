@@ -11,7 +11,7 @@ export default function PortalPagination({
 	const disableBackward = page <= 1;
 
 	return (
-		<div className={cn('flex gap-4 font-namco50-mono', className)}>
+		<div className={cn('flex gap-4 font-namco70-mono', className)}>
 			<button
 				disabled={disableBackward}
 				onClick={onPageBackward}

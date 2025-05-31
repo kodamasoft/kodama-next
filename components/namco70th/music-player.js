@@ -1,10 +1,9 @@
-'use client';
 import cn from '../../lib/cn';
 import { createContext, useRef } from 'react';
 import dynamic from 'next/dynamic';
 import { useContext, useState, useEffect } from 'react';
 
-// Workaround for the issue with ReactPlayer not accepting on dynamic import with NextJS 13
+// Workaround for the issue with ReactPlayer ref not exposing the function needed on dynamic import with NextJS 13
 // https://github.com/cookpete/react-player/issues/1455#issuecomment-1207154843
 const ReactPlayer = dynamic(() => import('./react-player'), { ssr: false });
 
