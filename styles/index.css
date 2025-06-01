@@ -1,27 +1,29 @@
 @import 'tailwindcss';
+@import './namco70th/portal.css';
+
 
 @plugin '@tailwindcss/typography';
 @plugin '@headlessui/tailwindcss';
 
 @theme {
-  --font-release: var(--font-noto), sans-serif;
-  --font-sans: var(--font-noto), sans-serif;
+    --font-release: var(--font-noto), sans-serif;
+    --font-sans: var(--font-noto), sans-serif;
 
-  --shadow-inner-xl: inset 0 4px 8px 0 rgb(0 0 0 / 0.5);
+    --shadow-inner-xl: inset 0 4px 8px 0 rgb(0 0 0 / 0.5);
 
-  --animate-spin-stars: spinScaled 60s linear infinite;
+    --animate-spin-stars: spinScaled 60s linear infinite;
 
-  @keyframes spinScaled {
-    0% {
-      transform: rotate(0deg) scale(2);
+    @keyframes spinScaled {
+        0% {
+            transform: rotate(0deg) scale(2);
+        }
+        50% {
+            transform: rotate(180deg) scale(2);
+        }
+        100% {
+            transform: rotate(360deg) scale(2);
+        }
     }
-    50% {
-      transform: rotate(180deg) scale(2);
-    }
-    100% {
-      transform: rotate(360deg) scale(2);
-    }
-  }
 }
 
 /*
@@ -33,38 +35,34 @@
   color utility to any element that depends on these defaults.
 */
 @layer base {
-  *,
-  ::after,
-  ::before,
-  ::backdrop,
-  ::file-selector-button {
-    border-color: var(--color-gray-200, currentcolor);
-  }
+    *,
+    ::after,
+    ::before,
+    ::backdrop,
+    ::file-selector-button {
+        border-color: var(--color-gray-200, currentcolor);
+    }
 }
 
 /* audiowide-regular - latin */
 @font-face {
-	font-family: 'Audiowide';
-	font-style: normal;
-	font-weight: 400;
-	src: url('/assets/fonts/audiowide-v9-latin-regular.eot');
-	/* IE9 Compat Modes */
-	src: local(''),
-		url('/assets/fonts/audiowide-v9-latin-regular.eot?#iefix') format('embedded-opentype'),
-		/* IE6-IE8 */
-		url('/assets/fonts/audiowide-v9-latin-regular.woff2') format('woff2'),
-		/* Super Modern Browsers */
-		url('/assets/fonts/audiowide-v9-latin-regular.woff') format('woff'),
-		/* Modern Browsers */
-		url('/assets/fonts/audiowide-v9-latin-regular.ttf') format('truetype'),
-		/* Safari, Android, iOS */
-		url('/assets/fonts/audiowide-v9-latin-regular.svg#Audiowide') format('svg');
-	/* Legacy iOS */
+    font-family: 'Audiowide';
+    font-style: normal;
+    font-weight: 400;
+    src: url('/assets/fonts/audiowide-v9-latin-regular.eot');
+    /* IE9 Compat Modes */
+    src: local(''),
+    url('/assets/fonts/audiowide-v9-latin-regular.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */ url('/assets/fonts/audiowide-v9-latin-regular.woff2') format('woff2'),
+        /* Super Modern Browsers */ url('/assets/fonts/audiowide-v9-latin-regular.woff') format('woff'),
+        /* Modern Browsers */ url('/assets/fonts/audiowide-v9-latin-regular.ttf') format('truetype'),
+        /* Safari, Android, iOS */ url('/assets/fonts/audiowide-v9-latin-regular.svg#Audiowide') format('svg');
+    /* Legacy iOS */
 }
 
 @font-face {
     font-family: 'Arquitecta';
-	src: url('/assets/fonts/ArquitectaBook-webfont.woff') format('woff');
+    src: url('/assets/fonts/ArquitectaBook-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -79,12 +77,12 @@
 }
 
 html {
-	color-scheme: dark;
+    color-scheme: dark;
 }
 
 .kodama_btn {
-	@apply py-2 px-3 text-xs font-medium text-center text-white rounded-lg focus:ring-4 inline-flex transition items-center;
-	@apply bg-slate-600 hover:bg-slate-700 focus:ring-slate-800;
+    @apply py-2 px-3 text-xs font-medium text-center text-white rounded-lg focus:ring-4 inline-flex transition items-center;
+    @apply bg-slate-600 hover:bg-slate-700 focus:ring-slate-800;
 }
 
 .kodama_btn [astro-icon], .kodama_btn svg {
@@ -92,14 +90,14 @@ html {
 }
 
 .kodama_btn--primary {
-	@apply bg-violet-600 hover:bg-violet-700 focus:ring-violet-800;
+    @apply bg-violet-600 hover:bg-violet-700 focus:ring-violet-800;
 }
 
 .kodama_btn--lg {
-	@apply py-3 px-4 text-lg;
+    @apply py-3 px-4 text-lg;
 }
 
-.kodama_btn--lg [astro-icon], .kodama_btn--lg svg{
+.kodama_btn--lg [astro-icon], .kodama_btn--lg svg {
     @apply h-6 w-6;
 }
 

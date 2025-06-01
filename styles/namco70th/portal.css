@@ -1,0 +1,20 @@
+@theme {
+    --font-namco70-sans: sans-serif;
+    --font-namco70-mono: '3270', monospace;
+
+    --color-namco70-p-background: hsl(0, 0%, 0%);
+    --color-namco70-p-foreground: hsl(0, 0%, 100%);
+    --color-namco70-p-stroke: hsl(0, 0%, 100%);
+    --color-namco70-p-stroke-focused: var(--color-yellow-300);
+}
+
+@font-face {
+    font-family: '3270';
+    src:
+            url('/assets/namco70th/portal/fonts/3270-Regular.woff') format('woff'),
+            url('/assets/namco70th/portal/fonts/3270-Regular.ttf')
+            format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
