@@ -9,7 +9,7 @@ const tomorrow = Tomorrow({
 
 export default function Layout({ children }) {
 	return (
-		<div className={`${tomorrow.variable} font-namco70-ase-sans`}>
+		<div className={`${tomorrow.className} font-namco70-ase-sans`}>
 			<div className="min-h-screen bg-namco70-ase-background">
 				<main>{children}</main>
 			</div>

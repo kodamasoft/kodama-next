@@ -1,10 +1,9 @@
-import Image from 'next/image';
-import Jacket from '../../public/assets/namco70th/almightysoundexpress/jacket.png';
 import Layout from '../../components/namco70th/almightysoundexpress/layout';
-import Link from 'next/link';
 import MusicPlayer from '../../components/namco70th/music-player';
 import { ChevronFirst, ChevronLast, Disc3, Pause, Play } from 'lucide-react';
 import SeekBar from '../../components/namco70th/almightysoundexpress/seek-bar';
+import Hero from '../../components/namco70th/almightysoundexpress/hero';
+import TrackList from '../../components/namco70th/almightysoundexpress/track-list';
 
 /** @typedef {import('../../components/namco70th/types').SongItem} SongItem */
 
@@ -14,9 +13,84 @@ const CROSSFADE_URL =
 /** @type {SongItem[]} */
 const songList = [
 	{
-		title: 'Almighty Sound Express',
+		title: 'Enter NAMCO',
 		artist: 'Almighty Arrange Project',
-		startAt: 0,
+		startAt: 0, // 0:00
+	},
+	{
+		title: 'Turbulent Flow',
+		artist: 'Rapid Riddims',
+		startAt: 19, // 0:19
+	},
+	{
+		title: 'PROJECT-GYNOTAI[file-21]__CEREBRAL_TEST_01',
+		artist: 'ANGELWHISPER',
+		startAt: 34, // 0:34
+	},
+	{
+		title: 'Ghoul Psypanic',
+		artist: 'fusoxide',
+		startAt: 48, // 0:48
+	},
+	{
+		title: 'To John',
+		artist: 'Muscises',
+		startAt: 58, // 0:58
+	},
+	{
+		title: 'Echoes Beneath The Waves',
+		artist: 'Aquatic Enigmas',
+		startAt: 69, // 1:09
+	},
+	{
+		title: 'numan athletics 2 type beat',
+		artist: 'may rosencratz',
+		startAt: 82, // 1:22
+	},
+	{
+		title: 'Cold Sleep Stage (Genesis Remix)',
+		artist: 'Muscises',
+		startAt: 93, // 1:33
+	},
+	{
+		title: 'Stereo Test',
+		artist: 'ANGELWHISPER',
+		startAt: 107, // 1:47
+	},
+	{
+		title: 'Panic In The Park (Instrumental)',
+		artist: 'Nightmare2UrDream',
+		startAt: 119, // 1:59
+	},
+	{
+		title: 'Hellharmony (Genesis Remix)',
+		artist: 'Muscises',
+		startAt: 137, // 2:17
+	},
+	{
+		title: 'The Ascension',
+		artist: 'Viravax',
+		startAt: 150, // 2:30
+	},
+	{
+		title: 'AUX-day - Hyper Butch ehm - the sand forgets',
+		artist: 'windfvcker & Rammy',
+		startAt: 159, // 2:39
+	},
+	{
+		title: 'Acid Trial Project',
+		artist: 'ANGELWHISPER',
+		startAt: 170, // 2:50
+	},
+	{
+		title: 'Jazz Shadows In City Light',
+		artist: 'Neon Serenade',
+		startAt: 184, // 3:04
+	},
+	{
+		title: 'Throwaway Troupe',
+		artist: 'marklincadet',
+		startAt: 200, // 3:20
 	},
 ];
 export default function AlmightySoundExpress() {
@@ -28,25 +102,9 @@ export default function AlmightySoundExpress() {
 			>
 				{/* Sticky Header */}
 				<header className="sticky top-0 z-10 h-(--header-height)"></header>
-				{/* Music Player */}
-				<div className="h-[calc(100dvh_-_var(--header-height)_-_var(--player-height))] flex flex-col">
-					<Image
-						className="w-full h-auto object-contain"
-						src={Jacket}
-						alt={'Almighty Sound Express'}
-						loading="lazy"
-					/>
-					<div className="flex flex-col p-4 gap-4">
-						<div className="flex gap-[1ch] items-end">
-							<span>Project Name</span>
-							<span className="text-xs">
-								Presented by Almighty Arrange Project
-							</span>
-						</div>
-						<h1 className="text-3xl ">Almighty Sound Express</h1>
-					</div>
-				</div>
-				<div className="sticky bottom-0 z-10 h-(--player-height)">
+				<Hero className="h-[calc(100dvh_-_var(--header-height)_-_var(--player-height))]" />
+				<TrackList songList={songList} />
+				<div className="sticky bottom-0 z-10 h-(--player-height) bg-namco70-ase-background">
 					<MusicPlayer
 						songList={songList}
 						href={CROSSFADE_URL}
