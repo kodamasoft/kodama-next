@@ -6,6 +6,7 @@ const tomorrow = Tomorrow({
 	display: 'swap',
 	variable: '--font-tomorrow',
 });
+
 export default function Layout({ children }) {
 	return (
 		<div className={`${tomorrow.variable} font-namco70-ase-sans`}>
