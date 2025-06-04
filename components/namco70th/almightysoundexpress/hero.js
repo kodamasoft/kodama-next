@@ -11,10 +11,12 @@ export default function Hero({ className, ...props }) {
 				alt={'Almighty Sound Express'}
 				loading="lazy"
 			/>
-			<div className="flex flex-col py-4 px-2 gap-4">
+			<div className="flex flex-col py-4 px-2 gap-6">
 				<div className="flex flex-col">
-					<span>Project Name</span>
-					<span className="text-xs">
+					<span className="text-lg">
+						United Tribute Arrange Force
+					</span>
+					<span className="text-xs italic">
 						Presented by Almighty Arrange Project
 					</span>
 				</div>

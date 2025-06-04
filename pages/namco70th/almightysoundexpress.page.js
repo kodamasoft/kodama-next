@@ -4,6 +4,9 @@ import { ChevronFirst, ChevronLast, Disc3, Pause, Play } from 'lucide-react';
 import SeekBar from '../../components/namco70th/almightysoundexpress/seek-bar';
 import Hero from '../../components/namco70th/almightysoundexpress/hero';
 import TrackList from '../../components/namco70th/almightysoundexpress/track-list';
+import { useState } from 'react';
+import Information from '../../components/namco70th/almightysoundexpress/information';
+import HrefButton from '../../components/namco70th/href-button';
 
 /** @typedef {import('../../components/namco70th/types').SongItem} SongItem */
 
@@ -93,7 +96,15 @@ const songList = [
 		startAt: 200, // 3:20
 	},
 ];
+
+// Should have used a store for tracklist -_-'
 export default function AlmightySoundExpress() {
+	const [activeTrackIndex, setActiveTrackIndex] = useState(0);
+
+	const handleTrackChange = (index) => {
+		setActiveTrackIndex(index);
+	};
+
 	return (
 		<Layout>
 			<div
@@ -103,9 +114,16 @@ export default function AlmightySoundExpress() {
 				{/* Sticky Header */}
 				<header className="sticky top-0 z-10 h-(--header-height)"></header>
 				<Hero className="h-[calc(100dvh_-_var(--header-height)_-_var(--player-height))]" />
-				<TrackList songList={songList} />
+				<TrackList
+					songList={songList}
+					currentIndex={activeTrackIndex}
+				/>
+				{/* Information Section */}
+				<Information />
+
 				<div className="sticky bottom-0 z-10 h-(--player-height) bg-namco70-ase-background">
 					<MusicPlayer
+						onTrackChange={handleTrackChange}
 						songList={songList}
 						href={CROSSFADE_URL}
 						className="flex flex-col h-full"
@@ -116,9 +134,9 @@ export default function AlmightySoundExpress() {
 								<Disc3 className="h-4 w-4 shrink-0" />
 								<div className="overflow-hidden">
 									<div className="flex gap-[1ch] items-center whitespace-nowrap animate-namco70-ase-marquee">
-										<MusicPlayer.Title />
-										<span>-</span>
 										<MusicPlayer.Artist />
+										<span>-</span>
+										<MusicPlayer.Title />
 									</div>
 								</div>
 							</div>

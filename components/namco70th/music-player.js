@@ -12,6 +12,9 @@ const PlayerContext = createContext({
 	togglePlay: () => {},
 	togglePause: () => {},
 	seek: () => {},
+	nextTrack: () => {},
+	prevTrack: () => {},
+	setTrack: () => {},
 
 	/** @type {SongItem[]} */
 	songList: [],
@@ -35,12 +38,14 @@ export function usePlayerContext() {
  * @param {string} props.href - The URL of the music file
  * @param {string} [props.className] - Additional class names for styling
  * @param {SongItem[]} [props.songList=[]] - List of songs with metadata
+ * @param {Function} [props.onTrackChange] - Callback when track changes
  * @returns {JSX.Element} - Rendered MusicPlayer component
  */
 export default function MusicPlayer({
 	children,
 	href,
 	className,
+	onTrackChange,
 	songList = [],
 }) {
 	const [playing, setPlaying] = useState(false);
@@ -49,10 +54,37 @@ export default function MusicPlayer({
 	const [playerReady, setPlayerReady] = useState(false);
 	const [progress, setProgress] = useState(0);
 	const [mounted, setMounted] = useState(false);
+	const [currentSongIndex, setCurrentSongIndex] = useState(0);
 	const playerRef = useRef(null);
 
 	const togglePlay = () => setPlaying(true);
 	const togglePause = () => setPlaying(false);
+
+	// Add functions to change tracks
+	const nextTrack = () => {
+		if (currentSongIndex < songList.length - 1) {
+			setCurrentSongIndex((prevIndex) => prevIndex + 1);
+		} else {
+			// Loop back to first track
+			setCurrentSongIndex(0);
+		}
+	};
+
+	const prevTrack = () => {
+		if (currentSongIndex > 0) {
+			setCurrentSongIndex((prevIndex) => prevIndex - 1);
+		} else {
+			// Loop to last track
+			setCurrentSongIndex(songList.length - 1);
+		}
+	};
+
+	// Function to set track by index (for the track list)
+	const setTrack = (index) => {
+		if (index >= 0 && index < songList.length) {
+			setCurrentSongIndex(index);
+		}
+	};
 
 	useEffect(() => {
 		setMounted(true);
@@ -67,21 +99,16 @@ export default function MusicPlayer({
 	}, []);
 
 	const handleReady = () => {
-		console.log('Player ready:', playerRef.current);
 		setPlayerReady(true);
 	};
 
 	const seek = (time) => {
-		console.log('Attempting to seek to:', time);
-
 		if (!playerReady) {
 			console.warn('Player not ready yet');
 			return;
 		}
 
-		console.log(time);
 		if (playerRef.current) {
-			console.log(playerRef.current);
 			setSeeking(true);
 			playerRef.current.seekTo(time);
 			setSeeking(false);
@@ -98,6 +125,25 @@ export default function MusicPlayer({
 		}
 	};
 
+	// Seek to track's start time when changing tracks
+	// This runs when currentSongIndex changes, hence all of the function above doesn't need to seek
+	useEffect(() => {
+		if (playerReady && songList.length > 0) {
+			const currentSong = songList[currentSongIndex];
+			if (currentSong && typeof currentSong.startAt === 'number') {
+				seek(currentSong.startAt);
+			}
+		}
+
+		// seek doesn't need to be a callback for now
+		// eslint-disable-next-line react-hooks/exhaustive-deps
+	}, [currentSongIndex, playerReady, songList]);
+
+	useEffect(() => {
+		if (onTrackChange && songList.length > 0) {
+			onTrackChange(currentSongIndex, songList[currentSongIndex]);
+		}
+	}, [currentSongIndex, onTrackChange, songList]);
 	const playerContextValue = {
 		playing,
 		togglePlay,
@@ -105,8 +151,11 @@ export default function MusicPlayer({
 		duration,
 		progress,
 		songList,
-		currentSongIndex: 0,
+		currentSongIndex,
 		seek,
+		nextTrack,
+		prevTrack,
+		setTrack,
 	};
 
 	return (
@@ -188,9 +237,29 @@ MusicPlayer.Pause = function PauseButton({ children, className }) {
 };
 
 MusicPlayer.Next = function NextButton({ children, className }) {
-	return <button className={cn('h-6 w-6', className)}>{children}</button>;
+	const { nextTrack } = usePlayerContext();
+
+	return (
+		<button
+			onClick={nextTrack}
+			aria-label="Next Track"
+			className={cn('h-6 w-6', className)}
+		>
+			{children}
+		</button>
+	);
 };
 
 MusicPlayer.Prev = function PrevButton({ children, className }) {
-	return <button className={cn('h-6 w-6', className)}>{children}</button>;
+	const { prevTrack } = usePlayerContext();
+
+	return (
+		<button
+			onClick={prevTrack}
+			aria-label="Previous Track"
+			className={cn('h-6 w-6', className)}
+		>
+			{children}
+		</button>
+	);
 };
