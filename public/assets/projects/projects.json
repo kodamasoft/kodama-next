@@ -5,9 +5,9 @@
       {
 				"slug": "eclectic-resonance-paradise",
 				"status": "accepting",
-				"percentage": "50",
-				"duration": "24:32",
-				"finished_tracks": "7",
+				"percentage": "60",
+				"duration": "31:28",
+				"finished_tracks": "9",
 				"deadline": "2025-06-20T23:59:59Z",
 				"mastering": {
 					"status": "pending",
@@ -33,9 +33,9 @@
 			{
 				"slug": "eclectic-resonance-uprising-3",
 				"status": "accepting",
-				"percentage": "5",
-				"duration": "02:43",
-				"finished_tracks": "1",
+				"percentage": "8",
+				"duration": "06:10",
+				"finished_tracks": "2",
 				"deadline": "2025-09-13T23:59:59Z",
 				"mastering": {
 					"status": "pending",
