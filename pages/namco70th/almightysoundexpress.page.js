@@ -7,6 +7,7 @@ import TrackList from '../../components/namco70th/almightysoundexpress/track-lis
 import { useState } from 'react';
 import Information from '../../components/namco70th/almightysoundexpress/information';
 import HrefButton from '../../components/namco70th/href-button';
+import Credit from '../../components/namco70th/almightysoundexpress/credit';
 
 /** @typedef {import('../../components/namco70th/types').SongItem} SongItem */
 
@@ -120,6 +121,7 @@ export default function AlmightySoundExpress() {
 				/>
 				{/* Information Section */}
 				<Information />
+				<Credit />
 
 				<div className="sticky bottom-0 z-10 h-(--player-height) bg-namco70-ase-background">
 					<MusicPlayer

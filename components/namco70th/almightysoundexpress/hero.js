@@ -20,7 +20,7 @@ export default function Hero({ className, ...props }) {
 						Presented by Almighty Arrange Project
 					</span>
 				</div>
-				<h1 className="text-3xl">Almighty Sound Express</h1>
+				<h1 className="text-2xl font-bold">Almighty Sound Express</h1>
 			</div>
 		</div>
 	);
