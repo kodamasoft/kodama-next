@@ -17,3 +17,20 @@
 		}
 	}
 }
+
+@layer components {
+	@media (min-aspect-ratio: 610/866) and (max-width: 1023px) {
+		.namco70-ase-hero {
+			position: relative;
+			overflow: hidden;
+		}
+
+		.namco70-ase-hero .info {
+			background-color: var(--color-namco70-ase-background);
+			position: absolute;
+			bottom: 0;
+			left: 0;
+			width: 100%;
+		}
+	}
+}

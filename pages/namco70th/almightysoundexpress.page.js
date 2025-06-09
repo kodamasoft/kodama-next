@@ -8,6 +8,9 @@ import { useState } from 'react';
 import Information from '../../components/namco70th/almightysoundexpress/information';
 import HrefButton from '../../components/namco70th/href-button';
 import Credit from '../../components/namco70th/almightysoundexpress/credit';
+import cn from '../../lib/cn';
+import Jacket from '../../public/assets/namco70th/almightysoundexpress/jacket.png';
+import Image from 'next/image';
 
 /** @typedef {import('../../components/namco70th/types').SongItem} SongItem */
 
@@ -109,21 +112,38 @@ export default function AlmightySoundExpress() {
 	return (
 		<Layout>
 			<div
-				className="relative"
+				className="relative lg:flex lg:flex-row lg:h-dvh"
 				style={{ '--header-height': '4rem', '--player-height': '4rem' }}
 			>
 				{/* Sticky Header */}
-				<header className="sticky top-0 z-10 h-(--header-height)"></header>
-				<Hero className="h-[calc(100dvh_-_var(--header-height)_-_var(--player-height))]" />
-				<TrackList
-					songList={songList}
-					currentIndex={activeTrackIndex}
-				/>
-				{/* Information Section */}
-				<Information />
-				<Credit />
+				<header className="sticky top-0 z-10 h-(--header-height) lg:w-full lg:fixed"></header>
+				<div
+					className={cn(
+						'flex flex-col overflow-auto lg:w-1/3 xl:w-1/2 lg:min-w-[512px] lg:mt-(--header-height)'
+					)}
+				>
+					<Hero className="h-[calc(100dvh_-_var(--header-height)_-_var(--player-height))]" />
+					<TrackList
+						songList={songList}
+						currentIndex={activeTrackIndex}
+					/>
+					{/* Information Section */}
+					<Information />
+					<Credit />
+				</div>
 
-				<div className="sticky bottom-0 z-10 h-(--player-height) bg-namco70-ase-background">
+				<div
+					className={cn(
+						'sticky bottom-0 z-10 h-(--player-height) bg-namco70-ase-background',
+						'lg:flex lg:flex-col lg:z-0 lg:w-full lg:h-full lg:pt-(--header-height) lg:flex-1'
+					)}
+				>
+					<Image
+						className="w-full h-auto object-cover hidden lg:block"
+						src={Jacket}
+						alt={'Almighty Sound Express'}
+						loading="lazy"
+					/>
 					<MusicPlayer
 						onTrackChange={handleTrackChange}
 						songList={songList}

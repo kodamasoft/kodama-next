@@ -4,14 +4,17 @@ import Jacket from '../../../public/assets/namco70th/almightysoundexpress/jacket
 
 export default function Hero({ className, ...props }) {
 	return (
-		<div className={cn('flex flex-col', className)} {...props}>
+		<div
+			className={cn('flex flex-col namco70-ase-hero', className)}
+			{...props}
+		>
 			<Image
-				className="w-full h-auto object-contain"
+				className="w-full h-auto object-cover lg:hidden"
 				src={Jacket}
 				alt={'Almighty Sound Express'}
 				loading="lazy"
 			/>
-			<div className="flex flex-col py-4 px-2 gap-6">
+			<div className="flex flex-col py-4 px-2 gap-6 info">
 				<div className="flex flex-col">
 					<span className="text-lg">
 						United Tribute Arrange Force
