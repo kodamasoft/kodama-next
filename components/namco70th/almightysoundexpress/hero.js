@@ -9,17 +9,17 @@ export default function Hero({ className, ...props }) {
 			{...props}
 		>
 			<Image
-				className="w-full h-auto object-cover lg:hidden"
+				className="w-full h-auto object-cover lg:hidden overflow-hidden"
 				src={Jacket}
 				alt={'Almighty Sound Express'}
 				loading="lazy"
 			/>
-			<div className="flex flex-col py-4 px-2 gap-6 info">
+			<div className="flex flex-col py-4 px-2 gap-6 info lg:justify-center lg:items-center">
 				<div className="flex flex-col">
-					<span className="text-lg">
+					<span className="text-lg lg:text-xl lg:text-center">
 						United Tribute Arrange Force
 					</span>
-					<span className="text-xs italic">
+					<span className="text-xs italic lg:text-center">
 						Presented by Almighty Arrange Project
 					</span>
 				</div>

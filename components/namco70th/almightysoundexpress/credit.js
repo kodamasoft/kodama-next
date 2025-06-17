@@ -133,9 +133,9 @@ const credits = [
 		],
 	},
 ];
-export default function Credit() {
+export default function Credit({ ...props }) {
 	return (
-		<div className="p-4 flex flex-col gap-8">
+		<div className="p-4 flex flex-col gap-8" {...props}>
 			<div>
 				<h2 className="font-medium text-2xl">Credit</h2>
 			</div>

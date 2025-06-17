@@ -1,6 +1,13 @@
 import Layout from '../../components/namco70th/almightysoundexpress/layout';
 import MusicPlayer from '../../components/namco70th/music-player';
-import { ChevronFirst, ChevronLast, Disc3, Pause, Play } from 'lucide-react';
+import {
+	ChevronFirst,
+	ChevronLast,
+	Disc3,
+	Pause,
+	Play,
+	Menu,
+} from 'lucide-react';
 import SeekBar from '../../components/namco70th/almightysoundexpress/seek-bar';
 import Hero from '../../components/namco70th/almightysoundexpress/hero';
 import TrackList from '../../components/namco70th/almightysoundexpress/track-list';
@@ -11,6 +18,7 @@ import Credit from '../../components/namco70th/almightysoundexpress/credit';
 import cn from '../../lib/cn';
 import Jacket from '../../public/assets/namco70th/almightysoundexpress/jacket.png';
 import Image from 'next/image';
+import ProjectLogo from '../../public/assets/namco70th/common/logo-white.svg';
 
 /** @typedef {import('../../components/namco70th/types').SongItem} SongItem */
 
@@ -104,9 +112,14 @@ const songList = [
 // Should have used a store for tracklist -_-'
 export default function AlmightySoundExpress() {
 	const [activeTrackIndex, setActiveTrackIndex] = useState(0);
+	const [menuOpen, setMenuOpen] = useState(false);
 
 	const handleTrackChange = (index) => {
 		setActiveTrackIndex(index);
+	};
+
+	const toggleMenu = () => {
+		setMenuOpen(!menuOpen);
 	};
 
 	return (
@@ -116,26 +129,105 @@ export default function AlmightySoundExpress() {
 				style={{ '--header-height': '4rem', '--player-height': '4rem' }}
 			>
 				{/* Sticky Header */}
-				<header className="sticky top-0 z-10 h-(--header-height) lg:w-full lg:fixed"></header>
+				<header className="sticky flex justify-between top-0 z-10 h-(--header-height) lg:w-full lg:fixed bg-namco70-ase-background px-4 border-b border-b-namco70-p-stroke/60">
+					<ProjectLogo className="h-full w-auto py-2" />
+
+					<nav className="hidden md:flex items-center gap-6">
+						<a
+							href="#hero"
+							className="hover:text-namco70-ase-accent transition-colors"
+						>
+							Home
+						</a>
+						<a
+							href="#tracks"
+							className="hover:text-namco70-ase-accent transition-colors"
+						>
+							Tracks
+						</a>
+						<a
+							href="#info"
+							className="hover:text-namco70-ase-accent transition-colors"
+						>
+							Information
+						</a>
+						<a
+							href="#credits"
+							className="hover:text-namco70-ase-accent transition-colors"
+						>
+							Credits
+						</a>
+					</nav>
+					<button
+						onClick={toggleMenu}
+						className="md:hidden p-2"
+						aria-label="Toggle menu"
+					>
+						<Menu size={32} />
+
+						{menuOpen && (
+							<div className="absolute top-full left-0 right-0 bg-namco70-ase-background shadow-lg md:hidden">
+								<nav className="flex flex-col">
+									<a
+										href="#hero"
+										className="px-4 py-3 hover:bg-namco70-ase-accent/10"
+										onClick={() => setMenuOpen(false)}
+									>
+										Home
+									</a>
+									<a
+										href="#tracks"
+										className="px-4 py-3 hover:bg-namco70-ase-accent/10"
+										onClick={() => setMenuOpen(false)}
+									>
+										Tracks
+									</a>
+									<a
+										href="#info"
+										className="px-4 py-3 hover:bg-namco70-ase-accent/10"
+										onClick={() => setMenuOpen(false)}
+									>
+										Information
+									</a>
+									<a
+										href="#credits"
+										className="px-4 py-3 hover:bg-namco70-ase-accent/10"
+										onClick={() => setMenuOpen(false)}
+									>
+										Credits
+									</a>
+								</nav>
+							</div>
+						)}
+					</button>
+				</header>
 				<div
 					className={cn(
-						'flex flex-col overflow-auto lg:w-1/3 xl:w-1/2 lg:min-w-[512px] lg:mt-(--header-height)'
+						'flex flex-col lg:order-2 overflow-auto lg:w-1/3 xl:w-1/2 lg:min-w-[512px] lg:mt-(--header-height) transition-[width] duration-500 relative'
 					)}
 				>
-					<Hero className="h-[calc(100dvh_-_var(--header-height)_-_var(--player-height))]" />
+					<Hero
+						id="hero"
+						className={cn(
+							'h-[calc(100dvh_-_var(--header-height)_-_var(--player-height))] -scroll-pt-16 overflow-hidden',
+							'lg:grow lg:shrink-0 lg:h-[calc(100dvh_-_var(--header-height))] lg:justify-center lg:items-center'
+						)}
+					/>
 					<TrackList
+						id="tracks"
 						songList={songList}
 						currentIndex={activeTrackIndex}
 					/>
 					{/* Information Section */}
-					<Information />
-					<Credit />
+					<Information id="info" />
+					<Credit id="credits" />
 				</div>
 
 				<div
 					className={cn(
 						'sticky bottom-0 z-10 h-(--player-height) bg-namco70-ase-background',
-						'lg:flex lg:flex-col lg:z-0 lg:w-full lg:h-full lg:pt-(--header-height) lg:flex-1'
+						'lg:flex lg:flex-col lg:z-0 lg:w-full lg:h-full lg:pt-(--header-height) lg:flex-1 lg:overflow-hidden',
+						'lg:relative lg:order-1'
 					)}
 				>
 					<Image
@@ -148,7 +240,7 @@ export default function AlmightySoundExpress() {
 						onTrackChange={handleTrackChange}
 						songList={songList}
 						href={CROSSFADE_URL}
-						className="flex flex-col h-full"
+						className="flex flex-col h-full player bg-namco70-ase-background lg:h-(--player-height) lg:absolute lg:bottom-0 lg:left-0 lg:w-full"
 					>
 						<SeekBar />
 						<div className="flex items-center justify-between p-2 h-full">

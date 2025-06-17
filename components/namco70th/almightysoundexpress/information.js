@@ -14,9 +14,9 @@ const linkData = [
 	},
 ];
 
-export default function Information() {
+export default function Information({ ...props }) {
 	return (
-		<div className="p-4 flex flex-col gap-8">
+		<div className="p-4 flex flex-col gap-8" {...props}>
 			<div>
 				<h2 className="font-medium text-2xl">Information</h2>
 			</div>
