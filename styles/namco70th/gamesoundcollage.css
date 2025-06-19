@@ -1,0 +1,21 @@
+@theme {
+	--font-namco70--gsc-sans: sans-serif;
+
+	--color-namco70-gsc-background: hsl(0, 0%, 0%);
+	--color-namco70-gsc-foreground: hsl(0, 0%, 100%);
+	--color-namco70-gsc-stroke: hsl(0, 0%, 100%);
+}
+
+@layer components {
+	.bg-namco70-gsc-backdrop {
+		background-image: url('/assets/namco70th/gamesoundcollage/gsc-jacket.png');
+		background-size: cover;
+		background-position: center;
+		background-repeat: no-repeat;
+	}
+
+	.namco70-gsc-container {
+		max-width: 48rem;
+		margin: 0 auto;
+	}
+}

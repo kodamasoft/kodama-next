@@ -5,6 +5,7 @@
 	--color-namco70-ase-foreground: hsl(0, 0%, 100%);
 	--color-namco70-ase-foreground-1: hsl(0, 0%, 0%);
 	--color-namco70-ase-accent: hsl(170, 64%, 55%);
+	--color-namco70-ase-stroke: hsl(0, 0%, 100%);
 
 	--animate-namco70-ase-marquee: marquee 10s linear infinite alternate;
 
