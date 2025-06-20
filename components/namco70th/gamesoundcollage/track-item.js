@@ -13,8 +13,12 @@ export default function TrackItem({
 			{...props}
 		>
 			<div className="flex flex-col flex-1 gap-1">
-				<span className="group-data-active:font-bold">{title}</span>
-				<span className="italic text-sm">{artist}</span>
+				<span className="group-data-active:font-bold group-data-active:text-namco70-gsc-accent">
+					{title}
+				</span>
+				<span className="italic text-sm group-data-active:text-namco70-gsc-accent/80">
+					{artist}
+				</span>
 			</div>
 		</li>
 	);

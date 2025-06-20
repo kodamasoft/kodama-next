@@ -3,7 +3,20 @@
 
 	--color-namco70-gsc-background: hsl(0, 0%, 0%);
 	--color-namco70-gsc-foreground: hsl(0, 0%, 100%);
+	--color-namco70-gsc-accent: hsl(271 91% 65%);
+	--color-namco70-gsc-accent-1: hsl(200 98% 39%);
 	--color-namco70-gsc-stroke: hsl(0, 0%, 100%);
+
+	--animate-namco70-gsc-marquee: marquee 10s linear infinite alternate;
+
+	@keyframes marquee {
+		0% {
+			transform: translateX(0);
+		}
+		100% {
+			transform: translateX(-100%);
+		}
+	}
 }
 
 @layer components {

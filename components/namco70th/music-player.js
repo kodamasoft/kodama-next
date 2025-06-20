@@ -263,3 +263,26 @@ MusicPlayer.Prev = function PrevButton({ children, className }) {
 		</button>
 	);
 };
+
+MusicPlayer.Duration = function MusicPlayerDuration({ className }) {
+	const { duration, progress } = usePlayerContext();
+
+	if (duration === 0) {
+		return null;
+	}
+
+	const totalSeconds = Math.floor(duration);
+	const currentSeconds = Math.floor(duration * progress);
+
+	const formatTime = (seconds) => {
+		const minutes = Math.floor(seconds / 60);
+		const secs = seconds % 60;
+		return `${minutes}:${secs < 10 ? '0' : ''}${secs}`;
+	};
+
+	return (
+		<span className={cn('text-sm', className)}>
+			{formatTime(currentSeconds)} / {formatTime(totalSeconds)}
+		</span>
+	);
+};

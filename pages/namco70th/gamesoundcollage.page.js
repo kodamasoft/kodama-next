@@ -1,10 +1,20 @@
 import Credit from '../../components/namco70th/gamesoundcollage/credit';
+import Hero from '../../components/namco70th/gamesoundcollage/hero';
 import Information from '../../components/namco70th/gamesoundcollage/information';
 import Layout from '../../components/namco70th/gamesoundcollage/layout';
 import TrackList from '../../components/namco70th/gamesoundcollage/track-list';
+import MusicPlayer from '../../components/namco70th/music-player';
 import ProjectLogo from '../../public/assets/namco70th/common/logo-white.svg';
-import { Menu } from 'lucide-react';
+import {
+	Menu,
+	Disc3,
+	ChevronFirst,
+	Play,
+	Pause,
+	ChevronLast,
+} from 'lucide-react';
 import { useState } from 'react';
+import cn from '../../lib/cn';
 
 const songList = [
 	{
@@ -98,8 +108,8 @@ export default function GameSoundCollage() {
 				style={{ '--header-height': '4rem', '--player-height': '4rem' }}
 			>
 				{/* Sticky Header */}
-				<header className="sticky flex justify-between top-0 z-10 h-(--header-height) w-full bg-namco70-gsc-background/80">
-					<ProjectLogo className="h-full w-auto p-4" />
+				<header className="sticky flex justify-between top-0 z-10 h-(--header-height) w-full bg-namco70-gsc-background/80 py-4 items-center">
+					<ProjectLogo className="h-full w-auto px-4" />
 
 					<nav className="hidden md:flex items-center gap-6">
 						<a href="#hero">Home</a>
@@ -150,15 +160,51 @@ export default function GameSoundCollage() {
 						)}
 					</button>
 				</header>
+
 				<div className="namco70-gsc-container bg-namco70-gsc-background/80 flex flex-col gap-8">
+					<Hero id="hero" />
 					<TrackList
 						id="tracks"
 						songList={songList}
 						currentIndex={0}
 					/>
-					<Information />
-					<Credit />
+					<Information id="info" />
+					<Credit id="credit" />
 				</div>
+
+				<MusicPlayer
+					className={cn(
+						'fixed bottom-0 z-10 h-(--player-height) w-full bg-namco70-gsc-background/80 grid grid-cols-[1fr_auto] grid-rows-1',
+						'lg:bg-transparent lg:grid-cols-[auto_1fr_auto]'
+					)}
+				>
+					<div className="flex gap-4 items-center w-full px-2 lg:bg-namco70-gsc-background/80 lg:col-start-1 lg:col-end-1">
+						<Disc3 className="h-4 w-4 shrink-0" />
+						<div className="overflow-hidden">
+							<div className="flex gap-[1ch] items-center whitespace-nowrap animate-namco70-gsc-marquee">
+								<MusicPlayer.Artist />
+								<span>-</span>
+								<MusicPlayer.Title />
+							</div>
+						</div>
+					</div>
+					<div className="flex gap-2 items-center lg:bg-namco70-gsc-background/80 lg:col-start-3 lg:col-end-3 lg:px-4">
+						<MusicPlayer.Duration />
+						<MusicPlayer.Prev>
+							<ChevronFirst className="h-full w-full" />
+						</MusicPlayer.Prev>
+						<MusicPlayer.Play>
+							<Play className="h-full w-full" />
+						</MusicPlayer.Play>
+						<MusicPlayer.Pause>
+							<Pause className="h-full w-full" />
+						</MusicPlayer.Pause>
+
+						<MusicPlayer.Next>
+							<ChevronLast className="h-full w-full" />
+						</MusicPlayer.Next>
+					</div>
+				</MusicPlayer>
 			</div>
 		</Layout>
 	);

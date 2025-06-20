@@ -11,143 +11,57 @@ const credits = [
 	{
 		name: 'ZahranW',
 		role: 'Artist',
-		socials: [
-			{
-				href: 'https://x.com/EhMehShmeh',
-				title: 'X',
-				icon: <SiX size={20} />,
-			},
-			{
-				href: 'soundcloud.com/ehmehshmeh',
-				title: 'SoundCloud',
-				icon: <SiSoundcloud size={20} />,
-			},
-		],
+		socials: [],
 	},
 	{
 		name: 'Kaseboy Advance',
 		role: 'Artist',
-		socials: [
-			{
-				href: 'https://botnit.bandcamp.com/',
-				title: 'Bandcamp',
-				icon: <SiBandcamp size={20} />,
-			},
-		],
+		socials: [],
 	},
 	{
 		name: 'crazygoji',
 		role: 'Artist',
-		socials: [
-			{
-				href: 'https://botnit.bandcamp.com/',
-				title: 'Bandcamp',
-				icon: <SiBandcamp size={20} />,
-			},
-		],
+		socials: [],
 	},
 	{
 		name: 'kpwu',
 		role: 'Artist',
-		socials: [
-			{
-				href: 'https://botnit.bandcamp.com/',
-				title: 'Bandcamp',
-				icon: <SiBandcamp size={20} />,
-			},
-		],
+		socials: [],
 	},
 	{
 		name: 'jaxcheese',
 		role: 'Artist',
-		socials: [
-			{
-				href: 'https://x.com/fusoxide',
-				title: 'X',
-				icon: <SiX size={20} />,
-			},
-			{
-				href: 'https://bsky.app/profile/fusoxide.bsky.social',
-				title: 'Bluesky',
-				icon: <SiBluesky size={20} />,
-			},
-		],
+		socials: [],
 	},
 	{
 		name: 'ScarletLotusProductions',
 		role: 'Artist',
-		socials: [
-			{
-				href: 'https://viravax.bandcamp.com/',
-				title: 'Bandcamp',
-				icon: <SiBandcamp size={20} />,
-			},
-			{
-				href: 'https://soundcloud.com/viravax',
-				title: 'SoundCloud',
-				icon: <SiSoundcloud size={20} />,
-			},
-			{
-				href: 'https://www.youtube.com/channel/UCz7xLF93bFM7OeczJg5uDcQ',
-				title: 'YouTube',
-				icon: <SiYoutube size={20} />,
-			},
-		],
+		socials: [],
 	},
 	{
 		name: 'MasterofDed',
 		role: 'Artist',
-		socials: [
-			{
-				href: 'https://bsky.app/profile/marklincadet.bsky.social',
-				title: 'Bluesky',
-				icon: <SiBluesky size={20} />,
-			},
-		],
+		socials: [],
 	},
 	{
 		name: 'MyuPicks',
 		role: 'Artist',
-		socials: [
-			{
-				href: 'https://bsky.app/profile/marklincadet.bsky.social',
-				title: 'Bluesky',
-				icon: <SiBluesky size={20} />,
-			},
-		],
+		socials: [],
 	},
 	{
 		name: 'Garoslaw',
 		role: 'Artist',
-		socials: [
-			{
-				href: 'https://bsky.app/profile/marklincadet.bsky.social',
-				title: 'Bluesky',
-				icon: <SiBluesky size={20} />,
-			},
-		],
+		socials: [],
 	},
 	{
 		name: 'ehm',
 		role: 'Artist',
-		socials: [
-			{
-				href: 'https://bsky.app/profile/marklincadet.bsky.social',
-				title: 'Bluesky',
-				icon: <SiBluesky size={20} />,
-			},
-		],
+		socials: [],
 	},
 	{
 		name: 'Snuroo',
 		role: 'Artist',
-		socials: [
-			{
-				href: 'https://bsky.app/profile/marklincadet.bsky.social',
-				title: 'Bluesky',
-				icon: <SiBluesky size={20} />,
-			},
-		],
+		socials: [],
 	},
 	{
 		name: '_pulstar',
