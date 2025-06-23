@@ -8,23 +8,31 @@ export default function PortalCard({
 	href,
 	disabled,
 	presentedBy,
+	releasedAt,
 }) {
 	return (
 		<Link
 			href={href}
 			className={cn(
-				'w-full font-namco70-mono',
+				'w-full h-full font-namco70-mono',
 				disabled ? 'pointer-events-none opacity-40' : 'cursor-pointer'
 			)}
 		>
 			<div
 				className={cn(
-					'w-full border-3 border-namco70-p-stroke',
+					'w-full h-full border-3 border-namco70-p-stroke grid grid-cols-1  grid-rows-[auto_auto_1fr]',
 					!disabled && 'hover:border-namco70-p-stroke-focused'
 				)}
 			>
-				<div className="flex flex-col items-center justify-center w-full h-full bg-namco70-p-background text-lg lg:text-xl text-namco70-p-foreground p-2 lg:p-3">
-					<span>Presented by {presentedBy}</span>
+				<div className="flex flex-col items-center w-full h-full bg-namco70-p-background text-lg lg:text-xl text-namco70-p-foreground p-2 lg:p-3">
+					<span className="text-center">
+						Presented by {presentedBy}
+					</span>
+					{releasedAt && (
+						<span className="text-namco70-p-foreground/60">
+							Released at {releasedAt}
+						</span>
+					)}
 				</div>
 				{/* Cover image */}
 				<div className="relative w-full h-20 lg:h-32 px-4 py-2">

@@ -8,6 +8,7 @@
 		"lint:fix": "eslint --fix ."
 	},
 	"dependencies": {
+		"@gsap/react": "^2.1.2",
 		"@hackernoon/pixel-icon-library": "^1.0.5",
 		"@headlessui/react": "^1.7.4",
 		"@headlessui/tailwindcss": "^0.1.1",

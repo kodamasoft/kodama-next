@@ -7,26 +7,31 @@ import cn from '../lib/cn';
 import PortalHeader from '../components/namco70th/portal/portal-header';
 import { useMemo, useState, useEffect } from 'react';
 import PortalPagination from '../components/namco70th/portal/pagination';
+import PortalEntrance from '../components/namco70th/portal/entrance';
 
 const projectInfos = [
 	{
 		name: 'Almighty Sound Express',
 		image: ASELogo,
 		href: '/namco70th/almightysoundexpress',
+		releasedAt: '2025.06.01',
 		presentedBy: 'Almighty Arrange Project',
 		isDisabled: false,
 	},
 	{
 		name: 'Game Sound Collage',
 		image: GSCLogo,
-		presentedBy: 'Team Name',
+		presentedBy: 'PxTunes',
+		releasedAt: '2025.06.01',
+
 		href: '/namco70th/gamesoundcollage',
 		isDisabled: false,
 	},
 	{
-		name: '?????????',
+		name: 'Tekken: The Iron Fist Tributes',
 		image: '',
-		presentedBy: 'Team Name',
+		releasedAt: '2025.06.27',
+		presentedBy: 'Presented by Technomarina',
 		href: '/namco70th/almightysoundexpress',
 		isDisabled: true,
 	},
@@ -81,6 +86,7 @@ export default function Discography() {
 	const totalPages = Math.ceil(projectInfos.length / cardsPerPage);
 	const [isDesktop, setIsDesktop] = useState(false);
 	const [isShort, setIsShort] = useState(false);
+	const [isEntranceVisible, setEntranceVisibility] = useState(true);
 
 	useEffect(() => {
 		// Hopefully no rebound won't lag this out
@@ -110,19 +116,35 @@ export default function Discography() {
 		setCurrentPage((prev) => Math.max(prev - 1, 1));
 	};
 
+	const handleEntranceClick = () => {
+		setEntranceVisibility(false);
+	};
+
 	return (
 		<>
 			<Layout>
 				<Head>
 					<title>Namco 70th Anniversary</title>
 				</Head>
-				<div className="w-full h-full">
+				<PortalEntrance
+					className={cn(
+						'absolute z-10 opacity-100 transition-opacity duration-500',
+						!isEntranceVisible && 'opacity-0 pointer-events-none'
+					)}
+					onClick={handleEntranceClick}
+				/>
+				<div
+					className={cn(
+						'w-full h-full flex flex-col',
+						isEntranceVisible && 'hidden'
+					)}
+				>
 					<PortalHeader />
 					<div
 						className={cn(
 							'flex flex-col items-center h-full w-full px-4 gap-4',
-							'sm:grid sm:grid-cols-2',
-							'lg:grid-cols-3 lg:grid-rows-2 lg:gap-y-6 lg:p-8'
+							'md:grid md:grid-cols-2',
+							'xl:grid-cols-3 xl:grid-rows-2 xl:gap-y-6 xl:p-8'
 						)}
 					>
 						{/* Album container */}
@@ -131,6 +153,7 @@ export default function Discography() {
 								key={index}
 								presentedBy={projectInfo.presentedBy}
 								name={projectInfo.name}
+								releasedAt={projectInfo.releasedAt}
 								image={projectInfo.image}
 								href={projectInfo.href}
 								disabled={projectInfo.isDisabled}
@@ -140,7 +163,7 @@ export default function Discography() {
 					<PortalPagination
 						onPageForward={goToNextPage}
 						onPageBackward={goToPrevPage}
-						className="hidden h-full lg:flex justify-center items-center my-[min(2rem,_3vh)]"
+						className="hidden lg:flex justify-center items-center my-[min(2rem,_3vh)]"
 						page={currentPage}
 						totalPages={totalPages}
 					/>
