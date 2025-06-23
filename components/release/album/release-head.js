@@ -1,7 +1,6 @@
 import Image from 'next/image';
 import useTranslation from 'next-translate/useTranslation';
 import ReleaseNav from './release-nav';
-import styles from './release-head.module.css';
 
 export default function ReleaseHead({
 	slug,
@@ -23,33 +22,19 @@ export default function ReleaseHead({
 								alt="Background"
 								fill={true}
 								quality={20}
-								style={{
-									zIndex: '2',
-									objectFit: 'cover',
-									filter: 'blur(25px) brightness(0.5)',
-									maskImage:
-										'linear-gradient(to bottom, rgba(0, 0, 0, 1) 90%, rgba(0, 0, 0, 0) 100%)',
-									WebkitMaskImage:
-										'linear-gradient(to bottom, rgba(0, 0, 0, 1) 90%, rgba(0, 0, 0, 0) 100%)',
-								}}
+								className="z-2 object-cover blur-[25px] brightness-50 mask-linear-180 mask-linear-from-[90%] mask-linear-to-[100%]"
+
 							/>
 						)}
 						{background.video && (
 							//  div with fadeout mask on the bottom
 							<video
-								className="w-full h-full object-cover object-center absolute top-0 left-0 z-0"
+								className="w-full h-full object-cover object-center absolute top-0 left-0 z-3 mask-linear-180 mask-linear-from-[90%] mask-linear-to-[100%]"
 								autoPlay
 								loop
 								muted
 								plays
 								src={background.video}
-								style={{
-									zIndex: '3',
-									maskImage:
-										'linear-gradient(to bottom, rgba(0, 0, 0, 1) 90%, rgba(0, 0, 0, 0) 100%)',
-									WebkitMaskImage:
-										'linear-gradient(to bottom, rgba(0, 0, 0, 1) 90%, rgba(0, 0, 0, 0) 100%)',
-								}}
 							></video>
 						)}
 
@@ -61,11 +46,8 @@ export default function ReleaseHead({
 									height="340"
 									width="1000"
 									alt="Logo"
-									className="object-contain object-center p-6 md:relative -top-14 w-[1000px] h-[500px] max-w-full mx-auto"
+									className="object-contain object-center p-6 md:relative -top-14 w-[1000px] h-[500px] max-w-full mx-auto drop-shadow-[0_0_5px_rgba(0,0,0,0.75)]"
 									quality={100}
-									style={{
-										filter: 'drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.75))',
-									}}
 								/>
 							</div>
 						</div>
