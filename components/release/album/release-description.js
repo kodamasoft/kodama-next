@@ -15,11 +15,7 @@ function DtKodama({ children }) {
 }
 
 function DdKodama({ children }) {
-	return (
-		<dd className="relative mb-8">
-			{children}
-		</dd>
-	);
+	return <dd className="relative mb-8">{children}</dd>;
 }
 
 export default function ReleaseDescription({
@@ -72,7 +68,10 @@ export default function ReleaseDescription({
 
 				<DtKodama>{t('circle')}</DtKodama>
 				<DdKodama>
-					<Link href={circle.link} className="hover:underline hover:underline-offset-1 focus:underline focus:underline-offset-1 text-[color:var(--release-color)]">
+					<Link
+						href={circle.link}
+						className="hover:underline hover:underline-offset-1 focus:underline focus:underline-offset-1 text-[color:var(--release-color)]"
+					>
 						{circle.name}
 					</Link>
 				</DdKodama>
@@ -96,7 +95,10 @@ export default function ReleaseDescription({
 						{Object.entries(store).map((storeItem) => {
 							return (
 								<li key={storeItem[0]} className="list-item">
-									<Link href={storeItem[1].link} className="hover:underline hover:underline-offset-1 focus:underline focus:underline-offset-1 text-[color:var(--release-color)]">
+									<Link
+										href={storeItem[1].link}
+										className="hover:underline hover:underline-offset-1 focus:underline focus:underline-offset-1 text-[color:var(--release-color)]"
+									>
 										{storeItem[1].name}
 									</Link>
 								</li>

@@ -23,7 +23,6 @@ export default function ReleaseHead({
 								fill={true}
 								quality={20}
 								className="z-2 object-cover blur-[25px] brightness-50 mask-linear-180 mask-linear-from-[90%] mask-linear-to-[100%]"
-
 							/>
 						)}
 						{background.video && (
