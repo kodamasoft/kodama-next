@@ -1,6 +1,5 @@
 import {
 	SiBandcamp,
-	SiBluesky,
 	SiCarrd,
 	SiSoundcloud,
 	SiX,

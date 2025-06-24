@@ -32,8 +32,8 @@ const projectInfos = [
 		image: '',
 		releasedAt: '2025.06.27',
 		presentedBy: 'Presented by Technomarina',
-		href: '/namco70th/almightysoundexpress',
-		isDisabled: true,
+		href: '/namco70th/ironfist',
+		isDisabled: false,
 	},
 	{
 		name: '?????????',

@@ -1,0 +1,25 @@
+@theme {
+	--font-namco70-if-sans: sans-serif;
+	--font-namco70-if-serif: '--font-garamond', serif;
+
+	--color-namco-70-if-background: hsl(291, 60%, 74%);
+
+	--animate-namco70-if-marquee: marquee 10s linear infinite alternate;
+
+	@keyframes marquee {
+		0% {
+			transform: translateX(0);
+		}
+		100% {
+			transform: translateX(-100%);
+		}
+	}
+}
+
+@layer components {
+	.bg-namco70-if-hero-background {
+		background-image: url('/assets/namco70th/ironfist/if-hero-bg.png');
+		background-size: cover;
+		background-position: bottom center;
+	}
+}
