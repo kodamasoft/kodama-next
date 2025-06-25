@@ -231,7 +231,7 @@ export default function AlmightySoundExpress() {
 					)}
 				>
 					<Image
-						className="w-full h-auto object-cover hidden lg:block"
+						className="w-full h-auto object-cover hidden lg:block lg:shrink-0"
 						src={Jacket}
 						alt={'Almighty Sound Express'}
 						loading="lazy"

@@ -16,14 +16,16 @@ export default function Hero({ className, ...props }) {
 			/>
 			<div className="flex flex-col py-4 px-2 gap-6 info lg:justify-center lg:items-center">
 				<div className="flex flex-col">
-					<span className="text-lg lg:text-xl lg:text-center">
+					<span className="text-lg lg:text-xl lg:text-center xl:text-2xl">
 						United Tribute Arrange Force
 					</span>
-					<span className="text-xs italic lg:text-center">
+					<span className="text-xs italic lg:text-center xl:text-xl">
 						Presented by Almighty Arrange Project
 					</span>
 				</div>
-				<h1 className="text-2xl font-bold">Almighty Sound Express</h1>
+				<h1 className="text-2xl font-bold lg:text-[2.5vw] ">
+					Almighty Sound Express
+				</h1>
 			</div>
 		</div>
 	);
