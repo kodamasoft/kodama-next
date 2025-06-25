@@ -9,7 +9,7 @@ const c_garamond = Cormorant_Garamond({
 export default function Layout({ children }) {
 	return (
 		<div className={`${c_garamond.className} font-namco70-if-serif`}>
-			<div className="min-h-screen bg-namco-70-if-background">
+			<div className="min-h-screen bg-namco70-if-background">
 				<main>{children}</main>
 			</div>
 		</div>

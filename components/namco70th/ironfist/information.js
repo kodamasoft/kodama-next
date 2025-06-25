@@ -1,6 +1,6 @@
 import HrefButton from '../href-button';
 import Image from 'next/image';
-import Jacket from '../../../public/assets/namco70th/gamesoundcollage/gsc-jacket.png';
+import Jacket from '../../../public/assets/namco70th/ironfist/if-jacket.webp';
 import { Calendar, User } from 'lucide-react';
 
 const linkData = [
@@ -16,38 +16,41 @@ const linkData = [
 
 export default function Information({ ...props }) {
 	return (
-		<div className="p-4 flex flex-col gap-8" {...props}>
-			<div>
+		<div
+			className="p-4 flex flex-col gap-8 lg:grid lg:grid-cols-2"
+			{...props}
+		>
+			<div class="lg:row-start-1 col-span-2">
 				<h2 className="font-medium text-2xl">Information</h2>
 			</div>
-			<div className="w-full">
+			<div className="w-full lg:col-start-1">
 				<Image
 					className="w-full h-auto object-contain rounded-lg"
 					src={Jacket}
-					alt={'Game Sound Collage'}
+					alt={'Almighty Sound Express'}
 					loading="lazy"
 				/>
 			</div>
-			<div className="flex flex-col gap-4">
+			<div className="flex flex-col gap-4 lg:col-start-2 lg:row-start-2">
 				<h3 className="font-bold text-2xl col-span-2 text-uppercase">
-					Game Sound Collage
+					Tekken: The Iron Fist Tributes
 				</h3>
 				<div className="flex gap-2 flex-wrap">
 					<div className="flex items-center gap-2 mr-8">
 						<User className="h-4 w-4" />
 						<span className="text-sm whitespace-nowrap">
-							PXTunes
+							Technomarina
 						</span>
 					</div>
 					<div className="flex items-center gap-2">
 						<Calendar className="h-4 w-4" />
 						<span className="text-sm whitespace-nowrap">
-							2025.06.01
+							2025.06.27
 						</span>
 					</div>
 				</div>
 			</div>
-			<div className="flex flex-col gap-4">
+			<div className="flex flex-col gap-4 lg:col-start-2 row-start-3">
 				{linkData.map((link) => (
 					<HrefButton key={link.title} {...link} variant="gsc" />
 				))}
