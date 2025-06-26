@@ -18,7 +18,7 @@ export default function CreditItem({
 									className="flex gap-2 opacity-60 hover:opacity-100 transition-opacity duration-200"
 									target="_blank"
 									rel="noopener noreferrer"
-									href={social.href}
+									href={social.href || ''}
 									aria-label={social.title}
 								>
 									{social.icon}

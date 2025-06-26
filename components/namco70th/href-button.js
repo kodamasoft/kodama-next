@@ -10,6 +10,7 @@ const buttonVariant = cva(
 				default: 'text-white bg-black hover:text-black hover:bg-white',
 				ase: 'bg-namco70-ase-background text-namco70-ase-foreground hover:bg-namco70-ase-accent hover:text-namco70-ase-foreground-1 border-namco70-ase-stroke rounded-lg border hover:border-namco70-ase-accent uppercase font-medium',
 				gsc: 'border border-namco70-gsc-stroke',
+				if: 'border border-namco70-if-stroke text-lg bg-namco70-if-foreground/20',
 			},
 		},
 		defaultVariants: {

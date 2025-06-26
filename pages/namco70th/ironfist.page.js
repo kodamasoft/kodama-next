@@ -1,14 +1,103 @@
-import Information from '../../components/namco70th/ironfist/information';
-import Hero from '../../components/namco70th/ironfist/hero';
 import Layout from '../../components/namco70th/ironfist/layout';
+import { useState } from 'react';
+import Image from 'next/image';
+import Hero from '../../components/namco70th/ironfist/hero';
+import Information from '../../components/namco70th/ironfist/information';
 import TrackList from '../../components/namco70th/ironfist/track-list';
 import Credit from '../../components/namco70th/ironfist/credit';
-import ProjectLogo from '../../public/assets/namco70th/common/logo-white.svg';
-import { useState } from 'react';
-import { Menu } from 'lucide-react';
-import cn from '../../lib/cn';
-
-const songList = [];
+import HeaderInfo from '../../components/namco70th/ironfist/header-info';
+const songList = [
+	{
+		title: 'Push Start to Tekken',
+		artist: 'Erika Rivers',
+		startAt: 0, // 0:00
+	},
+	{
+		title: 'Black Winter Night Sky',
+		artist: 'Shapeless Cube',
+		startAt: 30, // 0:30
+	},
+	{
+		title: 'THEME OF JIN',
+		artist: 'Splurgy',
+		startAt: 60, // 1:00
+	},
+	{
+		title: 'Your Sunrise',
+		artist: 'Gajrio',
+		startAt: 90, // 1:30
+	},
+	{
+		title: 'Jun Dimension',
+		artist: 'Griffin P. Breshears',
+		startAt: 120, // 2:00
+	},
+	{
+		title: 'Resolution of the Yoshimitsu Lineage',
+		artist: 'ANGELWHISPER',
+		startAt: 150, // 2:30
+	},
+	{
+		title: 'Moonlit Wilderness (C352 Version)',
+		artist: 'A M 4 N',
+		startAt: 180, // 3:00
+	},
+	{
+		title: 'Mystic Force (Abandoned Station Mix)',
+		artist: 'ANGELWHISPER',
+		startAt: 210, // 3:30
+	},
+	{
+		title: 'THE ULTIMATE TOUCH',
+		artist: 'Lisui',
+		startAt: 240, // 4:00
+	},
+	{
+		title: 'Lotus Temple',
+		artist: 'fusoxide',
+		startAt: 270, // 4:30
+	},
+	{
+		title: 'Lavender Palace',
+		artist: 'Robyn A1200',
+		startAt: 300, // 5:00
+	},
+	{
+		title: 'What You Will See -Purgatory-',
+		artist: 'ANGELWHISPER',
+		startAt: 330, // 5:30
+	},
+	{
+		title: 'Boundless Blue',
+		artist: 'Monochrome',
+		startAt: 360, // 6:00
+	},
+	{
+		title: 'Poolside Memories',
+		artist: 'Raphtalix',
+		startAt: 390, // 6:30
+	},
+	{
+		title: "Isn't It Past Your Bedtime?",
+		artist: 'Junacious',
+		startAt: 420, // 7:00
+	},
+	{
+		title: 'plot sin(x+4)',
+		artist: 'Viravax',
+		startAt: 450, // 7:30
+	},
+	{
+		title: 'Dead Person ~ Yoshimitsu',
+		artist: 'Dead Person ~ ANGELWHISPER',
+		startAt: 480, // 8:00
+	},
+	{
+		title: 'Iron: Combot Evolved',
+		artist: 'fusoxide',
+		startAt: 510, // 8:30
+	},
+];
 
 export default function IronFist() {
 	const [menuOpen, setMenuOpen] = useState(false);
@@ -18,72 +107,20 @@ export default function IronFist() {
 	};
 	return (
 		<Layout>
-			<div className="relative lg:flex lg:h-dvh namco70-if-header-height">
-				<header
-					className={cn(
-						'sticky flex justify-between top-0 z-10 h-(--header-height) w-full bg-namco70-if-accent py-4 items-center',
-						'lg:static lg:h-full lg:w-(--header-height) lg:left-0 lg:flex-col'
-					)}
-				>
-					<ProjectLogo className="h-full w-auto px-4 lg:py-4 lg:px-0 lg:h-auto lg:w-full lg:rotate-270" />
-
-					<nav className="hidden md:flex items-center gap-6 lg:grow namco70-if-vertical-text lg:text-lg">
-						<a href="#hero">Home</a>
-						<a href="#tracks">Tracks</a>
-						<a href="#info">Information</a>
-						<a href="#credits">Credits</a>
-					</nav>
-					<button
-						onClick={toggleMenu}
-						className="md:hidden p-2"
-						aria-label="Toggle menu"
-					>
-						<Menu size={32} />
-
-						{menuOpen && (
-							<div className="absolute top-full left-0 right-0 bg-namco70-if-accent shadow-lg md:hidden">
-								<nav className="flex flex-col">
-									<a
-										href="#hero"
-										className="px-4 py-3 hover:bg-namco70-if-accent"
-										onClick={() => setMenuOpen(false)}
-									>
-										Home
-									</a>
-									<a
-										href="#tracks"
-										className="px-4 py-3 hover:bg-namco70-ase-accent/10"
-										onClick={() => setMenuOpen(false)}
-									>
-										Tracks
-									</a>
-									<a
-										href="#info"
-										className="px-4 py-3 hover:bg-namco70-ase-accent/10"
-										onClick={() => setMenuOpen(false)}
-									>
-										Information
-									</a>
-									<a
-										href="#credits"
-										className="px-4 py-3 hover:bg-namco70-ase-accent/10"
-										onClick={() => setMenuOpen(false)}
-									>
-										Credits
-									</a>
-								</nav>
-							</div>
-						)}
-					</button>
-				</header>
-				<div className="flex flex-col overflow-auto lg:grow">
-					<Hero className="overflow-hidden lg:overflow-visible max-h-dvh lg:w-full lg:h-[80vh]" />
-					<TrackList
-						id="tracks"
-						songList={songList}
-						currentIndex={0}
-					/>
+			<div className="lg:hidden">
+				<Hero />
+				<Information />
+				<TrackList songList={songList} />
+				<Credit />
+			</div>
+			<div className="hidden lg:grid lg:grid-cols-[1fr_2fr]">
+				<div className="flex flex-col gap-4 col-start-1">
+					<Hero />
 					<Information />
+				</div>
+				<div className="flex flex-col col-start-2">
+					<HeaderInfo className="p-4" />
+					<TrackList songList={songList} />
 					<Credit />
 				</div>
 			</div>

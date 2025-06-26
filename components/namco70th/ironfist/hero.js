@@ -1,29 +1,17 @@
 import cn from '../../../lib/cn';
-import Character from '../../../public/assets/namco70th/ironfist/if-hero-char.png';
+import Jacket from '../../../public/assets/namco70th/ironfist/if-jacket.webp';
 import Image from 'next/image';
+import HeaderInfo from './header-info';
 export default function Hero({ className, ...props }) {
 	return (
-		<div
-			className={cn(
-				'bg-namco70-if-hero-background h-full lg:flex flex-row justify-center',
-				className
-			)}
-			{...props}
-		>
-			<div className="flex flex-col font-medium px-6 py-4 lg:self-center justify-center lg:translate-y-1/2 lg:translate-x-1/4">
-				<h1 className="text-base drop-shadow-xs md:text-3xl xl:text-4xl md:drop-shadow-md">
-					Tekken: The Iron Fist Tributes
-				</h1>
-				<span className="text-sm drop-shadow-xs md:text-base xl:text-xl md:drop-shadow-md lg:whitespace-nowrap">
-					an arrange album of music from Tekken games
-				</span>
-			</div>
+		<div className={cn('flex flex-col gap-4 p-4', className)} {...props}>
 			<Image
-				src={Character}
-				role="presentation"
-				className="w-auto h-auto max-h-[90vh] object-contain m-auto lg:m-0 lg:w-max aspect-square"
-				alt="Character"
+				alt="Iron Fist Jacket"
+				src={Jacket}
+				className="w-full h-auto object-contain rounded-lg"
+				loading="eager"
 			/>
+			<HeaderInfo className="lg:hidden" />
 		</div>
 	);
 }

@@ -9,158 +9,80 @@ import CreditItem from './credit-item';
 import { Globe } from 'lucide-react';
 
 const credits = [
+	// Production Team
 	{
-		name: 'ZahranW',
+		name: 'fusoxide',
+		role: 'Director & Producer',
+		socials: [],
+	},
+	{
+		name: 'Lisui',
+		role: 'Cover Art',
+		socials: [],
+	},
+	{
+		name: 'Erika Rivers',
+		role: 'Logo & Artist',
+		socials: [],
+	},
+
+	// Artists
+	{
+		name: 'Shapeless Cube',
 		role: 'Artist',
-		socials: [
-			{
-				href: 'youtube.com/@ZahranW',
-				title: 'YouTube',
-				icon: <SiYoutube size={20} />,
-			},
-		],
+		socials: [],
 	},
 	{
-		name: 'Kaseboy Advance',
+		name: 'Splurgy',
 		role: 'Artist',
-		socials: [
-			{
-				href: 'kaseboy-advance.bandcamp.com',
-				title: 'Bandcamp',
-				icon: <SiBandcamp size={20} />,
-			},
-			{
-				href: 'soundcloud.com/kaseboy_advance',
-				title: 'SoundCloud',
-				icon: <SiSoundcloud size={20} />,
-			},
-		],
+		socials: [],
 	},
 	{
-		name: 'crazygoji',
+		name: 'Gajrio',
 		role: 'Artist',
-		socials: [
-			{
-				href: 'crazygoji.bandcamp.com',
-				title: 'Bandcamp',
-				icon: <SiBandcamp size={20} />,
-			},
-		],
+		socials: [],
 	},
 	{
-		name: 'kpwu',
+		name: 'Griffin P. Breshears',
 		role: 'Artist',
-		socials: [
-			{
-				href: 'kpwu.observer',
-				title: 'Personal Website',
-				icon: <Globe size={20} />,
-			},
-		],
+		socials: [],
 	},
 	{
-		name: 'jaxcheese',
+		name: 'ANGELWHISPER',
 		role: 'Artist',
-		socials: [
-			{
-				href: 'jaxcheese.bandcamp.com',
-				title: 'Bandcamp',
-				icon: <SiBandcamp size={20} />,
-			},
-			{
-				href: 'jaxcheese.net',
-				title: 'Personal Website',
-				icon: <Globe size={20} />,
-			},
-		],
+		socials: [],
 	},
 	{
-		name: 'ScarletLotusProductions',
+		name: 'A M 4 N',
 		role: 'Artist',
-		socials: [
-			{
-				href: 'scarletlotus.carrd.co',
-				title: 'Carrd',
-				icon: <SiCarrd size={20} />,
-			},
-		],
+		socials: [],
 	},
 	{
-		name: 'MasterofDed',
+		name: 'Robyn A1200',
 		role: 'Artist',
-		socials: [
-			{
-				href: 'ptweb.me/profile/688',
-				title: 'PxTune Web Profile',
-				icon: <Globe size={20} />,
-			},
-		],
+		socials: [],
 	},
 	{
-		name: 'MyuPicks',
+		name: 'Monochrome',
 		role: 'Artist',
-		socials: [
-			{
-				href: 'soundcloud.com/musicalpixels',
-				title: 'SoundCloud',
-				icon: <SiSoundcloud size={20} />,
-			},
-			{
-				href: 'ptweb.me/profile/483',
-				title: 'PxTune Web Profile',
-				icon: <Globe size={20} />,
-			},
-		],
+		socials: [],
 	},
 	{
-		name: 'Garoslaw',
+		name: 'junacious',
 		role: 'Artist',
-		socials: [
-			{
-				href: 'soundcloud.com/garoslaw',
-				title: 'SoundCloud',
-				icon: <SiSoundcloud size={20} />,
-			},
-		],
+		socials: [],
 	},
 	{
-		name: 'ehm',
+		name: 'Viravax',
 		role: 'Artist',
-		socials: [
-			{
-				href: 'soundcloud.com/ehmehshmeh',
-				title: 'SoundCloud',
-				icon: <SiSoundcloud size={20} />,
-			},
-			{
-				href: 'ptweb.me/profile/482',
-				title: 'PxTune Web Profile',
-				icon: <Globe size={20} />,
-			},
-		],
+		socials: [],
 	},
 	{
-		name: 'Snuroo',
+		name: 'Dead Person ~ ANGELWHISPER',
 		role: 'Artist',
-		socials: [
-			{
-				href: 'youtube.com/@snuroo_CK',
-				title: 'YouTube',
-				icon: <SiYoutube size={20} />,
-			},
-		],
+		socials: [],
 	},
-	{
-		name: 'TiffanyHeat',
-		role: 'Design',
-		socials: [
-			{
-				href: 'https://spacehey.com/tiffanyneat',
-				title: 'SpaceHey',
-				icon: <Globe size={20} />,
-			},
-		],
-	},
+
 	{
 		name: 'Banbeucmas',
 		role: 'Web Design',
@@ -183,7 +105,7 @@ export default function Credit({ ...props }) {
 	return (
 		<div className="p-4 flex flex-col gap-4" {...props}>
 			<div>
-				<h2 className="font-medium text-2xl">Credit</h2>
+				<h2 className="font-bold text-3xl">Credit</h2>
 			</div>
 			<div className="flex flex-col">
 				{credits.map((credit) => (

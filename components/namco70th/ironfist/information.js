@@ -16,43 +16,23 @@ const linkData = [
 
 export default function Information({ ...props }) {
 	return (
-		<div
-			className="p-4 flex flex-col gap-8 lg:grid lg:grid-cols-2"
-			{...props}
-		>
-			<div class="lg:row-start-1 col-span-2">
-				<h2 className="font-medium text-2xl">Information</h2>
+		<div className="p-4 flex flex-col gap-6" {...props}>
+			<div className="flex gap-2 items-center">
+				<h1 className="text-3xl font-bold">Information</h1>
+				<div className="h-0.5 w-full bg-namco70-if-foreground/60" />
 			</div>
-			<div className="w-full lg:col-start-1">
-				<Image
-					className="w-full h-auto object-contain rounded-lg"
-					src={Jacket}
-					alt={'Almighty Sound Express'}
-					loading="lazy"
-				/>
+			<div>
+				<h2 className="opacity-60">Total songs</h2>
+				<p className="text-xl">18</p>
 			</div>
-			<div className="flex flex-col gap-4 lg:col-start-2 lg:row-start-2">
-				<h3 className="font-bold text-2xl col-span-2 text-uppercase">
-					Tekken: The Iron Fist Tributes
-				</h3>
-				<div className="flex gap-2 flex-wrap">
-					<div className="flex items-center gap-2 mr-8">
-						<User className="h-4 w-4" />
-						<span className="text-sm whitespace-nowrap">
-							Technomarina
-						</span>
-					</div>
-					<div className="flex items-center gap-2">
-						<Calendar className="h-4 w-4" />
-						<span className="text-sm whitespace-nowrap">
-							2025.06.27
-						</span>
-					</div>
-				</div>
+			<div>
+				<h2 className="opacity-60">Release date</h2>
+				<p className="text-xl">2025.06.27</p>
 			</div>
-			<div className="flex flex-col gap-4 lg:col-start-2 row-start-3">
+
+			<div className="flex flex-col gap-4">
 				{linkData.map((link) => (
-					<HrefButton key={link.title} {...link} variant="gsc" />
+					<HrefButton key={link.title} {...link} variant="if" />
 				))}
 			</div>
 		</div>
