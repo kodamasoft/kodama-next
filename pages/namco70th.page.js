@@ -3,6 +3,7 @@ import Layout from '../components/namco70th/portal/layout';
 import PortalCard from '../components/namco70th/portal/portal-card';
 import ASELogo from '/public/assets/namco70th/almightysoundexpress/ase-logo.webp';
 import GSCLogo from '/public/assets/namco70th/gamesoundcollage/gsc-logo.png';
+import IFLogo from '/public/assets/namco70th/ironfist/if-logo.png';
 import cn from '../lib/cn';
 import PortalHeader from '../components/namco70th/portal/portal-header';
 import { useMemo, useState, useEffect } from 'react';
@@ -29,7 +30,7 @@ const projectInfos = [
 	},
 	{
 		name: 'Tekken: The Iron Fist Tributes',
-		image: '',
+		image: IFLogo,
 		releasedAt: '2025.06.27',
 		presentedBy: 'Presented by Technomarina',
 		href: '/namco70th/ironfist',

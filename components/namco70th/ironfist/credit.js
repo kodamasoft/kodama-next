@@ -103,9 +103,9 @@ const credits = [
 ];
 export default function Credit({ ...props }) {
 	return (
-		<div className="p-4 flex flex-col gap-4" {...props}>
+		<div className="p-4 flex flex-col gap-4.5" {...props}>
 			<div>
-				<h2 className="font-bold text-3xl">Credit</h2>
+				<h2 className="font-bold text-3xl sm:text-4xl">Credit</h2>
 			</div>
 			<div className="flex flex-col">
 				{credits.map((credit) => (

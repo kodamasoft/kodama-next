@@ -8,9 +8,12 @@ export default function TrackList({
 	...props
 }) {
 	return (
-		<div className={cn('p-4 flex flex-col gap-8', className)} {...props}>
+		<div
+			className={cn('p-4 flex flex-col gap-4.5 sm:gap-6', className)}
+			{...props}
+		>
 			<div>
-				<h1 className="text-3xl font-bold">Track List</h1>
+				<h1 className="text-3xl sm:text-4xl font-bold">Track List</h1>
 			</div>
 			<ul className="flex flex-col gap-4">
 				{songList.map((track, index) => {

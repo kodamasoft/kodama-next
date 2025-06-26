@@ -9,14 +9,14 @@ export default function HeaderInfo({ className, ...props }) {
 				src={Logo}
 				className="h-full w-auto object-contain lg:hidden"
 			/>
-			<div className="flex flex-col justify-between">
-				<div className="flex flex-col text-lg font-semibold">
+			<div className="flex flex-col justify-between lg:gap-6">
+				<div className="flex flex-col text-lg sm:text-2xl font-semibold">
 					<span>Technomarina</span>
-					<span className="text-xl">
+					<span className="text-xl sm:text-4xl">
 						Tekken: The Iron Fist Tributes
 					</span>
 				</div>
-				<span className="text-base opacity-80">
+				<span className="text-base sm:text-lg opacity-80">
 					A Tekken arrange album
 				</span>
 			</div>

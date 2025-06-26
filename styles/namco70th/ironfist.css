@@ -2,9 +2,11 @@
 	--font-namco70-if-sans: sans-serif;
 	--font-namco70-if-serif: '--font-garamond', serif;
 
-	--color-namco70-if-background: hsl(291, 60%, 59%);
+	--color-namco70-if-background: hsl(291, 60%, 35%);
 	--color-namco70-if-foreground: hsl(0, 0%, 100%);
 	--color-namco70-if-accent: hsl(291, 60%, 60%);
+	--color-namco70-if-accent-2: hsl(276, 51%, 39%);
+	--color-namco70-if-stroke: hsl(0, 0%, 100%);
 
 	--animate-namco70-if-marquee: marquee 10s linear infinite alternate;
 
@@ -38,7 +40,7 @@
 
 	@media screen and (min-width: 64rem) {
 		.namco70-if-header-height {
-			--header-height: 6rem;
+			--header-height: 5rem;
 		}
 	}
 }

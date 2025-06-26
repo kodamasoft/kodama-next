@@ -1,6 +1,7 @@
 import Layout from '../../components/namco70th/ironfist/layout';
 import { useState } from 'react';
 import Image from 'next/image';
+import ProjectLogo from '../../public/assets/namco70th/common/logo-white.svg';
 import Hero from '../../components/namco70th/ironfist/hero';
 import Information from '../../components/namco70th/ironfist/information';
 import TrackList from '../../components/namco70th/ironfist/track-list';
@@ -107,21 +108,27 @@ export default function IronFist() {
 	};
 	return (
 		<Layout>
-			<div className="lg:hidden">
-				<Hero />
-				<Information />
-				<TrackList songList={songList} />
-				<Credit />
-			</div>
-			<div className="hidden lg:grid lg:grid-cols-[1fr_2fr]">
-				<div className="flex flex-col gap-4 col-start-1">
+			<div className="namco70-if-header-height">
+				<header className="sticky flex justify-between top-0 z-10 h-(--header-height) w-full bg-namco70-if-accent-2 py-4 items-center">
+					<ProjectLogo className="h-full w-auto px-4" />
+				</header>
+				<div className="lg:hidden">
 					<Hero />
 					<Information />
-				</div>
-				<div className="flex flex-col col-start-2">
-					<HeaderInfo className="p-4" />
-					<TrackList songList={songList} />
+					<TrackList className="mt-6" songList={songList} />
 					<Credit />
+				</div>
+				<div className="hidden lg:grid lg:grid-cols-[1fr_1fr] xl:grid-cols-[1fr_2fr] gap-x-6 px-4 pt-8 max-w-[1600px] mx-auto">
+					<div className="flex flex-col gap-4 col-start-1">
+						<Hero />
+						<Information />
+					</div>
+					<div className="flex flex-col col-start-2 gap-8">
+						<HeaderInfo className="p-4" />
+						<div className="w-full h-px bg-namco70-if-stroke/60"></div>
+						<TrackList songList={songList} />
+						<Credit />
+					</div>
 				</div>
 			</div>
 		</Layout>

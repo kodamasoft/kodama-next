@@ -18,19 +18,19 @@ export default function Information({ ...props }) {
 	return (
 		<div className="p-4 flex flex-col gap-6" {...props}>
 			<div className="flex gap-2 items-center">
-				<h1 className="text-3xl font-bold">Information</h1>
+				<h1 className="text-3xl font-bold sm:text-4xl">Information</h1>
 				<div className="h-0.5 w-full bg-namco70-if-foreground/60" />
 			</div>
 			<div>
-				<h2 className="opacity-60">Total songs</h2>
-				<p className="text-xl">18</p>
+				<h2 className="opacity-60 sm:text-2xl">Total songs</h2>
+				<p className="text-xl sm:text-4xl">18</p>
 			</div>
 			<div>
-				<h2 className="opacity-60">Release date</h2>
-				<p className="text-xl">2025.06.27</p>
+				<h2 className="opacity-60 sm:text-2xl">Release date</h2>
+				<p className="text-xl sm:text-4xl">2025.06.27</p>
 			</div>
 
-			<div className="flex flex-col gap-4">
+			<div className="flex flex-col gap-4 sm:mt-6">
 				{linkData.map((link) => (
 					<HrefButton key={link.title} {...link} variant="if" />
 				))}

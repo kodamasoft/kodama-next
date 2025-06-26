@@ -8,7 +8,7 @@ export default function CreditItem({
 }) {
 	return (
 		<div className="flex justify-between py-4 border-b border-namco70-p-stroke/60">
-			<div className="flex gap-4 items-center">
+			<div className="flex gap-4 items-center sm:text-2xl">
 				<span>{name}</span>
 				<div className="flex gap-2 items-center">
 					{socials.map((social) => (
@@ -32,7 +32,7 @@ export default function CreditItem({
 				</div>
 			</div>
 			<div>
-				<span>{role}</span>
+				<span class="sm:text-2xl">{role}</span>
 			</div>
 		</div>
 	);
