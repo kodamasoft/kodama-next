@@ -5,12 +5,8 @@ import { Calendar, User } from 'lucide-react';
 
 const linkData = [
 	{
-		href: 'https://almightyarrangeproject.bandcamp.com/album/almighty-sound-express',
+		href: 'https://pxtunes.bandcamp.com/album/game-sound-collage',
 		title: 'Bandcamp',
-	},
-	{
-		href: 'https://www.youtube.com/watch?v=j1KoamGQUiE',
-		title: 'YouTube',
 	},
 ];
 

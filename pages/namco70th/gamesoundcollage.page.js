@@ -25,73 +25,73 @@ const songList = [
 	{
 		title: 'No Diggity Dug',
 		artist: 'Kaseboy Advance',
-		startAt: 19, // 0:19
+		startAt: 11, // 0:19
 	},
 	{
 		title: 'Galaga',
 		artist: 'crazygoji',
-		startAt: 34, // 0:34
+		startAt: 21, // 0:34
 	},
 	{
 		title: 'SUBMERSION4374 (Dragon Spirit - Dark Castle)',
 		artist: 'kpwu',
-		startAt: 48, // 0:48
+		startAt: 31, // 0:48
 	},
 	{
 		title: 'Tales of Namco Waltzes, op. 82 (Toy Pop/Valkyrie no Densetsu)',
 		artist: 'jaxcheese',
-		startAt: 58, // 0:58
+		startAt: 41, // 0:58
 	},
 	{
 		title: 'Mappy 64',
 		artist: 'ScarletLotusProductions',
-		startAt: 69, // 1:09
+		startAt: 51, // 1:09
 	},
 	{
 		title: 'Nova Rally Racing (New Rally-X)',
 		artist: 'MasterofDed',
-		startAt: 82, // 1:22
+		startAt: 61, // 1:22
 	},
 	{
 		title: 'Valkyrie no Densetsu - Theme of Lava Cave',
 		artist: 'ZahranW',
-		startAt: 93, // 1:33
+		startAt: 71, // 1:33
 	},
 	{
 		title: 'night attack!! (Metal Hawk - BGM 4)',
 		artist: 'Garoslaw',
-		startAt: 107, // 1:47
+		startAt: 81, // 1:47
 	},
 	{
 		title: 'Tower of Druaga - Name Entry',
 		artist: 'jaxcheese',
-		startAt: 119, // 1:59
+		startAt: 91, // 1:59
 	},
 	{
 		title: 'Steel Gunner - Laboratory',
 		artist: 'MyuPicks',
-		startAt: 137, // 2:17
+		startAt: 101, // 2:17
 	},
 	{
 		title: 'Burning Force - Bay Yard',
 		artist: 'ZahranW',
-		startAt: 150, // 2:30
+		startAt: 111, // 2:30
 	},
 	{
 		title: 'the skies remember (Burning Force - Sarinuka Sands)',
 		artist: 'ehm',
-		startAt: 159, // 2:39
+		startAt: 121, // 2:39
 	},
 	{
 		// eslint-disable-next-line prettier/prettier
 		title: "The Land of the Queen (Märchen Maze - Queen's Land)",
 		artist: 'Snuroo',
-		startAt: 170, // 2:50,
+		startAt: 131, // 2:50,
 	},
 	{
 		title: 'Playing Games Forever (Multicade menu music)',
 		artist: 'MasterofDed',
-		startAt: 184, // 3:04
+		startAt: 141, // 3:04
 	},
 ];
 
@@ -173,6 +173,8 @@ export default function GameSoundCollage() {
 				</div>
 
 				<MusicPlayer
+					href="/assets/namco70th/gamesoundcollage/gsc-crossfade.mp3"
+					songList={songList}
 					className={cn(
 						'fixed bottom-0 z-10 h-(--player-height) w-full bg-namco70-gsc-background/80 grid grid-cols-[1fr_auto] grid-rows-1',
 						'lg:bg-transparent lg:grid-cols-[auto_1fr_auto]'
@@ -181,15 +183,15 @@ export default function GameSoundCollage() {
 					<div className="flex gap-4 items-center w-full px-2 lg:bg-namco70-gsc-background/80 lg:col-start-1 lg:col-end-1">
 						<Disc3 className="h-4 w-4 shrink-0" />
 						<div className="overflow-hidden">
-							<div className="flex gap-[1ch] items-center whitespace-nowrap animate-namco70-gsc-marquee">
+							<div className="flex gap-[1ch] items-center whitespace-nowrap text-ellipsis max-w-[calc(100vw_-_270px)] lg:max-w-[300px] animate-namco70-gsc-marquee">
 								<MusicPlayer.Artist />
 								<span>-</span>
-								<MusicPlayer.Title />
+								<MusicPlayer.Title className="text-ellipsis" />
 							</div>
 						</div>
 					</div>
 					<div className="flex gap-2 items-center lg:bg-namco70-gsc-background/80 lg:col-start-3 lg:col-end-3 lg:px-4">
-						<MusicPlayer.Duration />
+						<MusicPlayer.Duration className="whitespace-nowrap" />
 						<MusicPlayer.Prev>
 							<ChevronFirst className="h-full w-full" />
 						</MusicPlayer.Prev>

@@ -6,7 +6,7 @@ import GSCLogo from '/public/assets/namco70th/gamesoundcollage/gsc-logo.png';
 import IFLogo from '/public/assets/namco70th/ironfist/if-logo.png';
 import cn from '../lib/cn';
 import PortalHeader from '../components/namco70th/portal/portal-header';
-import { useMemo, useState, useEffect } from 'react';
+import { useMemo, useState, useEffect, useLayoutEffect } from 'react';
 import PortalPagination from '../components/namco70th/portal/pagination';
 import PortalEntrance from '../components/namco70th/portal/entrance';
 
@@ -90,6 +90,13 @@ export default function Discography() {
 	const [isEntranceVisible, setEntranceVisibility] = useState(true);
 
 	useEffect(() => {
+		const hasSeenEntrace = sessionStorage.getItem('hasSeenEntrance');
+		if (hasSeenEntrace === 'true') {
+			setEntranceVisibility(false);
+		}
+	}, []);
+
+	useEffect(() => {
 		// Hopefully no rebound won't lag this out
 		const checkIsDesktop = () => {
 			setIsDesktop(window.matchMedia('(min-width: 64rem)').matches);
@@ -118,6 +125,7 @@ export default function Discography() {
 	};
 
 	const handleEntranceClick = () => {
+		sessionStorage.setItem('hasSeenEntrance', 'true');
 		setEntranceVisibility(false);
 	};
 
