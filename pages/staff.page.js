@@ -57,8 +57,8 @@ export default function Staff({}) {
 							{staffJson.map((staff, index) =>
 								typeof staff._legacy === 'undefined' ? (
 									<div key={index} className="mb-10">
-										<div className="flex flex-col md:grid md:grid-cols-[150px,1fr] gap-4">
-											<div className="">
+										<div className="flex flex-col md:grid md:grid-cols-[150px,1fr]">
+											<div className="w-1/2">
 												<Image
 													src={
 														'/assets/staff/pictures/kodama_' +
@@ -71,7 +71,7 @@ export default function Staff({}) {
 													height={150}
 												/>
 											</div>
-											<div className="">
+											<div className="w-1/2">
 												<h3 className="text-xl font-bold mb-2">
 													{staff.name}
 												</h3>
