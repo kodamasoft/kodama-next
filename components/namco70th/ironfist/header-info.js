@@ -3,7 +3,7 @@ import Logo from '../../../public/assets/namco70th/ironfist/if-logo.png';
 import cn from '../../../lib/cn';
 export default function HeaderInfo({ className, ...props }) {
 	return (
-		<div class={cn('flex gap-4 w-full h-32', className)} {...props}>
+		<div className={cn('flex gap-4 w-full h-32', className)} {...props}>
 			<Image
 				alt="Iron Fist Logo"
 				src={Logo}

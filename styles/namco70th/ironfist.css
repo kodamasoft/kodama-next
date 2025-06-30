@@ -6,6 +6,7 @@
 	--color-namco70-if-foreground: hsl(0, 0%, 100%);
 	--color-namco70-if-accent: hsl(291, 60%, 60%);
 	--color-namco70-if-accent-2: hsl(276, 51%, 39%);
+	--color-namco70-if-accent-3: hsl(0, 0%, 0%);
 	--color-namco70-if-stroke: hsl(0, 0%, 100%);
 
 	--animate-namco70-if-marquee: marquee 10s linear infinite alternate;
