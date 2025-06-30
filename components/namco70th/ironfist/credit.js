@@ -1,9 +1,12 @@
 import {
-	SiBandcamp, SiBluesky, SiInstagram,
+	SiBandcamp,
+	SiBluesky,
+	SiInstagram,
 	SiCarrd,
 	SiSoundcloud,
 	SiX,
-	SiYoutube, SiLinktree,
+	SiYoutube,
+	SiLinktree,
 } from '@icons-pack/react-simple-icons';
 import CreditItem from './credit-item';
 import { Globe } from 'lucide-react';

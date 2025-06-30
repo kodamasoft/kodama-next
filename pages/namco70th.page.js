@@ -133,7 +133,7 @@ export default function Discography() {
 		<>
 			<Layout>
 				<Head>
-					<title>Namco 70th Anniversary</title>
+					<title>NAMCO 70th Anniversary</title>
 				</Head>
 				<PortalEntrance
 					className={cn(

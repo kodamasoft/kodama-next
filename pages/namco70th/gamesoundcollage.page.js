@@ -84,7 +84,7 @@ const songList = [
 	},
 	{
 		// eslint-disable-next-line prettier/prettier
-		title: "The Land of the Queen (Märchen Maze - Queen's Land)",
+		title: 'The Land of the Queen (Märchen Maze - Queen\'s Land)',
 		artist: 'Snuroo',
 		startAt: 131, // 2:50,
 	},
@@ -98,7 +98,6 @@ const songList = [
 export default function GameSoundCollage() {
 	const [menuOpen, setMenuOpen] = useState(false);
 	const [activeTrackIndex, setActiveTrackIndex] = useState(0);
-
 
 	const handleTrackChange = (index) => {
 		setActiveTrackIndex(index);

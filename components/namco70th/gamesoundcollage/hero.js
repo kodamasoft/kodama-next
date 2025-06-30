@@ -14,8 +14,9 @@ export default function Hero({ className, ...props }) {
 			/>
 			<p className="pt-4 text-base">
 				Arrangements of tunes from classic Namco arcade games, made with
-				pxtone! This album is part of the "United Tribute Arrange Force"
-				project celebrating the 70th anniversary of Namco's founding.
+				pxtone! This album is part of the &ldquo;United Tribute Arrange
+				Force&rdquo; project celebrating the 70th anniversary of
+				Namco&apos;s founding.
 			</p>
 		</div>
 	);
