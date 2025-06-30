@@ -162,7 +162,11 @@ export default function IronFist() {
 				<div className="lg:hidden">
 					<Hero />
 					<Information />
-					<TrackList className="mt-6" songList={songList} />
+					<TrackList
+						className="mt-6"
+						songList={songList}
+						currentIndex={-1}
+					/>
 					<Credit />
 				</div>
 				<div className="hidden lg:grid lg:grid-cols-[1fr_1fr] xl:grid-cols-[1fr_2fr] gap-x-6 px-4 pt-8 max-w-[1600px] mx-auto">
@@ -173,7 +177,7 @@ export default function IronFist() {
 					<div className="flex flex-col col-start-2 gap-8">
 						<HeaderInfo className="pt-4 px-4 pb-0 lg:h-full" />
 						<div className="w-full h-px shrink-0 bg-namco70-if-stroke/60"></div>
-						<TrackList songList={songList} />
+						<TrackList songList={songList} currentIndex={-1} />
 						<Credit />
 					</div>
 				</div>
