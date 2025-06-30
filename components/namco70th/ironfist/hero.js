@@ -8,7 +8,7 @@ export default function Hero({ className, ...props }) {
 			<Image
 				alt="Iron Fist Jacket"
 				src={Jacket}
-				className="w-full h-auto object-contain rounded-lg"
+				className="w-full h-auto object-contain rounded-lg shadow-lg"
 				loading="eager"
 			/>
 			<HeaderInfo className="lg:hidden" />

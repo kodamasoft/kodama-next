@@ -32,7 +32,7 @@ export default function CreditItem({
 				</div>
 			</div>
 			<div>
-				<span class="sm:text-2xl">{role}</span>
+				<span class="sm:text-2xl opacity-80">{role}</span>
 			</div>
 		</div>
 	);

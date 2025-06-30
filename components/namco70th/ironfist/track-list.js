@@ -13,15 +13,20 @@ export default function TrackList({
 			{...props}
 		>
 			<div>
-				<h1 className="text-3xl sm:text-4xl font-bold">Track List</h1>
+				<h1 className="text-3xl sm:text-4xl font-bold text-shadow-lg">
+					Track List
+				</h1>
 			</div>
-			<ul className="flex flex-col gap-4">
+			<ul className="flex flex-col gap-8">
 				{songList.map((track, index) => {
 					return (
 						<TrackItem
 							active={index === currentIndex} // Assuming the first track is active
 							title={track.title}
 							artist={track.artist}
+							index={index + 1}
+							originalSong={track.originalSong}
+							originalArtist={track.originalArtist}
 							key={track.title}
 						/>
 					);

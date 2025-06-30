@@ -18,7 +18,9 @@ export default function Information({ ...props }) {
 	return (
 		<div className="p-4 flex flex-col gap-6" {...props}>
 			<div className="flex gap-2 items-center">
-				<h1 className="text-3xl font-bold sm:text-4xl">Information</h1>
+				<h1 className="text-3xl font-bold sm:text-4xl text-shadow-lg">
+					Information
+				</h1>
 				<div className="h-0.5 w-full bg-namco70-if-foreground/60" />
 			</div>
 			<div>

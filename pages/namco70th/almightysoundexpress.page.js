@@ -11,7 +11,7 @@ import {
 import SeekBar from '../../components/namco70th/almightysoundexpress/seek-bar';
 import Hero from '../../components/namco70th/almightysoundexpress/hero';
 import TrackList from '../../components/namco70th/almightysoundexpress/track-list';
-import { useState } from 'react';
+import { useRef, useState, useEffect } from 'react';
 import Information from '../../components/namco70th/almightysoundexpress/information';
 import HrefButton from '../../components/namco70th/href-button';
 import Credit from '../../components/namco70th/almightysoundexpress/credit';
@@ -113,6 +113,7 @@ const songList = [
 export default function AlmightySoundExpress() {
 	const [activeTrackIndex, setActiveTrackIndex] = useState(0);
 	const [menuOpen, setMenuOpen] = useState(false);
+	const contentRef = useRef(null);
 
 	const handleTrackChange = (index) => {
 		setActiveTrackIndex(index);
@@ -121,6 +122,29 @@ export default function AlmightySoundExpress() {
 	const toggleMenu = () => {
 		setMenuOpen(!menuOpen);
 	};
+
+	// Add event listener for wheel events
+	useEffect(() => {
+		const handleWheel = (e) => {
+			if (window.innerWidth >= 1024 && contentRef.current) {
+				// Prevent default scrolling behavior
+				e.preventDefault();
+
+				// Scroll the right column
+				contentRef.current.scrollBy({
+					top: e.deltaY,
+					behavior: 'auto',
+				});
+			}
+		};
+
+		// Add event listener to the window
+		window.addEventListener('wheel', handleWheel, { passive: false });
+
+		return () => {
+			window.removeEventListener('wheel', handleWheel);
+		};
+	}, []);
 
 	return (
 		<Layout>
@@ -202,8 +226,9 @@ export default function AlmightySoundExpress() {
 					</button>
 				</header>
 				<div
+					ref={contentRef}
 					className={cn(
-						'flex flex-col lg:order-2 overflow-auto lg:w-1/3 xl:w-1/2 lg:min-w-[512px] lg:mt-(--header-height) transition-[width] duration-500 relative'
+						'flex flex-col lg:order-2 overflow-auto lg:w-1/3 xl:w-1/2 lg:min-w-[512px] lg:mt-(--header-height) transition-[width] duration-500 relative overflow-x-hidden overscroll-contain'
 					)}
 				>
 					<Hero
@@ -243,11 +268,11 @@ export default function AlmightySoundExpress() {
 						className="flex flex-col h-full player bg-namco70-ase-background lg:h-(--player-height) lg:absolute lg:bottom-0 lg:left-0 lg:w-full"
 					>
 						<SeekBar />
-						<div className="flex items-center justify-between p-2 h-full">
-							<div className="flex gap-4 items-center justify-center w-full max-w-1/2 text-sm bg-namco70-ase-accent text-namco70-ase-foreground-1 px-4 py-2 rounded-full">
+						<div className="flex items-center justify-between p-2 h-full lg:gap-6">
+							<div className="flex gap-4 items-center w-full max-w-1/2 lg:max-w-max text-sm bg-namco70-ase-accent text-namco70-ase-foreground-1 px-4 py-2 rounded-full">
 								<Disc3 className="h-4 w-4 shrink-0" />
 								<div className="overflow-hidden">
-									<div className="flex gap-[1ch] items-center whitespace-nowrap animate-namco70-ase-marquee">
+									<div className="flex gap-[1ch] items-center whitespace-nowrap animate-namco70-ase-marquee lg:animate-none">
 										<MusicPlayer.Artist />
 										<span>-</span>
 										<MusicPlayer.Title />
