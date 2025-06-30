@@ -2,12 +2,12 @@
 	{
 		"cat_slug": "eclectic-resonance",
 		"projects": [
-      {
+		{
 				"slug": "eclectic-resonance-paradise",
-				"status": "accepting",
-				"percentage": "50",
-				"duration": "24:32",
-				"finished_tracks": "7",
+				"status": "about-to-release",
+				"percentage": "85",
+				"duration": "48:16",
+				"finished_tracks": "13",
 				"deadline": "2025-06-20T23:59:59Z",
 				"mastering": {
 					"status": "pending",
@@ -17,25 +17,11 @@
 				"color": "#dbb458"
 			},
 			{
-				"slug": "eclectic-resonance-escapism",
-				"status": "released",
-				"percentage": "100",
-				"duration": "1:41:38",
-				"finished_tracks": "16",
-				"deadline": "2025-03-23T23:59:59Z",
-				"mastering": {
-					"status": "completed",
-					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"
-				},
-				"artwork_comission": "completed",
-				"color": "#68bd7d"
-			},
-			{
 				"slug": "eclectic-resonance-uprising-3",
 				"status": "accepting",
-				"percentage": "5",
-				"duration": "02:43",
-				"finished_tracks": "1",
+				"percentage": "20",
+				"duration": "16:50",
+				"finished_tracks": "4",
 				"deadline": "2025-09-13T23:59:59Z",
 				"mastering": {
 					"status": "pending",
@@ -47,13 +33,13 @@
       {
 				"slug": "eclectic-resonance-memories-2",
 				"status": "accepting",
-				"percentage": "0",
-				"duration": "00:00",
-				"finished_tracks": "0",
+				"percentage": "10",
+				"duration": "06:24",
+				"finished_tracks": "2",
 				"deadline": "2025-09-13T23:59:59Z",
 				"mastering": {
 					"status": "pending",
-					"engineer": "TBD"
+					"engineer": "sdhizumi"
 				},
 				"artwork_comission": "pending",
 				"color": "#f9c74f"
@@ -96,26 +82,26 @@
 				},
 				"artwork_comission": "pending",
 				"color": "#d44215"
+			},
+			{
+				"slug": "eclectic-resonance-escapism",
+				"status": "released",
+				"percentage": "100",
+				"duration": "1:41:38",
+				"finished_tracks": "16",
+				"deadline": "2025-03-23T23:59:59Z",
+				"mastering": {
+					"status": "completed",
+					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"
+				},
+				"artwork_comission": "completed",
+				"color": "#68bd7d"
 			}
 		]
 	},
 	{
 		"cat_slug": "gensokyo-party",
 		"projects": [
-			{
-				"slug": "gensokyo-party-6-border-in-stasis",
-				"status": "released",
-				"percentage": "100",
-				"duration": "1:03:55",
-				"finished_tracks": "14",
-				"deadline": "2025-03-15T23:59:59Z",
-				"mastering": {
-					"status": "completed",
-					"engineer": "blobdash"
-				},
-				"artwork_comission": "completed",
-				"color": "#fda564"
-			},
 			{
 				"slug": "moriya-barista-2",
 				"status": "accepting",
@@ -154,6 +140,20 @@
 				},
 				"artwork_comission": "pending",
 				"color": "#fcbcda"
+			},
+			{
+				"slug": "gensokyo-party-6-border-in-stasis",
+				"status": "released",
+				"percentage": "100",
+				"duration": "1:03:55",
+				"finished_tracks": "14",
+				"deadline": "2025-03-15T23:59:59Z",
+				"mastering": {
+					"status": "completed",
+					"engineer": "blobdash"
+				},
+				"artwork_comission": "completed",
+				"color": "#fda564"
 			}
 		]
 	}

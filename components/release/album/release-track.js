@@ -1,7 +1,6 @@
 import { Disclosure, Transition } from '@headlessui/react';
 import { ChevronRightIcon } from '@heroicons/react/20/solid';
 
-import trackStyles from './release-track.module.scss';
 import { useRouter } from 'next/router';
 
 export default function ReleaseTrack({ track, key }) {
@@ -13,7 +12,7 @@ export default function ReleaseTrack({ track, key }) {
 				className="container max-w-(--breakpoint-sm) mx-auto mb-4 flex content-start items-start px-2 md:px-8"
 				key={trackKey}
 			>
-				<div className={trackStyles.track_number}>
+				<div className="text-xl mr-2 text-[color:var(--release-color)]">
 					{track[0].padStart(2, '0')}
 				</div>
 				<div>

@@ -1,6 +1,5 @@
 import Link from 'next/link';
 import Trans from 'next-translate/Trans';
-import callToActionStyles from './release-call-to-action.module.scss';
 
 export default function ReleaseCallToAction({ store }) {
 	return (
@@ -15,7 +14,7 @@ export default function ReleaseCallToAction({ store }) {
 						<Link
 							key={storeItem[0]}
 							href={storeItem[1].link}
-							className={callToActionStyles.button}
+							className="inline-block text-center text-lg rounded border-2 py-3 px-8 m-1 transition text-[color:var(--release-color)] border-[color:var(--release-color)] hover:text-white hover:bg-[color:var(--release-color)]"
 						>
 							{storeItem[1].name}
 						</Link>
