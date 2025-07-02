@@ -85,7 +85,7 @@ const songList = [
 	},
 	{
 		// eslint-disable-next-line prettier/prettier
-		title: "The Land of the Queen (Märchen Maze - Queen's Land)",
+		title: 'The Land of the Queen (Märchen Maze - Queen\'s Land)',
 		artist: 'Snuroo',
 		startAt: 131, // 2:50,
 	},
@@ -98,6 +98,11 @@ const songList = [
 
 export default function GameSoundCollage() {
 	const [menuOpen, setMenuOpen] = useState(false);
+	const [activeTrackIndex, setActiveTrackIndex] = useState(0);
+
+	const handleTrackChange = (index) => {
+		setActiveTrackIndex(index);
+	};
 
 	const toggleMenu = () => {
 		setMenuOpen(!menuOpen);
@@ -172,15 +177,16 @@ export default function GameSoundCollage() {
 					<TrackList
 						id="tracks"
 						songList={songList}
-						currentIndex={0}
+						currentIndex={activeTrackIndex}
 					/>
 					<Information id="info" />
-					<Credit id="credit" />
+					<Credit id="credits" />
 				</div>
 
 				<MusicPlayer
 					href="/assets/namco70th/gamesoundcollage/gsc-crossfade.mp3"
 					songList={songList}
+					onTrackChange={handleTrackChange}
 					className={cn(
 						'fixed bottom-0 z-10 h-(--player-height) w-full bg-namco70-gsc-background/80 grid grid-cols-[1fr_auto] grid-rows-1',
 						'lg:bg-transparent lg:grid-cols-[auto_1fr_auto]'

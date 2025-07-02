@@ -1,15 +1,17 @@
-import { Cormorant_Garamond } from 'next/font/google';
+import { Newsreader, Public_Sans } from 'next/font/google';
 
-const c_garamond = Cormorant_Garamond({
+const newsreader = Newsreader({
 	weight: ['400', '500', '600', '700'],
 	subsets: ['latin'],
-	variable: '--font-garamond',
+	display: 'swap',
+	style: ['normal'],
+	variable: '--font-newsreader',
 });
 
 export default function Layout({ children }) {
 	return (
-		<div className={`${c_garamond.className} font-namco70-if-serif`}>
-			<div className="min-h-screen bg-namco70-if-background">
+		<div className={`${newsreader.className} font-namco70-if-serif`}>
+			<div className="min-h-screen bg-namco70-if-background text-namco70-if-foreground">
 				<main>{children}</main>
 			</div>
 		</div>

@@ -7,6 +7,7 @@
 	--color-namco70-gsc-accent-1: hsl(200 98% 39%);
 	--color-namco70-gsc-stroke: hsl(0, 0%, 100%);
 
+
 	--animate-namco70-gsc-marquee: marquee 10s linear infinite alternate;
 
 	@keyframes marquee {
