@@ -32,7 +32,7 @@ const projectInfos = [
 		name: 'Tekken: The Iron Fist Tributes',
 		image: IFLogo,
 		releasedAt: '2025.06.27',
-		presentedBy: 'Presented by Technomarina',
+		presentedBy: 'Technomarina',
 		href: '/unitedtribute/ironfist',
 		isDisabled: false,
 	},
