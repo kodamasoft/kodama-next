@@ -1,0 +1,41 @@
+@theme {
+	--font-namco70-ase-sans: var(--font-tomorrow), sans-serif;
+
+	--color-namco70-ase-background: hsl(0, 0%, 0%);
+	--color-namco70-ase-foreground: hsl(0, 0%, 100%);
+	--color-namco70-ase-foreground-1: hsl(0, 0%, 0%);
+	--color-namco70-ase-accent: hsl(170, 64%, 55%);
+	--color-namco70-ase-stroke: hsl(0, 0%, 100%);
+
+	--animate-namco70-ase-marquee: marquee 10s linear infinite alternate;
+
+	@keyframes marquee {
+		0% {
+			transform: translateX(0);
+		}
+		100% {
+			transform: translateX(-100%);
+		}
+	}
+}
+
+@layer components {
+	@media (min-aspect-ratio: 610/866) and (max-width: 1023px) {
+		.namco70-ase-hero {
+			position: relative;
+			overflow: hidden;
+		}
+
+		.namco70-ase-hero .info {
+			background-color: var(--color-namco70-ase-background);
+			position: absolute;
+			bottom: 0;
+			left: 0;
+			width: 100%;
+		}
+	}
+
+	.namco70-ase-player {
+		container-type: size;
+	}
+}

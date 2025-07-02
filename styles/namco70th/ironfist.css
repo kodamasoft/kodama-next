@@ -1,0 +1,48 @@
+@theme {
+	--font-namco70-if-sans: '--font-public-sans', sans-serif;
+	--font-namco70-if-serif: '--font-newsreader', serif;
+
+	--color-namco70-if-background: hsl(291, 60%, 35%);
+	--color-namco70-if-foreground: var(--color-slate-100);
+	--color-namco70-if-accent: hsl(291, 60%, 60%);
+	--color-namco70-if-accent-2: hsl(276, 51%, 39%);
+	--color-namco70-if-accent-3: var(--color-gray-800);
+	--color-namco70-if-accent-4: var(--color-pink-700);
+	--color-namco70-if-stroke: hsl(0, 0%, 100%);
+
+	--animate-namco70-if-marquee: marquee 10s linear infinite alternate;
+
+	@keyframes marquee {
+		0% {
+			transform: translateX(0);
+		}
+		100% {
+			transform: translateX(-100%);
+		}
+	}
+}
+
+@layer components {
+	.bg-namco70-if-hero-background {
+		background-image: url('/assets/namco70th/ironfist/if-hero-bg.png');
+		background-size: cover;
+		background-position: bottom center;
+	}
+
+	@media screen and (min-width: 64rem) {
+		.namco70-if-vertical-text {
+			writing-mode: vertical-rl;
+			transform: rotate(180deg);
+		}
+	}
+
+	.namco70-if-header-height {
+		--header-height: 4rem;
+	}
+
+	@media screen and (min-width: 64rem) {
+		.namco70-if-header-height {
+			--header-height: 5rem;
+		}
+	}
+}

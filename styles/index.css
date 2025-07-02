@@ -1,6 +1,8 @@
 @import 'tailwindcss';
 @import './namco70th/portal.css';
-
+@import './namco70th/almightysoundexpress.css';
+@import './namco70th/gamesoundcollage.css';
+@import './namco70th/ironfist.css';
 
 @plugin '@tailwindcss/typography';
 @plugin '@headlessui/tailwindcss';
@@ -69,11 +71,10 @@
 }
 
 @font-face {
-    font-family: 'Arquitecta';
-    src: url('/assets/fonts/ArquitectaBold-webfont.woff?3') format('woff');
-    font-weight: bold;
-    font-style: normal;
-
+	font-family: 'Arquitecta';
+	src: url('/assets/fonts/ArquitectaBold-webfont.woff?3') format('woff');
+	font-weight: bold;
+	font-style: normal;
 }
 
 html {
@@ -85,8 +86,9 @@ html {
     @apply bg-slate-600 hover:bg-slate-700 focus:ring-slate-800;
 }
 
-.kodama_btn [astro-icon], .kodama_btn svg {
-    @apply h-4 w-4 mr-2 shrink-0;
+.kodama_btn [astro-icon],
+.kodama_btn svg {
+	@apply h-4 w-4 mr-2 shrink-0;
 }
 
 .kodama_btn--primary {
@@ -100,5 +102,3 @@ html {
 .kodama_btn--lg [astro-icon], .kodama_btn--lg svg {
     @apply h-6 w-6;
 }
-
-
