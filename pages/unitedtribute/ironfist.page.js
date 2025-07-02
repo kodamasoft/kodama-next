@@ -7,6 +7,7 @@ import Information from '../../components/namco70th/ironfist/information';
 import TrackList from '../../components/namco70th/ironfist/track-list';
 import Credit from '../../components/namco70th/ironfist/credit';
 import HeaderInfo from '../../components/namco70th/ironfist/header-info';
+import Link from 'next/link';
 const songList = [
 	{
 		title: 'Push Start to Tekken',
@@ -110,7 +111,13 @@ export default function IronFist() {
 		<Layout>
 			<div className="namco70-if-header-height">
 				<header className="sticky flex justify-between top-0 z-10 h-(--header-height) w-full bg-namco70-if-accent-2 py-4 items-center">
-					<ProjectLogo className="h-full w-auto px-4" />
+					<Link
+						href="/unitedtribute"
+						alt="Back to Home Page"
+						className="h-full w-auto"
+					>
+						<ProjectLogo className="h-full w-auto px-4" />
+					</Link>
 				</header>
 				<div className="lg:hidden">
 					<Hero />

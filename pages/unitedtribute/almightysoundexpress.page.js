@@ -19,6 +19,7 @@ import cn from '../../lib/cn';
 import Jacket from '../../public/assets/namco70th/almightysoundexpress/jacket.png';
 import Image from 'next/image';
 import ProjectLogo from '../../public/assets/namco70th/common/logo-white.svg';
+import Link from 'next/link';
 
 /** @typedef {import('../../components/namco70th/types').SongItem} SongItem */
 
@@ -130,7 +131,13 @@ export default function AlmightySoundExpress() {
 			>
 				{/* Sticky Header */}
 				<header className="sticky flex justify-between top-0 z-10 h-(--header-height) lg:w-full lg:fixed bg-namco70-ase-background px-4 border-b border-b-namco70-p-stroke/60">
-					<ProjectLogo className="h-full w-auto py-2" />
+					<Link
+						href="/unitedtribute"
+						alt="Back to Home Page"
+						className="h-full w-auto"
+					>
+						<ProjectLogo className="h-full w-auto py-2" />
+					</Link>
 
 					<nav className="hidden md:flex items-center gap-6">
 						<a
@@ -244,10 +251,10 @@ export default function AlmightySoundExpress() {
 					>
 						<SeekBar />
 						<div className="flex items-center justify-between p-2 h-full">
-							<div className="flex gap-4 items-center justify-center w-full max-w-1/2 text-sm bg-namco70-ase-accent text-namco70-ase-foreground-1 px-4 py-2 rounded-full">
+							<div className="flex gap-4 items-center w-full max-w-1/2 text-sm bg-namco70-ase-accent text-namco70-ase-foreground-1 px-4 py-2 rounded-full">
 								<Disc3 className="h-4 w-4 shrink-0" />
 								<div className="overflow-hidden">
-									<div className="flex gap-[1ch] items-center whitespace-nowrap animate-namco70-ase-marquee">
+									<div className="flex gap-[1ch] items-center whitespace- animate-namco70-ase-marquee w-full">
 										<MusicPlayer.Artist />
 										<span>-</span>
 										<MusicPlayer.Title />

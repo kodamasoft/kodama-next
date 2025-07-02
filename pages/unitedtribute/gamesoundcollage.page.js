@@ -5,6 +5,7 @@ import Layout from '../../components/namco70th/gamesoundcollage/layout';
 import TrackList from '../../components/namco70th/gamesoundcollage/track-list';
 import MusicPlayer from '../../components/namco70th/music-player';
 import ProjectLogo from '../../public/assets/namco70th/common/logo-white.svg';
+import Link from 'next/link';
 import {
 	Menu,
 	Disc3,
@@ -109,8 +110,13 @@ export default function GameSoundCollage() {
 			>
 				{/* Sticky Header */}
 				<header className="sticky flex justify-between top-0 z-10 h-(--header-height) w-full bg-namco70-gsc-background/80 py-4 items-center">
-					<ProjectLogo className="h-full w-auto px-4" />
-
+					<Link
+						href="/unitedtribute"
+						alt="Back to Home Page"
+						className="h-full w-auto"
+					>
+						<ProjectLogo className="h-full w-auto px-4" />
+					</Link>
 					<nav className="hidden md:flex items-center gap-6">
 						<a href="#hero">Home</a>
 						<a href="#tracks">Tracks</a>
