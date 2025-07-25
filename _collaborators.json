@@ -1902,75 +1902,7 @@
 	"Claire": {
 		"name": "Claire"
 	},
-	"KoDyMaxx": {
-		"name": "KoDyMaxx",
-		"links": {
-			"twitter": "https://x.com/KoDyMaxx_Band",
-			"bandcamp": "https://kodymaxx.bandcamp.com/track/darkened-magicians-meltdown",
-			"youtube": "https://www.youtube.com/@KoDyMaxx",
-			"apple": "https://music.apple.com/artist/kodymaxx/1746647125",
-			"spotify": "https://open.spotify.com/artist/6H18mZKfzUK8Yz3lw8c7yJ",
-			"vgmdb": "https://vgmdb.net/org/4166"
-		}
-	},
-	"Ashiko": {
-		"name": "Ashiko",
-		"links": {
-			"youtube": "https://www.youtube.com/ashikodrum",
-			"soundcloud": "https://soundcloud.com/ashikodrum",
-			"vgmdb": "https://vgmdb.net/artist/20385"
-		}
-	},
-	"Batatao": {
-		"name": "Batatao",
-		"links": {
-			"twitter": "https://x.com/DargoTan",
-			"vgmdb": "https://vgmdb.net/artist/72297"
-		}
-	},
-	"esther.exe": {
-		"name": "esther.exe",
-		"links": {
-			"twitter": "https://x.com/estherdotexe",
-			"youtube": "https://www.youtube.com/@estherdotexe/featured",
-			"website": "https://estherdotexe.carrd.co",
-			"vgmdb": "https://vgmdb.net/artist/71701"
-		}
-	},
-	"another_shiro": {
-		"name": "another_shiro",
-		"links": {
-			"twitter": "https://x.com/another_shiro",
-			"bluesky": "https://bsky.app/profile/anothershiro.bsky.social",
-			"youtube": "https://www.youtube.com/channel/UCkZ1QrqHwxnrW56YNf2GNaA",
-			"soundcloud": "https://soundcloud.com/hippiechickie24",
-			"website": "https://anothershiro.netlify.app",
-			"vgmdb": "https://vgmdb.net/artist/74073"
-		}
-	},
-	"Hikari Niji": {
-		"name": "Hikari Niji",
-		"links": {
-			"twitter": "https://x.com/HikariNijibane",
-			"pixiv": "https://www.pixiv.net/en/users/4546008",
-			"vgmdb": "https://vgmdb.net/artist/71700"
-		}
-	},
-	"SampleEN": {
-		"name": "SampleEN",
-		"links": {
-			"twitter": "link",
-			"bluesky": "link",
-			"bandcamp": "link",
-			"youtube": "link",
-			"soundcloud": "link",
-			"apple": "link",
-			"spotify": "link",
-			"website": "link",
-			"vgmdb": "link"
-		}
-	},
-	"SampleJP": {
+	"Sample": {
 		"name": {
 			"en": "Sample",
 			"jp": "Sample"
@@ -1981,8 +1913,6 @@
 			"bandcamp": "link",
 			"youtube": "link",
 			"soundcloud": "link",
-			"apple": "link",
-			"spotify": "link",
 			"website": "link",
 			"vgmdb": "link"
 		}
