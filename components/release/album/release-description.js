@@ -27,7 +27,7 @@ export default function ReleaseDescription({
 	catalog,
 	price,
 	store,
-	booth
+	booth,
 }) {
 	const { t } = useTranslation('release');
 
