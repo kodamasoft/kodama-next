@@ -86,6 +86,7 @@ export default function ReleaseLayout({ release }) {
 					catalog={release.catalog}
 					price={release.price}
 					store={release.store}
+					booth={release.booth}
 				/>
 				<ReleaseCallToAction store={release.store} />
 				<ReleaseTracklist

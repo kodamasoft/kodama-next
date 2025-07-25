@@ -27,6 +27,7 @@ export default function ReleaseDescription({
 	catalog,
 	price,
 	store,
+	booth
 }) {
 	const { t } = useTranslation('release');
 
@@ -81,6 +82,12 @@ export default function ReleaseDescription({
 
 				<DtKodama>{t('release_date')}</DtKodama>
 				<DdKodama>{release_date}</DdKodama>
+
+				{booth && (
+					<>	<DtKodama>{t('booth')}</DtKodama>
+					<DdKodama>{booth}</DdKodama>
+					</>
+				)}
 
 				<DtKodama>{t('catalog')}</DtKodama>
 				<DdKodama>{catalog}</DdKodama>
