@@ -1,118 +1,144 @@
 {
 	"slug": "phantasmal-metamorphosis",
-	"logo": "/assets/discography/logos/0019.png",
-	"color": "cf5595",
+	"logo": "/assets/discography/logos/CD0001.png",
+	"color": "f0d282",
 	"soundcloud_track_id": "2078481104",
-	"cover": "/assets/discography/covers/0019.png",
+	"cover": "/assets/discography/covers/CD0001.png",
 	"background": {
-		"image": "/assets/discography/backgrounds/0019.png",
-		"color": "314660"
+		"image": "/assets/discography/backgrounds/CD0001.png",
+		"color": "251676"
 	},
-	"title": "Gensokyo Party Vol. 6 Border in Stasis",
+	"title": "Phantasmal Metamorphosis",
 	"circle": {
 		"name": "KodamaSounds",
 		"link": "/"
 	},
-	"specification": "\"Gensokyo in Ruins\" Touhou Arrange Album",
-	"release_date": "5 May 2025 (Reitaisai 22)",
+	"specification": "Pressed CD / KoDyMaxx 1st Touhou Best Album",
+	"release_date": "Aug 17, 2025 (Comic Market 106 Day 2) [コミックマーケット106 2日目]",
+	"booth": "Four Corners / 東ホール6 オ-24b",
 	"catalog": "KSCD-0001",
-	"price": "Pre-Order & Event Price: 12€ / 2000 yen | Post Release Price: 15€ / 2500 yen",
+	"price": "Pre-Order & Event Price: 10€ / 1500 yen | Post Release Price: 13€ / 2000 yen",
 	"store": {
 		"bandcamp": {
 			"name": "Bandcamp",
-			"link": "https://kodamasounds.bandcamp.com/album/gensokyo-party-vol-6-border-in-stasis"
+			"link": "https://kodamasounds.bandcamp.com/album/phantasmal-metamorphosis"
 		},
 		"booth": {
 			"name": "BOOTH",
-			"link": "https://kodamasoft.booth.pm/items/6753843"
+			"link": "https://kodamasoft.booth.pm/items/6960326"
 		}
 	},
 	"tracklist": {
 		"01": {
-			"title": "Autumn's Invitation",
-			"artist": "dystopian tanuki",
+			"title": "City Protector Reimu",
+			"artist": "KoDyMaxx",
 			"description": [
-				"• Original Composer: U2 Akiyama [あきやまうに] (Twilight Frontier)",
-				"• Arranger: dystopian tanuki",
+				"• Original Composer: ZUN (Team Shanghai Alice)",
+				"• Arranger: Maxx (KodamaSounds), Kopan (KodamaSounds), Dylan Hendrick",
+				"• Guitars, Bass, Sound Design & Additional Synth: Maxx (KodamaSounds)",
+				"• Keys: Kopan (KodamaSounds)",
+				"• Drums & Percussion: Dylan Hendrick",
 				"",
-				"• Programmed, Produced & Mixed by dystopian tanuki",
-				"• Mastering Engineer: blobdash",
+				"• Programmed & Produced by Maxx (KodamaSounds), Kopan (KodamaSounds), Dylan Hendrick",
+				"• Mixed by Maxx (KodamaSounds)",
+				"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
 				"",
-				"• Original Track: Heaven of Scarlet Perception [緋想天]",
-				"• Source: Touhou Hisouten ~ Scarlet Weather Rhapsody. [東方緋想天　～ Scarlet Weather Rhapsody.]",
+				"• Original Track: Maiden's Capriccio ~ Dream Battle [少女綺想曲　～ Dream Battle]",
+				"• Source: Touhou Eiyashou ~ Imperishable Night. [東方永夜抄　～ Imperishable Night.]",
 				"",
-				"• About this track: An invitation faintly written in a scarlet leaf. Unkown sender, unknown destination, where does this lead to?",
-				"",
-				"Key: Cminor",
-				"Genre: Orchestral"
+				"BPM: 100",
+				"Time Signature: 4/4",
+				"Genre: City Pop/Fusion"
 			]
 		},
 		"02": {
-			"title": "Miasmic~Entanglement",
-			"artist": "ak+q",
+			"title": "Bad Apple!! Gensokyo Night Fever (2025 Remaster)",
+			"artist": "KoDyMaxx feat. Aamna",
 			"description": [
 				"• Original Composer: ZUN (Team Shanghai Alice)",
-				"• Arranger: ak+q",
+				"• Original Arrangement: Masayoshi Minoshima (Alstroemeria Records)",
+				"• Original Lyrics: Haruka",
+				"• Arranger: Maxx (KodamaSounds), Kopan (KodamaSounds) & Dylan Hendrick",
+				"• Vocals: Aamna",
+				"• Vocal Timing & Vocal Tuning: esther.exe",
+				"• Guitars & additional Synth: Maxx (KodamaSounds)",
+				"• Synth: Kopan (KodamaSounds)",
+				"• Drums & Percussion: Dylan Hendrick",
 				"",
-				"• Programmed, Produced, Mixed & Mastered by ak+q",
-				"• Additional Mastering: Very minor treble reduction",
+				"• Programmed, Produced by Maxx (kodamaSounds), Kopan (KodamaSounds) & Dylan Hendrick",
+				"• Mixed by Maxx (kodamaSounds)",
+				"• Mastered by malicent (Cursed Monastery / Sigillum Azoetia)",
 				"",
-				"• Original Track: The Dark Blowhole [暗闇の風穴]",
-				"• Source: Touhou Chireiden ~ Subterranean Animism. [東方地霊殿　～ Subterranean Animism.]",
+				"• Original Track: Bad Apple!!",
+				"• Source: Touhou Gensokyo ~ Lotus Land Story. [東方幻想郷　～ Lotus Land Story.]",
 				"",
-				"• About this track: Touhou 11: Subterranean Animism has always been a soft spot for me, musically. The first few stage themes resonate with me and parallel some aspects of my own song writing. To be able to arrange The Dark Blowhole, the games first stage song, into an experimental and transformative work, is such a blessing. Please enjoy this piece of work and the complete compilation!",
+				"• About this track: Party in Gensokyo like it's 1975! Forget all of your worries, get ready to dance and have a good time. DJ Reimu is here to rock the house in this disco arrangement of this classic track, and you're invited!",
 				"",
-				"BPM: 140",
-				"Key: C Minor",
-				"Genre: Experimental IDM"
+				"Re-Arrange of \"Bad Apple!!\" from \"Lovelight\" by Alstroemeria Records",
+				"",
+				"BPM: 116",
+				"Time Signature: 4/4",
+				"Genre: Disco"
 			]
 		},
 		"03": {
-			"title": "Cherry Blossom, You and I",
-			"artist": "Raphtalix",
+			"title": "Darkened Magician's Meltdown",
+			"artist": "KoDyMaxx feat. Ashiko",
 			"description": [
 				"• Original Composer: ZUN (Team Shanghai Alice)",
-				"• Arranger: Raphtalix",
+				"• Arranger: Maxx (KodamaSounds), Kopan (KodamaSounds), Ashiko",
+				"• Guitars, Bass, Sound Design & Additional Synth: Maxx (KodamaSounds)",
+				"• Keys: Kopan (KodamaSounds)",
+				"• Drums & Percussion: Ashiko",
 				"",
-				"• Programmed, Produced & Mixed by Raphtalix",
-				"• Mastering Engineer: blobdash",
+				"• Programmed & Produced by Maxx (KodamaSounds), Kopan (KodamaSounds)",
+				"• Mixed by Maxx (KodamaSounds)",
+				"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
 				"",
-				"• Original Track: Sakura, Sakura ~ Japanize Dream... [さくらさくら　～ Japanize Dream...]",
-				"• Source: Touhou Youyoumu ~ Perfect Cherry Blossom. [東方妖々夢　～ Perfect Cherry Blossom.]",
+				"• Original Track: Tomboyish Girl in Love [おてんば恋娘]",
+				"• Source: Touhou Koumakyou ~ the Embodiment of Scarlet Devil. [東方紅魔郷　～ the Embodiment of Scarlet Devil.]",
 				"",
-				"• Used Software: FL Studio",
-				"• Used VSTs & Samples: VST: Spire, Serum, Sylenth1, Keyzone Classic. / Noticeable Samples: - SOLTAN_MR_120_perc_loop_ruler - HNS4 Loops 32 145 BPM - AHEH Impact 11 170BPM - VEDM Uplifter 10 D 8 Bars_2 - etc.",
+				"• About this track: This song is our hommage to the classic rock era, in the style of a certain legendary prog-rock figure/band. A perfect track to listen to while doing your taxes, and perfectly fitting for our beloved smart ice fairy.",
 				"",
-				"BPM: 140",
-				"Key: G# Major",
-				"Genre: Uplifting Trance"
+				"BPM: 108",
+				"Time Signature: 4/4",
+				"Genre: Classic Rock"
 			]
 		},
 		"04": {
-			"title": "Hidden Gateway",
-			"artist": "utzbo",
+			"title": "Dark Fragrance of Your Soul",
+			"artist": "KoDyMaxx",
 			"description": [
 				"• Original Composer: ZUN (Team Shanghai Alice)",
 				"• Arranger: utzbo",
 				"",
-				"• Programmed, Produced & Mixed by utzbo",
-				"• Mastering Engineer: blobdash",
+				"• Original Composer: ZUN (Team Shanghai Alice)",
+				"• Arranger: Maxx (KodamaSounds), Kopan (KodamaSounds), Dylan Hendrick",
+				"• Guitars, Bass, Sound Design & Additional Synth: Maxx (KodamaSounds)",
+				"• Keys: Kopan (KodamaSounds)",
+				"• Drums & Percussion: Dylan Hendrick",
 				"",
-				"• Original Track: The Concealed Four Seasons [秘匿されたフォーシーズンズ] / Secret God Matara ~ Hidden Star in All Seasons. [秘神マターラ　～ Hidden Star in All Seasons.]",
-				"• Source: Touhou Tenkuushou ~ Hidden Star in Four Seasons. [東方天空璋　～ Hidden Star in Four Seasons.]",
+				"• Programmed & Produced by Maxx (KodamaSounds), Kopan (KodamaSounds)",
+				"• Mixed by Maxx (KodamaSounds)",
+				"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
 				"",
-				"• Used Software: Bitwig Studio 5",
+				"• Original Track: Dark Side of Fate [運命のダークサイド]",
+				"• Source: Touhou Fuujinroku ~ Mountain of Faith. [東方風神録　～ Mountain of Faith.]",
 				"",
-				"• About this track: According to the theme, I was aiming for a decadent, corrupt and sensational mood. [アルバムのテーマに合わせて、退廃的で扇情的な雰囲気をめざしました。]",
+				"• Used Software: FL Studio 20, Reaper, Cubase",
+				"• Used VSTs & Samples: Nexus 2, Addictive drums 2",
 				"",
-				"BPM: 175",
-				"Key: F#m",
-				"Genre: Drum'n'Bass"
+				"",
+				"Originally from \"Gensokyo Party Vol. 3 Moriya Barista\" by KodamaSounds",
+				"",
+				"BPM: 126",
+				"Time Signature: 4/4",
+				"Genre: Lounge/Downtempo"
 			]
 		},
 		"05": {
-			"title": "Rampancy",
-			"artist": "Ulagumo",
+			"title": "Autumnal Reverie: Inada's Rebuke",
+			"artist": "KoDyMaxx feat. Tee-vee",
 			"description": [
 				"• Original Composer: ZUN (Team Shanghai Alice)",
 				"• Arranger: Ulagumo",
@@ -131,287 +157,435 @@
 			]
 		},
 		"06": {
-			"title": "Gensokyo;Restoration",
-			"artist": "takehirotei",
+			"title": "Heiliger Gebetsbereich (2025 Remaster)",
+			"artist": "KoDyMaxx",
 			"description": [
 				"• Original Composer: ZUN (Team Shanghai Alice)",
-				"• Arranger: takehirotei",
+				"• Arranger: Maxx (KodamaSounds), Kopan (KodamaSounds), Dylan Hendrick",
+				"• Guitars, Bass, Sound Design & Additional Synth: Maxx (KodamaSounds)",
+				"• Keys: Kopan (KodamaSounds)",
+				"• Drums & Percussion: Dylan Hendrick",
 				"",
-				"• Programmed, Produced, Mixed & Mastered by takehirotei",
-				"• Additional Mastering: Silence Tail",
+				"• Programmed & Produced by Maxx (KodamaSounds), Kopan (KodamaSounds), Dylan Hendrick",
+				"• Mixed by Maxx (KodamaSounds), Dylan Hendrick",
+				"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
 				"",
-				"• Original Track: Emotional Skyscraper ~ Cosmic Mind [感情の摩天楼　～ Cosmic Mind]",
-				"• Source: Touhou Seirensen ~ Undefined Fantastic Object. [東方星蓮船　～ Undefined Fantastic Object.]",
+				"• Original Track: A Sacred Lot",
+				"• Source: Touhou Rei'iden ~ Highly Responsive to Prayers. [東方靈異伝　～ Highly Responsive to Prayers.]",
 				"",
-				"• Used Software: FL Studio",
-				"• Used VSTs & Samples: Serum, 3x Osc, DSK Music Box, Massive X, Kontakt 7",
+				"• Used Software: Reaper, Cubase, FL Studio",
+				"• Used VSTs & Samples: Neural DSP Archetype Gojira, GetGood Drums One Kit Wonder Metal",
 				"",
-				"BPM: 173",
-				"Key: C# minor",
-				"Genre: future bass/trancecore"
+				"• About this track: This track was inspired by the German Metal and Industrial scene, with a marching beat capturing the feeling of a brand new adventure, where it all began.",
+				"",
+				"",
+				"Originally from \"Gensokyo Party Vol. 5 VANTABLACK 2\" by KodamaSounds",
+				"",
+				"BPM: 120",
+				"Time Signature: 4/4",
+				"Genre: Metal"
 			]
 		},
 		"07": {
-			"title": {
-				"en": "tsui-no-moto, moto-no-hate",
-				"jp": "ツイノモト、モトノハテ"
-			},
-			"artist": "Emelia K.",
+			"title": "Bloodline Madness",
+			"artist": "KoDyMaxx",
 			"description": [
 				"• Original Composer: ZUN (Team Shanghai Alice)",
-				"• Arranger: Emelia K.",
+				"• Arranger: Maxx (KodamaSounds), Kopan (KodamaSounds), Dylan Hendrick",
+				"• Guitars, Bass, Sound Design & Additional Synth: Maxx (KodamaSounds)",
+				"• Keys: Kopan (KodamaSounds)",
+				"• Drums & Percussion: Dylan Hendrick",
+				"• Rhythm Guitars: Batatao",
 				"",
-				"• Programmed, Produced & Mixed by Emelia K.",
-				"• Mastering Engineer: blobdash",
+				"• Programmed & Produced by Maxx (KodamaSounds), Kopan (KodamaSounds), Dylan Hendrick",
+				"• Mixed by Maxx (KodamaSounds)",
+				"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
 				"",
-				"• Original Track: Iris [アイリス] / Eastern Strange Discourse [東方怪奇談]",
-				"• Source: Touhou Rei'iden ~ Highly Responsive to Prayers. [東方靈異伝　～ Highly Responsive to Prayers.]",
+				"• Original Track: U.N. Owen Was Her? [U.N.オーエンは彼女なのか？]",
+				"• Source: Touhou Koumakyou ~ the Embodiment of Scarlet Devil. [東方紅魔郷　～ the Embodiment of Scarlet Devil.]",
 				"",
-				"• Used Software: Renoise",
-				"• Used VSTs & Samples: Surge XT, Podolski / DtBlkFx, ThingsTexture, deletr, Crusher, AMBEO Orbit / mhak, Bandstand, Digital Underglow, VSCO2, Glitch With Friends, OtowabiKagurasuzu, Emilyguitar, SGM V2.01, Future Funkstep, SCC Taiko Drums, Freesound (556521)",
-				"",
-				"• About this track: There was where the end began; the end of where it all began.",
-				"",
-				"BPM: 133~108 (0:00~0:01), 133~83 (0:01~0:04), 133~78 (0:04~0:11), 133~83 (0:11~0:58), 133~78 (0:58~1:02), 133~83 (1:02~2:35), 133~28 (2:35~3:18), 28 (3:18~)",
-				"Key: F minor",
-				"Genre: ambient art techno"
+				"Key: 148",
+				"Time Signature: 4/4",
+				"Genre: Heavy Metal"
 			]
 		},
 		"08": {
-			"title": "No Justice",
-			"artist": "intelligencecasino",
+			"title": "LAMENT of GAZANIA (2025 Remaster)",
+			"artist": "KoDyMaxx feat. Aamna",
 			"description": [
 				"• Original Composer: ZUN (Team Shanghai Alice)",
-				"• Arranger: intelligencecasino",
+				"• Arranger: Maxx (KodamaSounds), Kopan (KodamaSounds), Dylan Hendrick",
+				"• Vocals & Lyrics: Aamna",
+				"• Guitars, Bass, Sound Design & Additional Synth: Maxx (KodamaSounds)",
+				"• Keys: Kopan (KodamaSounds)",
+				"• Drums & Percussion: Dylan Hendrick",
 				"",
-				"• Programmed, Produced & Mixed by intelligencecasino",
-				"• Mastering Engineer: blobdash",
+				"• Programmed & Produced by Kopan (KodamaSounds), Maxx (KodamaSounds), Dylan Hendrick",
+				"• Mixed by Maxx (KodamaSounds), Dylan Hendrick",
+				"• Instrumental Mixing: Maxx (KodamaSounds)",
+				"• Vocal Mixing: Maxx (KodamaSounds), Aamna",
+				"• Vocal Timing: Aamna",
+				"• Vocal Tuning: another_shiro [Shiro白]",
+				"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
 				"",
-				"• Original Track: Eastern Judgement in the Sixtieth Year ~ Fate of Sixty Year [六十年目の東方裁判　～ Fate of Sixty Years]",
-				"• Source: Touhou Kaeidzuka ~ Phantasmagoria of Flower View. [東方花映塚　～ Phantasmagoria of Flower View.]",
+				"• Original Track: Necrofantasia [ネクロファンタジア]",
+				"• Source: Touhou Youyoumu ~ Perfect Cherry Blossom. [東方妖々夢　～ Perfect Cherry Blossom.]",
 				"",
-				"• Used Software: FL studio",
+				"• Used Software: FL Studio, Reaper",
+				"• Used VSTs & Samples: Triton Extreme / refx Nexus",
 				"",
-				"BPM: 125",
-				"Key: D# minor",
-				"Genre: complextro"
+				"• About this track: LAMENT of GAZANIA is a story of reconcilliation in the darkest hour.",
+				"• Lyrics:",
+				"",
+				"Won’t you meet me at dawn? Come alone, ‘fore the sun,",
+				"Bring with you all that you are,",
+				"And I’ll give you all I am,",
+				"With a passionate kiss, wear my name on your lips,",
+				"Show me that you really do understand",
+				"",
+				"Won’t you hold for me one, final breath? As we’re swept up in this fantasy, won’t you please let me be more selfish?",
+				"The feeling ignites, burning fast, burning bright, leaving nothing but ashes in sight",
+				"",
+				"First we start the trance, two doomed lovers dance endlessly",
+				"Darkness clouds the sky, still moving in time,",
+				"Out of breath but there’s no reprieve",
+				"",
+				"Reaching forward, heading towards an impending grief",
+				"For a moment, star-crossed opponents,",
+				"With heavy burdens can’t be relieved",
+				"",
+				"Deep within your eyes,",
+				"Underneath a blackened sky, a tale is woven fatefully to end in our demise,",
+				"Two opposing sides,",
+				"Fated to destroy each other until not a soul is left alive",
+				"",
+				"Standing face to face,",
+				"Reminiscing all about the pieces of a perfect fantasy we should have made",
+				"Still my memory fades, leaving but a voice behind to tell me that it’s meant to be this way",
+				"",
+				"Lost, covered in faded scars,",
+				"Doomed from the start, but",
+				"Still I cannot bring myself to betray what’s in my heart ",
+				"",
+				"Always set to stay worlds apart,",
+				"Even so, I will never stop following your ghost through the dark.",
+				"",
+				"Deep within your eyes,",
+				"Underneath a blackened sky, a tale is woven fatefully to end in our demise,",
+				"Two opposing sides,",
+				"Fated to destroy each other until not a soul is left alive",
+				"Standing face to face,",
+				"Reminiscing all about the pieces of a perfect fantasy we should have made",
+				"Still my memory fades, leaving but a voice behind to tell me that it’s meant to be this way",
+				"",
+				"Call for me again,",
+				"Tell me that you love me, that you need me, don’t deceive me, as the night comes to an end,",
+				"Time carelessly spent,",
+				"Lit by the horizon’s glow, a silent vow is made between two friends",
+				"",
+				"You let go of my hand,",
+				"Whispering of journeys past, a memory, though it’s fading as the seconds finally pass",
+				"Nothing left to ask,",
+				"your fingers slip from mine but with a smile because our tale is told at last.",
+				"",
+				"",
+				"Originally from \"Gensokyo Party Vol. 5 VANTABLACK 2\" by KodamaSounds",
+				"",
+				"BPM: 175",
+				"Time Signature: 4/4",
+				"Genre: Vocal Metal"
 			]
 		},
 		"09": {
-			"title": "Decryption of The Lost Era",
-			"artist": "GOETIA",
+			"title": "Darkened Magician's Meltdown",
+			"artist": "KoDyMaxx feat. Ashiko",
 			"description": [
 				"• Original Composer: ZUN (Team Shanghai Alice)",
-				"• Arranger: GOETIΛ (Sigillum Azoetia)",
+				"• Arranger: Maxx (KodamaSounds), Kopan (KodamaSounds), Ashiko",
+				"• Guitars, Bass, Sound Design & Additional Synth: Maxx (KodamaSounds)",
+				"• Keys: Kopan (KodamaSounds)",
+				"• Drums & Percussion: Ashiko",
 				"",
-				"• Programmed, Produced, Mixed & Mastered by GOETIΛ (Sigillum Azoetia)",
-				"• Additional Mastering: Strict -1LUFS",
+				"• Programmed & Produced by Maxx (KodamaSounds), Kopan (KodamaSounds)",
+				"• Mixed by Maxx (KodamaSounds)",
+				"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
 				"",
-				"• Original Track: Bibliophile with a Deciphering Eye [判読眼のビブロフィリア]",
-				"• Source: Touhou Suzunaan ~ Forbidden Scrollery. [東方鈴奈庵　〜 Forbidden Scrollery.]",
+				"• Original Track: Love-Colored Master Spark [恋色マスタースパーク]",
+				"• Source: Touhou Eiyashou ~ Imperishable Night. [東方永夜抄　～ Imperishable Night.]",
 				"",
-				"BPM: 187",
-				"Key: A min"
+				"• About this track: Heavily inspired by the Deathcore scene with a touch of progressive style, this arrangement shows a darker, corrupted, unhinged and more malancholic side to Marisa. Slower, heavier with an explosive impact.",
+				"",
+				"BPM: 110",
+				"Time Signature: 4/4",
+				"Genre: Deathcore"
 			]
 		},
 		"10": {
-			"title": "Phantasmal Sojourner",
-			"artist": "tenko",
+			"title": "Temporal Carnage: A Maid's Reckoning",
+			"artist": "KoDyMaxx",
 			"description": [
 				"• Original Composer: ZUN (Team Shanghai Alice)",
-				"• Arranger: tenko",
+				"• Arranger: Maxx (KodamaSounds), Kopan (KodamaSounds), Dylan Hendrick",
+				"• Guitars, Bass, Sound Design & Additional Synth: Maxx (KodamaSounds)",
+				"• Keys: Kopan (KodamaSounds)",
+				"• Drums & Percussion: Dylan Hendrick",
 				"",
-				"• Programmed, Produced, Mixed & Mastered by tenko",
-				"• Additional Mastering: Little compression, +1LUFS",
+				"• Programmed & Produced by Maxx (KodamaSounds), Kopan (KodamaSounds)",
+				"• Mixed by Maxx (KodamaSounds)",
+				"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
 				"",
-				"• Original Track: Illusionary White Traveler [幻想のホワイトトラベラー]",
-				"• Source: Touhou Tenkuushou ~ Hidden Star in Four Seasons. [東方天空璋　～ Hidden Star in Four Seasons.]",
+				"• Original Track: Flowering Night [フラワリングナイト]",
+				"• Source: Touhou Kaeidzuka ~ Phantasmagoria of Flower View. [東方花映塚　～ Phantasmagoria of Flower View.]",
 				"",
-				"• Used Software: FL Studio",
+				"• About this track: Fear the wrath of the maid of doom, Sakuya. She's here to rip and tear until it is done (then clean up the mess later, of course). Forget spellcard rules, it's time for pure sonic violence!",
 				"",
-				"BPM: 170 (0:00~5:40) 170-200 (5:40~6:00) 170 (6:01~6:12) 240 (6:13~6:59) 180 (7:00~9:28)",
-				"Key: F#/Gb major",
-				"Genre: Experimental, Artcore, Neurofunk, Gothic Hardcore, Botanica"
+				"BPM: 103",
+				"Time Signature: 4/4",
+				"Genre: Argent Metal"
 			]
 		},
 		"11": {
-			"title": "reclamation: luna",
-			"artist": "baeddelite",
+			"title": "CATATATA",
+			"artist": "KoDyMaxx",
 			"description": [
 				"• Original Composer: ZUN (Team Shanghai Alice)",
-				"• Arranger: baeddelite",
+				"• Arranger: Maxx (KodamaSounds), Kopan (KodamaSounds), Dylan Hendrick",
+				"• Guitars, Bass, Sound Design & Additional Synth: Maxx (KodamaSounds)",
+				"• Keys: Kopan (KodamaSounds)",
+				"• Drums & Percussion: Dylan Hendrick",
 				"",
-				"• Programmed, Produced, Mixed & Mastered by baeddelite",
-				"• Additional Mastering: Slight Treble Reduction, -1LUFS",
+				"• Programmed & Produced by Maxx (KodamaSounds), Kopan (KodamaSounds), Dylan Hendrick",
+				"• Mixed by Maxx (KodamaSounds)",
+				"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+				"",
+				"• Original Track: The Fantastic Tales from Tono [遠野幻想物語] / Flowering Night [フラワリングナイト]",
+				"• Source: Touhou Youyoumu ~ Perfect Cherry Blossom. [東方妖々夢　～ Perfect Cherry Blossom.] / Touhou Kaeidzuka ~ Phantasmagoria of Flower View [東方花映塚　～ Phantasmagoria of Flower View.]",
+				"",
+				"• About this track: An electrified voyage through breakneck rhythms. This track reimagines the brilliance and mystery of a lunar genius through the lens of high-intensity drum & bass. Synths pulse like neural signals,  basslines surge with urgency, drift through the chaos like data streaming from a celestial mainframe. Inspired by the fusion of electronic and live playing energy, this arrangement channels the analytical precision and boundless intellect of the Hourai pharmacist into a sound form both volatile and visionary.",
+				"",
+				"BPM: 140",
+				"Time Signature: 4/4",
+				"Genre: Electro-Metal"
+			]
+		},
+		"12": {
+			"title": "Out of Mind",
+			"artist": "Kopan feat. Maxx",
+			"description": [
+				"• Original Composer: ZUN (Team Shanghai Alice)",
+				"• Arranger: Maxx (KodamaSounds), Kopan",
+				"• Guitars, Bass, Sound Design & Additional Synth: Maxx (KodamaSounds)",
+				"• Keys: Kopan (KodamaSounds)",
+				"",
+				"• Programmed & Produced by Maxx (KodamaSounds), Kopan (KodamaSounds)",
+				"• Mixed by Maxx (KodamaSounds)",
+				"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+				"",
+				"• Original Track: Illusionary Night ~ Ghostly Eyes [幻視の夜　～ Ghostly Eyes]",
+				"• Source: Touhou Eiyashou ~ Imperishable Night. [東方永夜抄　～ Imperishable Night]",
+				"",
+				"",
+				"Originally from \"Gensokyo Party Vol. 2 VANTABLACK\" by KodamaSounds",
+				"",
+				"BPM: 130",
+				"Time Signature: 4/4",
+				"Genre: EDM"
+			]
+		},
+		"13": {
+			"title": "Lunar Velocity",
+			"artist": "KoDyMaxx",
+			"description": [
+				"• Original Composer: ZUN (Team Shanghai Alice)",
+				"• Arranger: Maxx (KodamaSounds), Kopan (KodamaSounds), Dylan Hendrick",
+				"• Guitars, Bass, Sound Design & Additional Synth: Maxx (KodamaSounds)",
+				"• Keys: Kopan (KodamaSounds)",
+				"• Drums & Percussion: Dylan Hendrick",
+				"",
+				"• Programmed & Produced by Maxx (KodamaSounds), Kopan (KodamaSounds), Dylan Hendrick",
+				"• Mixed by Maxx (KodamaSounds)",
+				"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
 				"",
 				"• Original Track: Gensokyo Millennium ~ History of the Moon [千年幻想郷　～ History of the Moon]",
 				"• Source: Touhou Eiyashou ~ Imperishable Night. [東方永夜抄　～ Imperishable Night.]",
 				"",
-				"BPM: 177",
-				"Genre: moonstruck"
-			]
-		},
-		"12": {
-			"title": "e_4: universe ? twogirls ! wheelchair \\Rightarrow \\emptyset",
-			"artist": "Coconami",
-			"description": [
-				"• Original Composer: ZUN (Team Shanghai Alice)",
-				"• Arranger: Coconami",
-				"",
-				"• Programmed, Produced & Mixed by Coconami",
-				"• Mastering Engineer: blobdash",
-				"",
-				"• Original Track: Greenwich in the Sky / The Wheelchair's Future in Space [天空のグリニッジ / 車椅子の未来宇宙]",
-				"• Source: Magical Astronomy -ZUN's Music Collection vol.5- [大空魔術　～ Magical Astronomy]",
-				"",
-				"• Used Software: Cakewalk by Bandlab",
-				"• Used VSTs & Samples: uhh my own uni assignment video but reversed + my groupmates recordings but reversed",
-				"",
-				"• About this track: originally just wanted to go for an ominous vibe since I've always wanted to make something like this, but as I finished the first 2 mins I realised I could add a \"very empty space where they (renko and maribel) found a casette talking out the secrets of the universe\" or smth. I was supposed (or well, planned) to record me reciting probably one of Stephen Hawking's speeches to fit into the casette vibe, but I guess reversed mumbling fits better in the end. Anyways hope you guys like it.",
-				"",
-				"BPM: 90 (0:00~2:21) - 120 (2:21~4:51)",
-				"Genre: hi I tried to make stuff"
-			]
-		},
-		"13": {
-			"title": "Hell's Greatest Demon",
-			"artist": "Supire",
-			"description": [
-				"• Original Composer: ZUN (Team Shanghai Alice)",
-				"• Arranger: Supire (NH)",
-				"",
-				"• Programmed, Produced & Mixed by Supire (NH)",
-				"• Mastered by blobdash",
-				"",
-				"• Original Track: The Deviants' Unobstructed Light ~ Kingdom of Nothingness. [逸脱者達の無礙光　〜 Kingdam of Nothingness.]",
-				"• Source: Touhou Juuouen ~ Unfinished Dream of All Living Ghost. [東方獣王園 〜 Unfinished Dream of All Living Ghost.]",
-				"",
-				"• Used Software: FL Studio 24",
-				"",
-				"BPM: 200",
-				"Key: F minor scale",
-				"Genre: Industrial hardcore"
+				"BPM: 176",
+				"Time Signature: 4/4",
+				"Genre: Drum and Bass"
 			]
 		},
 		"14": {
-			"title": "The Forgotten Eternal Capital",
-			"artist": "Lollipop",
+			"title": "Eternal Faith - Something About You",
+			"artist": "KoDyMaxx",
 			"description": [
 				"• Original Composer: ZUN (Team Shanghai Alice)",
-				"• Arranger: Lollipop",
+				"• Arranger: Maxx (KodamaSounds), Kopan (KodamaSounds)",
+				"• Vocals: Maxx (KodamaSounds)",
+				"• Lyrics: Maxx (KodamaSounds), Kopan (KodamaSounds)",
+				"• Guitars, Bass, Sound Design & Additional Synth: Maxx (KodamaSounds)",
+				"• Keys: Kopan (KodamaSounds)",
 				"",
-				"• Programmed, Produced & Mixed by Lollipop",
-				"• Mastering Engineer: blobdash",
+				"• Programmed & Produced by Maxx (KodamaSounds), Kopan (KodamaSounds)",
+				"• Mixed by Maxx (KodamaSounds)",
+				"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
 				"",
-				"• Original Track: The Frozen Eternal Capital [凍り付いた永遠の都]",
-				"• Source: Touhou Kanjuden ~ Legacy of Lunatic Kingdom. [東方紺珠伝　～ Legacy of Lunatic Kingdom.]",
+				"• Original Track: Native Faith [ネイティブフェイス]",
+				"• Source: Touhou Fuujinroku ~ Mountain of Faith. [東方風神録　～ Mountain of Faith.]",
 				"",
-				"• About this track: The long-forgotten lunar capital, in all its solemn resplendence—shall we embark on a voyage to a place beyond the firmament, where the wind cries out to those bereaved, or left behind?",
+				"• About this track: A gentle descent into warmth and groove, this arrangement paints the goddess of earth and ancient ponds in shades of vintage synths, tender basslines, and melancholic melodies. It’s a love letter whispered through vocoder haze and smooth rhythms, where myth and emotion intertwine. Channeling the sacred and the sentimental, the track explores the softer, more human side of a deity long buried beneath moss and memory—where every note feels like a forgotten touch from an older, simpler world.",
+				"• Lyrics",
+				"There's something ancient in the night,",
+				"A faith that whispers through the pines.",
+				"In the shadows of the shrine,",
+				"A goddess who can turn the tides.",
 				"",
-				"BPM: 35-43 (Timestamps are hard to fill in as the BPM is continuously modulating/the performance is quite humanized)",
-				"Key: Ab Major/F Minor",
-				"Genre: Instrumental"
+				"With a touch of the past,",
+				"In the forests so vast,",
+				"Where the spirits roam free,",
+				"That's where you'll find me.",
+				"In the heart of the shrine,",
+				"Faith and time intertwine.",
+				"A legacy that won't fade,",
+				"In the twilight, I'm afraid.",
+				"",
+				"I need you",
+				"I want you",
+				"Don't fear me",
+				"Please hear me",
+				"",
+				"I need you",
+				"I want you",
+				"Don't fear me",
+				"Please hear me",
+				"",
+				"Something about you,",
+				"Something that's so true.",
+				"A faith that's old and wise,",
+				"Hidden in your eyes.",
+				"",
+				"Something about you,",
+				"Something so pure and true.",
+				"A native faith that binds,",
+				"Eternal in our minds.",
+				"",
+				"BPM: 99",
+				"Time Signature: 4/4",
+				"Genre: Synth-Pop"
+			]
+		},
+		"15": {
+			"title": "Whispers of the Wind",
+			"artist": "KoDyMaxx",
+			"description": [
+				"• Original Composer: ZUN (Team Shanghai Alice)",
+				"• Arranger: Maxx (KodamaSounds), Kopan (KodamaSounds), Dylan Hendrick",
+				"• Guitars, Bass, Sound Design & Additional Synth: Maxx (KodamaSounds)",
+				"• Keys: Kopan (KodamaSounds)",
+				"• Drums & Percussion: Dylan Hendrick",
+				"",
+				"• Programmed & Produced by Maxx (KodamaSounds), Kopan (KodamaSounds), Dylan Hendrick",
+				"• Mixed by Maxx (KodamaSounds)",
+				"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+				"",
+				"• Original Track: Faith is for the Transient People [信仰は儚き人間の為に]",
+				"• Source: Touhou Fuujinroku ~ Mountain of Faith. [東方風神録　～ Mountain of Faith.]",
+				"",
+				"BPM: 110",
+				"Time Signature: 4/4",
+				"Genre: Folk"
 			]
 		}
 	},
 	"youtube_id": "tgIVZm9JuFE",
 	"credits": {
 		"1": {
-			"role": "Arranger",
-			"id": "dystopian tanuki"
+			"role": "Artists",
+			"id": "KoDyMaxx"
 		},
 		"2": {
-			"role": "Arranger",
-			"id": "ak+q"
+			"role": "Arranger, Vocals, Lyrics, Guitars, Bass, Sound Design, Additional Synths",
+			"id": "Maxx"
 		},
 		"3": {
-			"role": "Arranger",
-			"id": "Raphtalix"
+			"role": "Arranger, Keys, Lyrics",
+			"id": "Kopan"
 		},
 		"4": {
-			"role": "Arranger",
-			"id": "utzbo"
+			"role": "Arranger, Drums, Percussion, Bass, Cajon, Djembe",
+			"id": "Dylan Hendrick"
 		},
 		"5": {
-			"role": "Arranger",
-			"id": "Ulagumo"
+			"role": "Arranger, Drums, Percussion",
+			"id": "Ashiko"
 		},
 		"6": {
-			"role": "Arranger",
-			"id": "takehirotei"
+			"role": "Arranger, Drums, Percussion",
+			"id": "Tee-vee"
 		},
 		"7": {
-			"role": "Arranger",
-			"id": "Emelia K."
+			"role": "Vocals, Lyrics, Vocal Timing",
+			"id": "Aamna"
 		},
 		"8": {
-			"role": "Arranger",
-			"id": "intelligencecasino"
+			"role": "Rhythm Guitars",
+			"id": "Batatao"
 		},
 		"9": {
-			"role": "Arranger",
-			"id": "GOETIA"
+			"role": "Vocal Timing, Vocal Tuning",
+			"id": "esther.exe"
 		},
 		"10": {
-			"role": "Arranger",
-			"id": "tenko"
+			"role": "Vocal Tuning",
+			"id": "another_shiro"
 		},
 		"11": {
-			"role": "Arranger",
-			"id": "baeddelite"
-		},
-		"12": {
-			"role": "Arranger",
-			"id": "Coconami"
-		},
-		"13": {
-			"role": "Arranger",
-			"id": "Supire"
-		},
-		"14": {
-			"role": "Arranger",
-			"id": "Lollipop"
-		},
-		"15": {
 			"role": "Original Composer",
 			"id": "ZUN"
 		},
-		"16": {
-			"role": "Original Composer",
-			"id": "U2 Akiyama"
+		"12": {
+			"role": "Mastering Engineer",
+			"id": "malicent"
 		},
-		"17": {
-			"role": "Mastering Engineer & Audio Crossfade",
-			"id": "blobdash"
+		"13": {
+			"role": "Audio Crossfade",
+			"id": "Volumetrique"
 		},
-		"18": {
-			"role": "Illustration",
+		"14": {
+			"role": "Illustrations",
+			"id": "Hikari Niji"
+		},
+		"15": {
+			"role": "Illustration [08]",
 			"id": "ne_pura"
 		},
-		"19": {
-			"role": "Design & Logo Design",
-			"id": "Zeth"
+		"16": {
+			"role": "Logo",
+			"id": "shonocondo"
 		},
-		"20": {
+		"17": {
+			"role": "Layout",
+			"id": "cal"
+		},
+		"18": {
 			"role": "Supervisor & Planner",
 			"id": "Fivda"
 		},
-		"21": {
+		"19": {
 			"role": "Japanese Translator",
 			"id": "Yanis"
 		},
-		"22": {
+		"20": {
 			"role": "Crossfade Video",
-			"id": "Hiskov"
+			"id": "Len"
 		},
-		"23": {
+		"21": {
 			"role": "Web",
 			"id": "Bonnie"
 		},
-		"24": {
+		"22": {
 			"role": "Web",
 			"id": "Kat"
 		}
 	},
-	"footer": "All original compositions and characters respective of ZUN (Team Shanghai Alice) & U2 Akiyama (Twilight Frontier). 東方Project © 上海アリス幻樂団 / 黄昏フロンティア"
+	"footer": "All original compositions and characters respective of ZUN (Team Shanghai Alice). 東方Project © 上海アリス幻樂団"
 }

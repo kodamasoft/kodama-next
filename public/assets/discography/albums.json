@@ -273,18 +273,12 @@
 	},
 	"phantasmal-metamorphosis": {
 		"id": "KSCD-0001",
-		"releaseDate": "2025-05-05T00:00:00+0200",
-		"name": "Gensokyo Party Vol. 6 Border in Stasis",
-		"cover": "/assets/discography/covers/0019.png",
-		"coverColor": "cf5595",
-		"bandcamp": "https://kodamasounds.bandcamp.com/album/gensokyo-party-vol-6-border-in-stasis",
-		"booth": "https://kodamasoft.booth.pm/items/6753843",
-		"appleMusic": "https://music.apple.com/album/1814369535",
-		"spotify": "https://open.spotify.com/album/2ebVz6ZyE493M02npfR0yx",
-		"deezer": "https://www.deezer.com/album/756595081",
-		"youtubeMusic": "https://www.youtube.com/playlist?list=OLAK5uy_m4EfTvukKnVN6lgKXCgBem8GHhJLmZIc4",
-		"website": "/releases/gensokyo-party-vol6",
-		"vgmdb": "https://vgmdb.net/album/137952",
-		"thbwiki": "https://thwiki.cc/Gensokyo_Party_Vol._6_Border_in_Stasis"
+		"releaseDate": "2025-08-17T00:00:00+0200",
+		"name": "Phantasmal Metamorphosis",
+		"cover": "/assets/discography/covers/CD0001.png",
+		"coverColor": "b32d79",
+		"bandcamp": "https://kodamasounds.bandcamp.com/album/phantasmal-metamorphosis",
+		"booth": "https://kodamasoft.booth.pm/items/6960326",
+		"website": "/releases/phantasmal-metamorphosis"
 	}
 }
