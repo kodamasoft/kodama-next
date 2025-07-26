@@ -1,0 +1,417 @@
+{
+    "slug": "gensokyo-party-vol6",
+    "logo": "/assets/discography/logos/0019.png",
+    "color": "cf5595",
+    "soundcloud_track_id": "2078481104",
+    "cover": "/assets/discography/covers/0019.png",
+    "background": {
+		"image": "/assets/discography/backgrounds/0019.png",
+		"color": "314660"
+	},
+    "title": "Gensokyo Party Vol. 6 Border in Stasis",
+    "circle": {
+        "name": "KodamaSounds",
+        "link": "/"
+    },
+    "specification": "\"Gensokyo in Ruins\" Touhou Arrange Album",
+    "release_date": "5 May 2025 (Reitaisai 22)",
+    "catalog": "KSDL-0019",
+    "price": "Pre-Order & Event Price: 12€ / 2000 yen | Post Release Price: 15€ / 2500 yen",
+    "store": {
+        "bandcamp": {
+            "name": "Bandcamp",
+            "link": "https://kodamasounds.bandcamp.com/album/gensokyo-party-vol-6-border-in-stasis"
+        },
+        "booth": {
+            "name": "BOOTH",
+            "link": "https://kodamasoft.booth.pm/items/6753843"
+        }
+    },
+    "tracklist": {
+        "01": {
+            "title": "Autumn's Invitation",
+            "artist": "dystopian tanuki",
+            "description": [
+                "• Original Composer: U2 Akiyama [あきやまうに] (Twilight Frontier)",
+                "• Arranger: dystopian tanuki",
+                "",
+                "• Programmed, Produced & Mixed by dystopian tanuki",
+                "• Mastering Engineer: blobdash",
+                "",
+                "• Original Track: Heaven of Scarlet Perception [緋想天]",
+                "• Source: Touhou Hisouten ~ Scarlet Weather Rhapsody. [東方緋想天　～ Scarlet Weather Rhapsody.]",
+                "",
+                "• About this track: An invitation faintly written in a scarlet leaf. Unkown sender, unknown destination, where does this lead to?",
+                "",
+                "Key: Cminor",
+                "Genre: Orchestral"
+            ]
+        },
+        "02": {
+            "title": "Miasmic~Entanglement",
+            "artist": "ak+q",
+            "description": [
+                "• Original Composer: ZUN (Team Shanghai Alice)",
+                "• Arranger: ak+q",
+                "",
+                "• Programmed, Produced, Mixed & Mastered by ak+q",
+                "• Additional Mastering: Very minor treble reduction",
+                "",
+                "• Original Track: The Dark Blowhole [暗闇の風穴]",
+                "• Source: Touhou Chireiden ~ Subterranean Animism. [東方地霊殿　～ Subterranean Animism.]",
+                "",
+                "• About this track: Touhou 11: Subterranean Animism has always been a soft spot for me, musically. The first few stage themes resonate with me and parallel some aspects of my own song writing. To be able to arrange The Dark Blowhole, the games first stage song, into an experimental and transformative work, is such a blessing. Please enjoy this piece of work and the complete compilation!",
+                "",
+                "BPM: 140",
+                "Key: C Minor",
+                "Genre: Experimental IDM"
+            ]
+        },
+        "03": {
+            "title": "Cherry Blossom, You and I",
+            "artist": "Raphtalix",
+            "description": [
+                "• Original Composer: ZUN (Team Shanghai Alice)",
+                "• Arranger: Raphtalix",
+                "",
+                "• Programmed, Produced & Mixed by Raphtalix",
+                "• Mastering Engineer: blobdash",
+                "",
+                "• Original Track: Sakura, Sakura ~ Japanize Dream... [さくらさくら　～ Japanize Dream...]",
+                "• Source: Touhou Youyoumu ~ Perfect Cherry Blossom. [東方妖々夢　～ Perfect Cherry Blossom.]",
+                "",
+                "• Used Software: FL Studio",
+                "• Used VSTs & Samples: VST: Spire, Serum, Sylenth1, Keyzone Classic. / Noticeable Samples: - SOLTAN_MR_120_perc_loop_ruler - HNS4 Loops 32 145 BPM - AHEH Impact 11 170BPM - VEDM Uplifter 10 D 8 Bars_2 - etc.",
+                "",
+                "BPM: 140",
+                "Key: G# Major",
+                "Genre: Uplifting Trance"
+            ]
+        },
+        "04": {
+            "title": "Hidden Gateway",
+            "artist": "utzbo",
+            "description": [
+                "• Original Composer: ZUN (Team Shanghai Alice)",
+                "• Arranger: utzbo",
+                "",
+                "• Programmed, Produced & Mixed by utzbo",
+                "• Mastering Engineer: blobdash",
+                "",
+                "• Original Track: The Concealed Four Seasons [秘匿されたフォーシーズンズ] / Secret God Matara ~ Hidden Star in All Seasons. [秘神マターラ　～ Hidden Star in All Seasons.]",
+                "• Source: Touhou Tenkuushou ~ Hidden Star in Four Seasons. [東方天空璋　～ Hidden Star in Four Seasons.]",
+                "",
+                "• Used Software: Bitwig Studio 5",
+                "",
+                "• About this track: According to the theme, I was aiming for a decadent, corrupt and sensational mood. [アルバムのテーマに合わせて、退廃的で扇情的な雰囲気をめざしました。]",
+                "",
+                "BPM: 175",
+                "Key: F#m",
+                "Genre: Drum'n'Bass"
+            ]
+        },
+        "05": {
+            "title": "Rampancy",
+            "artist": "Ulagumo",
+            "description": [
+                "• Original Composer: ZUN (Team Shanghai Alice)",
+                "• Arranger: Ulagumo",
+                "",
+                "• Programmed, Produced & Mixed by Ulagumo",
+                "• Mastering Engineer: blobdash",
+                "",
+                "• Original Track: Spiritual Domination ~ Who done it! [妖々跋扈　～ Who done it!]",
+                "• Source: Touhou Youyoumu ~ Perfect Cherry Blossom. [東方妖々夢　～ Perfect Cherry Blossom.]",
+                "",
+                "• Used Software: FL Studio",
+                "",
+                "BPM: 175",
+                "Key: D# minor",
+                "Genre: Drum'n'Bass"
+            ]
+        },
+        "06": {
+            "title": "Gensokyo;Restoration",
+            "artist": "takehirotei",
+            "description": [
+                "• Original Composer: ZUN (Team Shanghai Alice)",
+                "• Arranger: takehirotei",
+                "",
+                "• Programmed, Produced, Mixed & Mastered by takehirotei",
+                "• Additional Mastering: Silence Tail",
+                "",
+                "• Original Track: Emotional Skyscraper ~ Cosmic Mind [感情の摩天楼　～ Cosmic Mind]",
+                "• Source: Touhou Seirensen ~ Undefined Fantastic Object. [東方星蓮船　～ Undefined Fantastic Object.]",
+                "",
+                "• Used Software: FL Studio",
+                "• Used VSTs & Samples: Serum, 3x Osc, DSK Music Box, Massive X, Kontakt 7",
+                "",
+                "BPM: 173",
+                "Key: C# minor",
+                "Genre: future bass/trancecore"
+            ]
+        },
+        "07": {
+			"title": {
+				"en": "tsui-no-moto, moto-no-hate",
+				"jp": "ツイノモト、モトノハテ"
+			},
+            "artist": "Emelia K.",
+            "description": [
+                "• Original Composer: ZUN (Team Shanghai Alice)",
+                "• Arranger: Emelia K.",
+                "",
+                "• Programmed, Produced & Mixed by Emelia K.",
+                "• Mastering Engineer: blobdash",
+                "",
+                "• Original Track: Iris [アイリス] / Eastern Strange Discourse [東方怪奇談]",
+                "• Source: Touhou Rei'iden ~ Highly Responsive to Prayers. [東方靈異伝　～ Highly Responsive to Prayers.]",
+                "",
+                "• Used Software: Renoise",
+                "• Used VSTs & Samples: Surge XT, Podolski / DtBlkFx, ThingsTexture, deletr, Crusher, AMBEO Orbit / mhak, Bandstand, Digital Underglow, VSCO2, Glitch With Friends, OtowabiKagurasuzu, Emilyguitar, SGM V2.01, Future Funkstep, SCC Taiko Drums, Freesound (556521)",
+                "",
+                "• About this track: There was where the end began; the end of where it all began.",
+                "",
+                "BPM: 133~108 (0:00~0:01), 133~83 (0:01~0:04), 133~78 (0:04~0:11), 133~83 (0:11~0:58), 133~78 (0:58~1:02), 133~83 (1:02~2:35), 133~28 (2:35~3:18), 28 (3:18~)",
+                "Key: F minor",
+                "Genre: ambient art techno"
+            ]
+        },
+        "08": {
+            "title": "No Justice",
+            "artist": "intelligencecasino",
+            "description": [
+                "• Original Composer: ZUN (Team Shanghai Alice)",
+                "• Arranger: intelligencecasino",
+                "",
+                "• Programmed, Produced & Mixed by intelligencecasino",
+                "• Mastering Engineer: blobdash",
+                "",
+                "• Original Track: Eastern Judgement in the Sixtieth Year ~ Fate of Sixty Year [六十年目の東方裁判　～ Fate of Sixty Years]",
+                "• Source: Touhou Kaeidzuka ~ Phantasmagoria of Flower View. [東方花映塚　～ Phantasmagoria of Flower View.]",
+                "",
+                "• Used Software: FL studio",
+                "",
+                "BPM: 125",
+                "Key: D# minor",
+                "Genre: complextro"
+            ]
+        },
+        "09": {
+            "title": "Decryption of The Lost Era",
+            "artist": "GOETIA",
+            "description": [
+                "• Original Composer: ZUN (Team Shanghai Alice)",
+                "• Arranger: GOETIΛ (Sigillum Azoetia)",
+                "",
+                "• Programmed, Produced, Mixed & Mastered by GOETIΛ (Sigillum Azoetia)",
+                "• Additional Mastering: Strict -1LUFS",
+                "",
+                "• Original Track: Bibliophile with a Deciphering Eye [判読眼のビブロフィリア]",
+                "• Source: Touhou Suzunaan ~ Forbidden Scrollery. [東方鈴奈庵　〜 Forbidden Scrollery.]",
+                "",
+                "BPM: 187",
+                "Key: A min"
+            ]
+        },
+        "10": {
+            "title": "Phantasmal Sojourner",
+            "artist": "tenko",
+            "description": [
+                "• Original Composer: ZUN (Team Shanghai Alice)",
+                "• Arranger: tenko",
+                "",
+                "• Programmed, Produced, Mixed & Mastered by tenko",
+                "• Additional Mastering: Little compression, +1LUFS",
+                "",
+                "• Original Track: Illusionary White Traveler [幻想のホワイトトラベラー]",
+                "• Source: Touhou Tenkuushou ~ Hidden Star in Four Seasons. [東方天空璋　～ Hidden Star in Four Seasons.]",
+                "",
+                "• Used Software: FL Studio",
+                "",
+                "BPM: 170 (0:00~5:40) 170-200 (5:40~6:00) 170 (6:01~6:12) 240 (6:13~6:59) 180 (7:00~9:28)",
+                "Key: F#/Gb major",
+                "Genre: Experimental, Artcore, Neurofunk, Gothic Hardcore, Botanica"
+            ]
+        },
+        "11": {
+            "title": "reclamation: luna",
+            "artist": "baeddelite",
+            "description": [
+                "• Original Composer: ZUN (Team Shanghai Alice)",
+                "• Arranger: baeddelite",
+                "",
+                "• Programmed, Produced, Mixed & Mastered by baeddelite",
+                "• Additional Mastering: Slight Treble Reduction, -1LUFS",
+                "",
+                "• Original Track: Gensokyo Millennium ~ History of the Moon [千年幻想郷　～ History of the Moon]",
+                "• Source: Touhou Eiyashou ~ Imperishable Night. [東方永夜抄　～ Imperishable Night.]",
+                "",
+                "BPM: 177",
+                "Genre: moonstruck"
+            ]
+        },
+        "12": {
+            "title": "e_4: universe ? twogirls ! wheelchair \\Rightarrow \\emptyset",
+            "artist": "Coconami",
+            "description": [
+                "• Original Composer: ZUN (Team Shanghai Alice)",
+                "• Arranger: Coconami",
+                "",
+                "• Programmed, Produced & Mixed by Coconami",
+                "• Mastering Engineer: blobdash",
+                "",
+                "• Original Track: Greenwich in the Sky / The Wheelchair's Future in Space [天空のグリニッジ / 車椅子の未来宇宙]",
+                "• Source: Magical Astronomy -ZUN's Music Collection vol.5- [大空魔術　～ Magical Astronomy]",
+                "",
+                "• Used Software: Cakewalk by Bandlab",
+                "• Used VSTs & Samples: uhh my own uni assignment video but reversed + my groupmates recordings but reversed",
+                "",
+                "• About this track: originally just wanted to go for an ominous vibe since I've always wanted to make something like this, but as I finished the first 2 mins I realised I could add a \"very empty space where they (renko and maribel) found a casette talking out the secrets of the universe\" or smth. I was supposed (or well, planned) to record me reciting probably one of Stephen Hawking's speeches to fit into the casette vibe, but I guess reversed mumbling fits better in the end. Anyways hope you guys like it.",
+                "",
+                "BPM: 90 (0:00~2:21) - 120 (2:21~4:51)",
+                "Genre: hi I tried to make stuff"
+            ]
+        },
+        "13": {
+            "title": "Hell's Greatest Demon",
+            "artist": "Supire",
+            "description": [
+                "• Original Composer: ZUN (Team Shanghai Alice)",
+                "• Arranger: Supire (NH)",
+                "",
+                "• Programmed, Produced & Mixed by Supire (NH)",
+                "• Mastered by blobdash",
+                "",
+                "• Original Track: The Deviants' Unobstructed Light ~ Kingdom of Nothingness. [逸脱者達の無礙光　〜 Kingdam of Nothingness.]",
+                "• Source: Touhou Juuouen ~ Unfinished Dream of All Living Ghost. [東方獣王園 〜 Unfinished Dream of All Living Ghost.]",
+                "",
+                "• Used Software: FL Studio 24",
+                "",
+                "BPM: 200",
+                "Key: F minor scale",
+                "Genre: Industrial hardcore"
+            ]
+        },
+        "14": {
+            "title": "The Forgotten Eternal Capital",
+            "artist": "Lollipop",
+            "description": [
+                "• Original Composer: ZUN (Team Shanghai Alice)",
+                "• Arranger: Lollipop",
+                "",
+                "• Programmed, Produced & Mixed by Lollipop",
+                "• Mastering Engineer: blobdash",
+                "",
+                "• Original Track: The Frozen Eternal Capital [凍り付いた永遠の都]",
+                "• Source: Touhou Kanjuden ~ Legacy of Lunatic Kingdom. [東方紺珠伝　～ Legacy of Lunatic Kingdom.]",
+                "",
+                "• About this track: The long-forgotten lunar capital, in all its solemn resplendence—shall we embark on a voyage to a place beyond the firmament, where the wind cries out to those bereaved, or left behind?",
+                "",
+                "BPM: 35-43 (Timestamps are hard to fill in as the BPM is continuously modulating/the performance is quite humanized)",
+                "Key: Ab Major/F Minor",
+                "Genre: Instrumental"
+            ]
+        }
+    },
+    "youtube_id": "tgIVZm9JuFE",
+    "credits": {
+        "1": {
+            "role": "Arranger",
+            "id": "dystopian tanuki"
+        },
+        "2": {
+            "role": "Arranger",
+            "id": "ak+q"
+        },
+        "3": {
+            "role": "Arranger",
+            "id": "Raphtalix"
+        },
+        "4": {
+            "role": "Arranger",
+            "id": "utzbo"
+        },
+        "5": {
+            "role": "Arranger",
+            "id": "Ulagumo"
+        },
+        "6": {
+            "role": "Arranger",
+            "id": "takehirotei"
+        },
+        "7": {
+            "role": "Arranger",
+            "id": "Emelia K."
+        },
+        "8": {
+            "role": "Arranger",
+            "id": "intelligencecasino"
+        },
+        "9": {
+            "role": "Arranger",
+            "id": "GOETIA"
+        },
+        "10": {
+            "role": "Arranger",
+            "id": "tenko"
+        },
+        "11": {
+            "role": "Arranger",
+            "id": "baeddelite"
+        },
+        "12": {
+            "role": "Arranger",
+            "id": "Coconami"
+        },
+        "13": {
+            "role": "Arranger",
+            "id": "Supire"
+        },
+        "14": {
+            "role": "Arranger",
+            "id": "Lollipop"
+        },
+        "15": {
+            "role": "Original Composer",
+            "id": "ZUN"
+        },
+        "16": {
+            "role": "Original Composer",
+            "id": "U2 Akiyama"
+        },
+        "17": {
+            "role": "Mastering Engineer & Audio Crossfade",
+            "id": "blobdash"
+        },
+        "18": {
+            "role": "Illustration",
+            "id": "ne_pura"
+        },
+        "19": {
+            "role": "Design & Logo Design",
+            "id": "Zeth"
+        },
+        "20": {
+            "role": "Supervisor & Planner",
+            "id": "Fivda"
+        },
+        "21": {
+            "role": "Japanese Translator",
+            "id": "Yanis"
+        },
+        "22": {
+            "role": "Crossfade Video",
+            "id": "Hiskov"
+        },
+        "23": {
+            "role": "Web",
+            "id": "Bonnie"
+        },
+        "24": {
+            "role": "Web",
+            "id": "Kat"
+        }
+    },
+    "footer": "All original compositions and characters respective of ZUN (Team Shanghai Alice) & U2 Akiyama (Twilight Frontier). 東方Project © 上海アリス幻樂団 / 黄昏フロンティア"
+}

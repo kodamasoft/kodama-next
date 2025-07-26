@@ -1,17 +1,20 @@
-import LocaleSwitcher from '../../locale-switcher'
-import Link from 'next/link'
-import Image from 'next/image'
-import React from 'react'
+import LocaleSwitcher from '../../locale-switcher';
+import Link from 'next/link';
+import Image from 'next/image';
+import React from 'react';
 
-export default function ReleaseNav({...props}) {
+export default function ReleaseNav({ ...props }) {
 	return (
-		<div { ...props}>
+		<div {...props}>
 			<header className="container mx-auto px-4">
 				<div className="flex justify-between items-center">
 					<Link href="/">
 						<Image
-							src="/assets/kodamasounds.png"
-							style={{ objectFit: 'cover', objectPosition: 'center' }}
+							src="/assets/kodamaspeed.png"
+							style={{
+								position: 'relative',
+								top: '10px',
+							}}
 							width={100}
 							height={100}
 							alt="KodamaSounds"
@@ -24,5 +27,5 @@ export default function ReleaseNav({...props}) {
 				</div>
 			</header>
 		</div>
-	)
+	);
 }

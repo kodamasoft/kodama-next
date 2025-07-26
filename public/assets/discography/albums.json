@@ -239,5 +239,36 @@
         "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_ljTbY3QAohF8U_5YzI-pKFrQ8KzH6gyt0",
         "website": "/releases/eclectic-resonance-hollow-horizons",
         "vgmdb": "https://vgmdb.net/album/137951"
+    },
+    "eclectic-resonance-escapism": {
+        "id": "KSDL-0018",
+        "releaseDate": "2025-04-27T00:00:00+0200",
+        "name": "ECLECTIC RESONANCE Escapism",
+        "cover": "/assets/discography/covers/0018.png",
+        "coverColor": "#fdfc93",
+        "bandcamp": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-escapism",
+        "booth": "https://kodamasoft.booth.pm/items/6782310",
+        "appleMusic": "https://music.apple.com/album/eclectic-resonance-escapism/1812028047",
+        "spotify": "https://open.spotify.com/album/2wg04Kpe10Rc0bcoZovTAu",
+        "deezer": "https://www.deezer.com/album/750975811",
+        "youtubeMusic": "https://youtube.com/playlist?list=OLAK5uy_kQNE46QDgidM030o_CXBrQ4gNi4yUkdMQ",
+        "website": "/releases/eclectic-resonance-escapism",
+        "vgmdb": "https://vgmdb.net/album/145978"
+    },
+    "gensokyo-party-vol6": {
+        "id": "KSDL-0019",
+        "releaseDate": "2025-05-05T00:00:00+0200",
+        "name": "Gensokyo Party Vol. 6 Border in Stasis",
+        "cover": "/assets/discography/covers/0019.png",
+        "coverColor": "cf5595",
+        "bandcamp": "https://kodamasounds.bandcamp.com/album/gensokyo-party-vol-6-border-in-stasis",
+        "booth": "https://kodamasoft.booth.pm/items/6753843",
+        "appleMusic": "https://music.apple.com/album/1814369535",
+        "spotify": "https://open.spotify.com/album/2ebVz6ZyE493M02npfR0yx",
+        "deezer": "https://www.deezer.com/album/756595081",
+        "youtubeMusic": "https://www.youtube.com/playlist?list=OLAK5uy_m4EfTvukKnVN6lgKXCgBem8GHhJLmZIc4",
+        "website": "/releases/gensokyo-party-vol6",
+        "vgmdb": "https://vgmdb.net/album/137952",
+        "thbwiki": "https://thwiki.cc/Gensokyo_Party_Vol._6_Border_in_Stasis"
     }
 }
