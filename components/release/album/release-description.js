@@ -85,7 +85,6 @@ export default function ReleaseDescription({
 
 				{booth && (
 					<>
-						{' '}
 						<DtKodama>{t('booth')}</DtKodama>
 						<DdKodama>{booth}</DdKodama>
 					</>
