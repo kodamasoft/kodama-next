@@ -273,17 +273,13 @@
 	},
 	"eclectic-resonance-paradise": {
 		"id": "KSDL-0020",
-		"releaseDate": "2025-04-27T00:00:00+0200",
-		"name": "ECLECTIC RESONANCE Escapism",
-		"cover": "/assets/discography/covers/0018.png",
-		"coverColor": "#fdfc93",
-		"bandcamp": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-escapism",
-		"booth": "https://kodamasoft.booth.pm/items/6782310",
-		"appleMusic": "https://music.apple.com/album/eclectic-resonance-escapism/1812028047",
-		"spotify": "https://open.spotify.com/album/2wg04Kpe10Rc0bcoZovTAu",
-		"deezer": "https://www.deezer.com/album/750975811",
-		"youtubeMusic": "https://youtube.com/playlist?list=OLAK5uy_kQNE46QDgidM030o_CXBrQ4gNi4yUkdMQ",
-		"website": "/releases/eclectic-resonance-escapism",
-		"vgmdb": "https://vgmdb.net/album/145978"
+		"releaseDate": "2025-08-17T00:00:00+0200",
+		"name": "ECLECTIC RESONANCE PARADISE",
+		"cover": "/assets/discography/covers/0020.png",
+		"coverColor": "#f7516a",
+		"bandcamp": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-paradisE",
+		"booth": "https://kodamasoft.booth.pm/items/7199132",
+		"website": "/releases/eclectic-resonance-paradise",
+		"vgmdb": "https://vgmdb.net/album/145977"
 	}
 }
