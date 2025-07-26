@@ -4,6 +4,7 @@ import ReleaseNav from './release-nav';
 
 export default function ReleaseHead({
 	slug,
+	title,
 	logo,
 	header,
 	sc_track_id,
