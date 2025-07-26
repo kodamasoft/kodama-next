@@ -15,7 +15,11 @@
 	},
 	"specification": "Pressed CD / KoDyMaxx 1st Touhou Best Album",
 	"release_date": "Aug 17, 2025 (Comic Market 106 Day 2) [コミックマーケット106 2日目]",
-	"booth": "Four Corners / 東ホール6 オ-24b",
+	"booth": {
+		"link": "https://x.com/4cornersdoujin",
+		"name": "Four Corners",
+		"other": " / 東ホール6 オ-24b"
+	},
 	"catalog": "KSCD-0001",
 	"price": "Pre-Order & Event Price: 10€ / 1500 yen | Post Release Price: 13€ / 2000 yen",
 	"store": {
