@@ -1054,6 +1054,7 @@
 		"name": "Yamajet",
 		"links": {
 			"twitter": "https://twitter.com/Yamajet",
+			"bluesky": "https://bsky.app/profile/yamajet.bsky.social",
 			"bandcamp": "https://yamajet.bandcamp.com",
 			"youtube": "https://www.youtube.com/@keiichiroyamajetyamaji5084",
 			"soundcloud": "https://soundcloud.com/yamajet",
@@ -2008,6 +2009,147 @@
 		"name": "Leizh",
 		"links": {
 			"instagram": "www.instagram.com/leizh_art"
+		}
+	},
+	"moyu": {
+		"name": "moyu",
+		"links": {
+			"twitter": "https://x.com/moyu_musix",
+			"bluesky": "https://bsky.app/profile/moyumoyu.bsky.social",
+			"bandcamp": "https://moyu.bandcamp.com",
+			"soundcloud": "https://soundcloud.com/moyumusic",
+			"apple": "https://music.apple.com/artist/moyu/1783090833",
+			"spotify": "https://open.spotify.com/artist/60LXogItkImT0Q6wZXAH2A",
+			"website": "https://linktr.ee/moyumoyu",
+			"vgmdb": "https://vgmdb.net/artist/62169"
+		}
+	},
+	"HAGANE": {
+		"name": {
+			"en": "HAGANE",
+			"jp": "はがね"
+		},
+		"links": {
+			"twitter": "https://x.com/STEEL_PLUS",
+			"bluesky": "https://bsky.app/profile/steelplus.bsky.social",
+			"bandcamp": "https://steelplus.bandcamp.com/",
+			"youtube": "https://www.youtube.com/@steelplus_hagane",
+			"soundcloud": "https://soundcloud.com/steelplus",
+			"apple": "https://music.apple.com/jp/artist/はがね/1475101139",
+			"spotify": "https://open.spotify.com/artist/2ePt8DtQq9FZ6Pqt3DMnBF",
+			"website": "https://steelplus.xyz",
+			"vgmdb": "https://vgmdb.net/artist/33202"
+		}
+	},
+	"Alkome": {
+		"name": "Alkome",
+		"links": {
+			"twitter": "https://vgmdb.net/artist/57268",
+			"bandcamp": "https://alkome.bandcamp.com/",
+			"youtube": "https://www.youtube.com/channel/UCQSR1orJCx-jj-WKN9LYBfw",
+			"soundcloud": "https://soundcloud.com/alkome",
+			"apple": "https://music.apple.com/artist/alkome/1368627103",
+			"spotify": "https://open.spotify.com/artist/7sWyxKuT17pk8s5aD7Iqwg",
+			"website": "https://alkome.jp/",
+			"vgmdb": "https://vgmdb.net/artist/57268"
+		}
+	},
+	"K.Shiraki": {
+		"name": "K.Shiraki",
+		"links": {
+			"twitter": "https://x.com/kshiraki_",
+			"bandcamp": "https://kshiraki2.bandcamp.com/",
+			"youtube": "https://www.youtube.com/@kshiraki_",
+			"soundcloud": "https://soundcloud.com/kshiraki",
+			"apple": "https://music.apple.com/artist/1485192591",
+			"spotify": "https://open.spotify.com/artist/4N3tyBFCDV0IaT5M8Kalg5",
+			"website": "https://kshiraki2.net/",
+			"vgmdb": "https://vgmdb.net/artist/33916"
+		}
+	},
+	"LSKR": {
+		"name": "LSKR",
+		"links": {
+			"twitter": "https://x.com/imlskr",
+			"youtube": "https://www.youtube.com/channel/UCU_Qf8irqFSIj4QOI1s_-2Q",
+			"soundcloud": "https://soundcloud.com/leskerrr",
+			"apple": "https://music.apple.com/artist/lskr/1449374099",
+			"spotify": "https://open.spotify.com/artist/09DCUlVSOawGxbvsiO8sPT",
+			"website": "https://beacons.ai/imlskr",
+			"vgmdb": "https://vgmdb.net/artist/74111"
+		}
+	},
+	"Ray_Oh": {
+		"name": "Ray_Oh",
+		"links": {
+			"twitter": "https://x.com/chouxworld",
+			"bluesky": "https://bsky.app/profile/rayoh.bsky.social",
+			"bandcamp": "https://ray-oh.bandcamp.com",
+			"youtube": "https://www.youtube.com/@RayOhChannel",
+			"soundcloud": "https://soundcloud.com/ray_oh",
+			"apple": "https://music.apple.com/artist/ray-oh/1464740206",
+			"spotify": "https://open.spotify.com/artist/0Fj8TqIKuZMy6jV6Rh3ksg",
+			"website": "https://lit.link/rayoh",
+			"vgmdb": "https://vgmdb.net/artist/52541"
+		}
+	},
+	"Casio Lamb": {
+		"name": "Casio Lamb",
+		"links": {
+			"twitter": "https://x.com/LambLifeform",
+			"bandcamp": "https://casiolamb.bandcamp.com",
+			"youtube": "https://www.youtube.com/channel/UCOEVWQt5YKmmjGVlBZXUBeg",
+			"soundcloud": "https://soundcloud.com/casiolamb",
+			"apple": "https://music.apple.com/artist/casio-lamb/1585553813",
+			"spotify": "https://open.spotify.com/artist/3PwcWITUOUGae9KQ6HLtvh",
+			"website": "https://casiolamb.moe",
+			"vgmdb": "https://vgmdb.net/artist/72523"
+		}
+	},
+	"MEMODEMO": {
+		"name": "MEMODEMO",
+		"links": {
+			"twitter": "https://x.com/MEMODEMO",
+			"bluesky": "https://bsky.app/profile/memodemo.zip",
+			"bandcamp": "https://memodemo.bandcamp.com",
+			"youtube": "https://www.youtube.com/channel/UCovFbwi3wSV6HQ5hJHJVf7w",
+			"soundcloud": "https://soundcloud.com/MEMODEMO",
+			"apple": "https://music.apple.com/artist/memodemo/1497435525",
+			"spotify": "https://open.spotify.com/artist/3ko5DgW7C8cS3VDvpozPag?si=8gTrIeXUQGOXl6TRhXZF7A&nd=1",
+			"website": "https://linktr.ee/MEMODEMO",
+			"vgmdb": "https://vgmdb.net/artist/58776"
+		}
+	},
+	"Lila mellark": {
+		"name": "Lila mellark",
+		"links": {
+			"bandcamp": "https://lilamellark.bandcamp.com/",
+			"youtube": "https://www.youtube.com/@lilamellark/",
+			"soundcloud": "https://soundcloud.com/lilamellark",
+			"apple": "https://music.apple.com/artist/lila-mellark/1583248045",
+			"spotify": "https://open.spotify.com/artist/4XOFQzwQIEtTRJNBAkcjKA",
+			"website": "https://linktr.ee/leifickson",
+			"vgmdb": "https://vgmdb.net/artist/74112"
+		}
+	},
+	"Mathis Bénard": {
+		"name": "Mathis Bénard",
+		"links": {
+			"vgmdb": "https://vgmdb.net/artist/74113"
+		}
+	},
+	"icesawder": {
+		"name": "icesawder",
+		"links": {
+			"twitter": "https://x.com/icesawder",
+			"bluesky": "https://bsky.app/profile/icesawder.bsky.social",
+			"bandcamp": "https://icesawder.bandcamp.com/",
+			"youtube": "https://youtube.com/@icesawder?si=P3_6h1bSx4llcC0U",
+			"soundcloud": "https://soundcloud.com/icesawder",
+			"apple": "https://music.apple.com/artist/icesawder/1516236002",
+			"spotify": "https://open.spotify.com/artist/5oRMq4zDLE8IK3N8ovC0w4",
+			"website": "https://lit.link/icesawder",
+			"vgmdb": "https://vgmdb.net/artist/38153"
 		}
 	},
 	"SampleEN": {
