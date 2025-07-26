@@ -20,6 +20,7 @@ export default function ReleaseHead({
 							<div className="absolute w-full h-full mask-b-from-80%">
 								{header.image && (
 									<Image
+										alt={title}
 										src={header.image}
 										fill={true}
 										quality={20}

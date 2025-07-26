@@ -75,6 +75,7 @@ export default function ReleaseLayout({ release }) {
 			>
 				<ReleaseHead
 					slug={release.slug}
+					title={release.title}
 					logo={release.logo}
 					header={release.header}
 					description={release.description}

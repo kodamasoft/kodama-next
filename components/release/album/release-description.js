@@ -14,7 +14,6 @@ function DtKodama({ children }) {
 				<hr className="w-full h-px border-[currentColor] opacity-40" />
 			</dt>
 		</>
-
 	);
 }
 
