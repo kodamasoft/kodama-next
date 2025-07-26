@@ -5,12 +5,12 @@
 		{
 				"slug": "eclectic-resonance-paradise",
 				"status": "about-to-release",
-				"percentage": "85",
-				"duration": "48:16",
-				"finished_tracks": "13",
+				"percentage": "100",
+				"duration": "58:48",
+				"finished_tracks": "16",
 				"deadline": "2025-06-20T23:59:59Z",
 				"mastering": {
-					"status": "pending",
+					"status": "completed",
 					"engineer": "R-Man (Resonant Union)"
 				},
 				"artwork_comission": "completed",
