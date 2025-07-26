@@ -1,632 +1,499 @@
 {
 	"slug": "lapis-lazuli",
-	"logo": "/assets/discography/logos/0016.png",
-	"color": "fdfc93",
+	"logo": "/assets/discography/logos/CD0002.png",
+	"color": "dd32d9",
 	"soundcloud_track_id": "1937288675",
-	"cover": "/assets/discography/covers/0016.png",
+	"cover": "/assets/discography/covers/CD0002.png",
 	"background": {
-		"image": "/assets/discography/backgrounds/0016.png",
-		"color": "000511"
+		"image": "/assets/discography/backgrounds/CD0002.png",
+		"color": "2f6af4"
 	},
 	"title": "ECLECTIC RESONANCE Legendaria",
 	"circle": {
 		"name": "KodamaSounds",
 		"link": "/"
 	},
-	"specification": "Fantasy Original Work Album",
-	"release_date": "27 Oct 2024 (M3-2024 Fall)",
+	"specification": "Pressed CD / YOKAI 3rd Solo Album",
+	"release_date": "Aug 17, 2025 (Comic Market 106 Day 2) [コミックマーケット106 2日目]",
+	"booth": "Four Corners / 東ホール6 オ-24b",
 	"catalog": "KSCD-0002",
-	"price": "Pre-Order & Event Price: 12€ / 2000 yen | Post Release Price: 15€ / 2400 yen",
+	"price": "Price: Pre-Order & Event Price: 12€ / 2000 yen | Post Release Price: 15€ / 2500 yen",
 	"store": {
 		"bandcamp": {
 			"name": "Bandcamp",
-			"link": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-legendaria"
+			"link": "https://kodamasounds.bandcamp.com/album/lapis-lazuli"
 		},
 		"booth": {
 			"name": "BOOTH",
-			"link": "https://kodamasoft.booth.pm/items/6174216"
+			"link": "https://kodamasoft.booth.pm/items/7229354"
 		}
 	},
 	"tracklist": {
 		"01": {
-			"title": "The Wisp and the Willow Tree",
-			"artist": "Philip Saguil & Emma Kobin",
+			"title": "Bad Seed",
+			"artist": "YOKAI feat. Zephyrianna",
 			"description": [
-				"• Composer: Philip Saguil (Resonant Union), Emma Kobin",
-				"• Arranger: Philip Saguil (Resonant Union)",
-				"• Vocals & Lyrics: Emma Kobin",
+				"• Composer, Arranger & Lyrics: YOKAI (KodamaSounds)",
+				"• Vocals: Zephyrianna",
+				"• Electric Guitar & Shamisen: YOKAI (KodamaSounds)",
 				"",
-				"• Programmed, Produced & Mixed by Philip Saguil",
-				"• Mastering Engineer: R-Man (Resonant Union)",
+				"• Programmed, Produced by YOKAI (KodamaSounds)",
+				"• Mixed & Mastered by Lunatic Parfait",
+				"• Final Gain Adjustment: Volumetrique",
 				"",
-				"• Used Software: FL Studio",
-				"• Used VSTs & Samples: Ilya Efimov Nylon Guitar, SWAM Violin, SWAM Cello, Lo-Ki Soft Piano, LABS Music Box",
+				"• Used Software: Cubase 5 and 11",
+				"• Used VSTs & Samples: RA, PianoTeq, Groove agent one, EZBass, HalionOne, Massive, Orchestral",
 				"",
-				"• About this track: I wrote this track over two years ago for Emma. I never ended up releasing it, but when time came for Legendaria to close, I asked Emma if she would write lyrics and sing over it for the submission. She said yes, and turned the instrumental into a gorgeous song!",
+				"• About this track: This mainly metal song’s intro was recorded using a shamisen, and is influenced by the Jiuta style of traditional japanese music. The main leitmotif is later on performed with an electric guitar and accompanied by more electronic rhythms. Meanwhile, the lyrics tell us it’s never to late to do our best and doing something good.",
 				"",
-				"BPM: 76",
-				"Key: B minor",
-				"Genre: Castlecore",
+				"• Lyrics",
+				"You always tried to get something to grow",
+				"Was it a mistake?",
+				"You’re mean as a snake",
 				"",
-				"• Lyrics:",
-				"Could you hear me then?",
-				"Calling out your name when",
-				"No one else",
-				"Would listen",
+				"Since childhood you grew up in the shadows",
+				"made in the abyss",
+				"you were born like this",
 				"",
-				"The flowers, the swords within you",
-				"You're caught between worlds -",
-				"Your dreams obscure your vision",
-				"Your dreams obscure your vision",
+				"So can you take your chances now?",
+				"You could still do something good",
 				"",
-				"But no matter what",
-				"You choose to do",
-				"I am with you",
+				"One bad apple spoils the whole barrel",
+				"You can’t go back on it now",
+				"You’re the bad seed the bad seed the bad seed yeah",
+				"You can’t go back on it now",
+				"You’re the bad seed bad seed the bad seed yeah",
 				"",
-				"But here alone beneath this tree",
-				"& this silver sky",
-				"There's a storm in my eyes",
-				"I stay the same so you can change",
+				"Let your roots grow deeper into darkness",
+				"You’ll never see the light",
+				"A tree in the night",
 				"",
-				"Could you see me then?",
-				"In the center of the crowd when",
-				"You were being sent away",
+				"So can you take your chances now?",
+				"At last, to become the King of the wood",
+				"So can you take your chances now?",
+				"You could still do something good",
 				"",
-				"I knew you'd find a way to stay ",
-				"I looked up at the stars",
-				"I knew that they were ours",
+				"You can pull me from the ground",
+				"I can’t give up",
+				"You can root out the evil",
+				"I’m collapsing but I’m still alive",
 				"",
-				"I knew that just as the sand",
-				"Cannot evade the blue sea",
-				"Your soul will break down their ",
-				"Walls just to return home to me",
+				"One bad apple spoils the whole barrel",
+				"You can’t go back on it now",
+				"You’re the bad seed the bad seed the bad seed yeah",
+				"You can’t go back on it now",
+				"You’re the bad seed bad seed the bad seed yeah",
 				"",
-				"In the woods, in the meadow,",
-				"Or down by the shore",
-				"I'll wait for you, as I have before"
+				"BPM: 170",
+				"Key: G",
+				"Time Signature: 4/4",
+				"Genre: Metal/ Electro",
+				"",
+				"https://yokaiproducer.bandcamp.com"
 			]
 		},
 		"02": {
-			"title": "A Mysterious Prophecy",
-			"artist": "Skyleo",
+			"title": "Lapis Lazuli",
+			"artist": {
+				"en": "YOKAI feat. Sera Amagi",
+				"jp": "YOKAI feat. アマギセーラ"
+			},
 			"description": [
-				"• Composer & Arranger: Skyleo",
+				"• Composer, Arranger & Lyrics: YOKAI (KodamaSounds)",
+				"• Vocals: Sera Amagi [アマギセーラ]",
+				"• Electric Guitar & Acoustic Guitar: YOKAI (KodamaSounds)",
 				"",
-				"• Programmed, Produced & Mixed by Skyleo",
-				"• Mastering Engineer: R-Man (Resonant Union)",
+				"• Programmed, Produced by YOKAI (KodamaSounds)",
+				"• Mixed & Mastered by Lunatic Parfait",
+				"• Final Gain Adjustment: Volumetrique",
 				"",
-				"• Used Software: Cubase",
-				"• Used VSTs & Samples: Embertone - Joshua Bell Violin (solo violin); Spectrasonics - Trilian (synth bass); Roland JV-1080 + SRX Orchestra (all the rest)",
+				"• Used Software: Cubase 5 and 11",
+				"• Used VSTs & Samples: RA, Massive, Orchestral, Groove Agent One, DSK asian Dream",
 				"",
-				"• About this track: This track focuses on the softer and meditative side of old school JRPG music.  It is one of my belief that JRPGs soundtracks did a lot of good for classical music. The extent of the influence of classical music in those kind of music is non-negligible and, as a result, an extraordinary amount of JRPGs got symphonic arrangements albums and concerts. A lot of those concerts, despite being held in usually classical venues, are often sold-out. Most of the people attending are young and not the kind to be classical concertgoers. The main instruments of this track are the violin and piano, two staples of western classical music, whether it is in chamber music or pieces written for large ensembles. The other instruments and sounds are almost all from an old rompler featured prominently in 90's RPGs, with most of these aforementioned RPGs seeing symphonic arrangements later down the line.",
+				"• About this track: This song tells us the story of a deserted futuristic world and couple in search of water. The legend of the water crystal lives on, one of a crystal \"capable of giving life back to rivers, ocean, and the planet\". The song takes its inspiration from the Land of the Lustrous manga as well as the Gerudo region from \"The Legend of Zelda: Breath of the Wild.\"",
 				"",
-				"BPM: 120",
-				"Key: G# minor",
-				"Genre: JRPG"
+				"• Lyrics",
+				"勇気の石を手のひらに、大海",
+				"の心、ラピスラズリ",
+				"を追い続けよう",
+				"",
+				"Dans ce désert, le sol craque sous mes pieds.",
+				"Je vois ton mirage sur les lacs asséchés.",
+				"Mes larmes tombent en cascade de sentiments",
+				"Et éveillent en moi des souvenirs d’océan",
+				"",
+				"私を支えて、あなたを支えて",
+				"私を癒して、あなたを癒して",
+				"私を支えて、あなたを支えて",
+				"私を癒して、あなたを癒して",
+				"",
+				"この火の大地で私は希望",
+				"を求め、あなたを見捨てる",
+				"ことはできない",
+				"",
+				"勇気の石を手のひらに、大海",
+				"の心、ラピスラズリ",
+				"を追い続けよう",
+				"",
+				"Est-il trop tard pour voir renaître les saules?",
+				"Les os en feu, je continue d’y croire.",
+				"Si je porte le poids du monde sur mes épaules",
+				"Je ne suis fait que d’eau et d’espoir",
+				"",
+				"私を支えて、あなたを支えて",
+				"私を癒して、あなたを癒して",
+				"私を支えて、あなたを支えて",
+				"私を癒して、あなたを癒して",
+				"",
+				"この火の大地で私は希望",
+				"を求め、あなたを見捨てる",
+				"ことはできない",
+				"",
+				"勇気の石を手のひらに、海",
+				"の心を追いかけよう",
+				"ラピスラズリ",
+				"",
+				"焦げた樹皮の下で不死鳥が復活する。",
+				"私たちはまだ世界の姿を変えることができる。",
+				"",
+				"Sur cette terre de feu je cherche l’espoir et",
+				"je ne peux t’abandonner.",
+				"",
+				"この火の国で私は希望",
+				"を求め、あなたを見捨てる",
+				"ことはできない。",
+				"",
+				"Ma pierre de courage au creux de ma main,",
+				"L’amour est vrai dans le bleu de tes yeux.",
+				"",
+				"勇気の石を手のひらに、君",
+				"の瞳の青に愛",
+				"は宿る。",
+				"",
+				"BPM: 130",
+				"Key: C",
+				"Time Signature: 4/4",
+				"Genre: Electro / Rock",
+				"",
+				"https://yokaiproducer.bandcamp.com"
 			]
 		},
 		"03": {
-			"title": "Adventure of a Day",
-			"artist": "Justin Thornburgh",
+			"title": "Rogue Wave",
+			"artist": "YOKAI",
 			"description": [
-				"• Composer & Arranger: Justin Thornburgh (Resonant Union)",
-				"• Piano, Whistle & Soprano Saxophone: Justin Thornburgh (Resonant Union)",
-				"• Guitar & Mandolin: William Sandberg",
-				"• Oboe: Phoenix Down RPG",
-				"• Clarinet: GameroftheWinds",
+				"• Composer & Arranger: YOKAI (KodamaSounds)",
+				"• Electric Guitar: YOKAI (KodamaSounds)",
 				"",
-				"• Programmed, Produced & Mixed by Justin Thornburgh (Resonant Union)",
-				"• Mastering Engineer: R-Man (Resonant Union)",
+				"• Programmed, Produced by YOKAI (KodamaSounds)",
+				"• Mixed & Mastered by Volumetrique",
 				"",
-				"• Used VSTs & Samples: Spitfire Chamber Strings, Spitfire Studio Brass, EW Hollywood Orchestral Percussion",
+				"• Used Software: Cubase 11",
+				"• Used VSTs & Samples: Groove Agent SE, PianoTeq, EZBass, EZdrummer 3, Halion Sonic SE",
 				"",
-				"• About this track: Celebrating the day-to-day, this track paints the possibilities of the adventure that is living each day with joy and passion. Inspired by the slice of live genre and the Atelier soundtracks.",
+				"• About this track: An electronic & metal song inspired by Adagio, Giuseppe Gilardi and metal songs by Laur. ",
 				"",
-				"BPM: 113 (0:00-2:44) - 102 (2:44-3:40) - 113 (3:40-4:08)",
-				"Key: G",
-				"Genre: JRPG soundtrack"
+				"BPM: 120",
+				"Key: A",
+				"Time Signature: 3/4",
+				"Genre: Metal / Electro / Gothic",
+				"",
+				"https://yokaiproducer.bandcamp.com"
 			]
 		},
 		"04": {
-			"title": "Blossom Magic",
-			"artist": "Tamari",
+			"title": "Under the WilloW",
+			"artist": {
+				"en": "YOKAI feat. 鈴葉ユミ & Justin Thornburgh",
+				"jp": "YOKAI feat. 鈴葉ユミ & Justin Thornburgh"
+			},
 			"description": [
-				"• Composer & Arranger: Tamari (Welkin Strider)",
+				"• Composer & Arranger: YOKAI (KodamaSounds)",
+				"• Vocals: Yumi Suzuha [鈴葉ユミ]",
+				"• Lyrics: YOKAI (KodamaSounds) & Yumi Suzuha [鈴葉ユミ]",
+				"• Electric Guitar & Acoustic Guitar: YOKAI (KodamaSounds)",
+				"• Tin Whistle: Justin Thornburgh",
 				"",
-				"• Programmed, Produced & Mixed by Tamari (Welkin Strider)",
-				"• Mastering Engineer: R-Man (Resonant Union)",
+				"• Programmed, Produced by YOKAI (KodamaSounds)",
+				"• Mixed & Mastered by Lunatic Parfait",
+				"• Final Gain Adjustment: Volumetrique",
 				"",
-				"• Used Software: Cubase 12 Pro",
-				"• Used VSTs & Samples: Celtic Era 2, Indian Bells",
+				"• Used Software: Cubase 5 and 11",
+				"• Used VSTs & Samples: Pianoteq, RA, EZBass, EZDrummer 3, HalionOne, Orchestral, Massive, Monologue, MiniDizi, Groove Agent One",
 				"",
-				"• About this track: The travelers are resting at the side of a river. They enjoy listening to a singing bird and feel the breeze. With her spell, the girl blooms flowers around them.",
+				"• About this track: In Japan, the willow has a rather horrific connotation and is present in a lot of horror stories. In Europe, its meaning is significantly more romantic and poetic. In this song, the willow is a safe haven and its antlers bathing in water invite us to appreciate the moment.",
 				"",
-				"BPM: 188",
-				"Key: G# Major",
-				"Genre: Folk Pop"
+				"• Lyrics",
+				"",
+				"今朝、揺れる葉の影に記憶を見つけた",
+				"もしも哀しみが私の強さならば",
+				"風が葉を揺らせば",
+				"甘い憂鬱が世界を彩る",
+				"もしも苦しみが私の強さならば",
+				"",
+				"柳の下 羽休めて",
+				"夕暮れに永遠を刻んだ",
+				"柳の下 風は歌う",
+				"私の傷を癒すかのように",
+				"柳の下 屋根の向こう",
+				"夕闇に溶ける切なさを",
+				"柳の下 風は歌う",
+				"誰かの傷を癒すかのように",
+				"",
+				"今朝、落ちる雫に 世の不条理を知った",
+				"日々はかけがえなく 全てが愛しく",
+				"弱き者へも等しく 光は降り注ぐ",
+				"消えそうな希望 再び",
+				"眩しく輝く日を夢見て",
+				"",
+				"Carpe diem 此の日を",
+				"Carpe diem 自由に",
+				"そっと揺れし 柳の葉に",
+				"星が落ちて 夜は終わる",
+				"鳥の声が 朝を呼べば",
+				"昇る光 大地照らす",
+				"",
+				"もう少しだけ 羽休めて",
+				"心に灯りひとつ燈して",
+				"柳の下 風は歌う",
+				"私の傷を癒すかのように",
+				"柳の下 優しい夢",
+				"密かな願い 静寂に溶けて",
+				"私は一歩を踏み出そう",
+				"世界が希望包み込む夜に",
+				"",
+				"BPM: 150",
+				"Key: D",
+				"Time Signature: 3/4",
+				"Genre: Acoustic / Jpop / Celtic",
+				"",
+				"https://yokaiproducer.bandcamp.com"
 			]
 		},
 		"05": {
-			"title": "Grasslands",
-			"artist": "Skyleo",
+			"title": "Only Peace",
+			"artist": "YOKAI",
 			"description": [
-				"• Composer & Arranger: Skyleo",
+				"• Composer & Arranger: YOKAI (KodamaSounds)",
+				"• Electric Guitar: YOKAI (KodamaSounds)",
 				"",
-				"• Programmed, Produced & Mixed by Skyleo",
-				"• Mastering Engineer: R-Man (Resonant Union)",
+				"• Programmed, Produced by YOKAI (KodamaSounds)",
+				"• Mixed & Mastered by Volumetrique",
 				"",
-				"• Used Software: Cubase",
-				"• Used VSTs & Samples: Orange Tree Samples - Evolution Steel Strings (guitar); Musical Sampling - Hoard Fingerstyle (guitar); Impact Soundworks - Pearl Concert Grand (piano); Best Service - Celtic ERA 2 (tin whistle); Strezov Sampling - Balkan Ethnic Orchestra (choir); Native Instruments - Kontakt Factory Library (celesta); Spitfire Audio - Spitfire Chamber Strings (strings ensemble); Loops de la Crème - Clap Pack Deluxe 2 (hand claps); GForce Software - M-Tron Pro IV (mellotron flutes); Spectrasonics - Trilian (fretless bass)",
+				"• Used Software: Cubase 5 and 11",
+				"• Used VSTs & Samples: Pianoteq, EZDrummer 3, EZBass, Orchestral, Philharmonic, HalionOne, Groove Agent One, Monologue",
 				"",
-				"• About this track: This is a track heavily inspired by world music seen through the lens of various JRPGs such as the Suikoden or Atelier series. The title itself is a reference to a track from Chrono Cross often known as \"The Grasslands of Time: Home World\", and the influence of Yasunori Mitsuda is overall quite obvious. Other than that, I also took inspiration from various folk music, especially Spanish ones. The harmonies and melodies also shows some influences from a Japanese band named Choro Club, who themselves are primarily influenced by diverse folk music. Those are all pretty natural influences and inspirations of mine, so this track is kind of a candid love letter to them.",
+				"BPM: 150",
+				"Key: B",
+				"Time Signature: 7/4",
+				"Genre: Acoustic / Celtic",
 				"",
-				"BPM: 102",
-				"Key: Eb dorian (0:00~0:37) - Bb dorian (0:37~0:56) - Bb major (0:56~1:15) - Eb dorian (1:15~1:34); it then loop over so the same keys / modulations applies",
-				"Genre: Chrono Cross"
+				"https://yokaiproducer.bandcamp.com"
 			]
 		},
 		"06": {
-			"title": "Grasslands Battle",
-			"artist": "trailmix37",
+			"title": "Kajimakura",
+			"artist": "YOKAI feat. A.Dokuga",
 			"description": [
-				"• Composer & Arranger: trailmix37 (KodamaSounds)",
+				"• Composer & Arranger: YOKAI (KodamaSounds)",
+				"• Vocals: A.Dokuga",
+				"• Lyrics: Traditional Song",
+				"• Electric Guitar: YOKAI (KodamaSounds)",
 				"",
-				"• Programmed, Produced & Mixed by trailmix37 (KodamaSounds)",
-				"• Mastering Engineer: R-Man (Resonant Union)",
+				"• Programmed, Produced by YOKAI (KodamaSounds)",
+				"• Mixed & Mastered by Lunatic Parfait",
+				"• Final Gain Adjustment: Volumetrique",
 				"",
-				"BPM: 166",
-				"Key: A minor/C major",
-				"Genre: N/A"
+				"• Used Software: Cubase 5 and 11",
+				"• Used VSTs & Samples: Pianoteq, RA, Church Organ, Groove Agent One, Tb_Peach, Orchestral",
+				"",
+				"• About this track: This song is directly inspired by a japanese poem of the Edo era. In it, we follow the journey of a lover gone offshore on a river boat. The oar of the boat being their only bed, they yearn with regret of their own love and drown in sorrow.",
+				"",
+				"• Lyrics",
+				"からろ押す",
+				"水の煙の",
+				"人形に",
+				"なびきもやらぬ",
+				"川竹の",
+				"浮き節しげき",
+				"しげき浮き根の",
+				"泊まり舟",
+				"差して行方の",
+				"遠くとも",
+				"つひに寄る辺は",
+				"岸の上の",
+				"松の根",
+				"固き契りをば",
+				"せめて頼まん",
+				"頼むは君に",
+				"夜々身にぞ",
+				"思ひ知る",
+				"波か涙か",
+				"とまもる露か",
+				"濡れにぞ濡れし",
+				"我が袖の",
+				"しほる思ひを",
+				"押し包み",
+				"流れ渡りに",
+				"浮かれて暮らす",
+				"心づくしの",
+				"梶枕",
+				"",
+				"BPM: 160",
+				"Key: D",
+				"Time Signature: 4/4",
+				"Genre: Metal / Electro / Gothic",
+				"",
+				"https://yokaiproducer.bandcamp.com"
 			]
 		},
 		"07": {
-			"title": "Du Rififi dans la Ville Fleurie",
-			"artist": "Tee-vee",
+			"title": "Newtopie",
+			"artist": "YOKAI",
 			"description": [
-				"• Composer & Arranger: Tee-vee",
-				"• Acoustic Guitar, Bass Guitar, Flute, Melodica, Djembe, Salt Shaker, Tambourine, Bongos, Claps: Tee-vee",
+				"• Composer & Arranger: YOKAI (KodamaSounds)",
+				"• Electric Guitar: YOKAI (KodamaSounds)",
 				"",
-				"• Programmed, Produced & Mixed by Tee-vee",
-				"• Mastering Engineer: R-Man (Resonant Union)",
+				"• Programmed, Produced by YOKAI (KodamaSounds)",
+				"• Mixed & Mastered by Volumetrique",
 				"",
-				"• Used Software: FL Studio 21",
-				"• Used VSTs & Samples: Kontakt 7, NI Sessions Strings Pro 2, Korg Triton Extreme, Korg M1, Korg MonoPoly, Arturia B-3V, Arturia Mellotron V, NI Mallet Flux, NI Noire",
+				"• Used Software: Cubase 5 and 11",
+				"• Used VSTs & Samples: Massive, Groove Agent One, HalionOne, Tb_Peach",
 				"",
-				"• About this track: Experimented a whole bunch with my acoustic instruments for this one, also particularly happy with the \"chorus\" melody considering how fast it came to be. Can you tell I'm still very new to flute. The section around 2:15 is the rififi part, the rest is Ville Fleurie",
-				"BPM: 102",
-				"Key: C major/G Mixolydian, B minor (choruses)",
-				"Genre: Folk / Orchestral / Fantasy Soundtrack"
+				"BPM: 150",
+				"Key: B",
+				"Time Signature: 4/4",
+				"Genre: Electro / Metal",
+				"",
+				"https://yokaiproducer.bandcamp.com"
 			]
 		},
 		"08": {
-			"title": {
-				"en": "The Bird That Soars Through Time and Space",
-				"jp": "時空を駆ける鳥"
-			},
-			"artist": "asuton",
+			"title": "The Healing Power of Water",
+			"artist": "YOKAI",
 			"description": [
-				"• Composer & Arranger: asuton",
-				"• Cello, Octave Mandolin & Electric Tenor Guitar by asuton",
+				"• Composer & Arranger: YOKAI (KodamaSounds)",
+				"• Electric Guitar & J-Play Pad: YOKAI (KodamaSounds)",
 				"",
-				"• Programmed, Produced & Mixed by asuton",
-				"• Mastering Engineer: R-Man (Resonant Union)",
+				"• Programmed, Produced by YOKAI (KodamaSounds)",
+				"• Mixed & Mastered by Volumetrique",
 				"",
-				"• Used Software: Studio One",
-				"• Used VSTs & Samples: MODO BASS,  KONTAKT",
+				"• Used Software: Cubase 11, J-Play",
+				"• Used VSTs & Samples: Padshop, Halion Sonic SE, Groove Agent SE, Silk, R",
 				"",
-				"• About this track: The beginning of a new story (a game's opening). An exciting adventures in which we travel around the world. [これから始まる物語の序章（ゲームのオープニング）世界中を旅するワクワクした冒険。]",
+				"• About this track: The rhythm was produced with a J-Play which isn't even produced anymore. The song sounds quite dark, but it also make you feel like you're underwater. Imagine sinking in an ocean without knowing what's below you. You can imagine creatures swimming in the depths. The ambience is very much like a futuristic city similar to New Port City from Ghost in the Shell, with a cyberpunk tonality which brings a touch of romanticism and darkness to the song.",
 				"",
-				"BPM: 102 (0:00-00:37), 226 (0:42-3:19), 232 (4:02)",
-				"Key: D major",
-				"Genre: Folk Music [民族音楽]"
+				"BPM: 120",
+				"Key: C#",
+				"Time Signature: 4/4",
+				"Genre: Darkwave / Metal",
+				"",
+				"https://yokaiproducer.bandcamp.com"
 			]
 		},
 		"09": {
-			"title": "The land where they once were",
-			"artist": "Cororo",
+			"title": "TwinSan",
+			"artist": "YOKAI",
 			"description": [
-				"• Composer & Arranger: Cororo",
+				"• Composer & Arranger: YOKAI (KodamaSounds)",
+				"• Electric Guitar: YOKAI (KodamaSounds)",
 				"",
-				"• Programmed, Produced, Mixed & Mastered by Cororo",
-				"• Additional Mastering: EQ, glue compression, multiband saturation, multiband compression, stereo expansion and soft clipping",
+				"• Programmed, Produced by YOKAI (KodamaSounds)",
+				"• Mixed & Mastered by Volumetrique",
 				"",
-				"• Used Software: Logic Pro",
+				"• Used Software: Cubase 11",
+				"• Used VSTs & Samples: EZDrummer 3, EZBass, Pianoteq, Opus Voice of Passion, Halion Sonic SE",
 				"",
-				"• About this track: I named this song after an imaginary story in which the people who protected this land are gone for some reason, and we think of them through relics and the like.",
+				"• About this track: This song has a bunch of references to the game Little Big Adventure, as well as Yuki Kajiura's work. I chose this album to close off the album (remix aside), since it's quite dense and epic sounding, and sounds like a good lead for another album. Considering its games and anime inspirations like Sword Art Online, I thought it'd be interesting to end on an instrumental longer track than the rest of the album, similarly to how progressive rock bands do.",
 				"",
-				"BPM: 123 (0:00~0:07) - 127 (0:07~0:08) - 131 (0:08~1:59) - 117 (1:59~2:13) - 111 (2:13~2:37) - 114(2:37~3:01) - 119 (3:01~3:09) - 125 (3:09~3:17) - 130 (3:17~3:22) - 138 (3:22~3:25) - 140 (3:25~3:44)",
-				"Key: Dm (0:00~1:59) - N/A (1:59~2:16) - Em (2:16 - 3:44)",
-				"Genre: Celtic music"
+				"BPM: 120",
+				"Key: E",
+				"Time Signature: 4/4",
+				"Genre: Progressive Rock, Video Game Music",
+				"",
+				"https://yokaiproducer.bandcamp.com"
 			]
 		},
 		"10": {
-			"title": "Pensive The Evening Star",
-			"artist": "Yumi Sakata",
+			"title": "Bad Seed (Volumetrique Remix)",
+			"artist": "Volumetrique",
 			"description": [
-				"• Composer & Arranger: Yumi Sakata",
+				"• Composer & Lyrics: YOKAI (KodamaSounds)",
+				"• Remix: Volumetrique",
+				"• Vocals: Zephyrianna & Volumetrique",
 				"",
-				"• Programmed, Produced, Mixed & Mastered by Yumi Sakata",
-				"• Additional Mastering: Multiband Compression",
+				"• Programmed, Produced, Mixed & Mastered by Volumetrique",
 				"",
-				"• Used Software: FL Studio",
-				"• Used VSTs & Samples: Kontakt: Noire, Cinewinds, The Conservatoire Collection, Balkans Ethnic Orchestra"
-			]
-		},
-		"11": {
-			"title": "Feu Follet",
-			"artist": "YOKAI feat. Justin Thornburgh",
-			"description": [
-				"• Composer & Arranger: YOKAI (KodamaSounds)",
-				"• Tin Whistle: Justin Thornburgh",
-				"• Acoustic & Electric Guitar: YOKAI (KodamaSounds)",
-				"",
-				"• Programmed, Produced & Mixed by YOKAI (KodamaSounds)",
-				"• Mastering Engineer: R-Man (Resonant Union)",
-				"",
-				"• Used Software: Cubase 11",
-				"• Used VSTs & Samples: Pianoteq, Opus, Orchestral, Easydrummer, Halione",
-				"",
-				"• About this track: This track mixes several musical influences, such as fairly traditional RPG music, Celtic music and rock with the main influence of the band Muse. I tried to do something dynamic with nuances, but also something mysterious with dark parts.",
-				"",
-				"BPM: 130",
+				"BPM: 172",
 				"Key: G",
-				"Genre: RPG Music"
-			]
-		},
-		"12": {
-			"title": "Aeromancer",
-			"artist": "Monochrome",
-			"description": [
-				"• Composer & Arranger: Monochrome",
+				"Time Signature: 4/4",
+				"Genre: Metal-Neurofunk",
 				"",
-				"• Programmed, Produced & Mixed by Monochrome",
-				"• Mastering Engineer: R-Man (Resonant Union)",
-				"",
-				"This track emerged when burnout was slowly encroaching. Earlier in the year, I had decided I would commit to Legendaria, feeling confident in my orchestration abilities after dabbling in fantasy music on two separate occasions. But the timing ended up being poor - my workload was the largest and most intimidating it'd ever been, events in my life had tested my will to press forward with music as a whole, and I was a little anxious about submitting to an album where I knew I'd be standing amongst giants. It seemed like everything around me was telling me \"no\", and so I got paralyzed by Legendaria, the task looking more and more daunting. My solution was brute force - powering through the turmoil because I figured I'd be better off for it. This track, \"Aeromancer\", is the result. The composition is soaring and triumphant, which I'm unsure how I pulled off amidst so much negativity. Jazz flavors are peppered in at various points, lending a slight chaos that the bright chorus section resolves beautifully. In arranging this song, I was reminded that this task should be one of joy and love for the craft, and it was easy to run with from there. While my circumstances will not improve immediately, I can always, without fail, forget my troubles with music, and \"Aeromancer\" is the proof of that.",
-				"",
-				"BPM: 122",
-				"Key: E minor",
-				"Genre: Orchestral"
-			]
-		},
-		"13": {
-			"title": "Distant Village",
-			"artist": "MB",
-			"description": [
-				"• Composer & Arranger: MB (Resonant Union)",
-				"• Acoustic Guitar: MB (Resonant Union)",
-				"• Flute & Alto Flute: Joseph Hourigan",
-				"• Violin: Harry Nguyen",
-				"• Cello: Marcus Ho",
-				"• Piano: Caleb Paine",
-				"",
-				"• Produced & Mixed by MB (Resonant Union)",
-				"• Mastering Engineer: R-Man (Resonant Union)",
-				"",
-				"• Used Software: Logic Pro X",
-				"",
-				"• About this track: This is an old track which I made for a university project! It was made to be a demo track for JRPG-style town themes based on some research I was doing at the time.",
-				"",
-				"BPM: 63",
-				"Key: A Minor",
-				"Genre: Folk"
-			]
-		},
-		"14": {
-			"title": "Faeries in the Coral Abyss",
-			"artist": {
-				"en": "Shauno Isomura",
-				"jp": "磯村翔之"
-			},
-			"description": [
-				"• Composer & Arranger: Shauno Isomura [磯村翔之]",
-				"",
-				"• Programmed, Produced, Mixed & Mastered by Shauno Isomura [磯村翔之]",
-				"• Additional Mastering: EQ, Glue compression, Multiband compression, Stereo expansion, Limiting to restore loudness",
-				"",
-				"• About this track: This is the song of ancient forest that is cold, mysterious, yet beautiful like the deep sea. The two main objectives of this piece was to give an impression of underwater using land/forest instruments, and to make it easy to listen to while being difficult to fully understand on a first listen. To get this \"ancient\" feeling, I decided to make use of traditional Japanese music elements such as Haraikotoba, Gagaku/Netori and hinting the sound of Shō and Uchimono using western instruments.",
-				"",
-				"BPM: N/A",
-				"Key: N/A",
-				"Genre: N/A"
-			]
-		},
-		"15": {
-			"title": "Library of Prayers",
-			"artist": "Elliot Hsu",
-			"description": [
-				"• Composer & Arranger: Elliot Hsu (Azure Archives)",
-				"",
-				"• Programmed, Produced & Mixed by Elliot Hsu (Azure Archives)",
-				"• Mastering Engineer: R-Man (Resonant Union)",
-				"",
-				"• Used Software: Cubase",
-				"• Used VSTs & Samples: Kontakt (for 99% of the instruments), Ample Guitar M,",
-				"",
-				"• About this track: Dark corridors of ancient books, enticing those who stumble upon it to venture further. A blinding light shines when the forbidden tome is read, as the pages search for the one who's chosen.",
-				"",
-				"BPM: 155",
-				"Key: B Minor",
-				"Genre: Fantasy Orchestral"
-			]
-		},
-		"16": {
-			"title": "Echoes of the Night",
-			"artist": "dystopian tanuki & SpiralFlip",
-			"description": [
-				"• Composer & Arranger: dystopian tanuki, SpiralFlip",
-				"• Piano: dystopian tanuki",
-				"",
-				"• Programmed & Mixed by dystopian tanuki, SpiralFlip",
-				"• Produced by SpiralFlip",
-				"• Mastering Engineer: R-Man (Resonant Union)",
-				"",
-				"• About this track: Depicting a character following a familiar voice through a forest.",
-				"",
-				"BPM: 160",
-				"Key: C#",
-				"Genre: N/A"
-			]
-		},
-		"17": {
-			"title": "Bravery Quest",
-			"artist": "Fukagawa",
-			"description": [
-				"• Composer & Arranger: Fukagawa",
-				"",
-				"• Programmed, Produced, Mixed & Mastered by Fukagawa",
-				"• Additional Mastering: Stereo expansion, multiband compression",
-				"",
-				"• Used Software: Logic Pro",
-				"",
-				"• About this track: In this song, I put a focus on courage, exploration and development. I made this song so that the listeners can vividly imagine a fantasy world.",
-				"",
-				"BPM: 116(0:00~00:18) - 114(00:18~00:25) - 112(00:25~00:27) - 116(00:27~02:22) - 112(02:22~02:22) - 111(02:22~02:23) - 108(02:23~02:24) - 116(02:24~03:22) - 114(03:22~03:22) - 113(03:22~03:22) - 112(03:22~End)",
-				"Key: Em",
-				"Genre: Orchestral [オーケストラ]"
-			]
-		},
-		"18": {
-			"title": "The Last Everlasting World",
-			"artist": "WujuBlade",
-			"description": [
-				"• Composer & Arranger: WujuBlade",
-				"",
-				"• Programmed, Produced, Mixed & Mastered by WujuBlade",
-				"• Additional Mastering: Multiband compression, clipper to regain loudness",
-				"",
-				"• Used Software: FL STUDIO 21",
-				"• Used VSTs & Samples: Kontakt 7, Audiolatry Grand Piano, BBC Symphony, 3x OSC, Serum (Primary VSTs USED)",
-				"",
-				"• About this track: The Mountain stands in silence, the wind no longer speaks. The Ocean lost its touch, what lies ahead opens. Yet in this final moment, where everything is dim. May our heart still burn bright, In the Everlasting world, Chase towards the endless light. The Last everlasting world will shine for everyone.",
-				"",
-				"BPM: N/A",
-				"Key: N/A",
-				"Genre: Soundtrack/Orchestral/EDM"
-			]
-		},
-		"19": {
-			"title": "Liluth",
-			"artist": {
-				"en": "SPIRITGARDEN* feat. LIYU",
-				"jp": "SPIRITGARDEN* feat. リユ"
-			},
-			"description": [
-				"• Composer & Arranger: SPIRITGARDEN*",
-				"• Vocals & Lyrics: LIYU [リユ]",
-				"",
-				"• Programmed, Produced & Mixed by SPIRITGARDEN*",
-				"• Mastering Engineer: R-Man (Resonant Union)",
-				"",
-				"• Used Software: FL Studio 21",
-				"• Used VSTs & Samples: Virharmonic Bohemian Violin, Eduardo Taritontes Accordion",
-				"",
-				"BPM: 157",
-				"Key: A♭ minor",
-				"Genre: Fantasy",
-				"",
-				"• Lyrics:",
-				"A family heirloom of long history",
-				"caught the king's eye in a banquet",
-				"Soon it was stolen and detained",
-				"That is the beginning of war between races",
-				"",
-				"A tremendous power in the wrong hands",
-				"Endangering forests and the world",
-				"With the help of Gaia's guidance",
-				"",
-				"I shall end this once and for all",
-				"",
-				"Blessed with the knowledge of ancestry",
-				"Liluth revives the forgotten teachings",
-				"",
-				"Hear the chants of Mother Gaia",
-				"A single pendant that leads to reset",
-				"Unleashing a devastating catastrophe",
-				"",
-				"Even when both kin and foe become lost",
-				"(everything, all of it was gone)",
-				"I'll become (I'd still be) the catalyst  for a greater cause",
-				"Thus, years passed by with a flourishing new world",
-				"",
-				"長い歴史を持つ家宝が",
-				"宴会で王の目に留まった",
-				"すぐに盗まれ、拘 留された",
-				"それは人種間の戦争の始まりだ",
-				"",
-				"強大な力は間違った手に渡れば",
-				"森林と世界を危険にさらす",
-				"ガイアの導きの助けを借りて",
-				"",
-				"これを永遠に終わらせる",
-				"",
-				"祖先の知識に恵まれた",
-				"リルースは失われた教えを復活だ",
-				"",
-				"母なるガイアの歌声を聞く",
-				"リセットにつながるペンダント",
-				"壊滅大惨事を引き起こす",
-				"すべて生き物を消滅さ",
-				"",
-				"たとえ親族も敵も消え去った",
-				"しても(全部、全部 消えてた",
-				"んだ)",
-				"大きな目的のきっかけと(私",
-				"は)なるだろう",
-				"こうして、年月が経った、新",
-				"しい世界が繁栄し"
+				"https://volumetrique.bandcamp.com"
 			]
 		}
 	},
 	"youtube_id": "RTmoqY8VczU",
 	"credits": {
 		"1": {
-			"role": "Composer & Arranger",
-			"id": "Philip Saguil"
+			"role": "Composer, Arranger, Lyrics, Electric & Acoustic Guitar, Shamisen, J-Play Pad",
+			"id": "YOKAI"
 		},
 		"2": {
-			"role": "Composer, Vocals & Lyrics",
-			"id": "Emma Kobin"
+			"role": "Remixer, Mixing Supervisor, Mastering Supervisor & Audio Crossfade",
+			"id": "Volumetrique"
 		},
 		"3": {
-			"role": "Composer & Arranger",
-			"id": "Skyleo"
+			"role": "Vocals",
+			"id": "Zephyrianna"
 		},
 		"4": {
-			"role": "Composer, Arranger & Instruments",
-			"id": "Justin Thornburgh"
+			"role": "Vocals",
+			"id": "Sera Amagi"
 		},
 		"5": {
-			"role": "Guitar & Mandolin",
-			"id": "William Sandberg"
+			"role": "Vocals & Lyrics",
+			"id": "Yumi Suzuha"
 		},
 		"6": {
-			"role": "Oboe",
-			"id": "Phoenix Down RPG"
+			"role": "Vocals",
+			"id": "A.Dokuga"
 		},
 		"7": {
-			"role": "Clarinet",
-			"id": "GameroftheWinds"
+			"role": "Tin Whistle",
+			"id": "Justin Thornburgh"
 		},
 		"8": {
-			"role": "Composer & Arranger",
-			"id": "Tamari"
+			"role": "Mixing, Mastering",
+			"id": "Lunatic Parfait"
 		},
 		"9": {
-			"role": "Composer & Arranger",
-			"id": "trailmix37"
+			"role": "Illustration",
+			"id": "Leizh"
 		},
 		"10": {
-			"role": "Composer, Arranger & Instruments",
-			"id": "Tee-vee"
+			"role": "Logo Designer & Layout",
+			"id": "Zeth"
 		},
 		"11": {
-			"role": "Composer, Arranger & Instruments",
-			"id": "asuton"
+			"role": "Supervisor & Planner",
+			"id": "Fivda"
 		},
 		"12": {
-			"role": "Composer & Arranger",
-			"id": "Cororo"
+			"role": "Japanese Translator",
+			"id": "Yanis"
 		},
 		"13": {
-			"id": "Yumi Sakata",
-			"role": "Composer & Arranger"
+			"role": "Crossfade Video",
+			"id": "Len"
 		},
 		"14": {
-			"id": "YOKAI",
-			"role": "Composer, Arranger & Guitar"
+			"role": "Web",
+			"id": "Bonnie"
 		},
 		"15": {
-			"id": "Monochrome",
-			"role": "Composer & Arranger"
-		},
-		"16": {
-			"id": "MB",
-			"role": "Composer, Arranger & Guitar"
-		},
-		"17": {
-			"id": "Joseph Hourigan",
-			"role": "Flute & Alto Flute"
-		},
-		"18": {
-			"id": "Harry Nguyen",
-			"role": "Violin"
-		},
-		"19": {
-			"id": "Marcus Ho",
-			"role": "Cello"
-		},
-		"20": {
-			"id": "Caleb Paine",
-			"role": "Piano"
-		},
-		"21": {
-			"id": "Shauno Isomura",
-			"role": "Composer & Arranger"
-		},
-		"22": {
-			"id": "Elliot Hsu",
-			"role": "Composer & Arranger"
-		},
-		"23": {
-			"id": "dystopian tanuki",
-			"role": "Composer, Arranger & Piano"
-		},
-		"24": {
-			"id": "SpiralFlip",
-			"role": "Composer & Arranger"
-		},
-		"25": {
-			"id": "Fukagawa",
-			"role": "Composer & Arranger"
-		},
-		"26": {
-			"id": "WujuBlade",
-			"role": "Composer & Arranger"
-		},
-		"27": {
-			"id": "SPIRITGARDEN*",
-			"role": "Composer & Arranger"
-		},
-		"28": {
-			"id": "LIYU",
-			"role": "Vocals & Lyrics"
-		},
-		"29": {
-			"id": "R-Man",
-			"role": "Mastering Engineer"
-		},
-		"30": {
-			"id": "Volumetrique",
-			"role": "Audio Crossfade"
-		},
-		"31": {
-			"id": "unizono",
-			"role": "Illustration"
-		},
-		"32": {
-			"id": "cal",
-			"role": "Logo Designer, Advisor & Planner"
-		},
-		"33": {
-			"id": "Fivda",
-			"role": "Supervisor & Planner"
-		},
-		"34": {
-			"id": "Yanis",
-			"role": "Japanese Translator"
-		},
-		"35": {
-			"id": "Elegant Sister",
-			"role": "Crossfade Video"
-		},
-		"36": {
-			"id": "krz",
-			"role": "Web"
-		},
-		"37": {
-			"id": "RLZY",
-			"role": "Special Thanks"
+			"role": "Web",
+			"id": "Kat"
 		}
 	},
 	"footer": "All music and visuals owned by KodamaSounds and their respective artists"
