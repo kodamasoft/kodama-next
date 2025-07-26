@@ -72,10 +72,10 @@ export default function ReleaseTracklist({ credits }) {
 						<th className="px-4 py-2">Link</th>
 					</tr>
 				</thead>
-				<tbody className="grid grid-cols-1 sm:grid-cols-2 p-4 gap-4 md:table-row-group md:p-0 md:border-t border-[#666]">
+				<tbody className="grid grid-cols-1 sm:grid-cols-2 p-4 gap-4 md:table-row-group md:p-0 md:border-t border-current/40">
 					{Object.entries(credits).map((creditJSON) => {
 						const tdClass =
-							'md:border-b border-[#666] md:p-4 md:pl-8';
+							'md:border-b border-current/40 md:p-4 md:pl-8';
 
 						let collaboratorInfo =
 							collaboratorsJson[creditJSON[1].id];
@@ -84,7 +84,7 @@ export default function ReleaseTracklist({ credits }) {
 							return (
 								<tr
 									key={creditJSON[0]}
-									className="flex flex-col gap-4 w-auto pb-4 mb-4 border-b border-[#666] sm:border-0 md:m-0 md:table-row md:w-full"
+									className="flex flex-col gap-4 w-auto pb-4 mb-4 border-b border-current/40 sm:border-0 md:m-0 md:table-row md:w-full"
 								>
 									<td className={tdClass + ' text-red-600'}>
 										{creditJSON[1].id}
@@ -100,15 +100,17 @@ export default function ReleaseTracklist({ credits }) {
 						return (
 							<tr
 								key={creditJSON[0]}
-								className="flex flex-col gap-4 w-auto pb-4 mb-4 border-b border-[#666] sm:border-0 md:m-0 md:table-row md:w-full"
+								className="flex flex-col gap-4 w-auto pb-4 mb-4 border-b border-current/40 sm:border-0 md:m-0 md:table-row md:w-full"
 							>
 								<td className={tdClass}>
 									{typeof collaboratorInfo.name === 'object'
 										? collaboratorInfo.name[locale]
 										: collaboratorInfo.name}
 								</td>
-								<td className={`text-white/50 ${tdClass}`}>
-									{creditJSON[1].role}
+								<td className={tdClass}>
+									<span className="text-current/50">
+										{creditJSON[1].role}
+									</span>
 								</td>
 								<td className={tdClass}>
 									<div className="flex flex-wrap gap-4">

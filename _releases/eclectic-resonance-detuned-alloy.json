@@ -4,8 +4,8 @@
 	"color": "a7314a",
 	"soundcloud_track_id": "1643586762",
 	"cover": "/assets/discography/covers/0009.png",
-	"background": {
-		"image": "/assets/discography/backgrounds/0009.png"
+	"header": {
+		"image": "/assets/discography/headers/0009.png"
 	},
 	"title": "ECLECTIC RESONANCE Detuned Alloy",
 	"circle": {

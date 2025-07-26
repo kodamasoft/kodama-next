@@ -5,7 +5,7 @@ import ReleaseNav from './release-nav';
 export default function ReleaseHead({
 	slug,
 	logo,
-	background,
+	header,
 	sc_track_id,
 	color,
 }) {
@@ -13,28 +13,33 @@ export default function ReleaseHead({
 
 	return (
 		<>
-			<div className={background ? 'mx-auto' : 'container mx-auto'}>
-				{background ? (
-					<div className="relative overflow-hidden">
-						{background.image && (
-							<Image
-								src={background.image}
-								alt="Background"
-								fill={true}
-								quality={20}
-								className="z-2 object-cover blur-[25px] brightness-50 mask-linear-180 mask-linear-from-[90%] mask-linear-to-[100%]"
-							/>
-						)}
-						{background.video && (
-							//  div with fadeout mask on the bottom
-							<video
-								className="w-full h-full object-cover object-center absolute top-0 left-0 z-3 mask-linear-180 mask-linear-from-[90%] mask-linear-to-[100%]"
-								autoPlay
-								loop
-								muted
-								plays
-								src={background.video}
-							></video>
+			<div className={header ? 'mx-auto' : 'container mx-auto'}>
+				{header ? (
+					<div className="w-full h-full relative overflow-hidden">
+						{header.image || header.video ? (
+							<div className="absolute w-full h-full mask-b-from-80%">
+								{header.image && (
+									<Image
+										src={header.image}
+										fill={true}
+										quality={20}
+										className={`z-2 object-cover blur-[${header.blur ?? 25}px] brightness-[${header.brightness ?? 0.5}] scale-110`}
+									/>
+								)}
+								{header.video && (
+									//  div with fadeout mask on the bottom
+									<video
+										className="w-full h-full object-cover object-center absolute top-0 left-0 z-3 scale-110"
+										autoPlay
+										loop
+										muted
+										plays
+										src={header.video}
+									></video>
+								)}
+							</div>
+						) : (
+							<></>
 						)}
 
 						<div className="md:container relative mx-auto z-10">

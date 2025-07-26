@@ -4,8 +4,10 @@
 	"color": "fdfc93",
 	"soundcloud_track_id": "1937288675",
 	"cover": "/assets/discography/covers/0016.png",
+	"header": {
+		"image": "/assets/discography/headers/0016.png"
+	},
 	"background": {
-		"image": "/assets/discography/backgrounds/0016.png",
 		"color": "000511"
 	},
 	"title": "ECLECTIC RESONANCE Legendaria",
