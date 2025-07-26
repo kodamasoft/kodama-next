@@ -15,7 +15,11 @@
 	},
 	"specification": "15x15cm Download Card / Original Compilation Album",
 	"release_date": "Aug 17, 2025 (Comic Market 106 Day 2) [コミックマーケット106 2日目]",
-	"booth": "BOOTH: Four Corners / 東ホール6 オ-24b",
+	"booth": {
+		"link": "https://x.com/4cornersdoujin",
+		"name": "Four Corners",
+		"other": " / 東ホール6 オ-24b"
+	},
 	"catalog": "KSDL-0020",
 	"price": "Price: Pre-Order & Event Price: 12€ / 2000 yen | Post Release Price: 15€ / 2500 yen",
 	"store": {
