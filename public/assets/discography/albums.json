@@ -274,16 +274,12 @@
 	"lapis-lazuli": {
 		"id": "KSCD-0002",
 		"releaseDate": "2024-10-27T00:00:00+0200",
-		"name": "ECLECTIC RESONANCE Legendaria",
-		"cover": "/assets/discography/covers/0016.png",
-		"coverColor": "#f0dbaa",
-		"bandcamp": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-legendaria",
-		"booth": "https://kodamasoft.booth.pm/items/6174216",
-		"appleMusic": "https://music.apple.com/album/eclectic-resonance-legendaria/1777263105",
-		"spotify": "https://open.spotify.com/album/6yyPYkPEP6i6S3knlcUtiE",
-		"deezer": "https://www.deezer.com//album/680011191",
-		"youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_lFQbyAGM5iJBc2K8aj7PQ1fnZRqZaOTsI",
-		"website": "/releases/eclectic-resonance-legendaria",
-		"vgmdb": "https://vgmdb.net/album/137950"
+		"name": "Lapis Lazuli",
+		"cover": "/assets/discography/covers/CD0002.png",
+		"coverColor": "#2f6af4",
+		"bandcamp": "https://kodamasounds.bandcamp.com/album/lapis-lazuli",
+		"booth": "https://kodamasoft.booth.pm/items/7229354",
+		"website": "/releases/lapis-lazuli",
+		"vgmdb": ""
 	}
 }
