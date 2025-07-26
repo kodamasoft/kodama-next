@@ -1,30 +1,31 @@
 {
 	"slug": "eclectic-resonance-paradise",
-	"logo": "/assets/discography/logos/0016.png",
-	"color": "fdfc93",
-	"soundcloud_track_id": "1937288675",
-	"cover": "/assets/discography/covers/0016.png",
+	"logo": "/assets/discography/logos/0020.png",
+	"color": "ffd54f",
+	"soundcloud_track_id": "2136879759",
+	"cover": "/assets/discography/covers/0020.png",
 	"background": {
-		"image": "/assets/discography/backgrounds/0016.png",
-		"color": "000511"
+		"image": "/assets/discography/backgrounds/0020.png",
+		"color": "ff8b8e"
 	},
-	"title": "ECLECTIC RESONANCE Legendaria",
+	"title": "ECLECTIC RESONANCE PARADISE",
 	"circle": {
 		"name": "KodamaSounds",
 		"link": "/"
 	},
-	"specification": "Fantasy Original Work Album",
-	"release_date": "27 Oct 2024 (M3-2024 Fall)",
+	"specification": "15x15cm Download Card / Original Compilation Album",
+	"release_date": "Aug 17, 2025 (Comic Market 106 Day 2) [コミックマーケット106 2日目]",
+	"booth": "BOOTH: Four Corners / 東ホール6 オ-24b",
 	"catalog": "KSDL-0020",
-	"price": "Pre-Order & Event Price: 12€ / 2000 yen | Post Release Price: 15€ / 2400 yen",
+	"price": "Price: Pre-Order & Event Price: 12€ / 2000 yen | Post Release Price: 15€ / 2500 yen",
 	"store": {
 		"bandcamp": {
 			"name": "Bandcamp",
-			"link": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-legendaria"
+			"link": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-paradise"
 		},
 		"booth": {
 			"name": "BOOTH",
-			"link": "https://kodamasoft.booth.pm/items/6174216"
+			"link": "https://kodamasoft.booth.pm/items/7199132"
 		}
 	},
 	"tracklist": {
