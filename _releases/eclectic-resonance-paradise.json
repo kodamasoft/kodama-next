@@ -476,143 +476,95 @@
 		},
 		"3": {
 			"role": "Composer & Arranger",
-			"id": "Skyleo"
+			"id": "HAGANE"
 		},
 		"4": {
-			"role": "Composer, Arranger & Instruments",
-			"id": "Justin Thornburgh"
+			"role": "Composer & Arranger",
+			"id": "Alkome"
 		},
 		"5": {
-			"role": "Guitar & Mandolin",
-			"id": "William Sandberg"
+			"role": "Composer & Arranger",
+			"id": "K.Shiraki"
 		},
 		"6": {
-			"role": "Oboe",
-			"id": "Phoenix Down RPG"
+			"role": "Composer, Arranger, Electric Guitar & Flute",
+			"id": "Tee-vee"
 		},
 		"7": {
-			"role": "Clarinet",
-			"id": "GameroftheWinds"
+			"role": "Composer, Arranger & Electric Guitar",
+			"id": "LSKR"
 		},
 		"8": {
-			"role": "Composer & Arranger",
-			"id": "Tamari"
+			"role": "Composer, Arranger, Electric Guitar & Mastering Engineer",
+			"id": "R-Man"
 		},
 		"9": {
 			"role": "Composer & Arranger",
-			"id": "trailmix37"
+			"id": "Ray_Oh"
 		},
 		"10": {
-			"role": "Composer, Arranger & Instruments",
-			"id": "Tee-vee"
+			"role": "Composer & Arranger",
+			"id": "Monochrome"
 		},
 		"11": {
-			"role": "Composer, Arranger & Instruments",
-			"id": "asuton"
+			"role": "Composer & Arranger",
+			"id": "Casio Lamb"
 		},
 		"12": {
 			"role": "Composer & Arranger",
-			"id": "Cororo"
+			"id": "Yozu C"
 		},
 		"13": {
-			"id": "Yumi Sakata",
-			"role": "Composer & Arranger"
+			"role": "Composer & Arranger",
+			"id": "MEMODEMO"
 		},
 		"14": {
-			"id": "YOKAI",
-			"role": "Composer, Arranger & Guitar"
+			"role": "Composer & Arranger",
+			"id": "g3ntlebreeze"
 		},
 		"15": {
-			"id": "Monochrome",
-			"role": "Composer & Arranger"
+			"role": "Composer & Arranger",
+			"id": "Lila mellark"
 		},
 		"16": {
-			"id": "MB",
-			"role": "Composer, Arranger & Guitar"
+			"role": "Drums",
+			"id": "Mathis Bénard"
 		},
 		"17": {
-			"id": "Joseph Hourigan",
-			"role": "Flute & Alto Flute"
+			"role": "Composer & Arranger",
+			"id": "icesawder"
 		},
 		"18": {
-			"id": "Harry Nguyen",
-			"role": "Violin"
+			"role": "Audio Crossfade",
+			"id": "Volumetrique"
 		},
 		"19": {
-			"id": "Marcus Ho",
-			"role": "Cello"
+			"role": "Illustration",
+			"id": "Garrrros"
 		},
 		"20": {
-			"id": "Caleb Paine",
-			"role": "Piano"
+			"role": "Logo Designer & Layout",
+			"id": "LkProd"
 		},
 		"21": {
-			"id": "Shauno Isomura",
-			"role": "Composer & Arranger"
+			"role": "Supervisor & Planner",
+			"id": "Fivda"
 		},
 		"22": {
-			"id": "Elliot Hsu",
-			"role": "Composer & Arranger"
+			"role": "Japanese Translator",
+			"id": "Yanis"
 		},
 		"23": {
-			"id": "dystopian tanuki",
-			"role": "Composer, Arranger & Piano"
+			"role": "Crossfade Video",
+			"id": "Iyouka"
 		},
 		"24": {
-			"id": "SpiralFlip",
-			"role": "Composer & Arranger"
+			"role": "Web",
+			"id": "Bonnie"
 		},
 		"25": {
-			"id": "Fukagawa",
-			"role": "Composer & Arranger"
-		},
-		"26": {
-			"id": "WujuBlade",
-			"role": "Composer & Arranger"
-		},
-		"27": {
-			"id": "SPIRITGARDEN*",
-			"role": "Composer & Arranger"
-		},
-		"28": {
-			"id": "LIYU",
-			"role": "Vocals & Lyrics"
-		},
-		"29": {
-			"id": "R-Man",
-			"role": "Mastering Engineer"
-		},
-		"30": {
-			"id": "Volumetrique",
-			"role": "Audio Crossfade"
-		},
-		"31": {
-			"id": "unizono",
-			"role": "Illustration"
-		},
-		"32": {
-			"id": "cal",
-			"role": "Logo Designer, Advisor & Planner"
-		},
-		"33": {
-			"id": "Fivda",
-			"role": "Supervisor & Planner"
-		},
-		"34": {
-			"id": "Yanis",
-			"role": "Japanese Translator"
-		},
-		"35": {
-			"id": "Elegant Sister",
-			"role": "Crossfade Video"
-		},
-		"36": {
-			"id": "krz",
-			"role": "Web"
-		},
-		"37": {
-			"id": "RLZY",
-			"role": "Special Thanks"
+			"role": "Web",
+			"id": "Kat"
 		}
 	},
 	"footer": "All music and visuals owned by KodamaSounds and their respective artists"
