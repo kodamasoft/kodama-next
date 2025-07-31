@@ -2152,6 +2152,16 @@
 			"vgmdb": "https://vgmdb.net/artist/38153"
 		}
 	},
+	"Iyouka": {
+		"name": "Iyouka",
+		"links": {
+			"twitter": "https://x.com/iyouka_",
+			"bluesky": "https://bsky.app/profile/iyouka.bsky.social",
+			"pixiv": "https://www.pixiv.net/en/users/83907853",
+			"website": "https://iyouka.carrd.co",
+			"vgmdb": "https://vgmdb.net/artist/60829"
+		}
+	},
 	"SampleEN": {
 		"name": "SampleEN",
 		"links": {
