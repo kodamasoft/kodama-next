@@ -11,10 +11,6 @@ export default function ReleaseNav({ ...props }) {
 					<Link href="/">
 						<Image
 							src="/assets/kodamaspeed.png"
-							style={{
-								position: 'relative',
-								top: '10px',
-							}}
 							width={100}
 							height={100}
 							alt="KodamaSounds"

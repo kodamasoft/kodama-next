@@ -66,13 +66,18 @@ export default function ReleaseLayout({ release }) {
 				<meta property="og:type" content="website" />
 			</Head>
 			<div
-				className={`${noto.variable} font-release text-white min-h-screen pb-1`}
-				style={{ backgroundColor: `#${backgroundColor}` }}
+				className={`${noto.variable} font-release min-h-screen pb-1 bg-cover bg-center`}
+				style={{
+					color: `#${release.background?.text_color || 'white'}`,
+					backgroundColor: `#${backgroundColor}`,
+					backgroundImage: `url(${release.background?.image || 'none'})`,
+				}}
 			>
 				<ReleaseHead
 					slug={release.slug}
+					title={release.title}
 					logo={release.logo}
-					background={release.background}
+					header={release.header}
 					description={release.description}
 					sc_track_id={release.soundcloud_track_id}
 					color={release.color}

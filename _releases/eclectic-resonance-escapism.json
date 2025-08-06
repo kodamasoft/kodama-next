@@ -4,9 +4,11 @@
 	"color": "ffed8c",
 	"soundcloud_track_id": "2078535276",
 	"cover": "/assets/discography/covers/0018.png",
+	"header": {
+		"video": "/assets/discography/headers/0018.mp4",
+		"image": "/assets/discography/headers/0018.jpg"
+	},
 	"background": {
-		"video": "/assets/discography/backgrounds/0018.mp4",
-		"image": "/assets/discography/backgrounds/0018.jpg",
 		"color": "4d73c9"
 	},
 	"title": "ECLECTIC RESONANCE Escapism",
