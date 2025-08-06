@@ -4,8 +4,10 @@
 	"color": "f0d282",
 	"soundcloud_track_id": "2100843879",
 	"cover": "/assets/discography/covers/CD0001.png",
+	"header": {
+		"image": "/assets/discography/backgrounds/CD0001.png"
+	},
 	"background": {
-		"image": "/assets/discography/backgrounds/CD0001.png",
 		"color": "251676"
 	},
 	"title": "Phantasmal Metamorphosis",
