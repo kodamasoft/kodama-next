@@ -4,6 +4,9 @@
     "color": "cf5595",
     "soundcloud_track_id": "2078481104",
     "cover": "/assets/discography/covers/0019.png",
+    "header": {
+        "image": "/assets/discography/headers/0019.png"
+    },
     "background": {
         "image": "/assets/discography/backgrounds/0019.png",
         "color": "314660"

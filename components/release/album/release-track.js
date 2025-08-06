@@ -27,7 +27,7 @@ export default function ReleaseTrack({ track, key }) {
 
 					{track[1].artist && (
 						<>
-							<div className="text-sm grow text-left select-none text-white/50 font-extralight	">
+							<div className="text-sm grow text-left select-none text-current/50 font-extralight	">
 								{typeof track[1].artist === 'object'
 									? track[1].artist[locale]
 									: track[1].artist}
