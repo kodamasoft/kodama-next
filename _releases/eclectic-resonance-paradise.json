@@ -4,8 +4,10 @@
 	"color": "1eeb9f",
 	"soundcloud_track_id": "2136879759",
 	"cover": "/assets/discography/covers/0020.png",
+	"header": {
+		"image": "/assets/discography/backgrounds/0020.png"
+	},
 	"background": {
-		"image": "/assets/discography/backgrounds/0020.png",
 		"color": "d33737"
 	},
 	"title": "ECLECTIC RESONANCE PARADISE",
