@@ -4,10 +4,12 @@
 	"color": "dd32d9",
 	"soundcloud_track_id": "2136875400",
 	"cover": "/assets/discography/covers/CD0002.png",
-	"background": {
-		"image": "/assets/discography/backgrounds/CD0002.jpg",
-		"color": "293c90"
+	"header": {
+		"image": "/assets/discography/backgrounds/CD0002.jpg"
 	},
+	"background": {
+		"color": "293c90"
+	}
 	"title": "Lapis Lazuli",
 	"circle": {
 		"name": "KodamaSounds",
