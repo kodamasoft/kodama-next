@@ -4,9 +4,11 @@
 	"color": "0a62fe",
 	"soundcloud_track_id": "1937287946",
 	"cover": "/assets/discography/covers/0017.png",
+	"header": {
+		"image": "/assets/discography/headers/0017.png",
+		"video": "/assets/discography/headers/0017.mp4"
+	},
 	"background": {
-		"image": "/assets/discography/backgrounds/0017.png",
-		"video": "/assets/discography/backgrounds/0017.mp4",
 		"color": "000511"
 	},
 	"title": "ECLECTIC RESONANCE hollow horizons",

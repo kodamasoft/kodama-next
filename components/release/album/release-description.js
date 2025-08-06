@@ -6,11 +6,14 @@ import useTranslation from 'next-translate/useTranslation';
 
 function DtKodama({ children }) {
 	return (
-		<dt className="relative mb-2 after:content-[''] after:absolute after:top-1/2 after:left-0 after:z-[1] after:w-full after:bg-[#666] after:h-px after:block">
-			<span className="relative inline-block pr-4 z-10 uppercase bg-[color:var(--background-color)]">
-				{children}
-			</span>
-		</dt>
+		<>
+			<dt className="relative mb-2 w-full flex items-center">
+				<span className="relative inline-block pr-4 z-10 uppercase font-bold shrink-0">
+					{children}
+				</span>
+				<hr className="w-full h-px border-[currentColor] opacity-40" />
+			</dt>
+		</>
 	);
 }
 

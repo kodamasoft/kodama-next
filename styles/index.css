@@ -10,6 +10,7 @@
 @theme {
     --font-release: var(--font-noto), sans-serif;
     --font-sans: var(--font-noto), sans-serif;
+    --color-current: currentColor
 
     --shadow-inner-xl: inset 0 4px 8px 0 rgb(0 0 0 / 0.5);
 
