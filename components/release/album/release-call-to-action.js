@@ -3,7 +3,7 @@ import Trans from 'next-translate/Trans';
 
 export default function ReleaseCallToAction({ store }) {
 	return (
-		<section className="bg-white/5 mt-16 py-8">
+		<section className="bg-current/5 mt-16 py-8">
 			<h2 className="text-2xl text-center uppercase mb-6 font-black">
 				<Trans i18nKey="release:available_now" />
 			</h2>
