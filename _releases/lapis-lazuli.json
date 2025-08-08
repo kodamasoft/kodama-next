@@ -5,7 +5,7 @@
 	"soundcloud_track_id": "2136875400",
 	"cover": "/assets/discography/covers/CD0002.png",
 	"header": {
-		"image": "/assets/discography/headers/CD0002.jpg"
+		"image": "/assets/discography/headers/CD0002.png"
 	},
 	"background": {
 		"color": "293c90"
@@ -210,7 +210,7 @@
 		"04": {
 			"title": "Under the WilloW",
 			"artist": {
-				"en": "YOKAI feat. 鈴葉ユミ & Justin Thornburgh",
+				"en": "YOKAI feat. Yumi Suzuha & Justin Thornburgh",
 				"jp": "YOKAI feat. 鈴葉ユミ & Justin Thornburgh"
 			},
 			"description": [
