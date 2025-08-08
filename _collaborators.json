@@ -1956,6 +1956,58 @@
 			"vgmdb": "https://vgmdb.net/artist/71700"
 		}
 	},
+	"Zephyrianna": {
+		"name": "Zephyrianna",
+		"links": {
+			"twitter": "https://x.com/zephyrianna",
+			"bluesky": "https://bsky.app/profile/zephyrianna.bsky.social",
+			"youtube": "https://www.youtube.com/@ZephyriannaCh",
+			"apple": "https://music.apple.com/artist/zephyrianna/1565716369",
+			"spotify": "https://open.spotify.com/artist/62u6QNtVM8EqrpUZpKwRHY",
+			"website": "https://zephyrianna.carrd.co",
+			"vgmdb": "https://vgmdb.net/artist/70703"
+		}
+	},
+	"Sera Amagi": {
+		"name": {
+			"en": "Sera Amagi",
+			"jp": "アマギセーラ"
+		},
+		"links": {
+			"twitter": "https://x.com/Sera_Amagi",
+			"pixiv": "https://sera-amagi.fanbox.cc",
+			"youtube": "https://www.youtube.com/channel/UCzCXOr1pH47uU45D2GEvZHQ",
+			"vgmdb": "https://vgmdb.net/artist/70702"
+		}
+	},
+	"Yumi Suzuha": {
+		"name": {
+			"en": "Yumi Suzuha",
+			"jp": "Sample"
+		},
+		"links": {
+			"twitter": "https://x.com/suzuhayumi",
+			"youtube": "https://www.youtube.com/@suzuhayumi",
+			"soundcloud": "https://soundcloud.com/suzuhayumi",
+			"apple": "https://music.apple.com/artist/鈴葉ユミ/525352508",
+			"spotify": "https://open.spotify.com/artist/5y8UibbACpEeDoJY8WGP2X",
+			"website": "http://www.suzuhaya.com/",
+			"vgmdb": "https://vgmdb.net/artist/14185"
+		}
+	},
+	"Lunatic Parfait": {
+		"name": "Lunatic Parfait",
+		"links": {
+			"soundcloud": "https://soundcloud.com/lunaticparfait-records",
+			"vgmdb": "https://vgmdb.net/artist/74092"
+		}
+	},
+	"Leizh": {
+		"name": "Leizh",
+		"links": {
+			"instagram": "https://instagram.com/leizh_art"
+		}
+	},
 	"SampleEN": {
 		"name": "SampleEN",
 		"links": {
