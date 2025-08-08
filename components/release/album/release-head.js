@@ -24,7 +24,7 @@ export default function ReleaseHead({
 										alt={title}
 										src={header.image}
 										fill={true}
-										quality={20}
+										quality={90}
 										className={`z-2 object-cover blur-[${header.blur ?? 25}px] brightness-[${header.brightness ?? 0.5}] scale-110`}
 									/>
 								)}
