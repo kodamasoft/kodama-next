@@ -1959,15 +1959,13 @@
 	"Zephyrianna": {
 		"name": "Zephyrianna",
 		"links": {
-			"twitter": "link",
-			"bluesky": "link",
-			"bandcamp": "link",
-			"youtube": "link",
-			"soundcloud": "link",
-			"apple": "link",
-			"spotify": "link",
-			"website": "link",
-			"vgmdb": "link"
+			"twitter": "https://x.com/zephyrianna",
+			"bluesky": "https://bsky.app/profile/zephyrianna.bsky.social",
+			"youtube": "https://www.youtube.com/@ZephyriannaCh",
+			"apple": "https://music.apple.com/artist/zephyrianna/1565716369",
+			"spotify": "https://open.spotify.com/artist/62u6QNtVM8EqrpUZpKwRHY",
+			"website": "https://zephyrianna.carrd.co",
+			"vgmdb": "https://vgmdb.net/artist/70703"
 		}
 	},
 	"Sera Amagi": {
@@ -2007,7 +2005,7 @@
 	"Leizh": {
 		"name": "Leizh",
 		"links": {
-			"instagram": "www.instagram.com/leizh_art"
+			"instagram": "https://instagram.com/leizh_art"
 		}
 	},
 	"SampleEN": {
