@@ -5,7 +5,7 @@
 	"soundcloud_track_id": "2136875400",
 	"cover": "/assets/discography/covers/CD0002.png",
 	"header": {
-		"image": "/assets/discography/backgrounds/CD0002.jpg"
+		"image": "/assets/discography/headers/CD0002.jpg"
 	},
 	"background": {
 		"color": "293c90"
@@ -439,7 +439,7 @@
 			]
 		}
 	},
-	"youtube_id": "RTmoqY8VczU",
+	"youtube_id": "Xr23M-R8mAY",
 	"credits": {
 		"1": {
 			"role": "Composer, Arranger, Lyrics, Electric & Acoustic Guitar, Shamisen, J-Play Pad",
