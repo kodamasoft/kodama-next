@@ -271,6 +271,29 @@
 		"vgmdb": "https://vgmdb.net/album/137952",
 		"thbwiki": "https://thwiki.cc/Gensokyo_Party_Vol._6_Border_in_Stasis"
 	},
+	"phantasmal-metamorphosis": {
+		"id": "KSCD-0001",
+		"releaseDate": "2025-08-17T00:00:00+0200",
+		"name": "Phantasmal Metamorphosis",
+		"cover": "/assets/discography/covers/CD0001.png",
+		"coverColor": "b32d79",
+		"bandcamp": "https://kodamasounds.bandcamp.com/album/phantasmal-metamorphosis",
+		"booth": "https://kodamasoft.booth.pm/items/6960326",
+		"website": "/releases/phantasmal-metamorphosis",
+		"vgmdb": "https://vgmdb.net/album/151911",
+		"thbwiki": "https://thwiki.cc/Phantasmal_Metamorphosis"
+	},
+	"lapis-lazuli": {
+		"id": "KSCD-0002",
+		"releaseDate": "2025-08-17T00:00:00+0200",
+		"name": "Lapis Lazuli",
+		"cover": "/assets/discography/covers/CD0002.png",
+		"coverColor": "#2f6af4",
+		"bandcamp": "https://kodamasounds.bandcamp.com/album/lapis-lazuli",
+		"booth": "https://kodamasoft.booth.pm/items/7229354",
+		"website": "/releases/lapis-lazuli",
+		"vgmdb": "https://vgmdb.net/album/151948"
+	},
 	"eclectic-resonance-paradise": {
 		"id": "KSDL-0020",
 		"releaseDate": "2025-08-17T00:00:00+0200",
