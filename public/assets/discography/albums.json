@@ -293,5 +293,16 @@
 		"booth": "https://kodamasoft.booth.pm/items/7229354",
 		"website": "/releases/lapis-lazuli",
 		"vgmdb": "https://vgmdb.net/album/151948"
+	},
+	"eclectic-resonance-paradise": {
+		"id": "KSDL-0020",
+		"releaseDate": "2025-08-17T00:00:00+0200",
+		"name": "ECLECTIC RESONANCE PARADISE",
+		"cover": "/assets/discography/covers/0020.png",
+		"coverColor": "#f7516a",
+		"bandcamp": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-paradisE",
+		"booth": "https://kodamasoft.booth.pm/items/7199132",
+		"website": "/releases/eclectic-resonance-paradise",
+		"vgmdb": "https://vgmdb.net/album/145977"
 	}
 }
