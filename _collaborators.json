@@ -344,13 +344,14 @@
 	"Volumetrique": {
 		"name": "Volumetrique",
 		"links": {
+			"twitter": "https://twitter.com/volumetrique",
+			"bluesky": "https://bsky.app/profile/volumetrique.live",
 			"soundcloud": "https://soundcloud.com/volumetrique",
 			"website": "https://volumetrique.live/",
 			"apple": "https://music.apple.com/artist/volumetrique/1660587296",
 			"youtube": "https://www.youtube.com/channel/UCA-8abzeuoKeSfcaysVlT8Q",
 			"bandcamp": "https://volumetrique.bandcamp.com/",
 			"spotify": "https://open.spotify.com/artist/2UzS5YyS7ozTI23XTKh0P8",
-			"twitter": "https://twitter.com/volumetrique",
 			"vgmdb": "https://vgmdb.net/artist/56092"
 		}
 	},
@@ -467,8 +468,10 @@
 		"name": "R-Man",
 		"links": {
 			"twitter": "https://twitter.com/LuvGiantRobots",
+			"bluesky": "https://bsky.app/profile/luvgiantrobots.bsky.social",
 			"bandcamp": "https://arman-r-man.bandcamp.com/",
 			"youtube": "https://www.youtube.com/c/RManLovesGiantRobots",
+			"website": "https://aspromontiaudio.com/",
 			"vgmdb": "https://vgmdb.net/artist/49323"
 		}
 	},
@@ -598,6 +601,7 @@
 		"name": "LkProd",
 		"links": {
 			"twitter": "https://twitter.com/ropdlk",
+			"bluesky": "bsky.app/profile/ropdlk.bsky.social",
 			"vgmdb": "https://vgmdb.net/artist/59921"
 		}
 	},
@@ -651,6 +655,7 @@
 		"name": "Monochrome",
 		"links": {
 			"twitter": "https://twitter.com/mediamonochrome",
+			"bluesky": "https://bsky.app/profile/monochromemedia.bsky.social",
 			"bandcamp": "https://monochromemedia.bandcamp.com",
 			"soundcloud": "https://soundcloud.com/mediamonochrome",
 			"youtube": "https://www.youtube.com/c/Monochrome009",
@@ -1202,6 +1207,7 @@
 		"name": "g3ntlebreeze",
 		"links": {
 			"twitter": "https://twitter.com/g3ntlebreeze",
+			"bluesky": "https://bsky.app/profile/g3ntlebreeze.bsky.social",
 			"bandcamp": "https://g3ntlebreeze.bandcamp.com/",
 			"youtube": "https://www.youtube.com/channel/UCv30x8z45BPMJ1TQ4ljZsRA",
 			"soundcloud": "https://soundcloud.com/g3ntlebreeze",
@@ -2022,7 +2028,7 @@
 			"vgmdb": "https://vgmdb.net/artist/62169"
 		}
 	},
-	"HAGANE": {
+	"z": {
 		"name": {
 			"en": "HAGANE",
 			"jp": "はがね"
@@ -2056,6 +2062,7 @@
 		"name": "K.Shiraki",
 		"links": {
 			"twitter": "https://x.com/kshiraki_",
+			"bluesky": "https://bsky.app/profile/kshiraki.bsky.social",
 			"bandcamp": "https://kshiraki2.bandcamp.com/",
 			"youtube": "https://www.youtube.com/@kshiraki_",
 			"soundcloud": "https://soundcloud.com/kshiraki",
