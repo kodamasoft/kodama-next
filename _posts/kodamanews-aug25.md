@@ -40,9 +40,9 @@ We hope to see you there, as this event is really personal to me, and the opport
 ## Spring 2026 Projects
 
 With 2026 already approaching, it means we need to get started with next year’s first few albums. Therefore, we are now putting deadlines on:
-- ECLECTIC RESONANCE Detuned Alloy 2 (March 1st Deadline)
-- Gensokyo Party Vol. 7 Moriya Barista 2 (March 1st Deadline)
-- Vanilla Parfait -a Vanillaware tribute album- (June 10th Deadline)
+- ECLECTIC RESONANCE Detuned Alloy 2 (2026 March 1st Deadline)
+- Gensokyo Party Vol. 7 Moriya Barista 2 (2026 March 1st Deadline)
+- Vanilla Parfait -a Vanillaware tribute album- (2026 June 10th Deadline)
 
 We also have another COUNTERFEST RECORDS project planned as our first release of 2026, that we will share with you once the stream of releases of this summer passes by!
 

@@ -49,6 +49,7 @@
 				"status": "accepting",
 				"percentage": "0",
 				"duration": "00:00",
+				"deadline": "2026-02-28T23:59:59Z",
 				"finished_tracks": "0",
 				"mastering": {
 					"status": "pending",
@@ -108,6 +109,7 @@
 				"percentage": "0",
 				"duration": "00:00",
 				"finished_tracks": "0",
+				"deadline": "2026-02-28T23:59:59Z",
 				"mastering": {
 					"status": "pending",
 					"engineer": "R-Man (Resonant Union)"
