@@ -14,16 +14,20 @@ twin: kodamanews-aug25-jp
 Hello people! We have some excellent news to share with you - we have confirmed the reception of all three of our planned physical releases for Comic Market 106, meaning that this is the first time KodamaSounds will be distributing our new releases physically during a doujin event! There was a lot of tears and sweat that went into making all of this happen, so we hope that anyone in Japan on August 17th could take this opportunity to come in person to the event to get our new releases! If you aren’t caught up yet, please check out the crossfades of those gorgeous albums.
 
 
-(les 3 crossfades embedded (a venir))
+[Phantasmal Metamorphosis](https://www.youtube.com/watch?v=wAs0QDpotS8)
+
+[Lapis Lazuli / YOKAI 3rd Solo Album](https://www.youtube.com/watch?v=Xr23M-R8mAY)
+
+[ECLECTIC RESONANCE PARADISE](https://www.youtube.com/watch?v=nitPlqBdm8Y)
 
 
-Although we will not be joining in person (just yet, since we will be there for M3-Fall 2025), we are privileged to have our albums distributed by our friend at Four Corners. The booth location will be at **East Hall 6 オ-24b [東ホール6 オ-24b]**, so come over if you can!
+Although we will not be joining in person (just yet, since we will be there for M3-Fall 2025), we are privileged to have our albums distributed by our friend at [Four Corners](https://x.com/4cornersdoujin). The booth location will be at **East Hall 6 オ-24b [東ホール6 オ-24b]**, so come over if you can!
 
 ## M3-Fall 2025
 
 We have unfortunately lost the lottery entry for M3-Fall 2025… But thankfully, we still have ways to distribute our works and I will be there in person to help out at the following spaces:
-- Rolling Bassline コ-34a
-- Four Corners P-17b
+- **Rolling Bassline コ-34a**
+- **Four Corners P-17b**
 
 We will be distributing ECLECTIC RESONANCE UPRISING 3 and Memories 2 during M3-Fall 2025! We will also be distributing our three releases from the upcoming Comic Market 106.
 
@@ -34,8 +38,6 @@ For artists who contributed to KodamaSounds at some point who will be attending 
 We hope to see you there, as this event is really personal to me, and the opportunity of a lifetime. I am not sure when I will be able to come back again to live something like this again, and I want to make this count. See you soon!
 
 ## Spring 2026 Projects
-
-(NOTE: Faut ajouter les deadlines ici)
 
 With 2026 already approaching, it means we need to get started with next year’s first few albums. Therefore, we are now putting deadlines on:
 - ECLECTIC RESONANCE Detuned Alloy 2 (March 1st Deadline)
