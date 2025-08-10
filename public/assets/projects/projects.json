@@ -8,7 +8,6 @@
 				"percentage": "100",
 				"duration": "58:48",
 				"finished_tracks": "16",
-				"deadline": "2025-06-20T23:59:59Z",
 				"mastering": {
 					"status": "completed",
 					"engineer": "R-Man (Resonant Union)"
@@ -90,7 +89,6 @@
 				"percentage": "100",
 				"duration": "1:41:38",
 				"finished_tracks": "16",
-				"deadline": "2025-03-23T23:59:59Z",
 				"mastering": {
 					"status": "completed",
 					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"
@@ -149,7 +147,6 @@
 				"percentage": "100",
 				"duration": "1:03:55",
 				"finished_tracks": "14",
-				"deadline": "2025-03-15T23:59:59Z",
 				"mastering": {
 					"status": "completed",
 					"engineer": "blobdash"
