@@ -18,9 +18,9 @@
 			{
 				"slug": "eclectic-resonance-uprising-3",
 				"status": "accepting",
-				"percentage": "20",
-				"duration": "16:50",
-				"finished_tracks": "4",
+				"percentage": "25",
+				"duration": "20:24",
+				"finished_tracks": "5",
 				"deadline": "2025-09-13T23:59:59Z",
 				"mastering": {
 					"status": "pending",
@@ -32,9 +32,9 @@
       {
 				"slug": "eclectic-resonance-memories-2",
 				"status": "accepting",
-				"percentage": "10",
-				"duration": "06:24",
-				"finished_tracks": "2",
+				"percentage": "30",
+				"duration": "19:26",
+				"finished_tracks": "6",
 				"deadline": "2025-09-13T23:59:59Z",
 				"mastering": {
 					"status": "pending",
