@@ -13,7 +13,7 @@ twin: kodamanews-aug25
 
 皆さん、こんにちは！朗報があります！コミックマーケットリリースに予定されている物理媒体のアルバムが無事に日本に届きました！初めての同人イベントでの頒布になります！大変努力してこの夢を具現化させたので、8月17日に日本にいたら、ぜひ挨拶しにきてください！まだ聴いたことのない方はXFDを聴いていただければと思います！
 
-[Phantasmal Metamorphosis](https://www.youtube.com/watch?v=wAs0QDpotS8)
+[Phantasmal Metamorphosis / KoDyMaxx](https://www.youtube.com/watch?v=wAs0QDpotS8)
 
 [Lapis Lazuli / YOKAI 3rd Solo Album](https://www.youtube.com/watch?v=Xr23M-R8mAY)
 

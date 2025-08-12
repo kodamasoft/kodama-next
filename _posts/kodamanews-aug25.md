@@ -14,7 +14,7 @@ twin: kodamanews-aug25-jp
 Hello people! We have some excellent news to share with you - we have confirmed the reception of all three of our planned physical releases for Comic Market 106, meaning that this is the first time KodamaSounds will be distributing our new releases physically during a doujin event! There was a lot of tears and sweat that went into making all of this happen, so we hope that anyone in Japan on August 17th could take this opportunity to come in person to the event to get our new releases! If you aren’t caught up yet, please check out the crossfades of those gorgeous albums.
 
 
-[Phantasmal Metamorphosis](https://www.youtube.com/watch?v=wAs0QDpotS8)
+[Phantasmal Metamorphosis / KoDyMaxx](https://www.youtube.com/watch?v=wAs0QDpotS8)
 
 [Lapis Lazuli / YOKAI 3rd Solo Album](https://www.youtube.com/watch?v=Xr23M-R8mAY)
 
