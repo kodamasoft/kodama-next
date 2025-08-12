@@ -32,13 +32,9 @@ M3-2025秋で、「ECLECTIC RESONANCE UPRISING 3」と「ECLECTIC RESONANCE MEMO
 ## 2026年春季予定企画
 
 2026年も迫ってきている今、来年のアルバム企画の準備を開始しました。以下のアルバム企画に締切をつけました。
-
-
-- ECLECTIC RESONANCE Detuned Alloy 2 (締切: 3月1日)
-
-- Gensokyo Party Vol. 7 Moriya Barista 2 (締切: 3月1日)
-
-- Vanilla Parfait -a Vanillaware tribute album- (締切: 6月10日)
+- [ECLECTIC RESONANCE Detuned Alloy 2](https://kodamasoft.net/projects/eclectic-resonance-detuned-alloy-2) (2026 March 1st Deadline)
+- [Gensokyo Party Vol. 7 Moriya Barista 2](https://kodamasoft.net/projects/moriya-barista-2) (2026 March 1st Deadline)
+- [Vanilla Parfait -a Vanillaware tribute album-](https://counterfest.kodamasoft.net/en/projects/vanilla-parfait) (2026 June 10th Deadline)
 
 2026年の最初のアルバム企画となるCOUNTERFEST RECORDSのアルバムが現在企画中となっています。今年の夏のアルバム企画がリリースされた後、発表しようと思います。
 
