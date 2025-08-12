@@ -2,19 +2,6 @@
 	{
 		"cat_slug": "eclectic-resonance",
 		"projects": [
-		{
-				"slug": "eclectic-resonance-paradise",
-				"status": "about-to-release",
-				"percentage": "100",
-				"duration": "58:48",
-				"finished_tracks": "16",
-				"mastering": {
-					"status": "completed",
-					"engineer": "R-Man (Resonant Union)"
-				},
-				"artwork_comission": "completed",
-				"color": "#dbb458"
-			},
 			{
 				"slug": "eclectic-resonance-uprising-3",
 				"status": "accepting",
@@ -95,6 +82,19 @@
 				},
 				"artwork_comission": "completed",
 				"color": "#68bd7d"
+			},
+			{
+				"slug": "eclectic-resonance-paradise",
+				"status": "about-to-release",
+				"percentage": "100",
+				"duration": "58:48",
+				"finished_tracks": "16",
+				"mastering": {
+					"status": "completed",
+					"engineer": "R-Man (Resonant Union)"
+				},
+				"artwork_comission": "completed",
+				"color": "#dbb458"
 			}
 		]
 	},
