@@ -9,6 +9,8 @@ import PortalHeader from '../components/namco70th/portal/portal-header';
 import { useMemo, useState, useEffect, useLayoutEffect } from 'react';
 import PortalPagination from '../components/namco70th/portal/pagination';
 import PortalEntrance from '../components/namco70th/portal/entrance';
+import KTMLogo from '/public/assets/namco70th/katamari/ktm-logo.webp';
+import SoraLogo from '/public/assets/namco70th/sorasuite/sora-logo.png';
 
 const projectInfos = [
 	{
@@ -37,18 +39,20 @@ const projectInfos = [
 		isDisabled: false,
 	},
 	{
-		name: '?????????',
-		image: '',
-		presentedBy: 'Team Name',
-		href: '/unitedtribute/almightysoundexpress',
-		isDisabled: true,
+		name: 'Eternal Katamari Original Soundtrack Vol. 1 ~ "Katamari Quality Damacy"',
+		image: KTMLogo,
+		presentedBy: 'SiIvaGunner Fusion Records',
+		releasedAt: '2025.07.06',
+		href: 'https://sgfr.highquality.rip/sgfr-c0003/index.html',
+		isDisabled: false,
 	},
 	{
-		name: '?????????',
-		image: '',
-		presentedBy: 'Team Name',
-		href: '/unitedtribute/almightysoundexpress',
-		isDisabled: true,
+		name: 'STAFFcirc vol. 11 - SORA SUITE',
+		image: SoraLogo,
+		presentedBy: 'STAFFcirc',
+		releasedAt: '2025.07.31',
+		href: 'https://sexytoadsandfrogsfriendcircle.bandcamp.com/album/staffcirc-vol-11-sora-suite',
+		isDisabled: false,
 	},
 	{
 		name: '?????????',
