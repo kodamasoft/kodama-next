@@ -49,7 +49,7 @@ export default function PortalCard({
 				</div>
 				<div className="flex flex-col items-center justify-center w-full h-full bg-namco70-p-background">
 					<div className="flex flex-col items-center justify-center lg:gap-2 py-4 lg:py-3.5 text-lg lg:text-2xl">
-						<span className="whitespace-nowrap">{name}</span>
+						<span className="max-w-[40ch] text-center">{name}</span>
 						<span className="text-namco70-p-foreground/60">
 							{disabled ? '???????????' : 'Click to Enter'}
 						</span>
