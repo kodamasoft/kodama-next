@@ -1,4 +1,4 @@
-import { FaBandcamp, FaGlobe, FaSpotify } from 'react-icons/fa';
+import { FaBandcamp, FaGlobe, FaSpotify, FaCompactDisc } from 'react-icons/fa';
 import { SiApplemusic, SiYoutubemusic } from 'react-icons/si';
 
 import BoothSVG from '../public/assets/icons/booth.svg';
@@ -185,6 +185,21 @@ export default function AlbumListing({ slug }) {
 							YouTube Music
 						</a>
 					) : null}
+				</div>
+				{(album.diverse) && (
+					<h3 className="text-lg font-semibold mt-4">
+						{t('common:words.cd')}
+					</h3>
+				)}
+				<div className="flex flex-wrap mt-2 gap-4">
+					{(album.diverse) && (
+						<a
+							href={album.diverse}
+							className="kodama_btn kodama_btn--primary"
+						>
+							<FaCompactDisc className="h-4 w-4 mr-2" />
+							Diverse Direct
+					</a>)}
 				</div>
 			</div>
 		</div>
