@@ -280,6 +280,7 @@
 		"bandcamp": "https://kodamasounds.bandcamp.com/album/phantasmal-metamorphosis",
 		"booth": "https://kodamasoft.booth.pm/items/6960326",
 		"website": "/releases/phantasmal-metamorphosis",
+		"diverse": "https://www.diverse.direct/kodamasounds/kscd-0001/",
 		"vgmdb": "https://vgmdb.net/album/151911",
 		"thbwiki": "https://thwiki.cc/Phantasmal_Metamorphosis"
 	},
@@ -292,6 +293,7 @@
 		"bandcamp": "https://kodamasounds.bandcamp.com/album/lapis-lazuli",
 		"booth": "https://kodamasoft.booth.pm/items/7229354",
 		"website": "/releases/lapis-lazuli",
+		"diverse": "https://www.diverse.direct/kodamasounds/kscd-0002/",
 		"vgmdb": "https://vgmdb.net/album/151948"
 	},
 	"eclectic-resonance-paradise": {
@@ -300,9 +302,10 @@
 		"name": "ECLECTIC RESONANCE PARADISE",
 		"cover": "/assets/discography/covers/0020.png",
 		"coverColor": "#f7516a",
-		"bandcamp": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-paradisE",
+		"bandcamp": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-paradise",
 		"booth": "https://kodamasoft.booth.pm/items/7199132",
 		"website": "/releases/eclectic-resonance-paradise",
+		"diverse": "https://www.diverse.direct/kodamasounds/ksdl-0020/",
 		"vgmdb": "https://vgmdb.net/album/145977"
 	}
 }
