@@ -5,7 +5,7 @@
 		"role": "Founder, Software & Sound Staff",
 		"realName": "Robin",
 		"pronouns": "she/her",
-		"dateOfBirth": "June 16th",
+		"dateOfBirth": "June 16th, 1997",
 		"placeOfBirth": "France",
 		"description": "Founded KodamaSoft in 2017, and started writing and developing on Stellar Sanctuary, a visual novel still in developement. In 2020, Robin decided to expand on another side of the circle: KodamaSounds, focused on a multitude of arrangement & original work album compilation projects. She soon started to learn music on her own starting with KodamaSounds’ second album in 2021, all the while supervising every single album published on the circle to this day.",
 		"socials": {
@@ -237,6 +237,36 @@
 			"twitter" : "https://twitter.com/VIIweights",
 			"website" : "https://letterboxd.com/CaptainKatyusha/"
 		}
+	},
+	{
+		"_collabId": "Casio",
+		"name": "Casio Lamb",
+		"role": "Sound Staff",
+		"realName": "Lilian / Lily",
+		"pronouns": "she/her or sheep/herd",
+		"dateOfBirth": "July 1st, 2001",
+		"placeOfBirth": "Kaikoura, New Zealand",
+		"description": "Casio Lamb is a sheep loving producer that joined Kodama in September of 2025. Lamb's production skills are entirely self-taught, and in 2021 she vowed to bring all things soft, cute, and funky to the musical world!"
+	},
+	{
+		"_collabId": "LyhNed",
+		"name": "LyhNed",
+		"role": "Sound Staff",
+		"realName": "Dylan Hendrick",
+		"pronouns": "he/him",
+		"dateOfBirth": "December 24th, 1994",
+		"placeOfBirth": "Verviers, Belgium",
+		"description": "Drums player for more than a decade, LyhNed started out as a freelancer before having private lessons. He perfects his art by playing for different bands, diligently listening to a multitude of diverse and eclectic kinds of music, while beating it down on metal and progressive genres. By trusting his ear rather than sheet music, LyhNed manages to perfectly implement his peformances alongside the other instruments he works with."
+	},
+	{
+		"_collabId": "Raphtalix",
+		"name": "Raphtalix",
+		"role": "Sound Staff",
+		"realName": "N/A",
+		"pronouns": "he/him",
+		"dateOfBirth": "February 20th, 2003",
+		"placeOfBirth": "Pangandaran, Indonesia",
+		"description": "Raphtalix has been interested in electronic music since 2016. He started learning music production in 2018 and began his journey as Raphtalix in 2023. He focuses on melodic songs, with trance music as his foundation. In 2025, Raphtalix joined KodamaSounds as a sound staff member."
 	},
 	{
 		"_collabId": "Dwimepon",
