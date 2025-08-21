@@ -188,7 +188,7 @@ export default function AlbumListing({ slug }) {
 				</div>
 				{album.diverse && (
 					<h3 className="text-lg font-semibold mt-4">
-						{t('common:words.cd')}
+						{t('common:words.physical')}
 					</h3>
 				)}
 				<div className="flex flex-wrap mt-2 gap-4">
