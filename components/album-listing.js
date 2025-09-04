@@ -87,13 +87,14 @@ export default function AlbumListing({ slug }) {
 				</div>
 
 				<div className="flex flex-wrap mt-4 gap-4">
-					{album.website ? ( <a
-						href={album.website}
-						className="kodama_btn kodama_btn--primary"
-					>
-						<FaGlobe className="h-4 w-4 mr-2" />
-						Website
-					</a>
+					{album.website ? (
+						<a
+							href={album.website}
+							className="kodama_btn kodama_btn--primary"
+						>
+							<FaGlobe className="h-4 w-4 mr-2" />
+							Website
+						</a>
 					) : null}
 
 					{album.vgmdb ? (
