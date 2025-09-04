@@ -282,7 +282,9 @@
 		"website": "/releases/phantasmal-metamorphosis",
 		"diverse": "https://www.diverse.direct/kodamasounds/kscd-0001/",
 		"vgmdb": "https://vgmdb.net/album/151911",
-		"thbwiki": "https://thwiki.cc/Phantasmal_Metamorphosis"
+		"thbwiki": "https://thwiki.cc/Phantasmal_Metamorphosis",
+		"melonbooks": "https://www.melonbooks.co.jp/detail/detail.php?product_id=3207280",
+		"akibahobby": "https://shop.akbh.jp/en/products/2100000167128"
 	},
 	"lapis-lazuli": {
 		"id": "KSCD-0002",
@@ -294,7 +296,9 @@
 		"booth": "https://kodamasoft.booth.pm/items/7229354",
 		"website": "/releases/lapis-lazuli",
 		"diverse": "https://www.diverse.direct/kodamasounds/kscd-0002/",
-		"vgmdb": "https://vgmdb.net/album/151948"
+		"vgmdb": "https://vgmdb.net/album/151948",
+		"melonbooks": "https://www.melonbooks.co.jp/detail/detail.php?product_id=3207281",
+		"akibahobby": "https://shop.akbh.jp/en/products/2100000167135"
 	},
 	"eclectic-resonance-paradise": {
 		"id": "KSDL-0020",
@@ -306,6 +310,8 @@
 		"booth": "https://kodamasoft.booth.pm/items/7199132",
 		"website": "/releases/eclectic-resonance-paradise",
 		"diverse": "https://www.diverse.direct/kodamasounds/ksdl-0020/",
-		"vgmdb": "https://vgmdb.net/album/145977"
+		"vgmdb": "https://vgmdb.net/album/145977",
+		"melonbooks": "https://www.melonbooks.co.jp/detail/detail.php?product_id=3207282",
+		"akibahobby": "https://shop.akbh.jp/en/products/2100000167142"
 	}
 }
