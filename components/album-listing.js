@@ -97,6 +97,26 @@ export default function AlbumListing({ slug }) {
 						</a>
 					) : null}
 
+					{album.mv ? (
+						<a
+							href={album.mv}
+							className="kodama_btn kodama_btn--primary"
+						>
+							<SiYoutubemusic className="h-4 w-4 mr-2" />
+							Music Video
+						</a>
+					) : null}
+
+					{album.fullAlbum ? (
+						<a
+							href={album.mv}
+							className="kodama_btn kodama_btn--primary"
+						>
+							<SiYoutubemusic className="h-4 w-4 mr-2" />
+							Full Album
+						</a>
+					) : null}
+
 					{album.vgmdb ? (
 						<a
 							href={album.vgmdb}

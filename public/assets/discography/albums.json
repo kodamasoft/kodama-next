@@ -312,7 +312,8 @@
 		"diverse": "https://www.diverse.direct/kodamasounds/ksdl-0020/",
 		"vgmdb": "https://vgmdb.net/album/145977",
 		"melonbooks": "https://www.melonbooks.co.jp/detail/detail.php?product_id=3207282",
-		"akibahobby": "https://shop.akbh.jp/en/products/2100000167142"
+		"akibahobby": "https://shop.akbh.jp/en/products/2100000167142",
+		"fullAlbum": "https://www.youtube.com/watch?v=AbphInr6PtM"
 	},
 	"legendes": {
 		"id": "KSDS-0001",
@@ -322,6 +323,11 @@
 		"coverColor": "#FFDE21",
 		"bandcamp": "https://kodamasounds.bandcamp.com/album/l-gendes",
 		"booth": "https://kodamasoft.booth.pm/items/7388729",
-		"vgmdb": ""
+		"vgmdb": "https://vgmdb.net/album/152680",
+		"spotify": "https://open.spotify.com/album/2adQjLA6upLJjFFnPUGLx1",
+		"appleMusic": "https://music.apple.com/album/1835202510",
+		"deezer": "https://www.deezer.com/album/809053871",
+		"mv": "https://www.youtube.com/watch?v=Ij-hfGievDI",
+		"youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_lpd7_SHAfsZYA6iPne9Jj0b7GBcfVVzp0"
 	}
 }
