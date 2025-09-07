@@ -14,7 +14,7 @@ const credits = [
 		role: 'Artist',
 		socials: [
 			{
-				href: 'youtube.com/@ZahranW',
+				href: 'https://youtube.com/@ZahranW',
 				title: 'YouTube',
 				icon: <SiYoutube size={20} />,
 			},
@@ -25,12 +25,12 @@ const credits = [
 		role: 'Artist',
 		socials: [
 			{
-				href: 'kaseboy-advance.bandcamp.com',
+				href: 'https://kaseboy-advance.bandcamp.com',
 				title: 'Bandcamp',
 				icon: <SiBandcamp size={20} />,
 			},
 			{
-				href: 'soundcloud.com/kaseboy_advance',
+				href: 'https://soundcloud.com/kaseboy_advance',
 				title: 'SoundCloud',
 				icon: <SiSoundcloud size={20} />,
 			},
@@ -41,7 +41,7 @@ const credits = [
 		role: 'Artist',
 		socials: [
 			{
-				href: 'crazygoji.bandcamp.com',
+				href: 'https://crazygoji.bandcamp.com',
 				title: 'Bandcamp',
 				icon: <SiBandcamp size={20} />,
 			},
@@ -52,7 +52,7 @@ const credits = [
 		role: 'Artist',
 		socials: [
 			{
-				href: 'kpwu.observer',
+				href: 'https://kpwu.observer',
 				title: 'Personal Website',
 				icon: <Globe size={20} />,
 			},
@@ -63,12 +63,12 @@ const credits = [
 		role: 'Artist',
 		socials: [
 			{
-				href: 'jaxcheese.bandcamp.com',
+				href: 'https://jaxcheese.bandcamp.com',
 				title: 'Bandcamp',
 				icon: <SiBandcamp size={20} />,
 			},
 			{
-				href: 'jaxcheese.net',
+				href: 'https://jaxcheese.net',
 				title: 'Personal Website',
 				icon: <Globe size={20} />,
 			},
@@ -79,7 +79,7 @@ const credits = [
 		role: 'Artist',
 		socials: [
 			{
-				href: 'scarletlotus.carrd.co',
+				href: 'https://scarletlotus.carrd.co',
 				title: 'Carrd',
 				icon: <SiCarrd size={20} />,
 			},
@@ -90,7 +90,7 @@ const credits = [
 		role: 'Artist',
 		socials: [
 			{
-				href: 'ptweb.me/profile/688',
+				href: 'https://ptweb.me/profile/688',
 				title: 'PxTune Web Profile',
 				icon: <Globe size={20} />,
 			},
@@ -101,12 +101,12 @@ const credits = [
 		role: 'Artist',
 		socials: [
 			{
-				href: 'soundcloud.com/musicalpixels',
+				href: 'https://soundcloud.com/musicalpixels',
 				title: 'SoundCloud',
 				icon: <SiSoundcloud size={20} />,
 			},
 			{
-				href: 'ptweb.me/profile/483',
+				href: 'https://ptweb.me/profile/483',
 				title: 'PxTune Web Profile',
 				icon: <Globe size={20} />,
 			},
@@ -117,7 +117,7 @@ const credits = [
 		role: 'Artist',
 		socials: [
 			{
-				href: 'soundcloud.com/garoslaw',
+				href: 'https://soundcloud.com/garoslaw',
 				title: 'SoundCloud',
 				icon: <SiSoundcloud size={20} />,
 			},
@@ -128,12 +128,12 @@ const credits = [
 		role: 'Artist',
 		socials: [
 			{
-				href: 'soundcloud.com/ehmehshmeh',
+				href: 'https://soundcloud.com/ehmehshmeh',
 				title: 'SoundCloud',
 				icon: <SiSoundcloud size={20} />,
 			},
 			{
-				href: 'ptweb.me/profile/482',
+				href: 'https://ptweb.me/profile/482',
 				title: 'PxTune Web Profile',
 				icon: <Globe size={20} />,
 			},
@@ -144,7 +144,7 @@ const credits = [
 		role: 'Artist',
 		socials: [
 			{
-				href: 'youtube.com/@snuroo_CK',
+				href: 'https://youtube.com/@snuroo_CK',
 				title: 'YouTube',
 				icon: <SiYoutube size={20} />,
 			},
@@ -155,7 +155,7 @@ const credits = [
 		role: 'Design',
 		socials: [
 			{
-				href: 'https://spacehey.com/tiffanyneat',
+				href: 'https://https://spacehey.com/tiffanyneat',
 				title: 'SpaceHey',
 				icon: <Globe size={20} />,
 			},
