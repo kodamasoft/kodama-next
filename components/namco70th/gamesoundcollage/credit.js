@@ -151,7 +151,7 @@ const credits = [
 		],
 	},
 	{
-		name: 'TiffanyHeat',
+		name: 'TiffanyNeat',
 		role: 'Design',
 		socials: [
 			{
