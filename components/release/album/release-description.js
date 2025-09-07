@@ -46,9 +46,10 @@ export default function ReleaseDescription({
 						quality={100}
 						priority={true}
 						onClick={(e) => {
-						if (e.button === 1) { // 1 is the middle mouse button
-							e.preventDefault();
-						}
+							if (e.button === 1) {
+								// 1 is the middle mouse button
+								e.preventDefault();
+							}
 						}}
 					/>
 				</Link>
