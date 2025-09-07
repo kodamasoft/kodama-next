@@ -1,6 +1,5 @@
 import Image from 'next/image';
 import Link from 'next/link';
-import { useState } from 'react';
 
 import useTranslation from 'next-translate/useTranslation';
 
@@ -34,36 +33,26 @@ export default function ReleaseDescription({
 }) {
 	const { t } = useTranslation('release');
 
-	const [showModal, setShowModal] = useState(false);
-
 	return (
 		<div className="container mx-auto my-16 grid grid-cols-1 lg:grid-cols-[1fr_2fr] gap-4">
 			<div className="relative max-w-xs md:max-w-xl lg:max-w-3xl mx-auto mb-4">
-				<Image
-					src={cover}
-					className="rounded cursor-pointer"
-					height="768"
-					width="768"
-					alt="Logo"
-					quality={100}
-					priority={true}
-					onClick={() => setShowModal(true)}
-				/>
-
-				{showModal && (
-					<div
-						onClick={() => setShowModal(false)}
-						className="fixed top-0 left-0 w-full h-full bg-black/80 flex items-center justify-center z-[1000]"
-					>
-						<Image
-							src={cover}
-							alt={title}
-							unoptimized
-							fill
-							style={{ objectFit: 'contain' }}
-						/>
-					</div>
-				)}
+				<Link href={cover} target="_blank" rel="noopener noreferrer">
+					<Image
+						src={cover}
+						className="rounded cursor-pointer transition duration-200 ease-in-out relative hover:opacity-70"
+						height="768"
+						width="768"
+						alt="Logo"
+						quality={100}
+						priority={true}
+						onClick={(e) => {
+							if (e.button === 1) {
+								// 1 is the middle mouse button
+								e.preventDefault();
+							}
+						}}
+					/>
+				</Link>
 			</div>
 
 			<dl className="flex-grow px-4">
