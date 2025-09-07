@@ -91,7 +91,7 @@ const credits = [
 		socials: [
 			{
 				href: 'https://ptweb.me/profile/688',
-				title: 'PxTune Web Profile',
+				title: 'Pxtunes Web Profile',
 				icon: <Globe size={20} />,
 			},
 		],
@@ -107,7 +107,7 @@ const credits = [
 			},
 			{
 				href: 'https://ptweb.me/profile/483',
-				title: 'PxTune Web Profile',
+				title: 'Pxtunes Web Profile',
 				icon: <Globe size={20} />,
 			},
 		],
@@ -134,7 +134,7 @@ const credits = [
 			},
 			{
 				href: 'https://ptweb.me/profile/482',
-				title: 'PxTune Web Profile',
+				title: 'Pxtunes	Web Profile',
 				icon: <Globe size={20} />,
 			},
 		],

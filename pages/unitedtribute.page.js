@@ -24,7 +24,7 @@ const projectInfos = [
 	{
 		name: 'Game Sound Collage',
 		image: GSCLogo,
-		presentedBy: 'PxTunes',
+		presentedBy: 'Pxtunes',
 		releasedAt: '2025.06.01',
 
 		href: '/unitedtribute/gamesoundcollage',
