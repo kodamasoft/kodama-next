@@ -1,6 +1,6 @@
 import HrefButton from '../href-button';
 import Image from 'next/image';
-import Jacket from '../../../public/assets/namco70th/almightysoundexpress/jacket.png';
+import Jacket from '../../../public/assets/namco70th/almightysoundexpress/jacket.jpg';
 import { Calendar, User } from 'lucide-react';
 
 const linkData = [
