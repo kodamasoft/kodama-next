@@ -32,7 +32,7 @@ export default function Information({ ...props }) {
 					<div className="flex items-center gap-2 mr-8">
 						<User className="h-4 w-4" />
 						<span className="text-sm whitespace-nowrap">
-							PXTunes
+							Pxtunes
 						</span>
 					</div>
 					<div className="flex items-center gap-2">

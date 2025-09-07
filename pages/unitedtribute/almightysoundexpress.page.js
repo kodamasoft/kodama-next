@@ -16,7 +16,7 @@ import Information from '../../components/namco70th/almightysoundexpress/informa
 import HrefButton from '../../components/namco70th/href-button';
 import Credit from '../../components/namco70th/almightysoundexpress/credit';
 import cn from '../../lib/cn';
-import Jacket from '../../public/assets/namco70th/almightysoundexpress/jacket.png';
+import Jacket from '../../public/assets/namco70th/almightysoundexpress/jacket.jpg';
 import Image from 'next/image';
 import ProjectLogo from '../../public/assets/namco70th/common/logo-white.svg';
 import Link from 'next/link';
@@ -89,24 +89,29 @@ const songList = [
 		startAt: 150, // 2:30
 	},
 	{
-		title: 'AUX-day - Hyper Butch ehm - the sand forgets',
+		title: 'AUX-day - Hyper Butch Edit',
 		artist: 'windfvcker & Rammy',
-		startAt: 159, // 2:39
+		startAt: 158, // 2:39
+	},
+	{
+		title: 'the sand forgets',
+		artist: 'ehm',
+		startAt: 170, // 2:50
 	},
 	{
 		title: 'Acid Trial Project',
 		artist: 'ANGELWHISPER',
-		startAt: 170, // 2:50
+		startAt: 184, // 3:04
 	},
 	{
 		title: 'Jazz Shadows In City Light',
 		artist: 'Neon Serenade',
-		startAt: 184, // 3:04
+		startAt: 200, // 3:20
 	},
 	{
 		title: 'Throwaway Troupe',
 		artist: 'marklincadet',
-		startAt: 200, // 3:20
+		startAt: 210, // 3:30
 	},
 ];
 
