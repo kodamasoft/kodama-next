@@ -23,7 +23,7 @@
 		"coverColor": "#474a5b",
 		"bandcamp": "https://kodamasounds.bandcamp.com/album/moonstruck-analogy-a-type-moon-tribute-album",
 		"booth": "https://kodamasoft.booth.pm/items/3264153",
-		"website": "https://moonstruck-analogy.tumblr.com/",
+		"website": "/releases/moonstruck-analogy",
 		"vgmdb": "https://vgmdb.net/album/111959"
 	},
 	"gensokyo-party-2-vantablack": {
@@ -37,7 +37,7 @@
 		"appleMusic": "https://music.apple.com/album/1747914535",
 		"spotify": "https://open.spotify.com/album/3ZlkI9HWeugS2fpzkTSreu",
 		"youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_m45E5qcxhRjTHU4MG55f_9DXA4kxrcp-A",
-		"website": "https://gensokyo-party-2-vantablack.tumblr.com/",
+		"website": "/releases/gensokyo-party-vol2",
 		"vgmdb": "https://vgmdb.net/album/111960",
 		"thbwiki": "https://thwiki.cc/Gensokyo_Party_Vol._2_VANTABLACK"
 	},
@@ -49,7 +49,7 @@
 		"coverColor": "#4e385d",
 		"bandcamp": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-dawn",
 		"booth": "https://kodamasoft.booth.pm/items/3763619",
-		"website": "https://eclecticresonance-dawn.tumblr.com/",
+		"website": "/releases/eclectic-resonance-dawn",
 		"appleMusic": "http://itunes.apple.com/album/id/1683188875",
 		"spotify": "https://open.spotify.com/album/4SEtuGuPC0c8ul62ytNbnm",
 		"deezer": "https://www.deezer.com/album/431478877",
@@ -64,7 +64,7 @@
 		"coverColor": "#7a3f20",
 		"bandcamp": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-dusk",
 		"booth": "https://kodamasoft.booth.pm/items/3793016",
-		"website": "https://eclecticresonance-dusk.tumblr.com/",
+		"website": "/releases/eclectic-resonance-dusk",
 		"appleMusic": "https://music.apple.com/album/eclectic-resonance-dawn/1682957437",
 		"spotify": "https://open.spotify.com/album/2y8xINYomI06RIz3fp4IR2",
 		"deezer": "https://www.deezer.com/album/430865907",
@@ -79,7 +79,7 @@
 		"coverColor": "#fff9f3",
 		"bandcamp": "https://kodamasounds.bandcamp.com/album/fragments-of-gratitude-a-when-they-cry-tribute-album",
 		"booth": "https://kodamasoft.booth.pm/items/4035987",
-		"website": "https://fragmentsofgratitude.tumblr.com/",
+		"website": "/releases/fragments-of-gratitude",
 		"vgmdb": "https://vgmdb.net/album/120016"
 	},
 	"gensokyo-party-3-moriya-barista": {

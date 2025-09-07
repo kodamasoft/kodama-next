@@ -1,0 +1,583 @@
+{
+	"slug": "eclectic-resonance-dusk",
+	"logo": "/assets/discography/logos/0020.png",
+	"color": "1eeb9f",
+	"soundcloud_track_id": "2136879759",
+	"cover": "/assets/discography/covers/0020.png",
+	"header": {
+		"image": "/assets/discography/headers/0020.png"
+	},
+	"background": {
+		"color": "d33737"
+	},
+	"title": "ECLECTIC RESONANCE PARADISE",
+	"circle": {
+		"name": "KodamaSounds",
+		"link": "/"
+	},
+	"specification": "15x15cm Download Card / Original Compilation Album",
+	"release_date": "Aug 17, 2025 (Comic Market 106 Day 2) [コミックマーケット106 2日目]",
+	"booth": {
+		"link": "https://x.com/4cornersdoujin",
+		"name": "Four Corners",
+		"other": " / 東ホール6 オ-24b"
+	},
+	"catalog": "KSDL-0020",
+	"price": "Price: Pre-Order & Event Price: 12€ / 2000 yen | Post Release Price: 15€ / 2500 yen",
+	"store": {
+		"bandcamp": {
+			"name": "Bandcamp",
+			"link": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-paradise"
+		},
+		"booth": {
+			"name": "BOOTH",
+			"link": "https://kodamasoft.booth.pm/items/7199132"
+		},
+		"diverse": {
+			"name": "Diverse Direct",
+			"link": "https://www.diverse.direct/kodamasounds/ksdl-0020/"
+		},
+		"melonbooks": {
+			"name": "Melon Books",
+			"link": "https://www.melonbooks.co.jp/detail/detail.php?product_id=3207282"
+		},
+		"akibahobby": {
+			"name": "Akiba Hobby",
+			"link": "https://shop.akbh.jp/en/products/2100000167142"
+		}
+	},
+	"tracklist": {
+		"01": {
+			"title": "Burgundy",
+			"artist": "Yamajet",
+			"description": [
+				"• Composer & Arranger: Yamajet",
+				"",
+				"• Programmed, Produced & Mixed by Yamajet",
+				"• Mastering Engineer: R-Man (Resonant Union)",
+				"",
+				"• Used Software: Cubase",
+				"",
+				"• About this track: I tried fusing elements from funk and house, and added some elements from “Colored”, a track I composed more than 20 years ago (the melody of the strings, the bouncing rhythm, the samples of string hits I put at the beginning and end of the song). And thus, I made a song that has a simple structure, but encapsulates elements that represent my life as a composer. [ファンク／ハウスにフュージョンの要素を混ぜ、さらに、私が20年以上昔に作ったColoredという曲の要素（ストリングスのメロディーや、少しだけ跳ねるリズム、最初と最後に設置したストリングス・ヒットのサンプル）も混ぜてみたら、シンプルな構造ではありますが、なんだかわたしの作曲人生を作り上げた要素が詰まった楽しい曲になりました。]",
+				"",
+				"BPM: 124",
+				"Key: C#m",
+				"Time Signature: 4/4",
+				"Genre: Funky House",
+				"",
+				"https://yamajet.bandcamp.com/"
+			]
+		},
+		"02": {
+			"title": "Surrender to You",
+			"artist": "moyu",
+			"description": [
+				"• Composer & Arranger: moyu (STICKLOVERZ)",
+				"",
+				"• Arranger: moyu (STICKLOVERZ)",
+				"• Mastering Engineer: R-Man (Resonant Union)",
+				"",
+				"• Used Software: FL Studio",
+				"• Used VSTs & Samples: Serum2, KORG Collection 5 , Kate Wild - Vocal Hooks, Reworked Soul Selections 2, Jafunk's Disco Gems",
+				"",
+				"BPM: 145",
+				"Key: Ebm",
+				"Time Signature: 4/4",
+				"Genre: Speed Garage",
+				"",
+				"https://moyu.bandcamp.com"
+			]
+		},
+		"03": {
+			"title": "Shade in the Maris",
+			"artist": {
+				"en": "HAGANE",
+				"jp": "はがね"
+			},
+			"description": [
+				"• Composer & Arranger: HAGANE [はがね] (Koutetsu Ongen)",
+				"",
+				"• Programmed, Produced & Mixed by HAGANE [はがね] (Koutetsu Ongen)",
+				"• Mastering Engineer: R-Man (Resonant Union)",
+				"",
+				"• About this track: A song dedicated to the legendary retro PC games of the '90s.",
+				"",
+				"BPM: 110",
+				"Key: N/A",
+				"Time Signature: 4/4",
+				"Genre: Soundtrack",
+				"",
+				"https://steelplus.bandcamp.com/"
+			]
+		},
+		"04": {
+			"title": "flawless.",
+			"artist": "Alkome",
+			"description": [
+				"• Composer & Arranger: Alkome",
+				"",
+				"• Programmed, Produced & Mixed by Alkome",
+				"• Mastering Engineer: R-Man (Resonant Union)",
+				"",
+				"• Used Software: Studio One 7",
+				"• Used VSTs & Samples: Splice, Cymatics, Vengeance, KSHMR",
+				"",
+				"• About this track: I think I managed to express the feeling behind the word “perfect beauty”. The title is “flawless.”, including the period. [天衣無縫という言葉のイメージを表現できたと思っております。タイトルはピリオドまで含めた\"flawless.\"です]",
+				"",
+				"BPM: 136",
+				"Key: Emaj/C#min",
+				"Time Signature: 4/4",
+				"Genre: Garage",
+				"",
+				"https://alkome.bandcamp.com/"
+			]
+		},
+		"05": {
+			"title": "op403",
+			"artist": "K.Shiraki",
+			"description": [
+				"• Composer & Arranger: K.Shiraki (Soundcrafter)",
+				"",
+				"• Programmed, Produced & Mixed by K.Shiraki (Soundcrafter)",
+				"• Mastering Engineer: R-Man (Resonant Union)",
+				"",
+				"• Used Software: Logic Pro X",
+				"",
+				"BPM: 125",
+				"Key: G (0:00~2:40) - E (2:40~2:58) - G(2:58~4:05)",
+				"Time Signature: 4/4",
+				"Genre: Fusion",
+				"",
+				"https://kshiraki2.bandcamp.com/"
+			]
+		},
+		"06": {
+			"title": "Alaplaza",
+			"artist": "Tee-vee",
+			"description": [
+				"• Composer & Arranger: Tee-vee",
+				"• Electric Guitar & Flute: Tee-vee",
+				"",
+				"• Programmed, Produced & Mixed by Tee-vee",
+				"• Mastering Engineer: R-Man (Resonant Union)",
+				"",
+				"• Used Software: FL Studio",
+				"• Used VSTs & Samples: Korg Triton, Korg MonoPoly, Korg M1, NI Kontakt, NI Session Horns Pro, Scarbee Mark I, Aruria B-3V, Arturia Jun-6 V, Line 6 Helix Native, Revalver 4",
+				"",
+				"• About this track: A summery track inspired by neo-soul harmony and soundtracks from urban fantasy games and 2000s MMOs",
+				"",
+				"BPM: 120",
+				"Key: B minor, A minor (2:28-3:16)",
+				"Time Signature: 4/4",
+				"Genre: Jazz Fusion / Funk",
+				"",
+				"https://teeveemusic.bandcamp.com/"
+			]
+		},
+		"07": {
+			"title": "SEVEN",
+			"artist": "LSKR",
+			"description": [
+				"• Composer & Arranger: Franck Adam's Kindia",
+				"• Electric Guitar: Franck Adam's Kindia",
+				"",
+				"• Programmed, Produced & Mixed by Franck Adam's Kindia",
+				"• Mastering Engineer: R-Man (Resonant Union)",
+				"",
+				"• Used Software: Logic Pro 11.1.2",
+				"• Used VSTs & Samples: Serum, Logic Studio Bass, Spitfire Labs, Logic E-Piano",
+				"",
+				"• About this track: When composing this track, I tried to imagine a summer-long road trip with friends coming to an end. It starts with reminiscing about our journey, lounging around the big shared villa for one last day before hopping in the car to drive home. On the road, you stop after seeing a large gathering on a nearby beach and decide to stop for one last party.",
+				"",
+				"BPM: 119",
+				"Key: AbMaj",
+				"Time Signature: 4/4",
+				"Genre: City Pop/Dance",
+				"",
+				"https://x.com/imlskr"
+			]
+		},
+		"08": {
+			"title": "Tune Your Dream",
+			"artist": "R-Man",
+			"description": [
+				"• Composer & Arranger: Arman Aspromonti (Resonant Union)",
+				"• Electric Guitar: Arman Aspromonti (Resonant Union)",
+				"",
+				"• Programmed, Produced & Mixed by Arman Aspromonti (Resonant Union)",
+				"• Mastering Engineer: R-Man (Resonant Union)",
+				"",
+				"• Used Software: Cubase",
+				"• Used VSTs & Samples: Vital, Yamaha MONTAGE6 (hardware), KORG Triton, KORG M1, BFD3, IK Multimedia Hammond B-3X, Premier Sound Factory Bass Premier G, Kick Ass Brass.",
+				"",
+				"• About this track: I knew I wanted to make a fusion track for this album, but I wasn't sure if I wanted to make it high energy or more low key. Considering the album's themes and the fact that I didn't have too much time, I decided to compose something more low key with a simple structure that would be fun to solo over. Over the course of composing and arranging this track, I ended up incorporating many elements from music I was listening to at the time. Some of the main inspirations were Gran Turismo 3 (Light Velocity specifically) and the Racing Lagoon soundtrack, but also T-Square (Trial Road), George Benson (Affirmation), Prince (Shhh) and more old funk and soul influence than I initially thought I'd put in.",
+				"",
+				"BPM: 127",
+				"Key: B Minor (kinda) (0:00-1:17) then F# Minor (mainly) (1:17-1:47) then B Minor (1:47-2:50) then F# Minor (2:50-3:50) and finally B Minor (3:50-4:16)",
+				"Time Signature: 4/4",
+				"Genre: Tuneshop",
+				"",
+				"https://x.com/LuvGiantRobots"
+			]
+		},
+		"09": {
+			"title": "candy rainy highway",
+			"artist": "Ray_Oh",
+			"description": [
+				"• Composer & Arranger: Ray_Oh (RabbiTortoised)",
+				"",
+				"• Programmed, Produced & Mixed by Ray_Oh (RabbiTortoised)",
+				"• Mastering Engineer: R-Man (Resonant Union)",
+				"",
+				"• Used Software: FL Studio",
+				"",
+				"• About this track: This track is my take on summer-ish UK Garage. This summer is hot, it would be great if the weather could cool down a bit... You need rain for the weather to cool down, am I right? I expressed the concept of the strong summer evening rain in the drop, and expressed the feeling of an after-rain sky in the later part. [私なりの夏っぽいUK Garageを表現してみました。最近の夏は暑いですが少しでも涼しくなれば良いな感じました。涼しくなるためには雨が必要ですね！夕立をドロップで雨上がりの空を後半部で表現しました。]",
+				"",
+				"BPM: 144",
+				"Key: C",
+				"Time Signature: 4/4",
+				"Genre: UK Garage",
+				"",
+				"https://ray-oh.bandcamp.com"
+			]
+		},
+		"10": {
+			"title": "Esplanade",
+			"artist": "Monochrome",
+			"description": [
+				"• Composer & Arranger: Monochrome",
+				"• Arranger: Philip Saguil (Resonant Union)",
+				"",
+				"• Programmed, Produced & Mixed by Monochrome",
+				"• Mastering Engineer: R-Man (Resonant Union)",
+				"",
+				"• About this track: PARADISE encompassed genres that I had worked in, but wanted more experience with, namely house. My EDM typically isn't so upbeat tonally, so I thought this album would be an especially interesting one for me to tackle. While it definitely took me time to get this off the ground and to settle on what I wanted to do, where I landed felt pretty solid. It might seem a silly revelation to some, but for me, the acoustic elements of this song - keys, guitars, brass, bass - all lent themselves to a house context better than I expected. What was also fun was implementing Latin percussion and drum patterns, the inclusion of which gave the track much more flair than if I had just stuck strictly to a typical house sound. I do hope I find myself drawn to this kind of music more in the future.",
+				"",
+				"BPM: 128",
+				"Key: E minor. The choruses will sound like G Major for the most part, but they ultimately resolve into E minor.",
+				"Time Signature: 4/4",
+				"Genre: House",
+				"",
+				"https://monochromemedia.bandcamp.com/"
+			]
+		},
+		"11": {
+			"title": "SUMMER BREEZE",
+			"artist": "Casio Lamb",
+			"description": [
+				"• Composer & Arranger: Casio Lamb",
+				"• Arranger: Philip Saguil (Resonant Union)",
+				"",
+				"• Programmed, Produced & Mixed by Casio Lamb",
+				"• Mastering Engineer: R-Man (Resonant Union)",
+				"",
+				"• Used Software: Ableton",
+				"• Used VSTs & Samples: Vital, Serum 2, Kontakt, Wavetable, Vocals chops made from the \"Vocal Chill Dance\" pack by Dropgun on Splice.",
+				"",
+				"• About this track: As summer approaches I really wanted to lean more into the tropical house side of ECLECTIC RESONANCE PARADISE -- as well as sprinkle in some jazzy elements. I had some struggles finishing this track as it's my final piece of production before an extended hiatus in Japan. While I don't feel like it's the best piece of music, I'm happy to have something to submit and even happier I was able to work on music all the way up until a large transitional point in my life. ",
+				"",
+				"BPM: 128 (0:00 - 1:45) // 120 (1:46 - 2:35)",
+				"Key: C Lydian",
+				"Time Signature: 4/4",
+				"Genre: Kawaii Tropical House",
+				"",
+				"https://x.com/LambLifeform"
+			]
+		},
+		"12": {
+			"title": "Lifestyle Dreamer",
+			"artist": "Yozu C",
+			"description": [
+				"• Composer & Arranger: Sandi Setiawan",
+				"",
+				"• Programmed, Produced, Mixed & Mastered by Sandi Setiawan",
+				"• Additional Mastering: Loudness fix",
+				"",
+				"• Used Software: Ableton Live 11",
+				"• Used VSTs & Samples: Xfer serum, Zynaptiq pitchmap, Fabfilter, samples from Dropgun Samples MoFalk Colour House",
+				"",
+				"BPM: 130",
+				"Key: E major",
+				"Time Signature: 4/4",
+				"Genre: UK Garage",
+				"",
+				"https://x.com/LambLifeform"
+			]
+		},
+		"13": {
+			"title": "Iolite",
+			"artist": "MEMODEMO",
+			"description": [
+				"• Composer & Arranger: MEMODEMO",
+				"",
+				"• Programmed, Produced, Mixed & Mastered by MEMODEMO",
+				"",
+				"• Used Software: FL Studio",
+				"• Used VSTs & Samples: I think the most used things are a ton of General Midi sounds",
+				"",
+				"• About this track: \"Garage Music\"",
+				"",
+				"BPM: 145",
+				"Key: C#m",
+				"Time Signature: N/A",
+				"Genre: \"Kind of Garage\"",
+				"https://memodemo.bandcamp.com/"
+			]
+		},
+		"14": {
+			"title": "sparkling_gl0w",
+			"artist": "g3ntlebreeze",
+			"description": [
+				"• Composer & Arranger: g3ntlebreeze",
+				"",
+				"• Programmed, Produced & Mixed by g3ntlebreeze",
+				"• Mastering Engineer: R-Man (Resonant Union)",
+				"",
+				"• Used Software: Logic Pro",
+				"• Used VSTs & Samples: JV-1080, M1, Juno-106, Serum 2, SRX DanceTrax",
+				"",
+				"• About this track: this track is inspired by the track \"Dazzling Rays\" by Ryo Watanabe. i wanted to make something anchored around a light, floating acoustic guitar pattern. i also challenged myself to make a track that doesn't use any \"melodies\" per se - but instead develops more based off other elements, like structure, tone, etc. also, i started working on this song right when Serum 2 came out, so i was excited about that, and used a few Serum 2 presets.",
+				"",
+				"BPM: 293 (0:00 ~ 3:27) - 160 (3:27 ~ 3:42)",
+				"Key: Eb Major",
+				"",
+				"https://g3ntlebreeze.bandcamp.com"
+			]
+		},
+		"15": {
+			"title": "PARADIS",
+			"artist": "Lila mellark",
+			"description": [
+				"• Composer & Arranger: Lila mellark",
+				"• Vocals: Miku Hatsune [初音ミク], Mikoto MEIKA [鳴花ミコト]",
+				"• Lyrics: Lila mellark",
+				"• Drums: Mathis Bénard",
+				"",
+				"• Programmed, Produced & Mixed by Lila mellark",
+				"• Mastering Engineer: R-Man (Resonant Union)",
+				"",
+				"• Used Software: Ableton, Vocaloid 5",
+				"• Used VSTs & Samples: Roland JV-1080, Pokémon Diamond & Pearl Versions Soundfont",
+				"",
+				"• About this track: A track about trying to recover from depression, with an hope ending. been through tough month lately and I was really needing to express myself about it. the construction of the song is like this: (0:00 ~1:24) and (1:24 ~ 2:44) - see our deep depression state and trying to overpass it, but all of the try finish with a fail, that make us restart at the same state. (2:44 ~ 3:05) mental finish by an explosion of burnout, the negative thought just overpass the mental limit. (3:05 ~ 3:42) an hope message about future.",
+				"",
+				"• Lyrics",
+				"peur légitime",
+				"besoin d'évasion",
+				"larmes amères",
+				"rêves éphémères",
+				"douce illusion",
+				"égaré",
+				"peur libérée",
+				"une douce douleur",
+				"un billet pour le soleil",
+				"",
+				"pour se sentir enfin revivre",
+				"",
+				"sorbet coco sur la plage",
+				"en maillot profitant du rivage",
+				"attendant le miracle",
+				"bonheur désirable",
+				"pour illuminer ma vie",
+				"",
+				"mais parce qu’il n'y a pas de magie",
+				"encore moins de mythologie",
+				"personne te sauvera",
+				"ni ne te jugera",
+				"il faut toujours continuer",
+				"oh continuer",
+				"de se battre",
+				"de se battre",
+				"oh toujours être prêt a se débattre",
+				"avec son mental folâtre",
+				"profonde douleur",
+				"devenir meilleur",
+				"oh rêver d’une vie plus belle",
+				"plus belle oh oh",
+				"créer notre paradis",
+				"",
+				"rêves d'abîmes",
+				"peur légitime",
+				"besoin d'évasion",
+				"larmes amères",
+				"rêves éphémères",
+				"douce illusion",
+				"égaré",
+				"peur libérée",
+				"une douce douleur",
+				"quelque goutte",
+				"pour peut être renaitre",
+				"",
+				"et alors on s’pose dans un bar",
+				"quelques gouttes d’un délicieux nectar",
+				"j’ai mal a la tête",
+				"oh j’ai mal au ventre",
+				"l’alcool ne me sauve pas",
+				"",
+				"mais quand la vie",
+				"ne te fait plus trop envie",
+				"que ton cœur ne palpite plus",
+				"ne ressens plus que tu te reclus",
+				"la dépression ne part jamais",
+				"la dépression ne s’en va jamais",
+				"oh dans la vie trouver un intérêt",
+				"de chaussez je désespérait",
+				"profonde douleur",
+				"devenir meilleur",
+				"oh rêver d’une vie plus belle",
+				"plus belle oh oh",
+				"créer notre paradis",
+				"",
+				"Eden sombre",
+				"abondance de malheur",
+				"tourne et tourne",
+				"nette urgence",
+				"malhonnête présence",
+				"prophète déviant",
+				"oh oui je peux tenir",
+				"oh je peut tenir oh",
+				"je ne veux pas explo-",
+				"aaaaaah",
+				"",
+				"mais comme un jour notre vie s’arrange",
+				"que soudain rien ne te de-",
+				"range enfin ta vie et tout tes soucis",
+				"et comme ta joie peut enfin fleurir",
+				"oh demain sera notre paradis",
+				"",
+				"BPM: 124",
+				"Key: C#m",
+				"Time Signature: 4/4",
+				"Genre: VocaFu (Vocaloid Fusion)",
+				"",
+				"https://lilamellark.bandcamp.com/"
+			]
+		},
+		"16": {
+			"title": "get to know",
+			"artist": "icesawder",
+			"description": [
+				"• Composer & Arranger: icesawder (SAWDALIGHT / STICKLOVERZ)",
+				"",
+				"• Programmed, Produced & Mixed by icesawder ((SAWDALIGHT / STICKLOVERZ))",
+				"• Mastering Engineer: R-Man (Resonant Union)",
+				"",
+				"• Used Software: FL Studio",
+				"• Used VSTs & Samples: Serum, Xpand!2, FLEX, ZENOLOGY, Massive, VEC samples",
+				"",
+				"• About this track: Summer dance music!",
+				"",
+				"BPM: 143",
+				"Key: C# Maj",
+				"Time Signature: 4/4",
+				"Genre: Dance",
+				"",
+				"https://icesawder.bandcamp.com/"
+			]
+		}
+	},
+	"youtube_id": "nitPlqBdm8Y",
+	"credits": {
+		"1": {
+			"role": "Composer & Arranger",
+			"id": "Yamajet"
+		},
+		"2": {
+			"role": "Composer & Arranger",
+			"id": "moyu"
+		},
+		"3": {
+			"role": "Composer & Arranger",
+			"id": "HAGANE"
+		},
+		"4": {
+			"role": "Composer & Arranger",
+			"id": "Alkome"
+		},
+		"5": {
+			"role": "Composer & Arranger",
+			"id": "K.Shiraki"
+		},
+		"6": {
+			"role": "Composer, Arranger, Electric Guitar & Flute",
+			"id": "Tee-vee"
+		},
+		"7": {
+			"role": "Composer, Arranger & Electric Guitar",
+			"id": "LSKR"
+		},
+		"8": {
+			"role": "Composer, Arranger, Electric Guitar & Mastering Engineer",
+			"id": "R-Man"
+		},
+		"9": {
+			"role": "Composer & Arranger",
+			"id": "Ray_Oh"
+		},
+		"10": {
+			"role": "Composer & Arranger",
+			"id": "Monochrome"
+		},
+		"11": {
+			"role": "Composer & Arranger",
+			"id": "Casio Lamb"
+		},
+		"12": {
+			"role": "Composer & Arranger",
+			"id": "Yozu C"
+		},
+		"13": {
+			"role": "Composer & Arranger",
+			"id": "MEMODEMO"
+		},
+		"14": {
+			"role": "Composer & Arranger",
+			"id": "g3ntlebreeze"
+		},
+		"15": {
+			"role": "Composer & Arranger",
+			"id": "Lila mellark"
+		},
+		"16": {
+			"role": "Drums",
+			"id": "Mathis Bénard"
+		},
+		"17": {
+			"role": "Composer & Arranger",
+			"id": "icesawder"
+		},
+		"18": {
+			"role": "Audio Crossfade",
+			"id": "Volumetrique"
+		},
+		"19": {
+			"role": "Illustration",
+			"id": "Garrrros"
+		},
+		"20": {
+			"role": "Logo Designer & Layout",
+			"id": "LkProd"
+		},
+		"21": {
+			"role": "Supervisor & Planner",
+			"id": "Fivda"
+		},
+		"22": {
+			"role": "Japanese Translator",
+			"id": "Yanis"
+		},
+		"23": {
+			"role": "Crossfade Video",
+			"id": "Iyouka"
+		},
+		"24": {
+			"role": "Web",
+			"id": "Bonnie"
+		},
+		"25": {
+			"role": "Web",
+			"id": "Kat"
+		}
+	},
+	"footer": "All music and visuals owned by KodamaSounds and their respective artists"
+}
