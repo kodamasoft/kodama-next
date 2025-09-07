@@ -11,6 +11,7 @@ import PortalPagination from '../components/namco70th/portal/pagination';
 import PortalEntrance from '../components/namco70th/portal/entrance';
 import KTMLogo from '/public/assets/namco70th/katamari/ktm-logo.webp';
 import SoraLogo from '/public/assets/namco70th/sorasuite/sora-logo.png';
+import SSLogo from '/public/assets/namco70th/speedstars/ss-logo.png';
 
 const projectInfos = [
 	{
