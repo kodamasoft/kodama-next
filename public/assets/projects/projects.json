@@ -4,10 +4,10 @@
 		"projects": [
 			{
 				"slug": "eclectic-resonance-uprising-3",
-				"status": "accepting",
-				"percentage": "75",
-				"duration": "1:13:38",
-				"finished_tracks": "17",
+				"status": "completed",
+				"percentage": "100",
+				"duration": "2:01:47",
+				"finished_tracks": "30",
 				"deadline": "2025-09-13T23:59:59Z",
 				"mastering": {
 					"status": "pending",
@@ -18,16 +18,16 @@
 			},
       {
 				"slug": "eclectic-resonance-memories-2",
-				"status": "accepting",
-				"percentage": "90",
-				"duration": "1:08:36",
-				"finished_tracks": "19",
+				"status": "completed",
+				"percentage": "100",
+				"duration": "1:30:17",
+				"finished_tracks": "27",
 				"deadline": "2025-09-13T23:59:59Z",
 				"mastering": {
 					"status": "pending",
 					"engineer": "sdhizumi"
 				},
-				"artwork_comission": "pending",
+				"artwork_comission": "completed",
 				"color": "#f9c74f"
 			},
 			{
