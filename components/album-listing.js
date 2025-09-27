@@ -109,7 +109,7 @@ export default function AlbumListing({ slug }) {
 
 					{album.fullAlbum ? (
 						<a
-							href={album.mv}
+							href={album.fullAlbum}
 							className="kodama_btn kodama_btn--primary"
 						>
 							<SiYoutubemusic className="h-4 w-4 mr-2" />
