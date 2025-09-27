@@ -56,11 +56,12 @@ const projectInfos = [
 		isDisabled: false,
 	},
 	{
-		name: '?????????',
-		image: '',
-		presentedBy: '?????????',
-		href: '/unitedtribute/almightysoundexpress',
-		isDisabled: true,
+		name: 'SpeedSTARS -a Ridge Racer tribute album-',
+		image: SSLogo,
+		presentedBy: 'COUNTERFEST RECORDS',
+		releasedAt: '2025.09.01',
+		href: 'https://counterfest.kodamasoft.net/releases/speedstars',
+		isDisabled: false,
 	},
 	{
 		name: '?????????',
