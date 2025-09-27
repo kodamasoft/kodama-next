@@ -341,5 +341,23 @@
 		"deezer": "https://www.deezer.com/album/809053871",
 		"mv": "https://www.youtube.com/watch?v=Ij-hfGievDI",
 		"youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_lpd7_SHAfsZYA6iPne9Jj0b7GBcfVVzp0"
+	},
+	"eclectic-resonance-memories-2": {
+		"id": "KSCD-0002",
+		"releaseDate": "2025-08-17T00:00:00+0200",
+		"name": "Lapis Lazuli",
+		"cover": "/assets/discography/covers/CD0002.png",
+		"coverColor": "#2f6af4",
+		"bandcamp": "https://kodamasounds.bandcamp.com/album/lapis-lazuli",
+		"booth": "https://kodamasoft.booth.pm/items/7229354",
+		"appleMusic": "https://music.apple.com/album/1835253456",
+		"spotify": "https://open.spotify.com/album/4l7BlCCD7oNrGCcFi9uKsk",
+		"deezer": "https://www.deezer.com/album/809265011",
+		"youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_lBYSIlKZ-Jbw9-CT5er82Sy_tPKtE0uog",
+		"website": "/releases/lapis-lazuli",
+		"diverse": "https://www.diverse.direct/kodamasounds/kscd-0002/",
+		"vgmdb": "https://vgmdb.net/album/151948",
+		"melonbooks": "https://www.melonbooks.co.jp/detail/detail.php?product_id=3207281",
+		"akibahobby": "https://shop.akbh.jp/en/products/2100000167135"
 	}
 }
