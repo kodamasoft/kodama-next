@@ -1,6 +1,7 @@
 import Link from 'next/link';
 
 export default function ReleaseNav({ title, slug, footer_string }) {
+
 	return (
 		<footer className="container mx-auto mt-16 mb-8 px-2 flex flex-wrap text-current/60 text-sm justify-between align-middle items-end">
 			<div>
