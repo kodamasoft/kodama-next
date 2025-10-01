@@ -1,456 +1,367 @@
 {
 	"slug": "eclectic-resonance-uprising-3",
-	"logo": "/assets/discography/logos/CD0002.png",
-	"color": "dd32d9",
+	"logo": "/assets/discography/logos/CD0003-4.png",
+	"color": "d6281b",
 	"soundcloud_track_id": "2136875400",
-	"cover": "/assets/discography/covers/CD0002.png",
+	"cover": "/assets/discography/covers/CD0003-4.png",
 	"header": {
-		"image": "/assets/discography/headers/CD0002.png"
+		"image": "/assets/discography/headers/CD0003-4.png",
+		"video": "/assets/discography/headers/CD0003-4.mp4"
 	},
 	"background": {
-		"color": "293c90"
+		"color": "2c0d0d"
 	},
-	"title": "Lapis Lazuli",
+	"title": "ECLECTIC RESONANCE UPRISING 3",
 	"circle": {
 		"name": "KodamaSounds",
 		"link": "/"
 	},
-	"specification": "Pressed CD / YOKAI 3rd Solo Album",
-	"release_date": "Aug 17, 2025 (Comic Market 106 Day 2) [コミックマーケット106 2日目]",
+	"specification": "2xCD Original Hardcore Compilation",
+	"release_date": "Oct 26, 2025 (M3-2025 Fall) [M3-2025秋]",
 	"booth": {
-		"link": "https://x.com/4cornersdoujin",
-		"name": "Four Corners",
-		"other": " / 東ホール6 オ-24b"
+		"name": "Rolling Bassline / コ-34a & Four Corners / P-17b"
 	},
-	"catalog": "KSCD-0002",
-	"price": "Price: Pre-Order & Event Price: 12€ / 2000 yen | Post Release Price: 15€ / 2500 yen",
+	"catalog": "KSCD-0003~4",
+	"price": "Pre-Order & Event Price: 15€ / 2500 yen | Digital Price: 17€ / 3000 yen | Shop Price: 3250 yen",
 	"store": {
 		"bandcamp": {
 			"name": "Bandcamp",
-			"link": "https://kodamasounds.bandcamp.com/album/lapis-lazuli"
+			"link": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-uprising-3"
 		},
 		"booth": {
 			"name": "BOOTH",
-			"link": "https://kodamasoft.booth.pm/items/7229354"
-		},
-		"diverse": {
-			"name": "Diverse Direct",
-			"link": "https://www.diverse.direct/kodamasounds/kscd-0002/"
-		},
-		"melonbooks": {
-			"name": "Melon Books",
-			"link": "https://www.melonbooks.co.jp/detail/detail.php?product_id=3207281"
-		},
-		"akibahobby": {
-			"name": "Akiba Hobby",
-			"link": "https://shop.akbh.jp/en/products/2100000167135"
+			"link": "https://kodamasoft.booth.pm/items/7448201"
 		}
 	},
-	"tracklist": {
-		"01": {
-			"title": "Bad Seed",
-			"artist": "YOKAI feat. Zephyrianna",
-			"description": [
-				"• Composer, Arranger & Lyrics: YOKAI (KodamaSounds)",
-				"• Vocals: Zephyrianna",
-				"• Electric Guitar & Shamisen: YOKAI (KodamaSounds)",
-				"",
-				"• Programmed, Produced by YOKAI (KodamaSounds)",
-				"• Mixed & Mastered by Lunatic Parfait",
-				"• Final Gain Adjustment: Volumetrique",
-				"",
-				"• Used Software: Cubase 5 and 11",
-				"• Used VSTs & Samples: RA, PianoTeq, Groove agent one, EZBass, HalionOne, Massive, Orchestral",
-				"",
-				"• About this track: This mainly metal song’s intro was recorded using a shamisen, and is influenced by the Jiuta style of traditional japanese music. The main leitmotif is later on performed with an electric guitar and accompanied by more electronic rhythms. Meanwhile, the lyrics tell us it’s never to late to do our best and doing something good.",
-				"",
-				"• Lyrics",
-				"You always tried to get something to grow",
-				"Was it a mistake?",
-				"You’re mean as a snake",
-				"",
-				"Since childhood you grew up in the shadows",
-				"made in the abyss",
-				"you were born like this",
-				"",
-				"So can you take your chances now?",
-				"You could still do something good",
-				"",
-				"One bad apple spoils the whole barrel",
-				"You can’t go back on it now",
-				"You’re the bad seed the bad seed the bad seed yeah",
-				"You can’t go back on it now",
-				"You’re the bad seed bad seed the bad seed yeah",
-				"",
-				"Let your roots grow deeper into darkness",
-				"You’ll never see the light",
-				"A tree in the night",
-				"",
-				"So can you take your chances now?",
-				"At last, to become the King of the wood",
-				"So can you take your chances now?",
-				"You could still do something good",
-				"",
-				"You can pull me from the ground",
-				"I can’t give up",
-				"You can root out the evil",
-				"I’m collapsing but I’m still alive",
-				"",
-				"One bad apple spoils the whole barrel",
-				"You can’t go back on it now",
-				"You’re the bad seed the bad seed the bad seed yeah",
-				"You can’t go back on it now",
-				"You’re the bad seed bad seed the bad seed yeah",
-				"",
-				"BPM: 170",
-				"Key: G",
-				"Time Signature: 4/4",
-				"Genre: Metal/ Electro",
-				"",
-				"https://yokaiproducer.bandcamp.com"
-			]
+	"tracklist": [
+		{
+			"_isMultiDisc": true,
+			"_discNames": ["DISC1: DEVOTION", "DISC2: MALICE"]
 		},
-		"02": {
-			"title": "Lapis Lazuli",
-			"artist": {
-				"en": "YOKAI feat. Sera Amagi",
-				"jp": "YOKAI feat. アマギセーラ"
+		{
+			"01": {
+				"title": "Agility",
+				"artist": "Renpul",
+				"description": [
+					"• Composer & Arranger: Renpul",
+					"",
+					"• Programmed, Produced, Mixed & Mastered by Renpul",
+					"• Additional Mastering: Ceiling Adjustment",
+					"",
+					"• Used Software: Ableton Live 11",
+					"• Used VSTs & Samples: Current, Serum, KYMOGRAPH",
+					"",		
+					"• About this track: I wanted to create a song with an intense rhythm reminiscent of a battle theme. Therefore, i used a relatively high BPM as well as halftempo, while including midtempo cyberpunk elements. [戦闘イメージの曲ということで、早めのBPMでハーフテンポを採用し、CyberpunkなMidtempoの要素も追加して俊敏性を演出しました。]",
+					"",
+					"https://flatfield-aaa.bandcamp.com/"
+				]
 			},
-			"description": [
-				"• Composer, Arranger & Lyrics: YOKAI (KodamaSounds)",
-				"• Vocals: Sera Amagi [アマギセーラ]",
-				"• Electric Guitar & Acoustic Guitar: YOKAI (KodamaSounds)",
-				"",
-				"• Programmed, Produced by YOKAI (KodamaSounds)",
-				"• Mixed & Mastered by Lunatic Parfait",
-				"• Final Gain Adjustment: Volumetrique",
-				"",
-				"• Used Software: Cubase 5 and 11",
-				"• Used VSTs & Samples: RA, Massive, Orchestral, Groove Agent One, DSK asian Dream",
-				"",
-				"• About this track: This song tells us the story of a deserted futuristic world and couple in search of water. The legend of the water crystal lives on, one of a crystal \"capable of giving life back to rivers, ocean, and the planet\". The song takes its inspiration from the Land of the Lustrous manga as well as the Gerudo region from \"The Legend of Zelda: Breath of the Wild.\"",
-				"",
-				"• Lyrics",
-				"勇気の石を手のひらに、大海",
-				"の心、ラピスラズリ",
-				"を追い続けよう",
-				"",
-				"Dans ce désert, le sol craque sous mes pieds.",
-				"Je vois ton mirage sur les lacs asséchés.",
-				"Mes larmes tombent en cascade de sentiments",
-				"Et éveillent en moi des souvenirs d’océan",
-				"",
-				"私を支えて、あなたを支えて",
-				"私を癒して、あなたを癒して",
-				"私を支えて、あなたを支えて",
-				"私を癒して、あなたを癒して",
-				"",
-				"この火の大地で私は希望",
-				"を求め、あなたを見捨てる",
-				"ことはできない",
-				"",
-				"勇気の石を手のひらに、大海",
-				"の心、ラピスラズリ",
-				"を追い続けよう",
-				"",
-				"Est-il trop tard pour voir renaître les saules?",
-				"Les os en feu, je continue d’y croire.",
-				"Si je porte le poids du monde sur mes épaules",
-				"Je ne suis fait que d’eau et d’espoir",
-				"",
-				"私を支えて、あなたを支えて",
-				"私を癒して、あなたを癒して",
-				"私を支えて、あなたを支えて",
-				"私を癒して、あなたを癒して",
-				"",
-				"この火の大地で私は希望",
-				"を求め、あなたを見捨てる",
-				"ことはできない",
-				"",
-				"勇気の石を手のひらに、海",
-				"の心を追いかけよう",
-				"ラピスラズリ",
-				"",
-				"焦げた樹皮の下で不死鳥が復活する。",
-				"私たちはまだ世界の姿を変えることができる。",
-				"",
-				"Sur cette terre de feu je cherche l’espoir et",
-				"je ne peux t’abandonner.",
-				"",
-				"この火の国で私は希望",
-				"を求め、あなたを見捨てる",
-				"ことはできない。",
-				"",
-				"Ma pierre de courage au creux de ma main,",
-				"L’amour est vrai dans le bleu de tes yeux.",
-				"",
-				"勇気の石を手のひらに、君",
-				"の瞳の青に愛",
-				"は宿る。",
-				"",
-				"BPM: 130",
-				"Key: C",
-				"Time Signature: 4/4",
-				"Genre: Electro / Rock",
-				"",
-				"https://yokaiproducer.bandcamp.com"
-			]
-		},
-		"03": {
-			"title": "Rogue Wave",
-			"artist": "YOKAI",
-			"description": [
-				"• Composer & Arranger: YOKAI (KodamaSounds)",
-				"• Electric Guitar: YOKAI (KodamaSounds)",
-				"",
-				"• Programmed, Produced by YOKAI (KodamaSounds)",
-				"• Mixed & Mastered by Volumetrique",
-				"",
-				"• Used Software: Cubase 11",
-				"• Used VSTs & Samples: Groove Agent SE, PianoTeq, EZBass, EZdrummer 3, Halion Sonic SE",
-				"",
-				"• About this track: An electronic & metal song inspired by Adagio, Giuseppe Gilardi and metal songs by Laur. ",
-				"",
-				"BPM: 120",
-				"Key: A",
-				"Time Signature: 3/4",
-				"Genre: Metal / Electro / Gothic",
-				"",
-				"https://yokaiproducer.bandcamp.com"
-			]
-		},
-		"04": {
-			"title": "Under the WilloW",
-			"artist": {
-				"en": "YOKAI feat. Yumi Suzuha & Justin Thornburgh",
-				"jp": "YOKAI feat. 鈴葉ユミ & Justin Thornburgh"
+			"02": {
+				"title": "Redemption",
+				"artist": "trailmix37",
+				"description": [
+					"• Composer & Arranger: trailmix37 (KodamaSounds)",
+					"",
+					"• Programmed, Produced, Mixed & Mastered by trailmix37 (KodamaSounds)",
+					"• Additional Mastering: Ceiling Adjustment",
+					"",
+					"https://x.com/trailmix37"
+				]
 			},
-			"description": [
-				"• Composer & Arranger: YOKAI (KodamaSounds)",
-				"• Vocals: Yumi Suzuha [鈴葉ユミ]",
-				"• Lyrics: YOKAI (KodamaSounds) & Yumi Suzuha [鈴葉ユミ]",
-				"• Electric Guitar & Acoustic Guitar: YOKAI (KodamaSounds)",
-				"• Tin Whistle: Justin Thornburgh",
-				"",
-				"• Programmed, Produced by YOKAI (KodamaSounds)",
-				"• Mixed & Mastered by Lunatic Parfait",
-				"• Final Gain Adjustment: Volumetrique",
-				"",
-				"• Used Software: Cubase 5 and 11",
-				"• Used VSTs & Samples: Pianoteq, RA, EZBass, EZDrummer 3, HalionOne, Orchestral, Massive, Monologue, MiniDizi, Groove Agent One",
-				"",
-				"• About this track: In Japan, the willow has a rather horrific connotation and is present in a lot of horror stories. In Europe, its meaning is significantly more romantic and poetic. In this song, the willow is a safe haven and its antlers bathing in water invite us to appreciate the moment.",
-				"",
-				"• Lyrics",
-				"",
-				"今朝、揺れる葉の影に記憶を見つけた",
-				"もしも哀しみが私の強さならば",
-				"風が葉を揺らせば",
-				"甘い憂鬱が世界を彩る",
-				"もしも苦しみが私の強さならば",
-				"",
-				"柳の下 羽休めて",
-				"夕暮れに永遠を刻んだ",
-				"柳の下 風は歌う",
-				"私の傷を癒すかのように",
-				"柳の下 屋根の向こう",
-				"夕闇に溶ける切なさを",
-				"柳の下 風は歌う",
-				"誰かの傷を癒すかのように",
-				"",
-				"今朝、落ちる雫に 世の不条理を知った",
-				"日々はかけがえなく 全てが愛しく",
-				"弱き者へも等しく 光は降り注ぐ",
-				"消えそうな希望 再び",
-				"眩しく輝く日を夢見て",
-				"",
-				"Carpe diem 此の日を",
-				"Carpe diem 自由に",
-				"そっと揺れし 柳の葉に",
-				"星が落ちて 夜は終わる",
-				"鳥の声が 朝を呼べば",
-				"昇る光 大地照らす",
-				"",
-				"もう少しだけ 羽休めて",
-				"心に灯りひとつ燈して",
-				"柳の下 風は歌う",
-				"私の傷を癒すかのように",
-				"柳の下 優しい夢",
-				"密かな願い 静寂に溶けて",
-				"私は一歩を踏み出そう",
-				"世界が希望包み込む夜に",
-				"",
-				"BPM: 150",
-				"Key: D",
-				"Time Signature: 3/4",
-				"Genre: Acoustic / Jpop / Celtic",
-				"",
-				"https://yokaiproducer.bandcamp.com"
-			]
+			"03": {
+				"title": "Unphased",
+				"artist": "yeowool vs yusi.",
+				"description": [
+					"• Composer & Arranger: yeowool, yusi.",
+					"",
+					"• Programmed, Produced & Mixed by yeowool, yusi.",
+					"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+					"",
+					"• Used Software: FL Studio 2025, Ableton Live 12",
+					"",
+					"• About this track:",
+					"yusi.: My first techcore track with yeowool, inspired by the three-phase boss battle commonly found in video games. The each three drops portray course of challenge - struggle - breakthrough (i think)",
+					"",
+					"https://yeowool.bandcamp.com/",
+					"https://yyuussii.bandcamp.com/"
+				]
+			},
+			"04": {
+				"title": "Vendome",
+				"artist": "Aniel",
+				"description": [
+					"• Composer & Arranger: Aniel (sculptured)","","• Programmed, Produced & Mixed by Aniel (sculptured)","• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)","","• Used Software: Ableton Live 12","","BPM: 160","Key: A#min (0:00~1:02) D#min(1:02~)","Genre: IDM"
+				]
+			},
+			"05": {
+				"title": "Milky Integration",
+				"artist": "AIKATYPE & Eyhz",
+				"description": [
+					"• Composer & Arranger: AIKATYPE (KodamaSounds), Eyhz (Bliss And Innocence)",
+					"",
+					"• Programmed & Produced by AIKATYPE (KodamaSounds), Eyhz (Bliss And Innocence)",
+					"• Mixed by AIKATYPE (KodamaSounds)",
+					"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+					"",
+					"• About this track:",
+					"Eyhz: The glitches in my part of the song, along with the basses, were made by taking and cutting a part from a supire sample, importing it into serum and changing them into a wave table which was used with an LFO to automate the position of said table.",
+					"",
+					"BPM: N/A",
+					"Key: N/A",
+					"Genre: Techno IDM"
+				]
+			},
+			"06": {
+				"title": "DESOLATE",
+				"artist": "Sh0wtime",
+				"description": [
+					"• Composer & Arranger: Sh0wtime",
+					"",
+					"• Programmed, Produced & Mixed by Sh0wtime",
+					"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+					"",
+					"BPM: 140",
+					"Key: Emin",
+					"Genre: Future Garage"
+				]
+			},
+			"07": {
+				"title": "Downshift",
+				"artist": "Nuchuu",
+				"description": [
+					"• Composer & Arranger: Nuchuu","","• Programmed, Produced, Mixed & Mastered by Nuchuu","• Additional Mastering: ceiling adjust","","• Used Software: Ableton Live 11","","• About this track: This track's inspiration came from representing thinking or contemplating negatively. The slow build of uncertainties, the hit of too much negativity at once, the way it can all suddenly shift, and the potential lack of resolutions. The emotional journey that takes place within, often in solitude, rather than externally. The track is experimental in overall arrangement and some key choices, and it focuses on meaningful expression over conforming to genre standards or prioritizing consistency in feel throughout.","","BPM: 120","Key: G Minor","Genre: Ambient/Experimental Electronic"
+				]
+			},
+			"08": {
+				"title": "Mistemper",
+				"artist": "Fivda",
+				"description": [
+					"• Composer & Arranger: Fivda (KodamaSounds)",
+					"",
+					"• Programmed, Produced & Mixed by Fivda (KodamaSounds)",
+					"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+					"",
+					"• Used Software: Reaper",
+					"• Used VSTs & Samples: Pro-Q 3, TAL Reverb 4, ReaComp, kHs suite, Serum, Vengence Essential Clubsounds, Exode Sample Packs, HiTECH NINJA Sample Packs, 100 Enigmatic Sample Packs",
+					"",
+					"• About this track: Originally a song of frustration and deceit, revamped into a more hypnotic and reflective song with a touch of agressiveness. I wish I could have soothed out some of its rough sides, but I think the song's overall good as it is, and I'm really proud of the general vibe of the song, and that drop was really nice and fun to layer out. Let's hope I can make something more melodic sooner than later...",
+					"",
+					"BPM: 126",
+					"Key: C Major",
+					"Genre: Techno"
+				]
+			},
+			"09": {
+				"title": "Cybermind",
+				"artist": "PSYQUO",
+				"description": [
+					"• Composer & Arranger: PSYQUO",
+					"• Vocals: Synthesizer V (Mai)",
+					"",
+					"• Programmed, Produced & Mixed by PSYQUO",
+					"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+					"",
+					"• Used Software: FL Studio, Synthesizer V",
+					"",
+					"• About this track: Hi! It's me PSYQUO. I feel like this is the second entry for a series of tracks I wanna make with the \"cyber\" aesthetic (the first one being \"Depths of an AI Enhanced Reality\"). This time it's an ambient techno (also trance-ish?) track w/ really big kicks, weird sparkly synths and a lot of reverb. The voice in the song talks about the concept of a \"cybermind\" - a fully capable virtual mind functioning in cyberspace. I hope these elements make the song more exciting and mysterious overall. Thanks for listening!",
+					"",
+					"BPM: 110",
+					"Key: D +50 cents",
+					"Genre: Ambient Technic",
+					"",
+					"• Lyrics:",
+					"Calibrating...",
+					"",
+					"The Cybermind",
+					"Ready? Get tranced.",
+					"",
+					"Serenity",
+					"of the virtual soul.",
+					"",
+					"Tranquility",
+					"of the Cybermind.",
+					"",
+					"Enlighten me."
+				]
+			},
+			"10": {
+				"title": "sentiment",
+				"artist": "kalsoer",
+				"description": [
+					"• Composer & Arranger: kalsoer",
+					"",
+					"• Programmed, Produced & Mixed by kalsoer",
+					"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+					"",
+					"BPM: 142",
+					"Key: G#m",
+					"Genre: electronic/idm/beat"
+				]
+			}
 		},
-		"05": {
-			"title": "Only Peace",
-			"artist": "YOKAI",
-			"description": [
-				"• Composer & Arranger: YOKAI (KodamaSounds)",
-				"• Electric Guitar: YOKAI (KodamaSounds)",
-				"",
-				"• Programmed, Produced by YOKAI (KodamaSounds)",
-				"• Mixed & Mastered by Volumetrique",
-				"",
-				"• Used Software: Cubase 5 and 11",
-				"• Used VSTs & Samples: Pianoteq, EZDrummer 3, EZBass, Orchestral, Philharmonic, HalionOne, Groove Agent One, Monologue",
-				"",
-				"BPM: 150",
-				"Key: B",
-				"Time Signature: 7/4",
-				"Genre: Acoustic / Celtic",
-				"",
-				"https://yokaiproducer.bandcamp.com"
-			]
-		},
-		"06": {
-			"title": "Kajimakura",
-			"artist": "YOKAI feat. A.Dokuga",
-			"description": [
-				"• Composer & Arranger: YOKAI (KodamaSounds)",
-				"• Vocals: A.Dokuga",
-				"• Lyrics: Traditional Song",
-				"• Electric Guitar: YOKAI (KodamaSounds)",
-				"",
-				"• Programmed, Produced by YOKAI (KodamaSounds)",
-				"• Mixed & Mastered by Lunatic Parfait",
-				"• Final Gain Adjustment: Volumetrique",
-				"",
-				"• Used Software: Cubase 5 and 11",
-				"• Used VSTs & Samples: Pianoteq, RA, Church Organ, Groove Agent One, Tb_Peach, Orchestral",
-				"",
-				"• About this track: This song is directly inspired by a japanese poem of the Edo era. In it, we follow the journey of a lover gone offshore on a river boat. The oar of the boat being their only bed, they yearn with regret of their own love and drown in sorrow.",
-				"",
-				"• Lyrics",
-				"からろ押す",
-				"水の煙の",
-				"人形に",
-				"なびきもやらぬ",
-				"川竹の",
-				"浮き節しげき",
-				"しげき浮き根の",
-				"泊まり舟",
-				"差して行方の",
-				"遠くとも",
-				"つひに寄る辺は",
-				"岸の上の",
-				"松の根",
-				"固き契りをば",
-				"せめて頼まん",
-				"頼むは君に",
-				"夜々身にぞ",
-				"思ひ知る",
-				"波か涙か",
-				"とまもる露か",
-				"濡れにぞ濡れし",
-				"我が袖の",
-				"しほる思ひを",
-				"押し包み",
-				"流れ渡りに",
-				"浮かれて暮らす",
-				"心づくしの",
-				"梶枕",
-				"",
-				"BPM: 160",
-				"Key: D",
-				"Time Signature: 4/4",
-				"Genre: Metal / Electro / Gothic",
-				"",
-				"https://yokaiproducer.bandcamp.com"
-			]
-		},
-		"07": {
-			"title": "Newtopie",
-			"artist": "YOKAI",
-			"description": [
-				"• Composer & Arranger: YOKAI (KodamaSounds)",
-				"• Electric Guitar: YOKAI (KodamaSounds)",
-				"",
-				"• Programmed, Produced by YOKAI (KodamaSounds)",
-				"• Mixed & Mastered by Volumetrique",
-				"",
-				"• Used Software: Cubase 5 and 11",
-				"• Used VSTs & Samples: Massive, Groove Agent One, HalionOne, Tb_Peach",
-				"",
-				"BPM: 150",
-				"Key: B",
-				"Time Signature: 4/4",
-				"Genre: Electro / Metal",
-				"",
-				"https://yokaiproducer.bandcamp.com"
-			]
-		},
-		"08": {
-			"title": "The Healing Power of Water",
-			"artist": "YOKAI",
-			"description": [
-				"• Composer & Arranger: YOKAI (KodamaSounds)",
-				"• Electric Guitar & J-Play Pad: YOKAI (KodamaSounds)",
-				"",
-				"• Programmed, Produced by YOKAI (KodamaSounds)",
-				"• Mixed & Mastered by Volumetrique",
-				"",
-				"• Used Software: Cubase 11, J-Play",
-				"• Used VSTs & Samples: Padshop, Halion Sonic SE, Groove Agent SE, Silk, R",
-				"",
-				"• About this track: The rhythm was produced with a J-Play which isn't even produced anymore. The song sounds quite dark, but it also make you feel like you're underwater. Imagine sinking in an ocean without knowing what's below you. You can imagine creatures swimming in the depths. The ambience is very much like a futuristic city similar to New Port City from Ghost in the Shell, with a cyberpunk tonality which brings a touch of romanticism and darkness to the song.",
-				"",
-				"BPM: 120",
-				"Key: C#",
-				"Time Signature: 4/4",
-				"Genre: Darkwave / Metal",
-				"",
-				"https://yokaiproducer.bandcamp.com"
-			]
-		},
-		"09": {
-			"title": "TwinSan",
-			"artist": "YOKAI",
-			"description": [
-				"• Composer & Arranger: YOKAI (KodamaSounds)",
-				"• Electric Guitar: YOKAI (KodamaSounds)",
-				"",
-				"• Programmed, Produced by YOKAI (KodamaSounds)",
-				"• Mixed & Mastered by Volumetrique",
-				"",
-				"• Used Software: Cubase 11",
-				"• Used VSTs & Samples: EZDrummer 3, EZBass, Pianoteq, Opus Voice of Passion, Halion Sonic SE",
-				"",
-				"• About this track: This song has a bunch of references to the game Little Big Adventure, as well as Yuki Kajiura's work. I chose this album to close off the album (remix aside), since it's quite dense and epic sounding, and sounds like a good lead for another album. Considering its games and anime inspirations like Sword Art Online, I thought it'd be interesting to end on an instrumental longer track than the rest of the album, similarly to how progressive rock bands do.",
-				"",
-				"BPM: 120",
-				"Key: E",
-				"Time Signature: 4/4",
-				"Genre: Progressive Rock, Video Game Music",
-				"",
-				"https://yokaiproducer.bandcamp.com"
-			]
-		},
-		"10": {
-			"title": "Bad Seed (Volumetrique Remix)",
-			"artist": "Volumetrique",
-			"description": [
-				"• Composer & Lyrics: YOKAI (KodamaSounds)",
-				"• Remix: Volumetrique",
-				"• Vocals: Zephyrianna & Volumetrique",
-				"",
-				"• Programmed, Produced, Mixed & Mastered by Volumetrique",
-				"",
-				"BPM: 172",
-				"Key: G",
-				"Time Signature: 4/4",
-				"Genre: Metal-Neurofunk",
-				"",
-				"https://volumetrique.bandcamp.com"
-			]
+		{
+			"01": {
+				"title": "LUNARGRAVITYWELL",
+				"artist": "baeddelite",
+				"description": [
+					"• Composer & Arranger: baeddelite",
+					"",
+					"• Programmed, Produced, Mixed & Mastered by baeddelite",
+					"• Additional Mastering: ceiling adjust",
+					"",
+					"BPM: 131",
+					"Key: N/A",
+					"Genre: weightofhumanity"
+				]
+			},
+			"02": {
+				"title": "Onionland",
+				"artist": "Monochrome",
+				"description": [
+					"• Composer & Arranger: Monochrome",
+					"",
+					"• Programmed, Produced & Mixed by Monochrome",
+					"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+					"",
+					"• About this track: A track inspired by an intrigue of the deep/dark web. I took a dive into some of my older, unreleased works, and found a gem called \"Onionland\" that I thought could be reworked for the purposes of hollow horizons. The final product ended up much different from the original, but I ultimately prefer this new direction - the melodies, the synths, and the bitcrushing all create a particular Internet-driven mystique that I find super interesting to listen to.",
+					"",
+					"BPM: 130",
+					"Key: 0:00 - D minor, 2:54 - G minor",
+					"Genre: Electronica"
+				]
+			},
+			"03": {
+				"title": "yukiwarisou",
+				"artist": "r",
+				"description": [
+					"• Composer & Arranger: r",
+					"",
+					"• Programmed, Produced & Mixed by r",
+					"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+					"",
+					"• About this track: dark",
+					"",
+					"BPM: 100",
+					"Key: B minor",
+					"Genre: electronica"
+				]
+			},
+			"04": {
+				"title": "Orbit.",
+				"artist": "muyu",
+				"description": [
+					"• Composer & Arranger: muyu",
+					"",
+					"• Programmed, Produced & Mixed by muyu",
+					"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+					"",
+					"• Used Software: Cubase Pro 12",
+					"• Used VSTs & Samples: Main VST: iZotope Iris 2 ,LABS / Samples: SC_CS_80_minimal_karst_Dmaj.wav from Contemporary Classical Strings, RARE_percussion_gamelan_thai_melodic_Eb_100_loop2.wav from Melody Rhythmix Vol.1",
+					"",
+					"• About this track: This track represents the life and death cycle (samsara) that we went through until now. My goal was to create a piece of music which would allow you to take a good look at what you are, by lending your ears and heart to the lasting sounds. [この楽曲はこれまでの人生と輪廻を表しています。 持続するサウンドに耳と心を傾けながら、自分を見つめなおすきっかけになるような音楽を目指しました。]",
+					"",
+					"BPM: 80",
+					"Key: N/A",
+					"Genre: Ambient"
+				]
+			},
+			"05": {
+				"title": "Cut the Noise",
+				"artist": "MetaMusic",
+				"description": [
+					"• Composer & Arranger: MetaMusic",
+					"",
+					"• Programmed, Produced & Mixed by MetaMusic",
+					"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+					"",
+					"• Used Software: Furnace (2x tildearrow Sound Unit)",
+					"",
+					"• About this track: i've always been attracted to the fuzzy sort of sound that typically comes from gba games, as well as anything to do with noise generators. while i wasn't able to fit my typical noise percussion into this style, the whole track lays gently atop some subtle sweeping noise, and uses a periodic noise generator for the melodic parts. gratuitous low-pass and high-pass filters elsewhere in the song contribute to the fuzzy vibe i'm pursuing, along with low sample rate drums for a bit of a contrasting crunch",
+					"",
+					"BPM: 128.57",
+					"Key: C# Major",
+					"Genre: downtempo"
+				]
+			},
+			"06": {
+				"title": "Chrysoberyl",
+				"artist": "Zohka",
+				"description": [
+					"• Composer & Arranger: Zohka",
+					"",
+					"• Programmed, Produced & Mixed by Zohka",
+					"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+					"",
+					"BPM: 126",
+					"Key: Em",
+					"Genre: electronic"
+				]
+			},
+			"07": {
+				"title": "ascent/cloudgazing",
+				"artist": "idosa",
+				"description": [
+					"• Composer & Arranger: idosa",
+					"",
+					"• Programmed, Produced & Mixed by idosa",
+					"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+					"",
+					"• Used Software: Bitwig Studio",
+					"• Used VSTs & Samples: slate + ash cycles, phase plant, pokemon bw2 soundfont, bunch of foley drums from freesound.org",
+					"",
+					"• About this track: im just getting out of a complicated period in my life, and i feel like this symbolizes my healing process the best. this is me climbing back up, both metaphorically and literally",
+					"",
+					"BPM: 95 (0:00~3:37) - 174 (3:37~end)",
+					"Key: c# maj or a# min",
+					"Genre: Electronica"
+				]
+			},
+			"08": {
+				"title": "Sign",
+				"artist": "marphon",
+				"description": [
+					"• Composer & Arranger: marphon",
+					"",
+					"• Programmed, Produced, Mixed & Mastered by marphon",
+					"• Additional Mastering: ceiling adjust",
+					"",
+					"• Used Software: Logic Pro",
+					"",
+					"BPM: 175",
+					"Key: N/A",
+					"Genre: Breakbeat"
+				]
+			},
+			"09": {
+				"title": "ephemeral",
+				"artist": {
+					"en": "kou feat. Chifuyu Hanakuma",
+					"jp": "kou feat. 花隈千冬"
+				},
+				"description": [
+					"• Composer, Arranger & Lyrics: kou",
+					"• Vocals: Synthesizer V (Chifuyu Hanakuma [花隈千冬])",
+					"",
+					"• Programmed, Produced, Mixed & Mastered by kou",
+					"• Additional Mastering: ceiling adjust",
+					"",
+					"• Used Software: Ableton Live 12",
+					"• Used VSTs & Samples: droplets, a demotapes moment (splice)",
+					"",
+					"BPM: 160",
+					"Key: Gm",
+					"Genre: N/A",
+					"",
+					"•Lyrics:",
+					"夜の空に一人たたずみ",
+					"",
+					"乾いた心が風に揺れる",
+					"",
+					"答えの見えない世界"
+				]
+			}
 		}
-	},
+	],
 	"youtube_id": "Xr23M-R8mAY",
 	"credits": {
 		"1": {
