@@ -87,9 +87,7 @@ export default function ReleaseDescription({
 									{booth.name}
 								</Link>
 							) : (
-								<span>
-								{booth.name}
-							</span>
+								<span>{booth.name}</span>
 							)}
 							<span>{booth.other}</span>
 						</DdKodama>
