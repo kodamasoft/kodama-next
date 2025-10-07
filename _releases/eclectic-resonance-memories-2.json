@@ -1,14 +1,15 @@
 {
 	"slug": "eclectic-resonance-memories-2",
 	"logo": "/assets/discography/logos/KSCD-0005~6.png",
-	"color": "dd32d9",
+	"color": "ff5888",
 	"soundcloud_track_id": "2136875400",
 	"cover": "/assets/discography/covers/KSCD-0005~6.png",
 	"header": {
 		"image": "/assets/discography/headers/KSCD-0005~6.png"
 	},
 	"background": {
-		"color": "293c90"
+		"color": "9df7e7",
+		"text_color": "2a7165"
 	},
 	"title": "Lapis Lazuli",
 	"circle": {
@@ -18,9 +19,7 @@
 	"specification": "Pressed CD / YOKAI 3rd Solo Album",
 	"release_date": "Aug 17, 2025 (Comic Market 106 Day 2) [コミックマーケット106 2日目]",
 	"booth": {
-		"link": "https://x.com/4cornersdoujin",
-		"name": "Four Corners",
-		"other": " / 東ホール6 オ-24b"
+		"name": "Rolling Bassline / コ-34a & Four Corners / P-17b"
 	},
 	"catalog": "KSCD-0005~6",
 	"price": "Price: Pre-Order & Event Price: 15€ / 2500 yen | Digital Price: 17€ / 3000 yen | Shop Price: 3250 yen",
