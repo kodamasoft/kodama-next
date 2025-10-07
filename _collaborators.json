@@ -272,9 +272,12 @@
 	"blobdash": {
 		"name": "blobdash",
 		"links": {
+			"twitter": "https://twitter.com/FruityEnLoops",
+			"bluesky": "https://bsky.app/profile/blobdash.bsky.social",
 			"soundcloud": "https://soundcloud.com/blobdash",
 			"bandcamp": "https://blobdash.bandcamp.com/",
-			"twitter": "https://twitter.com/FruityEnLoops",
+			"spotify": "https://open.spotify.com/artist/58R0JfjURBhWKp3WWIxNAv",
+			"apple": "https://music.apple.com/artist/blobdash/1524832816",
 			"vgmdb": "https://vgmdb.net/artist/53069"
 		}
 	},
@@ -609,9 +612,11 @@
 		"name": "soothingMelody",
 		"links": {
 			"twitter": "https://twitter.com/soothingMel0dy",
+			"bluesky": "https://bsky.app/profile/soothingmelody.bsky.social",
 			"bandcamp": "https://soothingmelody.bandcamp.com",
 			"youtube": "https://www.youtube.com/channel/UCiLHY6orOldLB-evgsx-5GA",
 			"soundcloud": "https://soundcloud.com/soothingmelody",
+			"website": "https://linktr.ee/soothingmelody",
 			"vgmdb": "https://vgmdb.net/artist/52149"
 		}
 	},
@@ -687,6 +692,11 @@
 			"jp": "境亜寿香"
 		},
 		"links": {
+			"twitter": "https://x.com/sakaiasuka",
+			"soundcloud": "https://soundcloud.com/asuka-sakai",
+			"bandcamp": "https://sakaiasuka.bandcamp.com",
+			"spotify": "https://open.spotify.com/artist/60foIO4RmUgn16dHRVxNbs",
+			"apple": "https://music.apple.com/artist/sakai-asuka/275507541",
 			"vgmdb": "https://vgmdb.net/artist/897"
 		}
 	},
@@ -696,6 +706,16 @@
 			"jp": "遠山明孝"
 		},
 		"links": {
+			"twitter": "https://x.com/AJURIKA",
+			"spotify": "https://open.spotify.com/artist/5Ir5bBLywjnWbs7OPcwEgu",
+			"vgmdb": "https://vgmdb.net/artist/1978"
+		}
+	},
+	"AJURIKA": {
+		"name": "AJURIKA",
+		"links": {
+			"twitter": "https://x.com/AJURIKA",
+			"spotify": "https://open.spotify.com/artist/5Ir5bBLywjnWbs7OPcwEgu",
 			"vgmdb": "https://vgmdb.net/artist/1978"
 		}
 	},
@@ -723,6 +743,11 @@
 			"jp": "大久保博"
 		},
 		"links": {
+			"spotify": "https://open.spotify.com/artist/1CXtHADk7NmTjiPMHmuxre",
+			"apple": "https://music.apple.com/artist/hiroshi-okubo/662786455",
+			"twitter": "https://twitter.com/ookubon",
+			"soundcloud": "https://soundcloud.com/nanosounds-jp",
+			"youtube": "https://www.youtube.com/@nanosounds",
 			"vgmdb": "https://vgmdb.net/artist/246"
 		}
 	},
@@ -1319,6 +1344,7 @@
 		"name": "ANGELWHISPER",
 		"links": {
 			"twitter": "https://x.com/_ANGELWHISPER",
+			"bluesky": "https://bsky.app/profile/angelwhisperonline.bsky.social",
 			"youtube": "https://www.youtube.com/@angelwhisperonline",
 			"vgmdb": "https://vgmdb.net/artist/64832"
 		}
@@ -1749,6 +1775,7 @@
 		"name": "Raphtalix",
 		"links": {
 			"twitter": "https://twitter.com/Raphtalix",
+			"bluesky": "https://bsky.app/profile/raphtalix.bsky.social",
 			"youtube": "https://www.youtube.com/@Raphtalix",
 			"soundcloud": "https://soundcloud.com/raphtalix",
 			"apple": "https://music.apple.com/id/artist/raphtalix/1732569173",
@@ -2165,6 +2192,227 @@
 			"pixiv": "https://www.pixiv.net/en/users/83907853",
 			"website": "https://iyouka.carrd.co",
 			"vgmdb": "https://vgmdb.net/artist/60829"
+		}
+	},
+	"driftsonic": {
+		"name": "driftsonic",
+		"links": {
+			"bandcamp": "https://botnit.bandcamp.com",
+			"spotify": "https://open.spotify.com/artist/56fW3Z2Ji3auIPUk946P0p",
+			"vgmdb": "botnit"
+		}
+	},
+	"Kohta Takahashi": {
+		"name": {
+			"en": "Kohta Takahashi",
+			"jp": "高橋コウタ"
+		},
+		"links": {
+			"twitter": "https://x.com/kohta09",
+			"bluesky": "https://bsky.app/profile/kohta09.bsky.social",
+			"apple": "https://music.apple.com/artist/kohta-takahashi/357718389",
+			"spotify": "https://open.spotify.com/artist/0vEvQgXyc1n4CCRE3kxZ2Z",
+			"website": "https://kohtasolid.wixsite.com/kohta",
+			"vgmdb": "https://vgmdb.net/artist/1565"
+		}
+	},
+	"Phillip Turnipseed": {
+		"name": "Phillip Turnipseed",
+		"links": {
+			"vgmdb": "https://vgmdb.net/artist/74837"
+		}
+	},
+	"Tektheist": {
+		"name": "Tektheist",
+		"links": {
+			"twitter": "https://x.com/tektheist",
+			"bandcamp": "https://tektheism.bandcamp.com/",
+			"youtube": "https://www.youtube.com/channel/UCxmcZksQvzQ4I7rTfEDmTXA",
+			"soundcloud": "https://soundcloud.com/tektheism",
+			"vgmdb": "https://vgmdb.net/artist/63366"
+		}
+	},
+	"Sampling Masters MEGA": {
+		"name": "Sampling Masters MEGA",
+		"links": {
+			"twitter": "https://x.com/shinji_hosoe",
+			"bluesky": "https://bsky.app/profile/hosoppo.bsky.social",
+			"soundcloud": "https://soundcloud.com/shinji-hosoe",
+			"vgmdb": "https://vgmdb.net/artist/247"
+		}
+	},
+	"Sampling Masters AYA": {
+		"name": "Sampling Masters AYA",
+		"links": {
+			"twitter": "https://x.com/ayako_saso",
+			"bluesky": "https://bsky.app/profile/ayakosaso.bsky.social",
+			"apple": "https://music.apple.com/artist/ayako-saso/1137424625",
+			"spotify": "https://open.spotify.com/artist/1ntYWSI5F2GOpxHiqmlhrt",
+			"website": "http://ayazo.net/",
+			"vgmdb": "https://vgmdb.net/artist/298"
+		}
+	},
+	"sanodg": {
+		"name": "sanodg",
+		"links": {
+			"twitter": "https://x.com/sanodg",
+			"website": "http://www1.ttcn.ne.jp/~sanodg/",
+			"vgmdb": "https://vgmdb.net/artist/405"
+		}
+	},
+	"Takayuki Aihara": {
+		"name": {
+			"en": "Takayuki Aihara",
+			"jp": "相原隆行"
+		},
+		"links": {
+			"twitter": "https://x.com/J99aihara",
+			"website": "http://carnaval.jp/",
+			"vgmdb": "https://vgmdb.net/artist/299"
+		}
+	},
+	"v1ris": {
+		"name": "v1ris",
+		"links": {
+			"bluesky": "https://bsky.app/profile/v1ris.com",
+			"bandcamp": "https://v1ris.bandcamp.com",
+			"youtube": "https://www.youtube.com/@v1ris_music",
+			"soundcloud": "https://soundcloud.com/v1ris",
+			"apple": "https://music.apple.com/artist/v1ris/1650015922",
+			"spotify": "https://open.spotify.com/artist/3QAWVvdQIrW5GGXjhXT5tH?si=MuWNkDhtT5aIceYp0GYWzQ",
+			"website": "https://v1ris.com/",
+			"vgmdb": "https://vgmdb.net/artist/73881"
+		}
+	},
+	"l4ureleye": {
+		"name": "l4ureleye",
+		"links": {
+			"twitter": "https://x.com/l4ureleye",
+			"bandcamp": "https://l4ureleye.bandcamp.com",
+			"youtube": "https://www.youtube.com/@l4ureleye/videos",
+			"soundcloud": "https://soundcloud.com/l4ureleye",
+			"website": "https://cr3stedweb.neocities.org",
+			"vgmdb": "https://vgmdb.net/artist/74603"
+		}
+	},
+	"H BOYS": {
+		"name": "H BOYS",
+		"links": {
+			"website": "https://www.tiktok.com/@hboysmusic",
+			"vgmdb": "https://vgmdb.net/artist/74842"
+		}
+	},
+	"NATSUKA": {
+		"name": "NATSUKA",
+		"links": {
+			"bluesky": "https://bsky.app/profile/tidalskies.bsky.social",
+			"bandcamp": "https://tidalskies.bandcamp.com/",
+			"youtube": "https://www.youtube.com/@shiosama",
+			"soundcloud": "https://soundcloud.com/shiosama",
+			"website": "https://linktr.ee/natsukaze",
+			"vgmdb": "https://vgmdb.net/artist/74287"
+		}
+	},
+	"suzie": {
+		"name": "suzie",
+		"links": {
+			"twitter": "https://x.com/chinjireta",
+			"bluesky": "https://bsky.app/profile/chinjireta.bsky.social",
+			"bandcamp": "https://suzie-p.bandcamp.com/",
+			"youtube": "https://youtube.com/@suzie-p",
+			"apple": "https://music.apple.com/us/artist/suzie/1466155947",
+			"spotify": "https://open.spotify.com/artist/4ae0YjFju81IdlIidloLal",
+			"website": "https://www.chinjireta.com/",
+			"vgmdb": "https://vgmdb.net/artist/74390"
+		}
+	},
+	"Ryuichi Takada": {
+		"name": {
+			"en": "Ryuichi Takada",
+			"jp": "高田龍一"
+		},
+		"links": {
+			"twitter": "https://x.com/MONACA_takada",
+			"vgmdb": "https://vgmdb.net/artist/899"
+		}
+	},
+	"ViRiX Dreamcore": {
+		"name": "ViRiX Dreamcore",
+		"links": {
+			"twitter": "https://x.com/ViRiX_Dreamcore",
+			"bandcamp": "https://virixdreamcore.bandcamp.com/",
+			"youtube": "https://www.youtube.com/c/ViRiXDreamcore",
+			"soundcloud": "https://soundcloud.com/virix",
+			"apple": "https://music.apple.com/artist/virix-dreamcore/1288209802",
+			"spotify": "https://open.spotify.com/artist/76ACVvYIpsEUcsWGcFon8b",
+			"website": "https://www.virixcore.net",
+			"vgmdb": "https://vgmdb.net/artist/32436"
+		}
+	},
+	"ehm": {
+		"name": "ehm",
+		"links": {
+			"twitter": "https://x.com/EhMehShmeh",
+			"youtube": "https://www.youtube.com/channel/UC_NiKYEB_mOnTR029Skuzkg",
+			"soundcloud": "https://soundcloud.com/ehmehshmeh",
+			"vgmdb": "https://vgmdb.net/artist/74846"
+		}
+	},
+	"MyuPicks": {
+		"name": "MyuPicks",
+		"links": {
+			"twitter": "https://x.com/mupixels",
+			"bluesky": "https://bsky.app/profile/myupicks.bsky.social",
+			"soundcloud": "https://soundcloud.com/musicalpixels",
+			"website": "https://linktr.ee/myupicks",
+			"vgmdb": "https://vgmdb.net/artist/74847"
+		}
+	},
+	"Taku Inoue": {
+		"name": {
+			"en": "Taku Inoue",
+			"jp": "井上拓"
+		},
+		"links": {
+			"twitter": "https://x.com/ino_tac",
+			"soundcloud": "https://soundcloud.com/taku-inoue",
+			"apple": "https://music.apple.com/artist/taku-inoue/1068102412",
+			"spotify": "https://open.spotify.com/artist/1XR2SfRwBXboS4s1rOSYA0",
+			"website": "https://taku-inoue.com/",
+			"vgmdb": "https://vgmdb.net/artist/9537"
+		}
+	},
+	"Sky Hy": {
+		"name": "Sky Hy",
+		"links": {
+			"youtube": "https://www.youtube.com/@SKYHYLIFE",
+			"vgmdb": "https://vgmdb.net/artist/67320"
+		}
+	},
+	"Progress": {
+		"name": "Progress",
+		"links": {
+			"twitter": "https://x.com/progress_sh_",
+			"bluesky": "https://bsky.app/profile/progress.sh",
+			"youtube": "https://www.youtube.com/@progressSH",
+			"website": "https://www.progress.sh",
+			"vgmdb": "https://vgmdb.net/artist/74848"
+		}
+	},
+	"robinemimimmi": {
+		"name": "robinemimimmi",
+		"links": {
+			"twitter": "https://x.com/robinemimimmi",
+			"vgmdb": "https://vgmdb.net/artist/74849"
+		}
+	},
+	"Max Peace": {
+		"name": "Max Peace",
+		"links": {
+			"twitter": "https://x.com/robinemimimmi",
+			"youtube": "https://youtube.com/@maxpeacemusic?si=lb-KDJOPhbk-ZH",
+			"bandcamp": "https://maxpeacemusic.bandcamp.com/music",
+			"vgmdb": "https://vgmdb.net/artist/74850"
 		}
 	},
 	"SampleEN": {

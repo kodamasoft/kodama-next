@@ -279,10 +279,16 @@
 		"coverColor": "b32d79",
 		"bandcamp": "https://kodamasounds.bandcamp.com/album/phantasmal-metamorphosis",
 		"booth": "https://kodamasoft.booth.pm/items/6960326",
+		"appleMusic": "https://music.apple.com/album/1836346600",
+		"spotify": "https://open.spotify.com/album/3j688iEtScsQAMjisKVRsA",
+		"deezer": "https://www.deezer.com/album/812596871",
+		"youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_mXvlKxUvZWuPJGFLiryqSgN0LGBNhqLZ8",
 		"website": "/releases/phantasmal-metamorphosis",
 		"diverse": "https://www.diverse.direct/kodamasounds/kscd-0001/",
 		"vgmdb": "https://vgmdb.net/album/151911",
-		"thbwiki": "https://thwiki.cc/Phantasmal_Metamorphosis"
+		"thbwiki": "https://thwiki.cc/Phantasmal_Metamorphosis",
+		"melonbooks": "https://www.melonbooks.co.jp/detail/detail.php?product_id=3207280",
+		"akibahobby": "https://shop.akbh.jp/en/products/2100000167128"
 	},
 	"lapis-lazuli": {
 		"id": "KSCD-0002",
@@ -292,9 +298,15 @@
 		"coverColor": "#2f6af4",
 		"bandcamp": "https://kodamasounds.bandcamp.com/album/lapis-lazuli",
 		"booth": "https://kodamasoft.booth.pm/items/7229354",
+		"appleMusic": "https://music.apple.com/album/1835253456",
+		"spotify": "https://open.spotify.com/album/4l7BlCCD7oNrGCcFi9uKsk",
+		"deezer": "https://www.deezer.com/album/809265011",
+		"youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_lBYSIlKZ-Jbw9-CT5er82Sy_tPKtE0uog",
 		"website": "/releases/lapis-lazuli",
 		"diverse": "https://www.diverse.direct/kodamasounds/kscd-0002/",
-		"vgmdb": "https://vgmdb.net/album/151948"
+		"vgmdb": "https://vgmdb.net/album/151948",
+		"melonbooks": "https://www.melonbooks.co.jp/detail/detail.php?product_id=3207281",
+		"akibahobby": "https://shop.akbh.jp/en/products/2100000167135"
 	},
 	"eclectic-resonance-paradise": {
 		"id": "KSDL-0020",
@@ -304,8 +316,30 @@
 		"coverColor": "#f7516a",
 		"bandcamp": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-paradise",
 		"booth": "https://kodamasoft.booth.pm/items/7199132",
+		"appleMusic": "https://music.apple.com/album/1835324143",
+		"spotify": "https://open.spotify.com/album/6tKM14ZbBW7hs6dKku06I0",
+		"deezer": "https://www.deezer.com/album/809763531",
+		"youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_l7dn3yWNoOE-fBg2yiL2I29_XVcmxtyVI",
 		"website": "/releases/eclectic-resonance-paradise",
 		"diverse": "https://www.diverse.direct/kodamasounds/ksdl-0020/",
-		"vgmdb": "https://vgmdb.net/album/145977"
+		"vgmdb": "https://vgmdb.net/album/145977",
+		"melonbooks": "https://www.melonbooks.co.jp/detail/detail.php?product_id=3207282",
+		"akibahobby": "https://shop.akbh.jp/en/products/2100000167142",
+		"fullAlbum": "https://www.youtube.com/watch?v=AbphInr6PtM"
+	},
+	"legendes": {
+		"id": "KSDS-0001",
+		"releaseDate": "2025-09-05T00:00:00+0200",
+		"name": "Légendes",
+		"cover": "/assets/discography/covers/KSDS-0001.png",
+		"coverColor": "#FFDE21",
+		"bandcamp": "https://kodamasounds.bandcamp.com/album/l-gendes",
+		"booth": "https://kodamasoft.booth.pm/items/7388729",
+		"vgmdb": "https://vgmdb.net/album/152680",
+		"spotify": "https://open.spotify.com/album/2adQjLA6upLJjFFnPUGLx1",
+		"appleMusic": "https://music.apple.com/album/1835202510",
+		"deezer": "https://www.deezer.com/album/809053871",
+		"mv": "https://www.youtube.com/watch?v=Ij-hfGievDI",
+		"youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_lpd7_SHAfsZYA6iPne9Jj0b7GBcfVVzp0"
 	}
 }

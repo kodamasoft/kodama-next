@@ -87,13 +87,35 @@ export default function AlbumListing({ slug }) {
 				</div>
 
 				<div className="flex flex-wrap mt-4 gap-4">
-					<a
-						href={album.website}
-						className="kodama_btn kodama_btn--primary"
-					>
-						<FaGlobe className="h-4 w-4 mr-2" />
-						Website
-					</a>
+					{album.website ? (
+						<a
+							href={album.website}
+							className="kodama_btn kodama_btn--primary"
+						>
+							<FaGlobe className="h-4 w-4 mr-2" />
+							Website
+						</a>
+					) : null}
+
+					{album.mv ? (
+						<a
+							href={album.mv}
+							className="kodama_btn kodama_btn--primary"
+						>
+							<SiYoutubemusic className="h-4 w-4 mr-2" />
+							Music Video
+						</a>
+					) : null}
+
+					{album.fullAlbum ? (
+						<a
+							href={album.fullAlbum}
+							className="kodama_btn kodama_btn--primary"
+						>
+							<SiYoutubemusic className="h-4 w-4 mr-2" />
+							Full Album
+						</a>
+					) : null}
 
 					{album.vgmdb ? (
 						<a
@@ -186,13 +208,13 @@ export default function AlbumListing({ slug }) {
 						</a>
 					) : null}
 				</div>
-				{album.diverse && (
+				{(album.diverse || album.melonbooks || album.akibahobby) && (
 					<h3 className="text-lg font-semibold mt-4">
 						{t('common:words.physical')}
 					</h3>
 				)}
 				<div className="flex flex-wrap mt-2 gap-4">
-					{album.diverse && (
+					{album.diverse ? (
 						<a
 							href={album.diverse}
 							className="kodama_btn kodama_btn--primary"
@@ -200,7 +222,27 @@ export default function AlbumListing({ slug }) {
 							<FaCompactDisc className="h-4 w-4 mr-2" />
 							Diverse Direct
 						</a>
-					)}
+					) : null}
+
+					{album.melonbooks ? (
+						<a
+							href={album.melonbooks}
+							className="kodama_btn kodama_btn--primary"
+						>
+							<FaCompactDisc className="h-4 w-4 mr-2" />
+							Melon Books
+						</a>
+					) : null}
+
+					{album.akibahobby ? (
+						<a
+							href={album.akibahobby}
+							className="kodama_btn kodama_btn--primary"
+						>
+							<FaCompactDisc className="h-4 w-4 mr-2" />
+							Akiba Hobby
+						</a>
+					) : null}
 				</div>
 			</div>
 		</div>

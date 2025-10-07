@@ -36,6 +36,14 @@
 		"diverse": {
 			"name": "Diverse Direct",
 			"link": "https://www.diverse.direct/kodamasounds/kscd-0001/"
+		},
+		"melonbooks": {
+			"name": "Melon Books",
+			"link": "https://www.melonbooks.co.jp/detail/detail.php?product_id=3207280"
+		},
+		"akibahobby": {
+			"name": "Akiba Hobby",
+			"link": "https://shop.akbh.jp/en/products/2100000167128"
 		}
 	},
 	"tracklist": {
@@ -163,17 +171,16 @@
 				"• Original Track: Because Princess Inada Is Scolding Me [稲田姫様に叱られるから]",
 				"• Source: Touhou Fuujinroku ~ Mountain of Faith. [東方風神録　～ Mountain of Faith.]",
 				"",
-				"• Programmed, Produced & Mixed by Ulagumo",
-				"• Mastering Engineer: blobdash",
+				"• Programmed & Produced by Maxx (KodamaSounds), Kopan (KodamaSounds), Tee-vee",
+				"• Mixed by Maxx (KodamaSounds)",
+				"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
 				"",
-				"• Original Track: Spiritual Domination ~ Who done it! [妖々跋扈　～ Who done it!]",
-				"• Source: Touhou Youyoumu ~ Perfect Cherry Blossom. [東方妖々夢　～ Perfect Cherry Blossom.]",
+				"• Original Track: Because Princess Inada Is Scolding Me [稲田姫様に叱られるから]",
+				"• Source: Touhou Fuujinroku ~ Mountain of Faith. [東方風神録　～ Mountain of Faith.]",
 				"",
-				"• Used Software: FL Studio",
-				"",
-				"BPM: 175",
-				"Key: D# minor",
-				"Genre: Drum'n'Bass"
+				"BPM: 160",
+				"Time Signature: 4/4, Verses in 17/8",
+				"Genre: Progressive Metal"
 			]
 		},
 		"06": {
