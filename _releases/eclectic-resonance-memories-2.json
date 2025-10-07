@@ -1,11 +1,11 @@
 {
 	"slug": "eclectic-resonance-memories-2",
-	"logo": "/assets/discography/logos/CD0002.png",
+	"logo": "/assets/discography/logos/KSCD-0005~6.png",
 	"color": "dd32d9",
 	"soundcloud_track_id": "2136875400",
-	"cover": "/assets/discography/covers/CD0002.png",
+	"cover": "/assets/discography/covers/KSCD-0005~6.png",
 	"header": {
-		"image": "/assets/discography/headers/CD0002.png"
+		"image": "/assets/discography/headers/KSCD-0005~6.png"
 	},
 	"background": {
 		"color": "293c90"
@@ -22,8 +22,8 @@
 		"name": "Four Corners",
 		"other": " / 東ホール6 オ-24b"
 	},
-	"catalog": "KSCD-0002",
-	"price": "Price: Pre-Order & Event Price: 12€ / 2000 yen | Post Release Price: 15€ / 2500 yen",
+	"catalog": "KSCD-0005~6",
+	"price": "Price: Pre-Order & Event Price: 15€ / 2500 yen | Digital Price: 17€ / 3000 yen | Shop Price: 3250 yen",
 	"store": {
 		"bandcamp": {
 			"name": "Bandcamp",
