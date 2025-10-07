@@ -79,12 +79,16 @@ export default function ReleaseDescription({
 					<>
 						<DtKodama>{t('booth')}</DtKodama>
 						<DdKodama>
-							<Link
-								href={booth.link}
-								className="hover:underline hover:underline-offset-1 focus:underline focus:underline-offset-1 text-[color:var(--release-color)]"
-							>
-								{booth.name}
-							</Link>
+							{booth.link ? (
+								<Link
+									href={booth.link}
+									className="hover:underline hover:underline-offset-1 focus:underline focus:underline-offset-1 text-[color:var(--release-color)]"
+								>
+									{booth.name}
+								</Link>
+							) : (
+								<span>{booth.name}</span>
+							)}
 							<span>{booth.other}</span>
 						</DdKodama>
 					</>
