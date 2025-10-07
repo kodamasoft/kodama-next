@@ -11,13 +11,13 @@
 		"color": "9df7e7",
 		"text_color": "2a7165"
 	},
-	"title": "Lapis Lazuli",
+	"title": "ECLECTIC RESONANCE Memories 2",
 	"circle": {
 		"name": "KodamaSounds",
 		"link": "/"
 	},
-	"specification": "Pressed CD / YOKAI 3rd Solo Album",
-	"release_date": "Aug 17, 2025 (Comic Market 106 Day 2) [コミックマーケット106 2日目]",
+	"specification": "2xCD Original Chiptune & FM Compilation ",
+	"release_date": "Oct 26, 2025 (M3-2025 Fall) [M3-2025秋]",
 	"booth": {
 		"name": "Rolling Bassline / コ-34a & Four Corners / P-17b"
 	},
@@ -26,23 +26,15 @@
 	"store": {
 		"bandcamp": {
 			"name": "Bandcamp",
-			"link": "https://kodamasounds.bandcamp.com/album/lapis-lazuli"
+			"link": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-memories-2"
 		},
 		"booth": {
 			"name": "BOOTH",
-			"link": "https://kodamasoft.booth.pm/items/7229354"
+			"link": "https://kodamasoft.booth.pm/items/7448202"
 		},
 		"diverse": {
 			"name": "Diverse Direct",
 			"link": "https://www.diverse.direct/kodamasounds/kscd-0002/"
-		},
-		"melonbooks": {
-			"name": "Melon Books",
-			"link": "https://www.melonbooks.co.jp/detail/detail.php?product_id=3207281"
-		},
-		"akibahobby": {
-			"name": "Akiba Hobby",
-			"link": "https://shop.akbh.jp/en/products/2100000167135"
 		}
 	},
 	"tracklist": {
