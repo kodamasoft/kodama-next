@@ -2924,11 +2924,27 @@
 			"vgmdb": "https://vgmdb.net/artist/50373"
 		}
 	},
+	"Haykira": {
+		"name": "Haykira",
+		"links": {
+			"twitter": "https://x.com/haykira_",
+			"bluesky": "https://bsky.app/profile/haykira.bsky.social",
+			"vgmdb": "https://vgmdb.net/artist/75771"
+		}
+	},
+	"RummySM": {
+		"name": "RummySM",
+		"links": {
+			"twitter": "https://x.com/rummysm",
+			"bluesky": "https://bsky.app/profile/rummysm.com",
+			"vgmdb": "https://vgmdb.net/artist/75772"
+		}
+	},
 	"SampleEN": {
 		"name": "SampleEN",
 		"links": {
 			"twitter": "link",
-			"bluesky": "link",
+			"bluesky": "https://bsky.app/profile/rummysm.com",
 			"bandcamp": "link",
 			"youtube": "link",
 			"soundcloud": "link",
