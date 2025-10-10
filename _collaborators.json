@@ -1120,6 +1120,7 @@
 		"name": "marklincadet",
 		"links": {
 			"twitter": "https://twitter.com/marklincadet",
+			"bluesky": "https://bsky.app/profile/marklincadet.bsky.social",
 			"youtube": "https://www.youtube.com/channel/UCj9i7LKeaXESr-d6ojejtZA",
 			"vgmdb": "https://vgmdb.net/artist/59659"
 		}
@@ -2935,8 +2936,8 @@
 	"RummySM": {
 		"name": "RummySM",
 		"links": {
-			"twitter": "https://x.com/rummysm",
 			"bluesky": "https://bsky.app/profile/rummysm.com",
+			"website": "https://rummysm.com/",
 			"vgmdb": "https://vgmdb.net/artist/75772"
 		}
 	},
