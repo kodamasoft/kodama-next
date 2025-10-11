@@ -30,7 +30,11 @@ export default function Header() {
 			{canDisplayM3Banner && (
 				<Link
 					className="bg-violet-600 text-white p-3 text-center block"
-					href={lang === 'jp' ? '/jp/posts/kodamanews-aug25-jp' : '/posts/kodamanews-aug25'}
+					href={
+						lang === 'jp'
+							? '/jp/posts/kodamanews-aug25-jp'
+							: '/posts/kodamanews-aug25'
+					}
 				>
 					<p className="text-sm whitespace-nowrap">
 						{t('common:m3_2025_fall_banner')}

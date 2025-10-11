@@ -6,4 +6,5 @@
  */
 
 // Side-effect export
-export default {};
+const types = {};
+export default types;
