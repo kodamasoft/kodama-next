@@ -26,7 +26,9 @@ export default function ReleaseLayout({ release }) {
 	// Handle localized title with fallback
 	const getLocalizedTitle = (title) => {
 		if (typeof title === 'object' && title !== null) {
-			return title[locale] || title.en || title.jp || Object.values(title)[0];
+			return (
+				title[locale] || title.en || title.jp || Object.values(title)[0]
+			);
 		}
 		return title;
 	};
@@ -62,10 +64,14 @@ export default function ReleaseLayout({ release }) {
 					sizes="16x16"
 					href="/favicons/favicon-16x16.png"
 				/>
-				<title>{getLocalizedTitle(release.title) + ' - KodamaSounds'}</title>
+				<title>
+					{getLocalizedTitle(release.title) + ' - KodamaSounds'}
+				</title>
 				<meta
 					property="og:title"
-					content={getLocalizedTitle(release.title) + ' - KodamaSounds'}
+					content={
+						getLocalizedTitle(release.title) + ' - KodamaSounds'
+					}
 				/>
 				<meta name="theme-color" content={'#' + release.color} />
 				<meta property="og:image" content={release.cover} />

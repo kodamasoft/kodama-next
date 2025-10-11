@@ -21,7 +21,9 @@ export default function AlbumListing({ slug }) {
 	// Handle localized title with fallback
 	const getLocalizedTitle = (title) => {
 		if (typeof title === 'object' && title !== null) {
-			return title[locale] || title.en || title.jp || Object.values(title)[0];
+			return (
+				title[locale] || title.en || title.jp || Object.values(title)[0]
+			);
 		}
 		return title;
 	};
@@ -93,7 +95,9 @@ export default function AlbumListing({ slug }) {
 							</>
 						)}
 					</span>
-					<h2 className="text-2xl font-semibold">{getLocalizedTitle(album.name)}</h2>
+					<h2 className="text-2xl font-semibold">
+						{getLocalizedTitle(album.name)}
+					</h2>
 				</div>
 
 				<div className="flex flex-wrap mt-4 gap-4">

@@ -17,7 +17,9 @@ export default function ReleaseHead({
 	// Handle localized title with fallback
 	const getLocalizedTitle = (title) => {
 		if (typeof title === 'object' && title !== null) {
-			return title[locale] || title.en || title.jp || Object.values(title)[0];
+			return (
+				title[locale] || title.en || title.jp || Object.values(title)[0]
+			);
 		}
 		return title;
 	};
