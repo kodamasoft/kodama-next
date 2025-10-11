@@ -23,7 +23,9 @@ export default function Header() {
 		// { href: '/blog', label: 'Blog' }
 	];
 
-	let canDisplayM3Banner = true; // Always show M3-2025 banner for now
+	// Show M3-2025 banner until October 27, 2025
+	const bannerEndDate = new Date('2025-10-27');
+	const canDisplayM3Banner = new Date() <= bannerEndDate;
 
 	return (
 		<header className="relative w-full h-auto text-white text-center flex flex-col select-none bg-[url('/assets/big_01_space_g.png')] bg-center bg-cover">
