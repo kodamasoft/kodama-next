@@ -101,7 +101,10 @@
 	"eclectic-resonance-uprising": {
 		"id": "KSDL-0008",
 		"releaseDate": "2023-04-30T00:00:00+0200",
-		"name": "ECLECTIC RESONANCE UPRISING",
+		"name": {
+			"en": "ECLECTIC RESONANCE UPRISING",
+			"jp": "エクレクティック・レゾナンス・アップライジング"
+		},
 		"cover": "/assets/discography/covers/0008.png",
 		"coverColor": "#ffc09b",
 		"bandcamp": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-uprising",
@@ -147,7 +150,10 @@
 	"katamania": {
 		"id": "KSDL-0011",
 		"releaseDate": "2023-12-30T00:00:00+0200",
-		"name": "Katamania!! -a Katamari tribute album-",
+		"name": {
+			"en": "Katamania!! -a Katamari tribute album-",
+			"jp": "カタマニア!! -カタマリ・トリビュート・アルバム-"
+		},
 		"cover": "/assets/discography/covers/0011.png",
 		"coverColor": "#953531",
 		"bandcamp": "https://kodamasounds.bandcamp.com/album/katamania-a-katamari-tribute-album",
@@ -173,7 +179,10 @@
 	"eclectic-resonance-uprising-2": {
 		"id": "KSDL-0013",
 		"releaseDate": "2024-04-28T00:00:00+0200",
-		"name": "ECLECTIC RESONANCE UPRISING 2",
+		"name": {
+			"en": "ECLECTIC RESONANCE UPRISING 2",
+			"jp": "エクレクティック・レゾナンス・アップライジング 2"
+		},
 		"cover": "/assets/discography/covers/0013.png",
 		"coverColor": "#8439A9",
 		"bandcamp": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-uprising-2",

@@ -1,4 +1,5 @@
 import Image from 'next/image';
+import { useRouter } from 'next/router';
 import useTranslation from 'next-translate/useTranslation';
 import ReleaseNav from './release-nav';
 
@@ -11,6 +12,15 @@ export default function ReleaseHead({
 	color,
 }) {
 	const { t } = useTranslation('release');
+	const { locale } = useRouter();
+
+	// Handle localized title with fallback
+	const getLocalizedTitle = (title) => {
+		if (typeof title === 'object' && title !== null) {
+			return title[locale] || title.en || title.jp || Object.values(title)[0];
+		}
+		return title;
+	};
 
 	return (
 		<>
@@ -21,7 +31,7 @@ export default function ReleaseHead({
 							<div className="absolute w-full h-full mask-b-from-80%">
 								{header.image && (
 									<Image
-										alt={title}
+										alt={getLocalizedTitle(title)}
 										src={header.image}
 										fill={true}
 										quality={90}
