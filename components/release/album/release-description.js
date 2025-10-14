@@ -1,5 +1,6 @@
 import Image from 'next/image';
 import Link from 'next/link';
+import { useRouter } from 'next/router';
 
 import useTranslation from 'next-translate/useTranslation';
 
@@ -32,6 +33,17 @@ export default function ReleaseDescription({
 	booth,
 }) {
 	const { t } = useTranslation('release');
+	const { locale } = useRouter();
+
+	// Handle localized title with fallback
+	const getLocalizedTitle = (title) => {
+		if (typeof title === 'object' && title !== null) {
+			return (
+				title[locale] || title.en || title.jp || Object.values(title)[0]
+			);
+		}
+		return title;
+	};
 
 	return (
 		<div className="container mx-auto my-16 grid grid-cols-1 lg:grid-cols-[1fr_2fr] gap-4">
@@ -57,7 +69,7 @@ export default function ReleaseDescription({
 
 			<dl className="flex-grow px-4">
 				<DtKodama>{t('title')}</DtKodama>
-				<DdKodama>{title}</DdKodama>
+				<DdKodama>{getLocalizedTitle(title)}</DdKodama>
 
 				<DtKodama>{t('circle')}</DtKodama>
 				<DdKodama>

@@ -1,4 +1,5 @@
 import Head from 'next/head';
+import { useRouter } from 'next/router';
 import useTranslation from 'next-translate/useTranslation';
 
 import ReleaseHead from './release-head';
@@ -20,6 +21,17 @@ const noto = Noto_Sans_JP({
 
 export default function ReleaseLayout({ release }) {
 	const { t } = useTranslation('release');
+	const { locale } = useRouter();
+
+	// Handle localized title with fallback
+	const getLocalizedTitle = (title) => {
+		if (typeof title === 'object' && title !== null) {
+			return (
+				title[locale] || title.en || title.jp || Object.values(title)[0]
+			);
+		}
+		return title;
+	};
 	const backgroundColor =
 		release.background && release.background.color
 			? release.background.color
@@ -52,10 +64,14 @@ export default function ReleaseLayout({ release }) {
 					sizes="16x16"
 					href="/favicons/favicon-16x16.png"
 				/>
-				<title>{release.title + ' - KodamaSounds'}</title>
+				<title>
+					{getLocalizedTitle(release.title) + ' - KodamaSounds'}
+				</title>
 				<meta
 					property="og:title"
-					content={release.title + ' - KodamaSounds'}
+					content={
+						getLocalizedTitle(release.title) + ' - KodamaSounds'
+					}
 				/>
 				<meta name="theme-color" content={'#' + release.color} />
 				<meta property="og:image" content={release.cover} />
