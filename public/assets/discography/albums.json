@@ -341,5 +341,16 @@
 		"deezer": "https://www.deezer.com/album/809053871",
 		"mv": "https://www.youtube.com/watch?v=Ij-hfGievDI",
 		"youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_lpd7_SHAfsZYA6iPne9Jj0b7GBcfVVzp0"
+	},
+	"eclectic-resonance-uprising-3": {
+		"id": "KSCD-0003~4",
+		"releaseDate": "2025-10-26T00:00:00+0200",
+		"name": "ECLECTIC RESONANCE UPRISING 3",
+		"cover": "/assets/discography/covers/CD0003-4.png",
+		"coverColor": "#d6281b",
+		"bandcamp": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-uprising-3",
+		"booth": "https://kodamasoft.booth.pm/items/7448201",
+		"website": "/releases/eclectic-resonance-uprising-3",
+		"vgmdb": "https://vgmdb.net/album/145979"
 	}
 }

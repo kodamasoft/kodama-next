@@ -17,8 +17,6 @@ export default function Post({ post, preview }) {
 	if (!router.isFallback && !post?.slug) {
 		return <ErrorPage statusCode={404} />;
 	}
-	console.log(post.slug);
-	console.log(post.twin.slug);
 
 	return (
 		<Layout preview={preview}>
