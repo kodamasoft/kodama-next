@@ -342,6 +342,17 @@
 		"mv": "https://www.youtube.com/watch?v=Ij-hfGievDI",
 		"youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_lpd7_SHAfsZYA6iPne9Jj0b7GBcfVVzp0"
 	},
+	"eclectic-resonance-memories-2": {
+		"id": "KSCD-0005~6",
+		"releaseDate": "2025-10-26T00:00:00+0200",
+		"name": "ECLECTIC RESONANCE Memories 2",
+		"cover": "/assets/discography/covers/KSCD-0005~6.png",
+		"coverColor": "#ff5888",
+		"bandcamp": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-memories-2",
+		"booth": "https://kodamasoft.booth.pm/items/7448202",
+		"website": "/releases/eclectic-resonance-memories-2",
+		"vgmdb": "https://vgmdb.net/album/145981"
+	},
 	"eclectic-resonance-uprising-3": {
 		"id": "KSCD-0003~4",
 		"releaseDate": "2025-10-26T00:00:00+0200",

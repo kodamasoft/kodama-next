@@ -1,0 +1,875 @@
+{
+	"slug": "eclectic-resonance-memories-2",
+	"logo": "/assets/discography/logos/KSCD-0005~6.png",
+	"color": "ff5888",
+	"soundcloud_track_id": "2184486295",
+	"cover": "/assets/discography/covers/KSCD-0005~6.png",
+	"header": {
+		"image": "/assets/discography/headers/KSCD-0005~6.png"
+	},
+	"background": {
+		"color": "9df7e7",
+		"text_color": "2a7165"
+	},
+	"title": "ECLECTIC RESONANCE Memories 2",
+	"circle": {
+		"name": "KodamaSounds",
+		"link": "/"
+	},
+	"specification": "2xCD Original Chiptune & FM Compilation",
+	"release_date": "Oct 26, 2025 (M3-2025 Fall) [M3-2025秋]",
+	"booth": {
+		"name": "Rolling Bassline / コ-34a & Four Corners / P-17b"
+	},
+	"catalog": "KSCD-0005~6",
+	"price": "Pre-Order & Event Price: 15€ / 2500 yen | Digital Price: 17€ / 3000 yen | Shop Price: 3250 yen",
+	"store": {
+		"bandcamp": {
+			"name": "Bandcamp",
+			"link": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-memories-2"
+		},
+		"booth": {
+			"name": "BOOTH",
+			"link": "https://kodamasoft.booth.pm/items/7448202"
+		}
+	},
+	"tracklist": [
+		{
+			"_isMultiDisc": true,
+			"_discNames": ["Disc 1: Welcome to Kodama Sound Café", "Disc 2: Dance of the Comets Festival"]
+		},
+		{
+			"01": {
+				"title": "is your time running",
+				"artist": "john joy tay",
+				"description": [
+					"• Composer & Arranger: john \"joy\" tay",
+					"",
+					"• Programmed, Produced & Mixed by john \"joy\" tay",
+					"• Mastering Engineer: sdhizumi",
+					"",
+					"• Used Software: tildearrow's Furnace tracker",
+					"• Used VSTs & Samples: The drums were directly taken from a few Ginger Root songs. The FM instruments are edits of preexisting ones. A handful of instrument samples also come from SNES/ SFC games.",
+					"",		
+					"• About this track: \"i was supposed to ask about your fridge, why aren't you calling me back...\" This song takes you back to the comfort of childhood nostalgia and carefree times before snapping you back to reality. Fitting for a compilation album like this one.",
+					"",
+					"BPM: 180 (0:00:00~3:10.36) - 150 (3:10:36~3:26:55) - 128.5715 (3:26:55~3:27.47) - 150 (3:27.47~3:28.40) - 112.5 (3:28.40~3:29.94) - 128.5715 (3:29.94~3:30.14) - 150 (3:30.14~3:31.97) - 128.5715 (3:31.97~3:32.76) - 180 (3:32.76~3:33.68) - 128.5715 (3:33.68~3:34.69) - 100 (3:34.69~3:35.78) - 60 (3.35.78~3:51.71)",
+					"Time Signature: N/A",
+					"Key: F# maj",
+					"Genre: Digifu",
+					"",
+					"https://johntayjinf.bandcamp.com/"
+				]
+			},
+			"02": {
+				"title": "Light Machinery",
+				"artist": "acrouzet",
+				"description": [
+					"• Composer & Arranger: acrouzet",
+					"",
+					"• Programmed, Produced & Mixed by acrouzet",
+					"• Mastering Engineer: sdhizumi",
+					"",
+					"• Used Software: SidTracker64, sidplayfp",
+					"• Used VSTs & Samples: ",
+					"",
+					"• About this track: Arranged for the Commodore 64. Sound chip register refresh rate is 200 Hz.",
+					"",
+					"BPM: 125",
+					"Time Signatures: 4/4",
+					"Key: A sharp/B flat",
+					"Genre: Chiptune, Commodore 64",
+					"",
+					"https://acrouzet.bandcamp.com"
+				]
+			},
+			"03": {
+				"title": "JELLY ON TOAST",
+				"artist": "Casio Lamb",
+				"description": [
+					"• Composer & Arranger: Casio Lamb (KodamaSounds)",
+					"",
+					"• Programmed, Produced & Mixed by Casio Lamb (KodamaSounds)",
+					"• Mastering Engineer: sdhizumi",
+					"",
+					"• Used Software: Ableton Live 12 Suite",
+					"• Used VSTs & Samples: Serum 2 (sfx), Gameboy CGB-CPU-05 chip emulation for all sounds + drums",
+					"",
+					"• About this track: Chiptune is super hard! It's a difficult genre when you're not used to so many limitations, but the end result is fun and rewarding. Jelly On Toast ended up being a playful track with no real goal in mind other than 'make it accurate!', and I'm happy with how it turned out.",
+					"",
+					"BPM: 150",
+					"Time Signatures: 4/4",
+					"Key: D min",
+					"Genre: Chiptune",
+					"",
+					"https://x.com/LambLifeform"
+				]
+			},
+			"04": {
+				"title": "Whiskers And Waveforms",
+				"artist": {
+			"en": "Shogo Sakai",
+			"jp": "酒井省吾"
+			},
+				"description": [
+					"• Composer & Arranger: Shogo Sakai [酒井省吾]",
+					"",
+					"• Programmed, Produced & Mixed by Shogo Sakai [酒井省吾]",
+					"• Mastering Engineer: sdhizumi",
+					"",
+					"• Used Software: Logic Pro 11.2",
+					"• Used VSTs & Samples: Magical 8bit Plug 2",
+					"",
+					"• About this track: I am a first time attendee and thank you cal!",
+					"",
+					"BPM: 120",
+					"Key: 4/4",
+					"Key: C-Major",
+					"Genre: N/A",
+					"",
+					"https://x.com/Shogo_Sakai"
+				]
+			},
+			"05": {
+				"title": "Ghost Pain",
+				"artist": "scythe",
+				"description": [
+					"• Composer & Arranger: scythe (POPiN RECORDS)",
+					"",
+					"• Programmed, Produced & Mixed by scythe (POPiN RECORDS)",
+					"• Mastering Engineer: sdhizumi",
+					"",
+					"• Used Software: Furnace",
+					"",
+					"• About this track: The pain of losing you still clings to me like phantom limb pain.",
+					"",
+					"BPM: 96",
+					"Time Signatures: 4/4",
+					"Key: C＃",
+					"Genre: Lo-bit Hip-Hop",
+					"",
+					"https://scythe1005.bandcamp.com/"
+				]
+			},
+			"06": {
+				"title": "Ephemeral Moon",
+				"artist": "M.S",
+				"description": [
+					"• Composer & Arranger: M.S (MEGAFEPPS)",
+					"",
+					"• Programmed, Produced & Mixed by M.S (MEGAFEPPS)",
+					"• Mastering Engineer: sdhizumi",
+					"",
+					"• Used Software: MUCOM DotNet/mml2vgmIDE",
+					"",
+					"BPM: N/A",
+					"Time Signature: 4/4",
+					"Key: A minor, perhaps.",
+					"Genre: N/A",
+					"",
+					"https://megafepps1992.bandcamp.com/"
+				]
+			},
+			"07": {
+				"title": "Crescent Signal",
+				"artist": "maak",
+				"description": [
+					"• Composer & Arranger: maak",
+					"",
+					"• Programmed, Produced & Mixed by maak",
+					"• Mastering Engineer: sdhizumi",
+					"",
+					"• Used Software: Furnace",
+					"",
+					"• About this track: I wanted to compose a track containing both SID and FM for quite a while now. So I used this occasion to compose a song using both SID and OPLL (YM2413). This album is an October release, so I did my best to compose a song reminiscent of an autumn night. What do you think? [SIDとFMを組み合わせて作ってみたいと前から思っていたので、この機会にSIDとOPLL(YM2413)という組み合わせで作ってみました。リリース時期が10月という事だったので秋の夜長のような雰囲気のある曲を目指したつもりなのですがいかがでしょうか？]",
+					"",
+					"BPM: 125",
+					"Time Signature: 4/4",
+					"Key: F minor",
+					"Genre: Chiptune",
+					"",
+					"https://maakmusic.bandcamp.com/"
+				]
+			},
+			"08": {
+				"title": "Reaching Out",
+				"artist": "TakuikaNinja",
+				"description": [
+					"• Composer & Arranger: TakuikaNinja",
+					"",
+					"• Programmed, Produced & Mixed by TakuikaNinja",
+					"• Mastering Engineer: sdhizumi",
+					"",
+					"• Used Software: Dn-FamiTracker, NSFPlay",
+					"• Used VSTs & Samples: Casio Rapman, Serato Packs - \"Fool's Gold\"",
+					"",
+					"• About this track: This track came about as a means of doing things I had run out of time for when making \"No Time 2 Dwell\" - those being my DPCM sample chopping style and overall song progression. I chose to slow down the tempo to hone in on more of a micro/minimal house style. The melodic aspects were influenced by the music from Streets of Rage and Superman (Genesis/MD), with The Smurfs' Nightmare (GB) thrown in for the climax. I hope I've succeeded in bringing more modern genres to NES/FC chiptune. Special thanks to marklincadet, who provided invaluable feedback throughout the production of this track.",
+					"",
+					"BPM: 120",
+					"Time Signatures: 4/4",
+					"Key: G Major",
+					"Genre: House",
+					"",
+					"https://takuikaninja.bandcamp.com/"
+				]
+			},
+			"09": {
+				"title": "As the Crow Flies",
+				"artist": "jaxcheese",
+				"description": [
+					"• Composer & Arranger: jaxcheese (Pxtunes)",
+					"",
+					"• Programmed, Produced & Mixed by jaxcheese (Pxtunes)",
+					"• Mastering Engineer: sdhizumi",
+					"",
+					"• Used Software: pxtone Collage",
+					"• Used VSTs & Samples: YM2413 samples ripped by little-scale",
+					"",
+					"• About this track: I wrote this in the last couple of days before the deadline. down to the wire! it's just a little OPLL pop tune. I've been thinking about this chip a lot because I recently bought an old yamaha keyboard which contains one. the drum sounds are so charming. the tone is somewhat inspired by warm and melancholy thoughts about some friends who live a couple thousand miles away \"as the crow flies\"...",
+					"",
+					"BPM: 90",
+					"Time Signatures: 4/4",
+					"Key: 0:00 A minor 0:24 D-flat major 1:06 A-flat major 1:49 A minor 2:09 B-flat minor",
+					"Genre: N/A",
+					"",
+					"https://jaxcheese.bandcamp.com"
+				]
+			},
+			"10": {
+				"title": "Lemonade",
+				"artist": "HaL_Bits",
+				"description": [
+					"• Composer & Arranger: HaL_Bits",
+					"",
+					"• Programmed, Produced & Mixed by HaL_Bits",
+					"• Mastering Engineer: sdhizumi",
+					"",
+					"• Used Software: FL Studio",
+					"• Used VSTs & Samples: magical 8bit plug, New Dorefami",
+					"",
+					"• About this track: A song that sounds like a sequel to the song \"Honey Lemon\". [Honey Lemonという曲の続編的な曲です。]",
+					"",
+					"BPM: 146",
+					"Time Signatures: 4/4",
+					"Key: N/A",
+					"Genre: chiptune",
+					"",
+					"https://halbits.bandcamp.com/"
+				]
+			},
+			"11": {
+				"title": "Develop (Vocal version)",
+				"artist": {
+			"en": "Tobokegao feat. Teto Kasane",
+			"jp": "Tobokegao feat. 重音テト"
+			},
+				"description": [
+					"• Composer, Arranger & Lyrics: Tobokegao (TBKgao)",
+					"• Vocals: Teto Kasane [重音テト]",
+					"",
+					"• Programmed, Produced & Mixed by Tobokegao (TBKgao)",
+					"• Mastering Engineer: sdhizumi",
+					"",
+					"• Used Software: Reaper, LSDj",
+					"• Used VSTs & Samples: SSL Native Vocalstrip (Vocal), EchoBoy & Illusion (Vocal Bus), DynONE, soothe2 & Orange Clip (Master Bus)",
+					"",
+					"• About this track: This song doesn't have much of a story, just a song about mayhem. [特にストーリーはなく、メチャクチャな様子の曲です",
+					"",
+					"• Lyrics",
+					"1, 2 develop",
+					"feel like a baby",
+					"",
+					"まず微々な先制点",
+					"不利なだけで無理じゃない",
+					"貧乏でもなく贅沢で",
+					"フリーなだけの試練です",
+					"",
+					"ファッション全域でも分からない",
+					"トリプルでダサい 偉くない",
+					"もうやめる 証人は喋らない",
+					"静まる中 満足行かない ヤクザに",
+					"",
+					"放り投げていたバナナが",
+					"ミルクシェーキに入り込んでいて",
+					"バカなまま 無名なスタンス 無駄なフリ",
+					"1, 2 develop",
+					"身動(みじろ)くために",
+					"",
+					"",
+					"1, 2 develop",
+					"feel like a baby",
+					"",
+					"まって不当な洗礼です",
+					"不幸なだけで無理じゃない",
+					"マッチョでもなく贅肉で",
+					"フリーなだけの身なりです",
+					"",
+					"ファッション全域では分からない",
+					"トリプルでダサい 偉くない",
+					"もうやめる 承認は邪魔なだけです",
+					"静まる中 満足行かない あやつらに",
+					"",
+					"放り投げていたまま まだ",
+					"みるみる内に立て込んできて",
+					"バカなまま 無名なスター 無駄なフリ",
+					"1, 2 develop",
+					"身動(みじろ)くために",
+					"",
+					"放り投げていたバナナが",
+					"ミルクシェーキに入り込んでいて",
+					"バカなまま 無名なスタンス 無駄なフリ",
+					"1, 2 develop",
+					"身動(みじろ)くために",
+					"",
+					"BPM: 152",
+					"Time Signatures: 4/4",
+					"Key: A major",
+					"Genre: chiptune",
+					"",
+					"https://tobokegao.bandcamp.com/"
+				]
+			},
+			"12": {
+				"title": "Purple and Turquoise",
+				"artist": "CHOUX",
+				"description": [
+					"• Composer & Arranger: CHOUX (CHOUXWORLD / souris lapinou)",
+					"",
+					"• Programmed, Produced & Mixed by CHOUX (CHOUXWORLD / souris lapinou)",
+					"• Mastering Engineer: sdhizumi",
+					"",
+					"• Used Software: CUBASE13",
+					"• Used VSTs & Samples: chipsounds",
+					"",
+					"• About this track: into the Purple and Turquoise...",
+					"",
+					"BPM: 228",
+					"Time Signatures: 4/4",
+					"Key: D",
+					"Genre: Super Uneune Chipmusic",
+					"",
+					"https://chouxworld.bandcamp.com "
+				]
+			},
+			"13": {
+				"title": "Black Horizon Protocol",
+				"artist": "tom_atom",
+				"description": [
+					"• Composer & Arranger: tom_atom",
+					"",
+					"• Programmed, Produced & Mixed by tom_atom",
+					"• Mastering Engineer: sdhizumi",
+					"",
+					"• Used Software: FL Studio",
+					"• Used VSTs & Samples: SANA 8BIT VST",
+					"",
+					"• About this track: BGM inspired by a dogfight in the dark night sky",
+					"",
+					"BPM: 158",
+					"Time Signatures: 4/4",
+					"Key: N/A",
+					"Genre: fusion",
+					"",
+					"https://tomatom1.bandcamp.com/"
+				]
+			}
+		},
+		{
+			"01": {
+				"title": "Dream Editor",
+				"artist": "Princess Sylvysprit",
+				"description": [
+					"• Composer & Arranger: Princess Sylvysprit",
+					"",
+					"• Programmed, Produced, Mixed & Mastered by Princess Sylvysprit",
+					"• Additional Mastering: Ceiling Adjustment",
+					"",
+					"• Used Software: FL Studio",
+					"• Used VSTs & Samples: VOPM, FMDrive, Sytrus",
+					"",
+					"• About this track: I wanted to make a song that was inspired by Yousuke Yasui and Kazumi Totaka. I initially had the idea of a cute construction site level in my head, but then that gradually changed to something that resembled something that is more like a level editor, like some kind of editor theme while you're placing a bunch of pastel clouds in unnecessary places in their dreams, maybe you're helping them somehow...? I hope so. This song was very fun to make, i hope everyone who reads this has a nice day.",
+					"",
+					"BPM: 185",
+					"Time Signatures: 6/4",
+					"Key: N/A",
+					"Genre: FM",
+					"",
+					"https://sylvysprit.bandcamp.com/"
+				]
+			},
+			"02": {
+				"title": "Stray Donuts",
+				"artist": "sdhizumi",
+				"description": [
+					"• Composer & Arranger: sdhizumi",
+					"",
+					"• Programmed, Produced, Mixed & Mastered by sdhizumi",
+					"",
+					"• Used Software: LSDj v9.2.L",
+					"",
+					"• About this track: Oh no, where have my donuts gone?",
+					"",
+					"BPM: 130",
+					"Time Signatures: 4/4",
+					"Key: F#maj",
+					"Genre: Chip UKG",
+					"",
+					"https://sdhizumi.bandcamp.com/"
+				]
+			},
+			"03": {
+				"title": "energy",
+				"artist": {
+				"en": "Mochiume",
+				"jp": "もちうめ"
+				},
+				"description": [
+					"• Composer & Arranger: Mochiume [もちうめ]",
+					"",
+					"• Programmed, Produced & Mixed by Mochiume [もちうめ]",
+					"• Mastering Engineer: sdhizumi",
+					"",
+					"• Used Software: Logic Pro X",
+					"",
+					"BPM: 110",
+					"Time Signatures: 4/4",
+					"Key: G Double Harmonic Scale",
+					"Genre: bitpop",
+					"",
+					"https://mochiume.bandcamp.com/"
+				]
+			},
+			"04": {
+				"title": "digging for sand crabs!!",
+				"artist": "EchoLane",
+				"description": [
+					"• Composer & Arranger: EchoLane",
+					"",
+					"• Programmed, Produced & Mixed by EchoLane",
+					"• Mastering Engineer: sdhizumi",
+					"",
+					"• Used Software: Dn-Famitracker",
+					"",
+					"• About this track: this past summer, i lived with a friend in an apartment near a beach! i have strong memories of walking on that beach with my friend, and of her showing me sand crabs she found near the water. they were really small and REALLY cute, and thinking of them reminds me of her and our adventures together. i hope my song makes you think of the sea!",
+					"",
+					"BPM: 120 (0:00~1:11) --- 80 (1:11~1:36) --- 120 (1:36~2:20)",
+					"Time Signature: 4/4",
+					"Key: C major (0:00~1:11) --- 0 (1:11~1:36) --- F major (1:36-2:20)",
+					"Genre: Chiptune",
+					"",
+					"https://echoln.bandcamp.com/"
+				]
+			},
+			"05": {
+				"title": "Ending Of Travel",
+				"artist": "U-Ruri",
+				"description": [
+					"• Composer & Arranger: U-Ruri",
+					"",
+					"• Programmed, Produced & Mixed by U-Ruri",
+					"• Mastering Engineer: sdhizumi",
+					"",
+					"• Used VSTs & Samples: Hive",
+					"",
+					"• About this track: Throughout the entire piece, I only used three tones, and I didn’t use any technique like fast arpeggios. There isn't even a rhythm section like drums. I challenged myself to see how much a song could captivate listeners using only chord progressions. I hope it brings back memories of the sounds from that time. [楽曲通して、音は3音しか鳴っておらず、高速アルペジオのような技法も使用していません。ドラムのようなリズム隊すらない中、コード進行だけでどれほど楽曲を魅せれるかに挑戦しました。あの頃のサウンドを思い出していただけたら幸いです。]",
+					"",
+					"BPM: 107(0:01~0:07) - 142(0:07~1:55) - 214(1:55~2:32) -150(2:32~3:37) ",
+					"Time Signatures: 4/4(0:01~1:55) - 5/4(1:55~2:01) - 6/4(2:01~2:02) -11/4(2:02~2:08) - 6/4(2:08~2:22) -3/4(2:22~2:24) - 4/4(2:24~3:37) ",
+					"Key: D(0:01~0:54) - F(0:54~1:54) -  E♭(1:54~1:21) - A♭(1:21~1:27) - B(1:27~2:32) - G(2:32~3:37)",
+					"Genre: FC",
+					"",
+					"https://u-ruri.bandcamp.com/"
+				]
+			},
+			"06": {
+				"title": "AEROPRISM",
+				"artist": "LOVEPENGUIN",
+				"description": [
+					"• Composer & Arranger: LOVEPENGUIN",
+					"",
+					"• Programmed, Produced & Mixed by LOVEPENGUIN",
+					"• Mastering Engineer: sdhizumi",
+					"",
+					"• Used Software: Furnace Tracker",
+					"",
+					"• About this track: SN76489 track, made for Game Gear.",
+					"",
+					"BPM: N/A",
+					"Time Signatures: 4/4 (0:00~1:38) - 6/8 (1:38~End)",
+					"Key: N/A",
+					"Genre: chiptune",
+					"",
+					"https://polariapoyon.bandcamp.com/"
+
+				]
+			},
+			"07": {
+				"title": {
+			"en": "Flower-Scented Streets",
+			"jp": "花の香る街"
+			},
+				"artist": {
+			"en": "Masaru Nakajima",
+			"jp": "中島勝"
+			},
+				"description": [
+					"• Composer & Arranger: Masaru Nakajima [中島勝]",
+					"",
+					"• Programmed, Produced & Mixed by Masaru Nakajima [中島勝]",
+					"• Mastering Engineer: sdhizumi",
+					"",
+					"• Used Software: Reason12",
+					"• Used Synth: RYM2612",
+					"",
+					"• About this track: A melodious song with a nostalgic feel from FM6ch. [FM6chによる郷愁をイメージしたメロディアスな楽曲。]",
+					"",
+					"BPM: 100",
+					"Time Signatures: 4/4",
+					"Key: Am",
+					"Genre: Chiptune",
+					"",
+					"https://x.com/nakajima_m20633"
+				]
+			},
+			"08": {
+				"title": "Temporal Turnabout",
+				"artist": "Muscises",
+				"description": [
+					"• Composer & Arranger: Muscises",
+					"",
+					"• Programmed, Produced, Mixed & Mastered by Muscises",
+					"• Additional Mastering: Ceiling Adjustment",
+					"",
+					"• Used Software: mmlgui, MDSDRV, Blastem",
+					"",
+					"• About this track: My journey with MDSDRV for the past four years has been pretty fun. Figuring out the best way to realize my ideas onto mmlgui via other music programs, finding bugs, and generally just seeing how far this sound driver can go. One of the inside jokes we had in our community is that you can make the Sega Genesis sound system mimic the Neo Geo's, so I had that goal in mind for this track. I also limited myself to 64kb in terms of samples and sequence data to make it more interesting, and show how capable it is if had the similar limitations to storage space on the SNES's sound system. Other than the technical stuff, this track is channeling the house music that would be made in Japan. Yes, I \"stole\" that sax riff from Shinichiro Yokota's \"Time Lapse\"(it's pretty good), but I sprinkled in some musical references from my other compositions. Overall, I had fun making this and I hope that others enjoy it too.",
+					"",
+					"BPM: 122",
+					"Time Signature: 4/4",
+					"Key: F minor natural",
+					"Genre: House",
+					"",
+					"https://muscises.bandcamp.com"
+				]
+			},
+			"09": {
+				"title": "re_beginning",
+				"artist": "g3ntlebreeze",
+				"description": [
+					"Arranger: g3ntlebreeze",
+					"",
+					"• Programmed, Produced & Mixed by g3ntlebreeze",
+					"• Mastering Engineer: sdhizumi",
+					"",
+					"• Used Software: Logic Pro X",
+					"• Used VSTs & Samples: Samples from Furnace",
+					"",
+					"• About this track: at first, i wanted to make something very minimalistic, like an Aphex Twin track - something that develops subtly and just something you can groove to. as the track went on, though, i wanted to add more leads - and the track ended up pretty melody-driven! one thing i noticed is that this track reminds me of \"Ever Higher\" from Deltarune Chapter 4, which has been one of my favorite songs recently, and seems to have unintentionally influenced this track.",
+					"",
+					"BPM: 204",
+					"Time Signatures: 7/4",
+					"Key: A minor",
+					"Genre: N/A",
+					"",
+					"https://g3ntlebreeze.bandcamp.com/"
+				]
+			},
+			"10": {
+				"title": "Trailing Stars",
+				"artist": "SomeSpoonyBard",
+				"description": [
+					"• Composer & Arranger: SomeSpoonyBard",
+					"",
+					"• Programmed, Produced & Mixed by SomeSpoonyBard",
+					"• Mastering Engineer: sdhizumi",
+					"",
+					"• Used Software: Furnace Tracker",
+					"",
+					"• About this track: I was originally going to revive an old melodic idea I had written some 10 odd years ago for this track, but ultimately, upon coming up with a new idea for the chorus section while at work, I decided to focus on that. Pretty much everything before that is just buildup to that soaring melody, haha.",
+					"",
+					"BPM: 225",
+					"Time Signatures: 4/4",
+					"Key: C minor (0:00~1:59) - D# major (2:00~2:41) - F minor (2:42~3:01) - G# major (3:02~3:41)",
+					"Genre: Chiptune",
+					"",
+					"https://somespoonybard.bandcamp.com/"
+				]
+			},
+			"11": {
+				"title": "Sending into Starlight",
+				"artist": "Tater",
+				"description": [
+					"• Composer & Arranger: Tater",
+					"",
+					"• Programmed, Produced & Mixed by Tater",
+					"• Mastering Engineer: sdhizumi",
+					"",
+					"• Used Software: mml2vgmIDE",
+					"• Used VSTs & Samples: OPNA(YM2608), CMLPCM9, Fruity Reeverb 2",
+					"",
+					"• About this track: I wanted to include a track to represent PMD chiptune! It's a legendary driver that stretches the OPNA sound chip to its fullest. So I made this bouncing trance track and included every idea I could. Thanks to M.S and BUNBUN for being major inspirations behind this track.",
+					"",
+					"BPM: 146 (note: chip playback speed may vary slightly)",
+					"Time Signature: 4/4",
+					"Key: N/A",
+					"Genre: Trance",
+					"",
+					"https://tatertottunes.bandcamp.com/"
+				]
+			},
+			"12": {
+				"title": "en estos senderos iluminados",
+				"artist": "robotmeadows",
+				"description": [
+					"• Composer & Arranger: William Javier Machado",
+					"",
+					"• Programmed, Produced & Mixed by William Javier Machado",
+					"• Mastering Engineer: sdhizumi",
+					"",
+					"• Used Software: Dirtywave M8 Tracker",
+					"",
+					"• About this track: a song about moving forward towards a kinder and brighter future, inspired mainly by Yasunori Nishiki's music for the videogame Octopath Traveler & the math-rock band Totorro. en estos senderos iluminados translates to \"in these illuminated paths\"",
+					"",
+					"BPM: 190, 105 (0:36-0:53), 190 (0:34-2:30) 110",
+					"Time Signatures: 4/4",
+					"Key: F minor (0:00-1:33) C minor",
+					"Genre: chiptune rock",
+					"",
+					"https://robotmeadows.bandcamp.com/"
+				]
+			},
+			"13": {
+				"title": "SAVIOUR SELF !!",
+				"artist": "HEAVYVIPER",
+				"description": [
+					"• Composer & Arranger: HEAVYVIPER",
+					"",
+					"• Programmed, Produced & Mixed by HEAVYVIPER",
+					"• Mastering Engineer: sdhizumi",
+					"",
+					"• Used Software: Furnace Tracker 0.6.8.3",
+					"",
+					"• About this track: At the end of it all, in the pouring rain, a crossing of blades. After raging for what feels like hours, one mistake is all it takes. Lying on the wet soil, bleeding, looking up at the sword. Heart racing, lungs heaving. The weight of every loss, pressing down so hard. With one great crack of thunder, it all goes white...then, her voice. \"Not like you to be flat on your ass. What was it you used to say? 'As long as you're here, I'll keep fighting.' Well, here I am. Now, STAND UP!\"",
+					"",
+					"BPM: 100",
+					"Time Signature: 4/4",
+					"Key: G/B",
+					"Genre: Progressive Revelation",
+					"",
+					"https://heavyviper.bandcamp.com"
+				]
+			},
+			"14": {
+				"title": "Carefree House Cats",
+				"artist": {
+				"en": "Rhap",
+				"jp": "らぷ"
+				},
+				"description": [
+					"• Composer & Arranger: Rhap [らぷ]",
+					"",
+					"• Programmed, Produced & Mixed by Rhap [らぷ]",
+					"• Mastering Engineer: sdhizumi",
+					"",
+					"• Used Software: FamiTracker, Cubase 12",
+					"• Used VSTs & Samples: 2A03 + VRC7",
+					"",
+					"• About this track: I composed this piece while thinking about the cats at my parents' house. They roam freely around our peaceful home, and I imagine that they sometimes find themselves in places and doing things that I could never guess. Through the piece's dizzying developments and irregular time signatures, I tried to express their charming yet mysterious habits. For example, the piece begins E major, and undergoes a series of modulations through 12 kinds major keys (in my interpretation), before returns to E major. This represents the presence of their fixed position (such as a cushion) upon their return from a big adventure.",
+					"I hope you enjoy it. [私の実家の猫たちに思いを馳せて制作しました。彼らは平穏な我が家を自由に歩き回り、私が想像もつかない場所へ行き、想像もつかない行動を取っているのでしょう。彼らのそんな愛らしくもミステリアスな生態を、曲の目まぐるしい展開や変拍子として表現してみました。例えば、この曲はホ長調に始まり、(私の解釈では)12種類の長調への転調を経て、再びホ長調に戻ってくるといった仕掛けを施しました。これは彼らが大冒険から戻った際、定位置(クッションなど)に落ち着く様子を表しています。お楽しみいただければ幸いです。]",
+					"",
+					"BPM: 190",
+					"Time Signatures: 3/4 (0:00~0:07) - 5/4 (0:07~0:37) - 3/4 (0:37~1:25) - 5/4 (1:25~1:55) - 3/4 (1:55~2:04) - 5/4 (2:04~2:28) - 3/4 (2:28~3:19) - 5/4 (3:19~3:24) - 3/4 (3:24~3:29)",
+					"Key: E maj (0:00~0:17) - B♭ maj / G min (0:17~0:23) - G maj (0:23~0:26) - E maj (0:26~0:39) - G maj (0:39~0:43) - F maj / D min (0:43~0:52) - A♭ maj (0:52~1:06) - E♭ maj (1:06~1:17) - G♭ maj (1:17~1:21) - G maj (1:21~1:34) - D♭ maj / B♭ min (1:34~1:40) - B♭ maj (1:40~2:00) - B maj (2:00~2:07) - F maj / D min (2:07~2:13) - D maj (2:13~2:17) - B maj (2:17~2:30) - D maj (2:30~2:33) - C maj / A min (2:33~2:44) - A maj (2:44~2:56) - E maj (2:56~3:29)",
+					"Genre: Jazz",
+					"",
+					"https://x.com/shoebill52149"
+				]
+			},
+			"15": {
+				"title": "Say Cheese!",
+				"artist": {
+				"en": "yadrigg",
+				"jp": "やどりぎ"
+				},
+				"description": [
+					"• Composer & Arranger: yadrigg [やどりぎ]",
+					"",
+					"• Programmed, Produced & Mixed by yadrigg [やどりぎ]",
+					"• Mastering Engineer: sdhizumi",
+					"",
+					"• Used Software: FL studio",
+					"• Used VSTs & Samples: Bleep / SF6 library / new Doremi / Snapheap / ピストンコラージュ",
+					"",
+					"• About this track: I made a piece evoking young children having fun pretending to be heroes and such. [ヒーローなどごっこ遊びを楽しむ子どもたちを写真や動画に残す様子を描きました。]",
+					"",
+					"BPM: 165(~2:18) / 165->140 (2:18~2:21) / 140(2:21~)",
+					"Time Signatures: 4/4",
+					"Key: N/A",
+					"Genre: chiptune",
+					"",
+					"https://x.com/yadrigg"
+				]
+			}
+		}
+	],
+	"youtube_id": "ms7oVen6bDA",
+	"credits": {
+		"1": {
+			"role": "Composer & Arranger",
+			"id": "john joy tay"
+		},
+		"2": {
+			"role": "Composer & Arranger",
+			"id": "acrouzet"
+		},
+		"3": {
+			"role": "Composer & Arranger",
+			"id": "Casio Lamb"
+		},
+		"4": {
+			"role": "Composer & Arranger",
+			"id": "Shogo Sakai"
+		},
+		"5": {
+			"role": "Composer & Arranger",
+			"id": "scythe"
+		},
+		"6": {
+			"role": "Composer & Arranger",
+			"id": "M.S"
+		},
+		"7": {
+			"role": "Composer & Arranger",
+			"id": "maak"
+		},
+		"8": {
+			"role": "Composer & Arranger",
+			"id": "TakuikaNinja"
+		},
+		"9": {
+			"role": "Composer & Arranger",
+			"id": "jaxcheese"
+		},
+		"10": {
+			"role": "Composer & Arranger",
+			"id": "HaL_Bits"
+		},
+		"11": {
+			"role": "Composer & Arranger",
+			"id": "Tobokegao"
+		},
+		"12": {
+			"role": "Composer & Arranger",
+			"id": "CHOUX"
+		},
+		"13": {
+			"role": "Composer & Arranger",
+			"id": "tom_atom"
+		},
+		"14": {
+			"role": "Composer & Arranger",
+			"id": "Princess Sylvysprit"
+		},
+		"15": {
+			"role": "Composer, Arranger, Mastering Engineer",
+			"id": "sdhizumi"
+		},
+		"16": {
+			"role": "Composer & Arranger",
+			"id": "Mochiume"
+		},
+		"17": {
+			"role": "Composer & Arranger",
+			"id": "EchoLane"
+		},
+		"18": {
+			"role": "Composer & Arranger",
+			"id": "U-Ruri"
+		},
+		"19": {
+			"role": "Composer & Arranger",
+			"id": "LOVEPENGUIN"
+		},
+		"20": {
+			"role": "Composer & Arranger",
+			"id": "Masaru Nakajima"
+		},
+		"21": {
+			"role": "Composer & Arranger",
+			"id": "Muscises"
+		},
+		"22": {
+			"role": "Composer & Arranger",
+			"id": "g3ntlebreeze"
+		},
+		"23": {
+			"role": "Composer & Arranger",
+			"id": "SomeSpoonyBard"
+		},
+		"24": {
+			"role": "Composer & Arranger",
+			"id": "Tater"
+		},
+		"25": {
+			"role": "Composer & Arranger",
+			"id": "robotmeadows"
+		},
+		"26": {
+			"role": "Composer & Arranger",
+			"id": "HEAVYVIPER"
+		},
+		"27": {
+			"role": "Composer & Arranger",
+			"id": "Rhap"
+		},
+		"28": {
+			"role": "Composer & Arranger",
+			"id": "yadrigg"
+		},
+		"29": {
+			"role": "Audio Crossfade",
+			"id": "Volumetrique"
+		},
+		"30": {
+			"role": "Illustration, Logo Designer",
+			"id": "Haykira"
+		},
+		"31": {
+			"role": "Logo Designer, Supervisor & Planner",
+			"id": "marklincadet"
+		},
+		"32": {
+			"role": "Supervisor, Planner & Layout",
+			"id": "cal"
+		},
+		"33": {
+			"role": "Supervisor & Planner",
+			"id": "Fivda"
+		},
+		"34": {
+			"role": "Japanese Translator",
+			"id": "Yanis"
+		},
+		"35": {
+			"role": "Crossfade Video",
+			"id": "RummySM"
+		},
+		"36": {
+			"role": "Web",
+			"id": "Bonnie"
+		},
+		"37": {
+			"role": "Web",
+			"id": "Kat"
+		},
+		"38": {
+			"role": "Special Thanks",
+			"id": "Krep"
+		},
+		"39": {
+			"role": "Special Thanks",
+			"id": "NForza"
+		}
+	},
+	"footer": "All music and visuals owned by KodamaSounds and their respective artists"
+}
