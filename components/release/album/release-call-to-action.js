@@ -2,8 +2,6 @@ import Link from 'next/link';
 import Trans from 'next-translate/Trans';
 
 export default function ReleaseCallToAction({ store }) {
-	// console.log('store', store);
-
 	return (
 		<section className="bg-current/5 mt-16 py-8">
 			<h2 className="text-2xl text-center uppercase mb-6 font-black">
