@@ -363,5 +363,21 @@
 		"booth": "https://kodamasoft.booth.pm/items/7448201",
 		"website": "/releases/eclectic-resonance-uprising-3",
 		"vgmdb": "https://vgmdb.net/album/145979"
+	},
+	"touhou-fractured-transience": {
+		"id": "KSDL-0021",
+		"releaseDate": "2025-11",
+		"name": "Touhou Fractured Transience Original Soundtrack",
+		"cover": "/assets/discography/covers/0014.png",
+		"coverColor": "#F01857",
+		"bandcamp": "https://kodamasounds.bandcamp.com/album/gensokyo-party-vol-5-vantablack-2",
+		"booth": "https://kodamasoft.booth.pm/items/5667642",
+		"appleMusic": "https://music.youtube.com/playlist?list=OLAK5uy_mmHcIikogpN4o_LTZfE7KrVIzqVJUIwww",
+		"spotify": "https://open.spotify.com/album/0R7vKUXHQzUq6Zv7o3ToIR",
+		"deezer": "https://www.deezer.com/en/album/594945662",
+		"youtubeMusic": "https://music.apple.com/album/gensokyo-party-vol-5-vantablack-2/1749462731",
+		"website": "/releases/gensokyo-party-vol5",
+		"vgmdb": "https://vgmdb.net/album/137463",
+		"thbwiki": "https://thwiki.cc/Gensokyo_Party_Vol._5_VANTABLACK_2"
 	}
 }
