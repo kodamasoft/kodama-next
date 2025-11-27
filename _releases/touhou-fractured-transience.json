@@ -23,7 +23,7 @@
 	"specification": "Digital Original Game Soundtrack",
 	"release_date": "Nov 29th, 2025",
 	"catalog": "KSDL-0021",
-	"price": "Pre-Order Price: 11€ / 2000 yen | Post-Release Price: 15€ / 2500 yen",
+	"price": "Price: 15€ / 2500 yen",
 	"store": {
 		"bandcamp": {
 			"name": "Bandcamp",
@@ -325,12 +325,12 @@
 				"artist": "KoDyMaxx",
 				"description": [
 					"• Original Composer: ZUN (Team Shanghai Alice)",
-					"• Arranger: Maxx (KodamaSounds), Kopan (KodamaSounds), Dylan Hendrick (KodamaSounds)",
+					"• Arranger: Maxx (KodamaSounds), Kopan (KodamaSounds), LyhNed (KodamaSounds)",
 					"• Guitar & Bass: Maxx (KodamaSounds)",
 					"• Keys: Kopan (KodamaSounds)",
-					"• Drums: Dylan Hendrick (KodamaSounds)",
+					"• Drums: LyhNed (KodamaSounds)",
 					"",
-					"• Programmed & Produced by Maxx (KodamaSounds), Kopan (KodamaSounds), Dylan Hendrick (KodamaSounds)",
+					"• Programmed & Produced by Maxx (KodamaSounds), Kopan (KodamaSounds), LyhNed (KodamaSounds)",
 					"• Mixed by Maxx (KodamaSounds)",
 					"• Mastering Engineer: R-Man (Resonant Union)",
 					"",
@@ -610,7 +610,7 @@
 			}
 		}
 	],
-	"youtube_id": "tgIVZm9JuFE",
+	"youtube_id": "F_Uq9YW3YXE",
 	"credits": {
 		"1": {
 			"role": "Arranger",
@@ -685,24 +685,28 @@
 			"id": "R-Man"
 		},
 		"19": {
-			"role": "Illustration, Logo Design & Crossfade Video",
+			"role": "Illustration, Logo Design",
 			"id": "NobiMana"
 		},
 		"20": {
+			"role": "Crossfade Video",
+			"id": "RummySM"
+		},
+		"21": {
 			"role": "Sound Director, Supervisor & Planner",
 			"id": "Fivda"
 		},
-		"21": {
+		"22": {
 			"role": "Japanese Translator",
 			"id": "Yanis"
 		},
-		"22": {
+		"23": {
 			"role": "Web",
 			"id": "Bonnie"
 		},
-		"23": {
+		"24": {
 			"role": "Web",
-			"id": "Kat"
+			"id": "VIIweights"
 		}
 	},
 	"footer": "All original compositions and characters respective of ZUN (Team Shanghai Alice) & U2 Akiyama (Twilight Frontier). 東方Project © 上海アリス幻樂団 © 黄昏フロンティア"
