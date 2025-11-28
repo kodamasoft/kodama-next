@@ -36,6 +36,7 @@ export default function ReleaseHead({
 										alt={getLocalizedTitle(title)}
 										src={header.image}
 										fill={true}
+										priority={true}
 										quality={90}
 										className={`z-2 object-cover blur-[${header.blur ?? 25}px] brightness-[${header.brightness ?? 0.5}] scale-110`}
 									/>
@@ -64,6 +65,7 @@ export default function ReleaseHead({
 									height="340"
 									width="1000"
 									alt="Logo"
+									priority={true}
 									className="object-contain object-center p-6 md:relative -top-14 w-[1000px] h-[500px] max-w-full mx-auto drop-shadow-[0_0_5px_rgba(0,0,0,0.75)]"
 									quality={100}
 								/>
@@ -79,6 +81,7 @@ export default function ReleaseHead({
 								height="340"
 								width="1000"
 								alt="Logo"
+								priority={true}
 								className="object-contain object-center p-6 md:relative -top-14 w-[1000px] h-[500px] max-w-full mx-auto"
 								quality={100}
 							/>

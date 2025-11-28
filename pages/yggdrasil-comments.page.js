@@ -95,8 +95,12 @@ export default function YggdrasilComments() {
 									</h2>
 									<div className="space-y-8">
 										{yggdrasilArtists.map((item, index) => {
-											const links = getArtistLinks(item.artistId);
-											const hasLinks = links && Object.keys(links).length > 0;
+											const links = getArtistLinks(
+												item.artistId
+											);
+											const hasLinks =
+												links &&
+												Object.keys(links).length > 0;
 
 											return (
 												<div
@@ -110,34 +114,67 @@ export default function YggdrasilComments() {
 													)}
 													<div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-2 sm:gap-4">
 														<p className="text-lg font-semibold">
-															<span className="text-white/60">—</span>{' '}
+															<span className="text-white/60">
+																—
+															</span>{' '}
 															{item.name}
 														</p>
 														{hasLinks && (
 															<div className="flex flex-wrap gap-4">
-																{Object.entries(links)
-																	.sort((a, b) => {
-																		if (a[0] < b[0]) return -1;
-																		if (a[0] > b[0]) return 1;
-																		return 0;
-																	})
-																	.map(([key, url]) => {
-																		if (!url || url === 'link') return null;
-																		return (
-																			<Link
-																				href={url}
-																				key={key}
-																				target="_blank"
-																				rel="noopener noreferrer"
-																				className="text-white/70 hover:text-white transition-colors"
-																			>
-																				<LinkIcon
-																					link={url}
-																					className="w-6 h-6"
-																				/>
-																			</Link>
-																		);
-																	})}
+																{Object.entries(
+																	links
+																)
+																	.sort(
+																		(
+																			a,
+																			b
+																		) => {
+																			if (
+																				a[0] <
+																				b[0]
+																			)
+																				return -1;
+																			if (
+																				a[0] >
+																				b[0]
+																			)
+																				return 1;
+																			return 0;
+																		}
+																	)
+																	.map(
+																		([
+																			key,
+																			url,
+																		]) => {
+																			if (
+																				!url ||
+																				url ===
+																					'link'
+																			)
+																				return null;
+																			return (
+																				<Link
+																					href={
+																						url
+																					}
+																					key={
+																						key
+																					}
+																					target="_blank"
+																					rel="noopener noreferrer"
+																					className="text-white/70 hover:text-white transition-colors"
+																				>
+																					<LinkIcon
+																						link={
+																							url
+																						}
+																						className="w-6 h-6"
+																					/>
+																				</Link>
+																			);
+																		}
+																	)}
 															</div>
 														)}
 													</div>
@@ -155,15 +192,20 @@ export default function YggdrasilComments() {
 									</h2>
 									<div className="space-y-8">
 										{otherArtists.map((item, index) => {
-											const links = getArtistLinks(item.artistId);
-											const hasLinks = links && Object.keys(links).length > 0;
+											const links = getArtistLinks(
+												item.artistId
+											);
+											const hasLinks =
+												links &&
+												Object.keys(links).length > 0;
 
 											return (
 												<div
 													key={index}
 													className="border-b border-white/10 pb-8 last:border-0"
 												>
-													{item.comment === '[insert gronyan here]' ? (
+													{item.comment ===
+													'[insert gronyan here]' ? (
 														<div className="mb-4">
 															<Image
 																src="/assets/gronyan.png"
@@ -180,34 +222,67 @@ export default function YggdrasilComments() {
 													)}
 													<div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-2 sm:gap-4">
 														<p className="text-lg font-semibold">
-															<span className="text-white/60">—</span>{' '}
+															<span className="text-white/60">
+																—
+															</span>{' '}
 															{item.name}
 														</p>
 														{hasLinks && (
 															<div className="flex flex-wrap gap-4">
-																{Object.entries(links)
-																	.sort((a, b) => {
-																		if (a[0] < b[0]) return -1;
-																		if (a[0] > b[0]) return 1;
-																		return 0;
-																	})
-																	.map(([key, url]) => {
-																		if (!url || url === 'link') return null;
-																		return (
-																			<Link
-																				href={url}
-																				key={key}
-																				target="_blank"
-																				rel="noopener noreferrer"
-																				className="text-white/70 hover:text-white transition-colors"
-																			>
-																				<LinkIcon
-																					link={url}
-																					className="w-6 h-6"
-																				/>
-																			</Link>
-																		);
-																	})}
+																{Object.entries(
+																	links
+																)
+																	.sort(
+																		(
+																			a,
+																			b
+																		) => {
+																			if (
+																				a[0] <
+																				b[0]
+																			)
+																				return -1;
+																			if (
+																				a[0] >
+																				b[0]
+																			)
+																				return 1;
+																			return 0;
+																		}
+																	)
+																	.map(
+																		([
+																			key,
+																			url,
+																		]) => {
+																			if (
+																				!url ||
+																				url ===
+																					'link'
+																			)
+																				return null;
+																			return (
+																				<Link
+																					href={
+																						url
+																					}
+																					key={
+																						key
+																					}
+																					target="_blank"
+																					rel="noopener noreferrer"
+																					className="text-white/70 hover:text-white transition-colors"
+																				>
+																					<LinkIcon
+																						link={
+																							url
+																						}
+																						className="w-6 h-6"
+																					/>
+																				</Link>
+																			);
+																		}
+																	)}
 															</div>
 														)}
 													</div>
