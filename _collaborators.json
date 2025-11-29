@@ -104,6 +104,13 @@
 			"vgmdb": "https://vgmdb.net/artist/54380"
 		}
 	},
+	"LyhNed": {
+		"name": "LyhNed",
+		"links": {
+			"twitter": "https://twitter.com/HendrickDylan",
+			"vgmdb": "https://vgmdb.net/artist/54380"
+		}
+	},
 	"Skelothan": {
 		"name": "Skelothan",
 		"links": {
@@ -2964,11 +2971,89 @@
 			"vgmdb": "https://vgmdb.net/artist/75772"
 		}
 	},
+	"ArmpitMaiden": {
+		"name": "ArmpitMaiden",
+		"links": {
+			"twitter": "https://x.com/ArmpitMaiden",
+			"bluesky": "https://bsky.app/profile/armpitmaiden.bsky.social",
+			"youtube": "https://www.youtube.com/c/ArmpitMaiden",
+			"soundcloud": "https://soundcloud.com/otakuro",
+			"website": "https://li.sten.to/ArmpitMaiden",
+			"vgmdb": "https://vgmdb.net/artist/62533"
+		}
+	},
+	"Benji Tunez": {
+		"name": "Benji Tunez",
+		"links": {
+			"bluesky": "https://bsky.app/profile/benjitunez.bsky.social",
+			"bandcamp": "https://benjitunez.bandcamp.com/music",
+			"youtube": "https://www.youtube.com/channel/UCAEU9bW_mRRI0ua8Up3fEDg",
+			"apple": "https://music.apple.com/artist/benji-tunez/1718167855",
+			"spotify": "https://open.spotify.com/artist/05qntOobKvbE16liaw2tTn",
+			"website": "https://benjitunez.carrd.co",
+			"vgmdb": "https://vgmdb.net/artist/62534"
+		}
+	},
+	"Comet Mystic": {
+		"name": "Comet Mystic",
+		"links": {
+			"bandcamp": "https://cometmystic.bandcamp.com",
+			"vgmdb": "https://vgmdb.net/artist/76822"
+		}
+	},
+	"Damare": {
+		"name": "Damare",
+		"links": {
+			"twitter": "https://x.com/NotDamare",
+			"bluesky": "https://bsky.app/profile/notdamare.bsky.social",
+			"bandcamp": "https://notdamare.bandcamp.com/",
+			"youtube": "https://www.youtube.com/@NotDamare",
+			"soundcloud": "https://soundcloud.com/notdamare",
+			"apple": "https://music.apple.com/artist/damare/1585687884",
+			"spotify": "https://open.spotify.com/artist/3eioFjaxzQc23rydy8KEeb",
+			"website": "https://linktr.ee/notdamare",
+			"vgmdb": "https://vgmdb.net/artist/36403"
+		}
+	},
+	"Saroth": {
+		"name": "Saroth",
+		"links": {
+			"youtube": "https://www.youtube.com/@SarothCyngus",
+			"apple": "https://music.apple.com/artist/saroth/1657568488",
+			"spotify": "https://open.spotify.com/artist/0F1hJ0hPM1AxiXcj968Rax",
+			"vgmdb": "https://vgmdb.net/artist/76823"
+		}
+	},
+	"Yuutou": {
+		"name": "Yuutou",
+		"links": {
+			"bluesky": "https://bsky.app/profile/yuutou.bsky.social",
+			"bandcamp": "https://hazamayuutou.bandcamp.com/music",
+			"youtube": "https://www.youtube.com/channel/UCIUvWYOdMAsmS34Hka3-x1g",
+			"soundcloud": "https://soundcloud.com/hazama-yuutou-843821923",
+			"apple": "https://music.apple.com/artist/hazama-yuutou/1746548371",
+			"spotify": "https://open.spotify.com/artist/2JihcOI7dLbLfhGsGy0BkZ",
+			"website": "https://yuutou.nekoweb.org",
+			"vgmdb": "https://vgmdb.net/artist/36396"
+		}
+	},
+	"NobiMana": {
+		"name": {
+			"en": "NobiMana",
+			"jp": "ノビマナ"
+		},
+		"links": {
+			"twitter": "https://x.com/NobiMana",
+			"bluesky": "https://bsky.app/profile/rummysm.com",
+			"pixiv": "https://www.pixiv.net/en/users/119068916",
+			"vgmdb": "https://vgmdb.net/artist/76824"
+		}
+	},
 	"SampleEN": {
 		"name": "SampleEN",
 		"links": {
 			"twitter": "link",
-			"bluesky": "https://bsky.app/profile/rummysm.com",
+			"bluesky": "link",
 			"bandcamp": "link",
 			"youtube": "link",
 			"soundcloud": "link",
