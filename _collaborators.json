@@ -1825,6 +1825,17 @@
 			"vgmdb": "https://vgmdb.net/artist/70693"
 		}
 	},
+	"Doggibelle": {
+		"name": "Doggibelle",
+		"links": {
+			"twitter": "https://x.com/Doggibelle",
+			"bluesky": "https://bsky.app/profile/bonnie.doggibelle.quest",
+			"patreon": "https://www.patreon.com/doggibelle",
+			"youtube": "https://www.youtube.com/channel/UCOs209bHg9wXIsPsbmrZw7w",
+			"website": "https://links.doggibelle.quest",
+			"vgmdb": "https://vgmdb.net/artist/70693"
+		}
+	},
 	"Kat": {
 		"name": "Kat",
 		"links": {
