@@ -3,6 +3,20 @@
 		"cat_slug": "eclectic-resonance",
 		"projects": [
 			{
+				"slug": "eclectic-resonance-voltage",
+				"status": "accepting",
+				"percentage": "0",
+				"duration": "00:00",
+				"deadline": "2026-08-31T23:59:59Z",
+				"finished_tracks": "0",
+				"mastering": {
+					"status": "pending",
+					"engineer": ""
+				},
+				"artwork_comission": "pending",
+				"color": "#9f1239"
+			},
+			{
 				"slug": "eclectic-resonance-detuned-alloy-2",
 				"status": "accepting",
 				"percentage": "0",
