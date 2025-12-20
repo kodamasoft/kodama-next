@@ -38,7 +38,7 @@ export default function YggdrasilTracklist({ tracklist }) {
 				),
 				bgColor: discColors[discIndex] || discColors[0],
 				coverPath: `/assets/discography/covers/0022~${discIndex + 1}.png`,
-				headerPath: `/assets/discography/headers/0022~${discIndex + 1}.png`,
+				headerPath: `/assets/discography/headers/0022~${discIndex + 1}.jpg`,
 			}));
 		} else {
 			// Single disc case
