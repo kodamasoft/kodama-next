@@ -91,7 +91,7 @@ export default function YggdrasilComments() {
 							{yggdrasilArtists.length > 0 && (
 								<section>
 									<h2 className="text-2xl font-semibold mb-6">
-										From YGGDRASIL Artists
+										FROM YGGDRASIL STAFF
 									</h2>
 									<div className="space-y-8">
 										{yggdrasilArtists.map((item, index) => {
