@@ -5,24 +5,24 @@ import Image from 'next/image';
 // Background colors for each disc
 const discColors = [
 	{
-		// DISC1: FLORAISON 
-		'primary': '#00ff00',
-		'background': 'rgba(37, 31, 27, 0.8)',
+		// DISC1: FLORAISON
+		primary: '#00ff00',
+		background: 'rgba(37, 31, 27, 0.8)',
 	},
 	{
 		// DISC2: ASCENSION - pink
-		'primary': '#ff00ff',
-		'background': 'rgba(255, 0, 255, 0.6)',
+		primary: '#ff00ff',
+		background: 'rgba(255, 0, 255, 0.6)',
 	},
 	{
 		// DISC3: INSPIRATION - blue
-		'primary': '#0000ff',
-		'background': 'rgba(0, 0, 0, 0.9)',
+		primary: '#0000ff',
+		background: 'rgba(0, 0, 0, 0.9)',
 	},
 	{
 		// DISC4: RECRÉATION - red
-		'primary': '#ff0000',
-		'background': 'rgba(9, 51, 145, 0.9)',
+		primary: '#ff0000',
+		background: 'rgba(9, 51, 145, 0.9)',
 	},
 ];
 
@@ -76,9 +76,12 @@ export default function YggdrasilTracklist({ tracklist }) {
 							backgroundAttachment: 'fixed',
 						}}
 					>
-						<div className="backdrop-blur-lg max-w-4xl mx-auto" style={{
-							backgroundColor: disc.bgColor.background,
-						}}>
+						<div
+							className="backdrop-blur-lg max-w-4xl mx-auto"
+							style={{
+								backgroundColor: disc.bgColor.background,
+							}}
+						>
 							<div className="relative flex flex-col items-center pt-6 px-4">
 								<Image
 									src={disc.coverPath}
@@ -93,14 +96,17 @@ export default function YggdrasilTracklist({ tracklist }) {
 									</h3>
 								)}
 							</div>
-							<div 
+							<div
 								className="relative px-4 pb-6"
 								style={{
 									'--release-color': disc.bgColor.primary,
 								}}
 							>
 								{disc.tracks.map((track) => (
-									<ReleaseTrack key={track[0]} track={track} />
+									<ReleaseTrack
+										key={track[0]}
+										track={track}
+									/>
 								))}
 							</div>
 						</div>
