@@ -1818,8 +1818,30 @@
 			"vgmdb": "https://vgmdb.net/artist/70693"
 		}
 	},
+	"Doggibelle": {
+		"name": "Doggibelle",
+		"links": {
+			"twitter": "https://x.com/Doggibelle",
+			"bluesky": "https://bsky.app/profile/bonnie.doggibelle.quest",
+			"patreon": "https://www.patreon.com/doggibelle",
+			"youtube": "https://www.youtube.com/channel/UCOs209bHg9wXIsPsbmrZw7w",
+			"website": "https://links.doggibelle.quest",
+			"vgmdb": "https://vgmdb.net/artist/70693"
+		}
+	},
+	"Amael": {
+		"name": "Amael"
+	},
 	"Kat": {
 		"name": "Kat",
+		"links": {
+			"twitter": "https://x.com/VIIweights",
+			"website": "https://letterboxd.com/CaptainKatyusha/",
+			"vgmdb": "https://vgmdb.net/artist/70694"
+		}
+	},
+	"VIIweights": {
+		"name": "VIIweights",
 		"links": {
 			"twitter": "https://x.com/VIIweights",
 			"website": "https://letterboxd.com/CaptainKatyusha/",
@@ -2961,6 +2983,47 @@
 		"links": {
 			"vgmdb": "https://vgmdb.net/artist/77463"
 		}
+	},
+	"TAKADA": {
+		"name": "TAKADA",
+		"links": {
+			"twitter": "https://twitter.com/takada_dot/",
+			"bluesky": "https://bsky.app/profile/takada.desktopgeneration.com",
+			"youtube": "https://www.youtube.com/channel/UCSc24W1FBxjJtpYJfMX-UBw",
+			"website": "https://linktr.ee/takada.art",
+			"vgmdb": "https://vgmdb.net/artist/68769"
+		}
+	},
+	"United Tribute Arrange Force": {
+		"name": "United Tribute Arrange Force",
+		"links": {
+			"twitter": "https://x.com/utaforce",
+			"bluesky": "https://bsky.app/profile/utaforce.bsky.social",
+			"website": "https://kodamasoft.net/unitedtribute",
+			"vgmdb": "https://vgmdb.net/org/4776"
+		}
+	},
+	"TaroNuke": {
+		"name": "TaroNuke",
+		"links": {
+			"twitter": "link",
+			"bluesky": "link",
+			"bandcamp": "link",
+			"youtube": "https://www.youtube.com/user/taro4012",
+			"vgmdb": "https://vgmdb.net/artist/77468"
+		}
+	},
+	"poniyama": {
+		"name": "poniyama",
+		"links": {
+			"twitter": "https://x.com/poniyama_com",
+			"bandcamp": "https://poniyama.bandcamp.com/music",
+			"soundcloud": "https://soundcloud.com/poniyama_com",
+			"vgmdb": "https://vgmdb.net/artist/53642"
+		}
+	},
+	"AllFans": {
+		"name": "All KodamaSounds / COUNTERFEST RECORDS supporters and listeners"
 	},
 	"SampleEN": {
 		"name": "SampleEN",
