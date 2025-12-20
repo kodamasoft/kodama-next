@@ -2956,11 +2956,17 @@
 			"vgmdb": "https://vgmdb.net/artist/75772"
 		}
 	},
+	"Nydy": {
+		"name": "Nydy",
+		"links": {
+			"vgmdb": "https://vgmdb.net/artist/77463"
+		}
+	},
 	"SampleEN": {
 		"name": "SampleEN",
 		"links": {
 			"twitter": "link",
-			"bluesky": "https://bsky.app/profile/rummysm.com",
+			"bluesky": "link",
 			"bandcamp": "link",
 			"youtube": "link",
 			"soundcloud": "link",

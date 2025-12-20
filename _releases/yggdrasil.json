@@ -17,12 +17,12 @@
 		"link": "/"
 	},
 	"specification": "x4 Digital Download Booklet",
-	"release_date": "Dec 30, 2025 (Comiket)",
+	"release_date": "Dec 31, 2025 (Comic Market 107) [コミックマーケット107]",
 	"booth": {
-		"name": "Four Corners"
+		"name": "Four Corners / South Hall r01a"
 	},
 	"catalog": "KSDL-0022",
-	"price": "Event Price: 3500 yen | Digital Price: 20€ / 3500 yen | Shop Price: Event Price + tax",
+	"price": "Event Price: 3500 yen | Digital Price: 20€ / 3500 yen | Shop Price: 3500 yen + tax",
 	"description": {
 		"en": "The roots of the YGGDRASIL take shape and form, to create an ascension towards a new future. \"YGGDRASIL\" is KodamaSounds' 5th massive anniversary project, with the goal of celebrating the legacy and future of the circle. You will see familiar faces, maybe even some new ones. We just hope the sprout of this tree will grow larger and prettier as time goes on, and that you will be able to reminisce and discover new grounds. We hope you can feel the creativity of this tree carrying your feelings for you alongside ours.",
 		"jp": "YGGDRASILの根本が形を成し、新たな未来への登り道を作ってくれます。YGGDRASILはサークルの5周年にあたって、サークルの歴史と未来を祝う大型企画です。懐かしいアーティストはもちろん、新しいアーティストにも会えるかもしれません。私達はこの木の芽が時とともにより大きく、より美しく育ち、皆さまが思い出に浸りながら新しい世界を発見できることを願っています。この木が、あなたの想いと私たちの想いを乗せて、創造の力を感じさせてくれることを願っています。"
@@ -44,13 +44,30 @@
 		},
 		{
 			"01": {
-				"title": "My Composition Method ~ Dedicated to DTMers",
-				"title_jp": "私の作曲方法~DTMerに捧ぐ",
-				"artist": "Shogo Sakai [酒井省吾]",
-				"description": [
-					"Please check the track's individual link on Bandcamp for detailed credits."
-				]
+				"title": {
+			"en": "My Composition Method ~ Dedicated to DTMers",
+			"jp": "私の作曲方法~DTMerに捧ぐ"
 			},
+				"artist": {
+			"en": "Shogo Sakai",
+			"jp": "酒井省吾"
+			},
+				"description": [
+					"• Composer, Arranger & Lyrics: Shogo Sakai [酒井省吾]",
+					"• Vocals: Mai (Synthesizer V)",
+					"",
+					"• Programmed, Produced & Mixed by Shogo Sakai [酒井省吾]",
+					"• Mastering Engineer: R-Man (Resonant Union)",
+					"",
+					"• Used Software: Logic Pro 11.2.2",
+					"",
+					"• About this track: I think of people congregating around KodamaSounds as people giving their all for music composition. I was having trouble deciding what to do to celebrate this 5th anniversary, a date to be remembered for. I ultimately decided to make this track with weird and funny lyrics: “My Composition Method ~ Dedicated to DTMers”. [KodamaSounds様の元に集う人たちは、作曲を手がける人たちの集団だと想像します。その中で、５周年という記念すべき周年に、どのような曲が良いか？と悩み、このような一風変わった歌詞の曲を書き下ろしました。「私の作曲方法〜DTMerに捧ぐ〜」です。]",
+					"",
+					"• About KodamaSounds' 5th Anniversary / YGGDRASIL's project: I’m really honored to have been invited to participate in this project to celebrate KodamaSounds’ 5th anniversary. [この度は、御チームの活動５周年を迎えられるに当たって、コンピレーションに参加できることを光栄に存じます。]",
+					"",
+					"https://x.com/Shogo_Sakai"
+				]
+		},
 			"02": {
 				"title": "A Gust of Wind",
 				"artist": "R-Man",
