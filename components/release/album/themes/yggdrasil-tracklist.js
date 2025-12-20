@@ -1,12 +1,29 @@
 import React from 'react';
 import ReleaseTrack from '../release-track';
+import Image from 'next/image';
 
 // Background colors for each disc
 const discColors = [
-	'#2c0d0d', // DISC1: DEVOTION - dark red matching the release background
-	'#1a0d2c', // DISC2: MALICE - dark purple
-	'#0d2c1a', // DISC3: MALICE - dark green
-	'#2c1a0d', // DISC4: MALICE - dark brown/orange
+	{
+		// DISC1: FLORAISON 
+		'primary': '#00ff00',
+		'background': 'rgba(37, 31, 27, 0.8)',
+	},
+	{
+		// DISC2: ASCENSION - pink
+		'primary': '#ff00ff',
+		'background': 'rgba(255, 0, 255, 0.6)',
+	},
+	{
+		// DISC3: INSPIRATION - blue
+		'primary': '#0000ff',
+		'background': 'rgba(0, 0, 0, 0.9)',
+	},
+	{
+		// DISC4: RECRÉATION - red
+		'primary': '#ff0000',
+		'background': 'rgba(9, 51, 145, 0.9)',
+	},
 ];
 
 export default function YggdrasilTracklist({ tracklist }) {
@@ -20,6 +37,8 @@ export default function YggdrasilTracklist({ tracklist }) {
 					(a, b) => Number(a[0]) - Number(b[0])
 				),
 				bgColor: discColors[discIndex] || discColors[0],
+				coverPath: `/assets/discography/covers/0022~${discIndex + 1}.png`,
+				headerPath: `/assets/discography/headers/0022~${discIndex + 1}.png`,
 			}));
 		} else {
 			// Single disc case
@@ -30,6 +49,8 @@ export default function YggdrasilTracklist({ tracklist }) {
 						(a, b) => Number(a[0]) - Number(b[0])
 					),
 					bgColor: discColors[0],
+					logoPath: '/assets/discography/logos/0022.png',
+					headerPath: '/assets/discography/headers/0022.png',
 				},
 			];
 		}
@@ -46,20 +67,42 @@ export default function YggdrasilTracklist({ tracklist }) {
 				{processedTracklist.map((disc, discIndex) => (
 					<div
 						key={discIndex}
-						className="w-full mb-8 rounded-lg overflow-hidden"
+						className="w-full overflow-hidden relative"
 						style={{
-							backgroundColor: disc.bgColor,
+							backgroundImage: `url(${disc.headerPath})`,
+							backgroundSize: 'cover',
+							backgroundPosition: 'center',
+							backgroundRepeat: 'no-repeat',
+							backgroundAttachment: 'fixed',
 						}}
 					>
-						{disc.discName && (
-							<h3 className="text-lg text-center font-bold mb-4 pt-6 px-4">
-								{disc.discName}
-							</h3>
-						)}
-						<div className="px-4 pb-6">
-							{disc.tracks.map((track) => (
-								<ReleaseTrack key={track[0]} track={track} />
-							))}
+						<div className="backdrop-blur-lg max-w-4xl mx-auto" style={{
+							backgroundColor: disc.bgColor.background,
+						}}>
+							<div className="relative flex flex-col items-center pt-6 px-4">
+								<Image
+									src={disc.coverPath}
+									alt={disc.discName || ''}
+									width={400}
+									height={100}
+									className="mb-4 object-contain"
+								/>
+								{disc.discName && (
+									<h3 className="text-lg text-center font-bold mb-4">
+										{disc.discName}
+									</h3>
+								)}
+							</div>
+							<div 
+								className="relative px-4 pb-6"
+								style={{
+									'--release-color': disc.bgColor.primary,
+								}}
+							>
+								{disc.tracks.map((track) => (
+									<ReleaseTrack key={track[0]} track={track} />
+								))}
+							</div>
 						</div>
 					</div>
 				))}

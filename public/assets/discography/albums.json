@@ -365,14 +365,14 @@
 		"vgmdb": "https://vgmdb.net/album/145979"
 	},
 	"yggdrasil": {
-		"id": "",
+		"id": "KSDL-0022",
 		"releaseDate": "2026-01-02T00:00:00+0200",
 		"name": "YGGDRASIL",
-		"cover": "/assets/discography/covers/CD0003-4.png",
+		"cover": "/assets/discography/covers/0022.png",
 		"coverColor": "#d6281b",
-		"bandcamp": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-uprising-3",
-		"booth": "https://kodamasoft.booth.pm/items/7448201",
+		"bandcamp": "https://kodamasounds.bandcamp.com/album/yggdrasil",
+		"booth": "https://kodamasoft.booth.pm/items/7525875",
 		"website": "/releases/yggdrasil",
-		"vgmdb": "https://vgmdb.net/album/145979"
+		"vgmdb": "https://vgmdb.net/album/152681"
 	}
 }
