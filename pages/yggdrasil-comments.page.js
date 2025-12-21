@@ -1,11 +1,9 @@
-import Layout from '../components/layout';
 import Head from 'next/head';
-import Container from '../components/container';
-import Header from '../components/header';
 import Link from 'next/link';
 import Image from 'next/image';
 import collaboratorsData from '../_collaborators.json';
 import commentsData from '../yggdrasil-comments.json';
+import { Source_Serif_4 } from 'next/font/google';
 import {
 	FaBandcamp,
 	FaGlobe,
@@ -21,6 +19,12 @@ import PixivSVG from '../public/assets/icons/pixiv.svg';
 import FanboxSVG from '../public/assets/icons/fanbox.svg';
 import VgmdbSVG from '../public/assets/icons/vgmdb.svg';
 import BskySVG from '../public/assets/icons/bsky.svg';
+
+const sourceSerif = Source_Serif_4({
+	subsets: ['latin'],
+	weight: ['400', '600', '700'],
+	variable: '--font-source-serif',
+});
 
 export default function YggdrasilComments() {
 	const getArtistLinks = (artistId) => {
@@ -73,22 +77,34 @@ export default function YggdrasilComments() {
 
 	return (
 		<>
-			<Layout>
-				<Head>
-					<title>YGGDRASIL - Artist Comments | KodamaSounds</title>
-				</Head>
+			<Head>
+				<title>YGGDRASIL - Artist Comments | KodamaSounds</title>
+			</Head>
 
-				<Container>
-					<Header />
+			<div
+				className={`${sourceSerif.variable} ${sourceSerif.className} min-h-screen`}
+				style={{
+					backgroundColor: '#F5F5DC',
+					color: '#5C4033',
+				}}
+			>
+				<div className="container pt-8 px-6 mx-auto max-w-4xl pb-12">
+					<div className="mb-8">
+						<Link
+							href="/"
+							className="text-[#5C4033] hover:text-[#8B6F47] transition-colors underline"
+						>
+							← Home
+						</Link>
+					</div>
 
-					<div className="container pt-10 px-6 mx-auto max-w-4xl">
-						<h1 className="text-4xl font-bold mb-2">YGGDRASIL</h1>
-						<p className="text-lg opacity-80 mb-12">
-							5th Anniversary Artist Comments
-						</p>
+					<h1 className="text-4xl font-bold mb-2">YGGDRASIL</h1>
+					<p className="text-lg opacity-80 mb-12">
+						5th Anniversary Artist Comments
+					</p>
 
-						<div className="space-y-12">
-							{yggdrasilArtists.length > 0 && (
+					<div className="space-y-12">
+						{yggdrasilArtists.length > 0 && (
 								<section>
 									<h2 className="text-2xl font-semibold mb-6">
 										FROM YGGDRASIL STAFF
@@ -105,16 +121,16 @@ export default function YggdrasilComments() {
 											return (
 												<div
 													key={index}
-													className="border-b border-white/10 pb-8 last:border-0"
+													className="border-b border-[#5C4033]/20 pb-8 last:border-0"
 												>
 													{item.comment && (
-														<p className="text-white/90 mb-4 leading-relaxed whitespace-pre-line">
+														<p className="mb-4 leading-relaxed whitespace-pre-line">
 															{item.comment}
 														</p>
 													)}
 													<div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-2 sm:gap-4">
 														<p className="text-lg font-semibold">
-															<span className="text-white/60">
+															<span className="opacity-60">
 																—
 															</span>{' '}
 															{item.name}
@@ -163,7 +179,8 @@ export default function YggdrasilComments() {
 																					}
 																					target="_blank"
 																					rel="noopener noreferrer"
-																					className="text-white/70 hover:text-white transition-colors"
+																					className="opacity-70 hover:opacity-100 transition-opacity"
+																					style={{ color: '#5C4033' }}
 																				>
 																					<LinkIcon
 																						link={
@@ -183,9 +200,9 @@ export default function YggdrasilComments() {
 										})}
 									</div>
 								</section>
-							)}
+						)}
 
-							{otherArtists.length > 0 && (
+						{otherArtists.length > 0 && (
 								<section>
 									<h2 className="text-2xl font-semibold mb-6">
 										Other Artists
@@ -202,7 +219,7 @@ export default function YggdrasilComments() {
 											return (
 												<div
 													key={index}
-													className="border-b border-white/10 pb-8 last:border-0"
+													className="border-b border-[#5C4033]/20 pb-8 last:border-0"
 												>
 													{item.comment ===
 													'[insert gronyan here]' ? (
@@ -216,13 +233,13 @@ export default function YggdrasilComments() {
 															/>
 														</div>
 													) : (
-														<p className="text-white/90 mb-4 leading-relaxed whitespace-pre-line">
+														<p className="mb-4 leading-relaxed whitespace-pre-line">
 															{item.comment}
 														</p>
 													)}
 													<div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-2 sm:gap-4">
 														<p className="text-lg font-semibold">
-															<span className="text-white/60">
+															<span className="opacity-60">
 																—
 															</span>{' '}
 															{item.name}
@@ -271,7 +288,8 @@ export default function YggdrasilComments() {
 																					}
 																					target="_blank"
 																					rel="noopener noreferrer"
-																					className="text-white/70 hover:text-white transition-colors"
+																					className="opacity-70 hover:opacity-100 transition-opacity"
+																					style={{ color: '#5C4033' }}
 																				>
 																					<LinkIcon
 																						link={
@@ -292,10 +310,9 @@ export default function YggdrasilComments() {
 									</div>
 								</section>
 							)}
-						</div>
 					</div>
-				</Container>
-			</Layout>
+				</div>
+			</div>
 		</>
 	);
 }
