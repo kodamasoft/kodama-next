@@ -44,11 +44,13 @@
   {
     "name": "YOKAI",
     "comment": "I arrived at Kodama two years ago now, but it feels like so much longer! This year has been the most important one for me, with the release of my third album under the circle. This album was even pressed and distributed in Japan! It’s a dream I’ve had for a long time, one I thought was unattainable until now but the stars aligned with the live presentation of the album for M3. One aspect I particularly appreciate about Kodama is the natural kindness of its members, a strong sense of mutual support and community that encourages you to push yourself further. Even though we compose on our own, there are always plenty of members available. Personally, I find this amazing because I love creating alone but surrounding myself with others when it’s needed. A big thank you to Kodama for everything it brings me, both creatively and personally, in my own individual growth!",
+    "artistId": "YOKAI",
     "section": "FROM YGGDRASIL STAFF"
   },
   {
     "name": "eili",
     "comment": "I was really honored to be invited to such a special achievement. Anytime an indie studio sees success, it makes me just a little bit happier. I was glad to be a part of it.",
+    "artistId": "eili",
     "section": "FROM YGGDRASIL STAFF"
   },
   {
@@ -78,7 +80,7 @@
   {
     "name": "Damare",
     "comment": "Although I'm a turbo lurker and haven't taken part in many kodama releases in recent years, I'd secretly contribute a major part of my improvement in music to the environment of kodamasounds (I am extremely fueled by envy thus being around very talented musicians and composers 300 times better than myself has lit a fire under me)",
-    "artistId": null,
+    "artistId": "Damare",
     "section": "FROM YGGDRASIL STAFF"
   },
   {
@@ -130,9 +132,9 @@
     "section": "FROM YGGDRASIL STAFF"
   },
   {
-    "name": "MilkyChan",
+    "name": "Milkychan",
     "comment": "Ever since this project started, I've been in awe of the sheer organizational power that is put on display. Putting out all of these amazing albums and bringing together so many people and their music is nothing short of impressive. I'd also like to give my personal thanks, because Kodama Albums are what got me out of terrible musical slumps which I may not have overcome by myself. Onto many more cool projects!",
-    "artistId": "MilkyChan",
+    "artistId": "Milkychan",
     "section": "FROM YGGDRASIL STAFF"
   },
   {
@@ -210,7 +212,7 @@
   {
     "name": "Yuutou",
     "comment": "I'm typically very shy when it comes to collaborating on albums that are group projects like this. I've wanted to participate more, but because of my poor memory and with how easily I get distracted, I keep forgetting. The same thing kind of happened with this song, I got invited and completely forgot until a month before it was due... (´∀｀；) I like working with KodamaSounds though. Robin is very nice and understanding, and any time I'm able to participate, I do my best to. Everyone in the circle is so incredibly skilled at what they do, and every song I hear from the others blows me away! It keeps me inspired to get even better at music, I want to reach a point where my music elicits emotions from the people that listen to it. Everyone's been wearing tougher masks lately, but I've always wanted my music to be a cushion for people to relax and listen to, if only to be themselves for a moment. I'll do my best to keep getting even better, and I hope to continue to show up in more KodamaSounds projects in the future! Happy 5th anniversary!",
-    "artistId": null,
+    "artistId": "Yuutou",
     "section": "FROM YGGDRASIL STAFF"
   },
   {
@@ -695,7 +697,7 @@
   },
   {
     "name": "john \"joy\" tay",
-    "comment": "AAAA",
+    "comment": "even if i haven't been with KodamaSounds for long, i'm happy that the staff reached out to me to have the opportunity of working with them and fellow artists (on ECLECTIC RESONANCE Memories 2). they help platform indie artists to heights they usually can't reach on their own! i'm forever grateful.",
     "artistId": "john joy tay",
     "section": "OTHER ARTISTS"
   },
@@ -754,12 +756,6 @@
     "section": "OTHER ARTISTS"
   },
   {
-    "name": "aaaa",
-    "comment": "AAAA",
-    "artistId": "AAAA",
-    "section": "OTHER ARTISTS"
-  },
-  {
     "name": "LOVEPENGUIN",
     "comment": "I'm very happy to be a part of this. Sometimes I think about all the cool things Ive gotten to do and the amazing opportunities Ive been given through chiptune and it feels surreal. I never thought I'd be in this position a decade ago (I could barely write music at the time!). Thank you so much to everyone involved!",
     "artistId": "LOVEPENGUIN",
@@ -796,27 +792,9 @@
     "section": "OTHER ARTISTS"
   },
   {
-    "name": "aaaa",
-    "comment": "AAAA",
-    "artistId": "AAAA",
-    "section": "OTHER ARTISTS"
-  },
-  {
     "name": "Rei8bit",
     "comment": "Congratulations on KodamaSounds’ 5th anniversary! I am always surprised by the amount of passion poured into each one of your albums. If there’s something I can do to help, I’d be glad to make a piece for YGGDRASIL. Thank you again!",
     "artistId": "Rei8bit",
-    "section": "OTHER ARTISTS"
-  },
-  {
-    "name": "aaaa",
-    "comment": "AAAA",
-    "artistId": "AAAA",
-    "section": "OTHER ARTISTS"
-  },
-  {
-    "name": "aaaa",
-    "comment": "AAAA",
-    "artistId": "AAAA",
     "section": "OTHER ARTISTS"
   },
   {
@@ -868,12 +846,6 @@
     "section": "OTHER ARTISTS"
   },
   {
-    "name": "aaaa",
-    "comment": "AAAA",
-    "artistId": "AAAA",
-    "section": "OTHER ARTISTS"
-  },
-  {
     "name": "PSYQUO",
     "comment": "Happy 5 year anniversary KodamaSounds! Personally, I felt like I've grown a lot as a composer after just 2 years of contributing. Every new album felt like a challenge to explore and make something new/different. As a whole, KodamaSounds feels like a culmination of people who are really really passionate about music in every aspect. I'm incredibly thankful to be able to share my own music through KodamaSounds, and to actually meet the people who make it possible. Here's to 5(X) more years!",
     "artistId": "PSYQUO",
@@ -906,7 +878,7 @@
   {
     "name": "dante gofar (fabula nova)",
     "comment": "happy 5 years to KodamaSounds! I've sort of been nothing more than a floater and a straggler who kept bringing empty promises of contributing to compilations before dropping out at the last minute due to scheduling issues... but I got to make my official compilation debut eventually, before getting an even larger spotlight with the official debut single for my band \"fabula nova\". truly I could not have asked for a better opportunity and I am forever thankful to Robin and everyone else at KodamaSounds for being so supportive and for nurturing a circle and a community that breeds so much life and creativity. I hope to be able to actually do more with the circle in the following years.",
-    "artistId": "dante",
+    "artistId": "dante gofar",
     "section": "OTHER ARTISTS"
   },
   {
@@ -936,7 +908,7 @@
   {
     "name": ".noise",
     "comment": "Congratulations to KodamaSoft for their 5 year anniversary! ",
-    "artistId": "dotnoise",
+    "artistId": ".noise",
     "section": "OTHER ARTISTS"
   },
   {
