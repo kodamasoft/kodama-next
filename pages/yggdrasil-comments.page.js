@@ -105,211 +105,209 @@ export default function YggdrasilComments() {
 
 					<div className="space-y-12">
 						{yggdrasilArtists.length > 0 && (
-								<section>
-									<h2 className="text-2xl font-semibold mb-6">
-										FROM YGGDRASIL STAFF
-									</h2>
-									<div className="space-y-8">
-										{yggdrasilArtists.map((item, index) => {
-											const links = getArtistLinks(
-												item.artistId
-											);
-											const hasLinks =
-												links &&
-												Object.keys(links).length > 0;
+							<section>
+								<h2 className="text-2xl font-semibold mb-6">
+									FROM YGGDRASIL STAFF
+								</h2>
+								<div className="space-y-8">
+									{yggdrasilArtists.map((item, index) => {
+										const links = getArtistLinks(
+											item.artistId
+										);
+										const hasLinks =
+											links &&
+											Object.keys(links).length > 0;
 
-											return (
-												<div
-													key={index}
-													className="border-b border-[#5C4033]/20 pb-8 last:border-0"
-												>
-													{item.comment && (
-														<p className="mb-4 leading-relaxed whitespace-pre-line">
-															{item.comment}
-														</p>
-													)}
-													<div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-2 sm:gap-4">
-														<p className="text-lg font-semibold">
-															<span className="opacity-60">
-																—
-															</span>{' '}
-															{item.name}
-														</p>
-														{hasLinks && (
-															<div className="flex flex-wrap gap-4">
-																{Object.entries(
-																	links
+										return (
+											<div
+												key={index}
+												className="border-b border-[#5C4033]/20 pb-8 last:border-0"
+											>
+												{item.comment && (
+													<p className="mb-4 leading-relaxed whitespace-pre-line">
+														{item.comment}
+													</p>
+												)}
+												<div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-2 sm:gap-4">
+													<p className="text-lg font-semibold">
+														<span className="opacity-60">
+															—
+														</span>{' '}
+														{item.name}
+													</p>
+													{hasLinks && (
+														<div className="flex flex-wrap gap-4">
+															{Object.entries(
+																links
+															)
+																.sort(
+																	(a, b) => {
+																		if (
+																			a[0] <
+																			b[0]
+																		)
+																			return -1;
+																		if (
+																			a[0] >
+																			b[0]
+																		)
+																			return 1;
+																		return 0;
+																	}
 																)
-																	.sort(
-																		(
-																			a,
-																			b
-																		) => {
-																			if (
-																				a[0] <
-																				b[0]
-																			)
-																				return -1;
-																			if (
-																				a[0] >
-																				b[0]
-																			)
-																				return 1;
-																			return 0;
-																		}
-																	)
-																	.map(
-																		([
-																			key,
-																			url,
-																		]) => {
-																			if (
-																				!url ||
-																				url ===
-																					'link'
-																			)
-																				return null;
-																			return (
-																				<Link
-																					href={
+																.map(
+																	([
+																		key,
+																		url,
+																	]) => {
+																		if (
+																			!url ||
+																			url ===
+																				'link'
+																		)
+																			return null;
+																		return (
+																			<Link
+																				href={
+																					url
+																				}
+																				key={
+																					key
+																				}
+																				target="_blank"
+																				rel="noopener noreferrer"
+																				className="opacity-70 hover:opacity-100 transition-opacity"
+																				style={{
+																					color: '#5C4033',
+																				}}
+																			>
+																				<LinkIcon
+																					link={
 																						url
 																					}
-																					key={
-																						key
-																					}
-																					target="_blank"
-																					rel="noopener noreferrer"
-																					className="opacity-70 hover:opacity-100 transition-opacity"
-																					style={{ color: '#5C4033' }}
-																				>
-																					<LinkIcon
-																						link={
-																							url
-																						}
-																						className="w-6 h-6"
-																					/>
-																				</Link>
-																			);
-																		}
-																	)}
-															</div>
-														)}
-													</div>
+																					className="w-6 h-6"
+																				/>
+																			</Link>
+																		);
+																	}
+																)}
+														</div>
+													)}
 												</div>
-											);
-										})}
-									</div>
-								</section>
+											</div>
+										);
+									})}
+								</div>
+							</section>
 						)}
 
 						{otherArtists.length > 0 && (
-								<section>
-									<h2 className="text-2xl font-semibold mb-6">
-										Other Artists
-									</h2>
-									<div className="space-y-8">
-										{otherArtists.map((item, index) => {
-											const links = getArtistLinks(
-												item.artistId
-											);
-											const hasLinks =
-												links &&
-												Object.keys(links).length > 0;
+							<section>
+								<h2 className="text-2xl font-semibold mb-6">
+									Other Artists
+								</h2>
+								<div className="space-y-8">
+									{otherArtists.map((item, index) => {
+										const links = getArtistLinks(
+											item.artistId
+										);
+										const hasLinks =
+											links &&
+											Object.keys(links).length > 0;
 
-											return (
-												<div
-													key={index}
-													className="border-b border-[#5C4033]/20 pb-8 last:border-0"
-												>
-													{item.comment ===
-													'[insert gronyan here]' ? (
-														<div className="mb-4">
-															<Image
-																src="/assets/gronyan.png"
-																alt="Gronyan"
-																width={50}
-																height={50}
-																className="rounded-lg"
-															/>
-														</div>
-													) : (
-														<p className="mb-4 leading-relaxed whitespace-pre-line">
-															{item.comment}
-														</p>
-													)}
-													<div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-2 sm:gap-4">
-														<p className="text-lg font-semibold">
-															<span className="opacity-60">
-																—
-															</span>{' '}
-															{item.name}
-														</p>
-														{hasLinks && (
-															<div className="flex flex-wrap gap-4">
-																{Object.entries(
-																	links
+										return (
+											<div
+												key={index}
+												className="border-b border-[#5C4033]/20 pb-8 last:border-0"
+											>
+												{item.comment ===
+												'[insert gronyan here]' ? (
+													<div className="mb-4">
+														<Image
+															src="/assets/gronyan.png"
+															alt="Gronyan"
+															width={50}
+															height={50}
+															className="rounded-lg"
+														/>
+													</div>
+												) : (
+													<p className="mb-4 leading-relaxed whitespace-pre-line">
+														{item.comment}
+													</p>
+												)}
+												<div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-2 sm:gap-4">
+													<p className="text-lg font-semibold">
+														<span className="opacity-60">
+															—
+														</span>{' '}
+														{item.name}
+													</p>
+													{hasLinks && (
+														<div className="flex flex-wrap gap-4">
+															{Object.entries(
+																links
+															)
+																.sort(
+																	(a, b) => {
+																		if (
+																			a[0] <
+																			b[0]
+																		)
+																			return -1;
+																		if (
+																			a[0] >
+																			b[0]
+																		)
+																			return 1;
+																		return 0;
+																	}
 																)
-																	.sort(
-																		(
-																			a,
-																			b
-																		) => {
-																			if (
-																				a[0] <
-																				b[0]
-																			)
-																				return -1;
-																			if (
-																				a[0] >
-																				b[0]
-																			)
-																				return 1;
-																			return 0;
-																		}
-																	)
-																	.map(
-																		([
-																			key,
-																			url,
-																		]) => {
-																			if (
-																				!url ||
-																				url ===
-																					'link'
-																			)
-																				return null;
-																			return (
-																				<Link
-																					href={
+																.map(
+																	([
+																		key,
+																		url,
+																	]) => {
+																		if (
+																			!url ||
+																			url ===
+																				'link'
+																		)
+																			return null;
+																		return (
+																			<Link
+																				href={
+																					url
+																				}
+																				key={
+																					key
+																				}
+																				target="_blank"
+																				rel="noopener noreferrer"
+																				className="opacity-70 hover:opacity-100 transition-opacity"
+																				style={{
+																					color: '#5C4033',
+																				}}
+																			>
+																				<LinkIcon
+																					link={
 																						url
 																					}
-																					key={
-																						key
-																					}
-																					target="_blank"
-																					rel="noopener noreferrer"
-																					className="opacity-70 hover:opacity-100 transition-opacity"
-																					style={{ color: '#5C4033' }}
-																				>
-																					<LinkIcon
-																						link={
-																							url
-																						}
-																						className="w-6 h-6"
-																					/>
-																				</Link>
-																			);
-																		}
-																	)}
-															</div>
-														)}
-													</div>
+																					className="w-6 h-6"
+																				/>
+																			</Link>
+																		);
+																	}
+																)}
+														</div>
+													)}
 												</div>
-											);
-										})}
-									</div>
-								</section>
-							)}
+											</div>
+										);
+									})}
+								</div>
+							</section>
+						)}
 					</div>
 				</div>
 			</div>

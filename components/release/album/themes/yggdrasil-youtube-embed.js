@@ -23,4 +23,3 @@ export default function YggdrasilYouTubeEmbed({ youtube }) {
 		</section>
 	);
 }
-
