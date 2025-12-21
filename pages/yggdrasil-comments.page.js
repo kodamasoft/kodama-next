@@ -26,54 +26,144 @@ const sourceSerif = Source_Serif_4({
 	variable: '--font-source-serif',
 });
 
+const getLinkIcon = (link) => {
+	const linkStr = link.toString().toLowerCase();
+	if (linkStr.includes('bandcamp')) return FaBandcamp;
+	if (linkStr.includes('youtube') || linkStr.includes('youtu.be'))
+		return FaYoutube;
+	if (linkStr.includes('twitter') || linkStr.includes('x.com'))
+		return FaTwitter;
+	if (linkStr.includes('soundcloud')) return FaSoundcloud;
+	if (linkStr.includes('vgmdb')) return VgmdbSVG;
+	if (linkStr.includes('booth.pm')) return BoothSVG;
+	if (linkStr.includes('pixiv')) return PixivSVG;
+	if (linkStr.includes('fanbox.cc')) return FanboxSVG;
+	if (linkStr.includes('spotify')) return FaSpotify;
+	if (linkStr.includes('apple')) return FaApple;
+	if (linkStr.includes('patreon')) return FaPatreon;
+	if (linkStr.includes('bsky.app')) return BskySVG;
+	return FaGlobe;
+};
+
+const LinkIcon = ({ link, className }) => {
+	const IconComponent = getLinkIcon(link);
+	return <IconComponent className={className} />;
+};
+
+const CommentContent = ({ comment }) => {
+	if (comment === '[insert gronyan here]') {
+		return (
+			<div className="mb-4">
+				<Image
+					src="/assets/gronyan.png"
+					alt="Gronyan"
+					width={50}
+					height={50}
+					className="rounded-lg"
+				/>
+			</div>
+		);
+	}
+	return (
+		<p className="mb-4 leading-relaxed whitespace-pre-line">{comment}</p>
+	);
+};
+
+const ArtistLinks = ({ links }) => {
+	if (!links || Object.keys(links).length === 0) return null;
+
+	const validLinks = Object.entries(links)
+		.filter(([, url]) => url && url !== 'link')
+		.sort(([a], [b]) => a.localeCompare(b));
+
+	if (validLinks.length === 0) return null;
+
+	return (
+		<div className="flex flex-wrap gap-4">
+			{validLinks.map(([key, url]) => (
+				<Link
+					href={url}
+					key={key}
+					target="_blank"
+					rel="noopener noreferrer"
+					className="opacity-70 hover:opacity-100 transition-opacity"
+					style={{ color: '#5C4033' }}
+				>
+					<LinkIcon link={url} className="w-6 h-6" />
+				</Link>
+			))}
+		</div>
+	);
+};
+
+const CommentItem = ({ item, getArtistLinks }) => {
+	const links = getArtistLinks(item.artistId);
+
+	return (
+		<div className="border-b border-[#5C4033]/20 pb-8 last:border-0">
+			{item.comment && <CommentContent comment={item.comment} />}
+			<div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-2 sm:gap-4">
+				<p className="text-lg font-semibold">
+					<span className="opacity-60">—</span> {item.name}
+				</p>
+				<ArtistLinks links={links} />
+			</div>
+		</div>
+	);
+};
+
+const CommentsSection = ({ title, items, getArtistLinks }) => {
+	if (items.length === 0) return null;
+
+	return (
+		<section>
+			<h2 className="text-2xl font-semibold mb-6">{title}</h2>
+			<div className="space-y-8">
+				{items.map((item, index) => (
+					<CommentItem
+						key={index}
+						item={item}
+						getArtistLinks={getArtistLinks}
+					/>
+				))}
+			</div>
+		</section>
+	);
+};
+
 export default function YggdrasilComments() {
 	const getArtistLinks = (artistId) => {
 		if (!artistId || !collaboratorsData[artistId]) return null;
 		return collaboratorsData[artistId].links || null;
 	};
 
-	const LinkIcon = ({ link, className }) => {
-		if (link.toString().includes('bandcamp')) {
-			return <FaBandcamp className={className} />;
-		} else if (
-			link.toString().includes('youtube') ||
-			link.toString().includes('youtu.be')
-		) {
-			return <FaYoutube className={className} />;
-		} else if (
-			link.toString().includes('twitter') ||
-			link.toString().includes('x.com')
-		) {
-			return <FaTwitter className={className} />;
-		} else if (link.toString().includes('soundcloud')) {
-			return <FaSoundcloud className={className} />;
-		} else if (link.toString().includes('vgmdb')) {
-			return <VgmdbSVG className={className} />;
-		} else if (link.toString().includes('booth.pm')) {
-			return <BoothSVG className={className} />;
-		} else if (link.toString().includes('pixiv')) {
-			return <PixivSVG className={className} />;
-		} else if (link.toString().includes('fanbox.cc')) {
-			return <FanboxSVG className={className} />;
-		} else if (link.toString().includes('spotify')) {
-			return <FaSpotify className={className} />;
-		} else if (link.toString().includes('apple')) {
-			return <FaApple className={className} />;
-		} else if (link.toString().includes('patreon')) {
-			return <FaPatreon className={className} />;
-		} else if (link.toString().includes('bsky.app')) {
-			return <BskySVG className={className} />;
-		} else {
-			return <FaGlobe className={className} />;
-		}
-	};
-
-	const yggdrasilArtists = commentsData.filter(
-		(item) => !item.section || item.section.includes('YGGDRASIL')
-	);
-	const otherArtists = commentsData.filter(
-		(item) => item.section && item.section.includes('OTHER')
-	);
+	const sections = [
+		{
+			title: 'FROM YGGDRASIL STAFF',
+			items: commentsData.filter(
+				(item) => !item.section || item.section.includes('YGGDRASIL')
+			),
+		},
+		{
+			title: 'Other Artists',
+			items: commentsData.filter(
+				(item) => item.section && item.section.includes('OTHER')
+			),
+		},
+		{
+			title: 'Special Thanks',
+			items: commentsData.filter(
+				(item) =>
+					item.section && item.section.includes('SPECIAL THANKS')
+			),
+		},
+		{
+			title: 'Final Comment',
+			items: commentsData.filter(
+				(item) => item.section && item.section.includes('FINAL COMMENT')
+			),
+		},
+	];
 
 	return (
 		<>
@@ -104,210 +194,14 @@ export default function YggdrasilComments() {
 					</p>
 
 					<div className="space-y-12">
-						{yggdrasilArtists.length > 0 && (
-							<section>
-								<h2 className="text-2xl font-semibold mb-6">
-									FROM YGGDRASIL STAFF
-								</h2>
-								<div className="space-y-8">
-									{yggdrasilArtists.map((item, index) => {
-										const links = getArtistLinks(
-											item.artistId
-										);
-										const hasLinks =
-											links &&
-											Object.keys(links).length > 0;
-
-										return (
-											<div
-												key={index}
-												className="border-b border-[#5C4033]/20 pb-8 last:border-0"
-											>
-												{item.comment && (
-													<p className="mb-4 leading-relaxed whitespace-pre-line">
-														{item.comment}
-													</p>
-												)}
-												<div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-2 sm:gap-4">
-													<p className="text-lg font-semibold">
-														<span className="opacity-60">
-															—
-														</span>{' '}
-														{item.name}
-													</p>
-													{hasLinks && (
-														<div className="flex flex-wrap gap-4">
-															{Object.entries(
-																links
-															)
-																.sort(
-																	(a, b) => {
-																		if (
-																			a[0] <
-																			b[0]
-																		)
-																			return -1;
-																		if (
-																			a[0] >
-																			b[0]
-																		)
-																			return 1;
-																		return 0;
-																	}
-																)
-																.map(
-																	([
-																		key,
-																		url,
-																	]) => {
-																		if (
-																			!url ||
-																			url ===
-																				'link'
-																		)
-																			return null;
-																		return (
-																			<Link
-																				href={
-																					url
-																				}
-																				key={
-																					key
-																				}
-																				target="_blank"
-																				rel="noopener noreferrer"
-																				className="opacity-70 hover:opacity-100 transition-opacity"
-																				style={{
-																					color: '#5C4033',
-																				}}
-																			>
-																				<LinkIcon
-																					link={
-																						url
-																					}
-																					className="w-6 h-6"
-																				/>
-																			</Link>
-																		);
-																	}
-																)}
-														</div>
-													)}
-												</div>
-											</div>
-										);
-									})}
-								</div>
-							</section>
-						)}
-
-						{otherArtists.length > 0 && (
-							<section>
-								<h2 className="text-2xl font-semibold mb-6">
-									Other Artists
-								</h2>
-								<div className="space-y-8">
-									{otherArtists.map((item, index) => {
-										const links = getArtistLinks(
-											item.artistId
-										);
-										const hasLinks =
-											links &&
-											Object.keys(links).length > 0;
-
-										return (
-											<div
-												key={index}
-												className="border-b border-[#5C4033]/20 pb-8 last:border-0"
-											>
-												{item.comment ===
-												'[insert gronyan here]' ? (
-													<div className="mb-4">
-														<Image
-															src="/assets/gronyan.png"
-															alt="Gronyan"
-															width={50}
-															height={50}
-															className="rounded-lg"
-														/>
-													</div>
-												) : (
-													<p className="mb-4 leading-relaxed whitespace-pre-line">
-														{item.comment}
-													</p>
-												)}
-												<div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-2 sm:gap-4">
-													<p className="text-lg font-semibold">
-														<span className="opacity-60">
-															—
-														</span>{' '}
-														{item.name}
-													</p>
-													{hasLinks && (
-														<div className="flex flex-wrap gap-4">
-															{Object.entries(
-																links
-															)
-																.sort(
-																	(a, b) => {
-																		if (
-																			a[0] <
-																			b[0]
-																		)
-																			return -1;
-																		if (
-																			a[0] >
-																			b[0]
-																		)
-																			return 1;
-																		return 0;
-																	}
-																)
-																.map(
-																	([
-																		key,
-																		url,
-																	]) => {
-																		if (
-																			!url ||
-																			url ===
-																				'link'
-																		)
-																			return null;
-																		return (
-																			<Link
-																				href={
-																					url
-																				}
-																				key={
-																					key
-																				}
-																				target="_blank"
-																				rel="noopener noreferrer"
-																				className="opacity-70 hover:opacity-100 transition-opacity"
-																				style={{
-																					color: '#5C4033',
-																				}}
-																			>
-																				<LinkIcon
-																					link={
-																						url
-																					}
-																					className="w-6 h-6"
-																				/>
-																			</Link>
-																		);
-																	}
-																)}
-														</div>
-													)}
-												</div>
-											</div>
-										);
-									})}
-								</div>
-							</section>
-						)}
+						{sections.map((section) => (
+							<CommentsSection
+								key={section.title}
+								title={section.title}
+								items={section.items}
+								getArtistLinks={getArtistLinks}
+							/>
+						))}
 					</div>
 				</div>
 			</div>

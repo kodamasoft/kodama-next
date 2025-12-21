@@ -1,6 +1,7 @@
 import React from 'react';
 import ReleaseTrack from '../release-track';
 import Image from 'next/image';
+import Link from 'next/link';
 
 // Background colors for each disc
 const discColors = [
@@ -39,6 +40,7 @@ export default function YggdrasilTracklist({ tracklist }) {
 				bgColor: discColors[discIndex] || discColors[0],
 				coverPath: `/assets/discography/covers/0022~${discIndex + 1}.png`,
 				headerPath: `/assets/discography/headers/0022~${discIndex + 1}.jpg`,
+				logoPath: `/assets/discography/logos/0022~${discIndex + 1}.png`,
 			}));
 		} else {
 			// Single disc case
@@ -49,8 +51,9 @@ export default function YggdrasilTracklist({ tracklist }) {
 						(a, b) => Number(a[0]) - Number(b[0])
 					),
 					bgColor: discColors[0],
-					logoPath: '/assets/discography/logos/0022.png',
+					coverPath: '/assets/discography/covers/0022.png',
 					headerPath: '/assets/discography/headers/0022.png',
+					logoPath: '/assets/discography/logos/0022.png',
 				},
 			];
 		}
@@ -83,17 +86,33 @@ export default function YggdrasilTracklist({ tracklist }) {
 							}}
 						>
 							<div className="relative flex flex-col items-center pt-6 px-4">
-								<Image
-									src={disc.coverPath}
-									alt={disc.discName || ''}
-									width={400}
-									height={100}
-									className="mb-4 object-contain"
-								/>
-								{disc.discName && (
-									<h3 className="text-lg text-center font-bold mb-4">
-										{disc.discName}
-									</h3>
+								<Link
+									href={disc.coverPath}
+									target="_blank"
+									rel="noopener noreferrer"
+								>
+									<Image
+										src={disc.coverPath}
+										alt={disc.discName || ''}
+										width={400}
+										height={100}
+										className="mb-4 object-contain cursor-pointer transition duration-200 ease-in-out hover:opacity-70"
+										onClick={(e) => {
+											if (e.button === 1) {
+												// 1 is the middle mouse button
+												e.preventDefault();
+											}
+										}}
+									/>
+								</Link>
+								{disc.logoPath && (
+									<Image
+										src={disc.logoPath}
+										alt="Album logo"
+										width={450}
+										height={100}
+										className="mb-4 object-contain"
+									/>
 								)}
 							</div>
 							<div
