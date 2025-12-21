@@ -11,8 +11,8 @@ const discColors = [
 	},
 	{
 		// DISC2: ASCENSION - pink
-		primary: '#ff00ff',
-		background: 'rgba(255, 0, 255, 0.6)',
+		primary: '#d475b5',
+		background: 'rgba(137, 199, 242, 0.6)',
 	},
 	{
 		// DISC3: INSPIRATION - blue
