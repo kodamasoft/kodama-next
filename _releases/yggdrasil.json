@@ -753,158 +753,313 @@
 	],
 	"youtube_id": "ms7oVen6bDA",
 	"credits": {
-		"1": {
-			"role": "Mastering Engineer",
-			"id": "R-Man",
-			"note": "Disc1: FLORAISON"
+		"01": {
+			"role": "Composer & Arranger",
+			"id": "Shogo Sakai"
 		},
-		"2": {
-			"role": "Illustration",
-			"id": "Garrrros",
-			"note": "Disc1: FLORAISON (KodamaSoft)"
+		"02": {
+			"role": "Composer, Arranger, Instruments & Mastering Engineer",
+			"id": "R-Man"
 		},
-		"3": {
-			"role": "Logo Designer",
-			"id": "cal",
-			"note": "Disc1: FLORAISON"
+		"03": {
+			"role": "Composer, Arranger & Instruments",
+			"id": "Justin Thornburgh"
 		},
-		"4": {
-			"role": "Design",
-			"id": "LkProd",
-			"note": "Disc1: FLORAISON"
+		"04": {
+			"role": "Composer, Arranger & Lyrics",
+			"id": "Zohka"
 		},
-		"5": {
-			"role": "Mastering Engineer",
-			"id": "R-Man",
-			"note": "Disc2: ASCENSION (Resonant Union)"
+		"05": {
+			"role": "Composer & Arranger",
+			"id": "MB"
 		},
-		"6": {
-			"role": "Illustration & Logo Designer",
-			"id": "ne_pura",
-			"note": "Disc2: ASCENSION (KodamaSoft)"
+		"06": {
+			"role": "Theremin",
+			"id": "Junaid Eastman"
 		},
-		"7": {
-			"role": "Mastering Engineer",
-			"id": "malicent",
-			"note": "Disc3: INSPIRATION (Cursed Monastery / Sigillum Azoetia)"
+		"07": {
+			"role": "Cello",
+			"id": "Marcus Ho"
 		},
-		"8": {
-			"role": "Illustration & Logo Designer",
-			"id": "Transendium",
-			"note": "Disc3: INSPIRATION"
+		"08": {
+			"role": "Piano",
+			"id": "Caleb Paine"
 		},
-		"9": {
-			"role": "Mastering Engineer",
-			"id": "malicent",
-			"note": "Disc4: RECRÉATION (Cursed Monastery / Sigillum Azoetia)"
+		"09": {
+			"role": "Bass",
+			"id": "Anthony Scott Wilson"
 		},
 		"10": {
-			"role": "Illustration & Logo Designer",
-			"id": "Zeth",
-			"note": "Disc4: RECRÉATION (KodamaSoft)"
+			"role": "Drums",
+			"id": "Ben Ingvarson"
 		},
 		"11": {
-			"role": "Supervisor & Planner",
-			"id": "Fivda",
-			"note": "KodamaSounds"
+			"role": "Composer & Arranger",
+			"id": "SpiralFlip"
 		},
 		"12": {
-			"role": "Booklet Design",
-			"id": "Zeth",
-			"note": "KodamaSoft"
+			"role": "Composer & Arranger",
+			"id": "Philip Saguil"
 		},
 		"13": {
-			"role": "Audio Crossfade",
-			"id": "Volumetrique",
-			"note": "KodamaSounds"
+			"role": "Composer & Arranger",
+			"id": "ID"
 		},
 		"14": {
-			"role": "Video Crossfade",
-			"id": "Nydy"
+			"role": "Composer, Arranger & Guitar",
+			"id": "YOKAI"
 		},
 		"15": {
-			"role": "3D Animation",
-			"id": "TAKADA"
+			"role": "Vocals",
+			"id": "eili"
 		},
 		"16": {
-			"role": "Japanese Translator",
-			"id": "Yanis",
-			"note": "KodamaSoft"
+			"role": "Violin",
+			"id": "v1ris"
 		},
 		"17": {
-			"role": "Web",
-			"id": "krz",
-			"note": "KodamaSoft"
+			"role": "Lyrics",
+			"id": "Vega Lyrical"
 		},
 		"18": {
-			"role": "Web",
-			"id": "Bonnie",
-			"note": "KodamaSoft"
+			"role": "Composer, Arranger, Mixing, Mastering & Audio Crossfade",
+			"id": "Volumetrique"
 		},
 		"19": {
-			"role": "Web",
-			"id": "VIIweights",
-			"note": "KodamaSoft"
+			"role": "Mixing & Mastering Engineer",
+			"id": "KAYA"
 		},
 		"20": {
-			"role": "Special Thanks",
-			"id": "Amael"
+			"role": "Composer & Arranger",
+			"id": "takehirotei"
 		},
 		"21": {
-			"role": "Special Thanks",
-			"id": "cal"
+			"role": "Composer & Arranger",
+			"id": "ID"
 		},
 		"22": {
-			"role": "Special Thanks",
-			"id": "NForza",
-			"note": "Four Corners"
+			"role": "Role",
+			"id": "ID"
 		},
 		"23": {
-			"role": "Special Thanks",
-			"id": "marklincadet"
+			"role": "Role",
+			"id": "ID"
 		},
 		"24": {
-			"role": "Special Thanks",
-			"id": "Recca"
+			"role": "Role",
+			"id": "ID"
 		},
 		"25": {
-			"role": "Special Thanks",
-			"id": "RLZY"
+			"role": "Role",
+			"id": "ID"
 		},
 		"26": {
-			"role": "Special Thanks",
-			"id": "In Love With A Ghost"
+			"role": "Role",
+			"id": "ID"
 		},
 		"27": {
-			"role": "Special Thanks",
-			"id": "TaroNuke"
+			"role": "Role",
+			"id": "ID"
 		},
 		"28": {
-			"role": "Special Thanks",
-			"id": "Supire",
-			"note": "NH"
+			"role": "Role",
+			"id": "ID"
 		},
 		"29": {
-			"role": "Special Thanks",
-			"id": "poniyama",
-			"note": "Liminal Warp"
+			"role": "Role",
+			"id": "ID"
 		},
-		"30": {
-			"role": "Special Thanks",
-			"id": "KaNa",
-			"note": "Snow Freques / Otographic Music"
+		"0": {
+			"role": "Role",
+			"id": "ID"
 		},
-		"31": {
-			"role": "Special Thanks",
-			"id": "Resonant Union"
+		"0": {
+			"role": "Role",
+			"id": "ID"
 		},
-		"32": {
-			"role": "Special Thanks",
-			"id": "United Tribute Arrange Force"
+		"0": {
+			"role": "Role",
+			"id": "ID"
 		},
-		"33": {
-			"role": "Special Thanks",
-			"id": "AllFans"
+		"0": {
+			"role": "Role",
+			"id": "ID"
+		},
+		"0": {
+			"role": "Role",
+			"id": "ID"
+		},
+		"0": {
+			"role": "Role",
+			"id": "ID"
+		},
+		"0": {
+			"role": "Role",
+			"id": "ID"
+		},
+		"0": {
+			"role": "Role",
+			"id": "ID"
+		},
+		"0": {
+			"role": "Role",
+			"id": "ID"
+		},
+		"0": {
+			"role": "Role",
+			"id": "ID"
+		},
+		"0": {
+			"role": "Role",
+			"id": "ID"
+		},
+		"0": {
+			"role": "Role",
+			"id": "ID"
+		},
+		"0": {
+			"role": "Role",
+			"id": "ID"
+		},
+		"0": {
+			"role": "Role",
+			"id": "ID"
+		},
+		"0": {
+			"role": "Role",
+			"id": "ID"
+		},
+		"0": {
+			"role": "Role",
+			"id": "ID"
+		},
+		"0": {
+			"role": "Role",
+			"id": "ID"
+		},
+		"0": {
+			"role": "Role",
+			"id": "ID"
+		},
+		"0": {
+			"role": "Role",
+			"id": "ID"
+		},
+		"0": {
+			"role": "Role",
+			"id": "ID"
+		},
+		"0": {
+			"role": "Role",
+			"id": "ID"
+		},
+		"0": {
+			"role": "Role",
+			"id": "ID"
+		},
+		"0": {
+			"role": "Role",
+			"id": "ID"
+		},
+		"0": {
+			"role": "Role",
+			"id": "ID"
+		},
+		"0": {
+			"role": "Role",
+			"id": "ID"
+		},
+		"0": {
+			"role": "Role",
+			"id": "ID"
+		},
+		"0": {
+			"role": "Role",
+			"id": "ID"
+		},
+		"0": {
+			"role": "Role",
+			"id": "ID"
+		},
+		"0": {
+			"role": "Role",
+			"id": "ID"
+		},
+		"0": {
+			"role": "Role",
+			"id": "ID"
+		},
+		"0": {
+			"role": "Role",
+			"id": "ID"
+		},
+		"0": {
+			"role": "Role",
+			"id": "ID"
+		},
+		"0": {
+			"role": "Role",
+			"id": "ID"
+		},
+		"0": {
+			"role": "Role",
+			"id": "ID"
+		},
+		"0": {
+			"role": "Role",
+			"id": "ID"
+		},
+		"0": {
+			"role": "Role",
+			"id": "ID"
+		},
+		"0": {
+			"role": "Role",
+			"id": "ID"
+		},
+		"0": {
+			"role": "Role",
+			"id": "ID"
+		},
+		"0": {
+			"role": "Role",
+			"id": "ID"
+		},
+		"0": {
+			"role": "Role",
+			"id": "ID"
+		},
+		"0": {
+			"role": "Role",
+			"id": "ID"
+		},
+		"0": {
+			"role": "Role",
+			"id": "ID"
+		},
+		"0": {
+			"role": "Role",
+			"id": "ID"
+		},
+		"0": {
+			"role": "Role",
+			"id": "ID"
+		},
+		"0": {
+			"role": "Role",
+			"id": "ID"
+		},
+		"0": {
+			"role": "Role",
+			"id": "ID"
+		},
+		"0": {
+			"role": "Role",
+			"id": "ID"
+		},
+		"0": {
+			"role": "Role",
+			"id": "ID"
 		}
 	},
 	"footer": "All music and visuals owned by KodamaSounds and their respective artists"

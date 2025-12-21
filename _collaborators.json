@@ -3276,6 +3276,36 @@
 			"vgmdb": "https://vgmdb.net/artist/50045"
 		}
 	},
+	"Junaid Eastman": {
+		"name": "Junaid Eastman",
+		"links": {
+			"vgmdb": "https://vgmdb.net/artist/77353"
+		}
+	},
+	"Anthony Scott Wilson": {
+		"name": "Anthony Scott Wilson",
+		"links": {
+			"bandcamp": "https://anthonyscottwilson.bandcamp.com",
+			"soundcloud": "https://soundcloud.com/user-anthonyscottwilson",
+			"apple": "https://music.apple.com/artist/1805540038",
+			"vgmdb": "https://vgmdb.net/artist/77354"
+		}
+	},
+	"Ben Ingvarson": {
+		"name": "Ben Ingvarson",
+		"links": {
+			"vgmdb": "https://vgmdb.net/artist/77355"
+		}
+	},
+	"KAYA": {
+		"name": "KAYA",
+		"links": {
+			"twitter": "https://x.com/KAYA_OFFICE",
+			"youtube": "https://www.youtube.com/@KAYA_OFFICE",
+			"website": "https://www.kaya-office.com",
+			"vgmdb": "https://vgmdb.net/artist/76903"
+		}
+	},
 	"SampleEN": {
 		"name": "SampleEN",
 		"links": {
