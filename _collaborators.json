@@ -3306,6 +3306,14 @@
 			"vgmdb": "https://vgmdb.net/artist/76903"
 		}
 	},
+	"wasi": {
+		"name": "wasi",
+		"links": {
+			"twitter": "https://x.com/waspyon",
+			"youtube": "https://www.youtube.com/c/wasi39",
+			"vgmdb": "https://vgmdb.net/artist/35792"
+		}
+	},
 	"SampleEN": {
 		"name": "SampleEN",
 		"links": {
