@@ -3335,19 +3335,41 @@
 			"spotify": "https://open.spotify.com/artist/5aefRVdoCVwpyYIjTi9DJp",
 			"website": "http://www.hosplug.com/",
 			"vgmdb": "https://vgmdb.net/artist/76"
-		}	},
-	"SampleEN": {
-		"name": "SampleEN",
+		}
+	},
+	"Vega Lyrical": {
+		"name": "Vega Lyrical",
 		"links": {
-			"twitter": "link",
-			"bluesky": "link",
-			"bandcamp": "link",
-			"youtube": "link",
-			"soundcloud": "link",
-			"apple": "link",
-			"spotify": "link",
-			"website": "link",
-			"vgmdb": "link"
+			"twitter": "https://x.com/Vegalyrical",
+			"bluesky": "https://bsky.app/profile/vegalyrical.bsky.social",
+			"website": "https://vegalyrical.carrd.co",
+			"vgmdb": "https://vgmdb.net/artist/61435"
+		}
+	},
+	"zqr": {
+		"name": "zqr",
+		"links": {
+			"twitter": "https://x.com/zqrunderscore",
+			"bluesky": "https://bsky.app/profile/zqr.bsky.social",
+			"bandcamp": "https://uzqr.bandcamp.com/",
+			"youtube": "https://www.youtube.com/@zqr_",
+			"soundcloud": "https://soundcloud.com/uzqr",
+			"vgmdb": "https://vgmdb.net/artist/76746"
+		}
+	},
+	"Ethereal_Winter": {
+		"name": "Ethereal_Winter",
+		"links": {
+			"twitter": "https://x.com/EtherealWinter_",
+			"vgmdb": "https://vgmdb.net/artist/60834"
+		}
+	},
+	"UX": {
+		"name": "UX",
+		"links": {
+			"twitter": "https://x.com/_UX_Unknown",
+			"youtube": "https://www.youtube.com/@UXMetalVTuber",
+			"vgmdb": "https://vgmdb.net/artist/77357"
 		}
 	},
 	"SampleJP": {
