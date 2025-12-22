@@ -3314,6 +3314,28 @@
 			"vgmdb": "https://vgmdb.net/artist/35792"
 		}
 	},
+	"Nico Siberia": {
+		"name": "Nico Siberia",
+		"links": {
+			"vgmdb": "https://vgmdb.net/artist/77120"
+		}
+	},
+	"Soshi Hosoi": {
+		"name": {
+			"en": "Soshi Hosoi",
+			"jp": "細井聡司"
+		},
+		"links": {
+			"twitter": "https://x.com/hosplug_hosoi",
+			"bluesky": "https://bsky.app/profile/hosoisoshi.bsky.social",
+			"bandcamp": "https://hosplug.bandcamp.com",
+			"youtube": "https://www.youtube.com/@hosplug",
+			"soundcloud": "https://soundcloud.com/hosplug",
+			"apple": "https://music.apple.com/artist/266651616",
+			"spotify": "https://open.spotify.com/artist/5aefRVdoCVwpyYIjTi9DJp",
+			"website": "http://www.hosplug.com/",
+			"vgmdb": "https://vgmdb.net/artist/76"
+		}	},
 	"SampleEN": {
 		"name": "SampleEN",
 		"links": {
