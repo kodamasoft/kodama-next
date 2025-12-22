@@ -14,15 +14,16 @@ const discColors = [
 		// DISC2: ASCENSION - pink
 		primary: '#d475b5',
 		background: 'rgba(137, 199, 242, 0.6)',
+		color: '#000000',
 	},
 	{
 		// DISC3: INSPIRATION - blue
-		primary: '#0000ff',
+		primary: '#03feff',
 		background: 'rgba(0, 0, 0, 0.9)',
 	},
 	{
 		// DISC4: RECRÉATION - red
-		primary: '#ff0000',
+		primary: '#f80828',
 		background: 'rgba(9, 51, 145, 0.9)',
 	},
 ];
@@ -83,6 +84,7 @@ export default function YggdrasilTracklist({ tracklist }) {
 							className="backdrop-blur-lg max-w-4xl mx-auto"
 							style={{
 								backgroundColor: disc.bgColor.background,
+								color: disc.bgColor.color,
 							}}
 						>
 							<div className="relative flex flex-col items-center pt-6 px-4">
@@ -116,7 +118,7 @@ export default function YggdrasilTracklist({ tracklist }) {
 								)}
 							</div>
 							<div
-								className="relative px-4 pb-6"
+								className="relative pb-6"
 								style={{
 									'--release-color': disc.bgColor.primary,
 								}}

@@ -2,7 +2,7 @@
 	"slug": "yggdrasil",
 	"theme": "yggdrasil",
 	"logo": "/assets/discography/logos/0022.png",
-	"color": "1a5469",
+	"color": "40bece",
 	"soundcloud_track_id": "2184480579",
 	"cover": "/assets/discography/covers/0022.png",
 	"header": {
@@ -10,7 +10,9 @@
 		"image": "/assets/discography/headers/0022.png"
 	},
 	"background": {
-		"color": "000000"
+		"color": "000000",
+		"image": "/assets/discography/backgrounds/0022.jpg",
+		"image_attachment": "fixed"
 	},
 	"title": "YGGDRASIL: KodamaSounds 5th Anniversary Album",
 	"circle": {

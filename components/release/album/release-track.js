@@ -9,7 +9,7 @@ export default function ReleaseTrack({ track }) {
 	function Track({ track, locale }) {
 		return (
 			<div className="container max-w-(--breakpoint-sm) mx-auto mb-4 flex content-start items-start px-2 md:px-8">
-				<div className="text-xl mr-2 text-[color:var(--release-color)]">
+				<div className="text-xl mr-2 text-[color:var(--release-color)] tabular-nums font-semibold">
 					{track[0].padStart(2, '0')}
 				</div>
 				<div>
@@ -24,7 +24,7 @@ export default function ReleaseTrack({ track }) {
 
 					{track[1].artist && (
 						<>
-							<div className="text-sm grow text-left select-none text-current/50 font-extralight	">
+							<div className="text-sm grow text-left select-none text-current/50">
 								{typeof track[1].artist === 'object'
 									? track[1].artist[locale]
 									: track[1].artist}

@@ -94,11 +94,13 @@ export default function ReleaseLayout({ release }) {
 			<div
 				className={`${noto.variable} font-release min-h-screen pb-1 bg-cover bg-center`}
 				style={{
-					color: `#${release.background?.text_color || 'white'}`,
+					color: `#${release.background?.text_color || 'ffffff'}`,
 					backgroundColor: `#${backgroundColor}`,
 					backgroundImage: release.background?.image
 						? `url(${release.background.image})`
 						: 'none',
+					backgroundAttachment:
+						release.background?.image_attachment || 'scroll',
 				}}
 			>
 				<ReleaseHead

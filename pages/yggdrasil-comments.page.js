@@ -59,7 +59,7 @@ const CommentContent = ({ comment }) => {
 					alt="Gronyan"
 					width={50}
 					height={50}
-					className="rounded-lg"
+					className="rounded-lg hover:animate-spin transition-transform"
 				/>
 			</div>
 		);
