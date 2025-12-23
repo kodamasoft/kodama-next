@@ -39,6 +39,7 @@
 		"name": "Philip Saguil",
 		"links": {
 			"twitter": "https://twitter.com/FireFallsMusic",
+			"bluesky": "https://bsky.app/profile/firefallsmusic.bsky.social",
 			"vgmdb": "https://vgmdb.net/artist/48226",
 			"youtube": "https://www.youtube.com/@FireFallsMusic",
 			"bandcamp": "https://philipsaguil.bandcamp.com"
@@ -321,6 +322,7 @@
 		"name": "Eyhz",
 		"links": {
 			"twitter": "https://twitter.com/Eyhz6",
+			"youtube": "https://www.youtube.com/channel/UCAFm3VrcZGV5osyGNa9VYvA",
 			"vgmdb": "https://vgmdb.net/artist/53706"
 		}
 	},
@@ -453,6 +455,7 @@
 		"name": "MB",
 		"links": {
 			"twitter": "https://twitter.com/MBgov1133",
+			"bluesky": "https://bsky.app/profile/mbgov.bsky.social",
 			"youtube": "https://www.youtube.com/channel/UCJi791FFenRxNgzTVGvarRg",
 			"bandcamp": "https://mbgov1133.bandcamp.com/",
 			"vgmdb": "https://vgmdb.net/artist/49326"
@@ -965,8 +968,8 @@
 		"name": "Zeth",
 		"links": {
 			"website": "https://linktr.ee/ZethZ161",
-			"twitter": "https://twitter.com/ZethZ161",
 			"bluesky": "https://bsky.app/profile/zethz161.bsky.social",
+			"twitter": "https://twitter.com/ZethZ161",
 			"vgmdb": "https://vgmdb.net/artist/53348"
 		}
 	},
@@ -1279,6 +1282,7 @@
 		"name": "takehirotei",
 		"links": {
 			"twitter": "https://twitter.com/takehirotei",
+			"bluesky": "https://bsky.app/profile/takehirotei.bsky.social",
 			"bandcamp": "https://takehirotei.bandcamp.com",
 			"youtube": "https://www.youtube.com/channel/UCM3JSULS1pF_zk14xk70wXg",
 			"soundcloud": "https://soundcloud.com/takehirotei",
@@ -1316,6 +1320,7 @@
 		"name": "ne_pura",
 		"links": {
 			"twitter": "https://twitter.com/nepperoni",
+			"bluesky": "https://bsky.app/profile/nepperoni.bsky.social",
 			"pixiv": "https://www.pixiv.net/en/users/56006676",
 			"vgmdb": "https://vgmdb.net/artist/60617"
 		}
@@ -1500,6 +1505,7 @@
 		"name": "SpiralFlip",
 		"links": {
 			"twitter": "https://x.com/SpiralFlip",
+			"bluesky": "https://bsky.app/profile/spiralflip.bsky.social",
 			"bandcamp": "https://spiralflip.bandcamp.com",
 			"youtube": "https://www.youtube.com/channel/UCzDxWU19jeXdIaRMyWyDVJA",
 			"spotify": "https://open.spotify.com/artist/16LZTQTkuKjgoIAS4oHurP",
@@ -1755,7 +1761,7 @@
 		"links": {
 			"twitter": "https://x.com/Faxyne",
 			"bandcamp": "https://raphlesia.bandcamp.com",
-			"soundcloud": "https://soundcloud.com/raphlesia",
+			"soundcloud": "https://soundcloud.com/faxyne",
 			"vgmdb": "https://vgmdb.net/artist/53070"
 		}
 	},
@@ -1764,7 +1770,7 @@
 		"links": {
 			"twitter": "https://x.com/Faxyne",
 			"bandcamp": "https://raphlesia.bandcamp.com",
-			"soundcloud": "https://soundcloud.com/raphlesia",
+			"soundcloud": "https://soundcloud.com/faxyne",
 			"vgmdb": "https://vgmdb.net/artist/53070"
 		}
 	},
@@ -2392,6 +2398,7 @@
 	"v1ris": {
 		"name": "v1ris",
 		"links": {
+			"twitter": "https://x.com/v1ris_music",
 			"bluesky": "https://bsky.app/profile/v1ris.com",
 			"bandcamp": "https://v1ris.bandcamp.com",
 			"youtube": "https://www.youtube.com/@v1ris_music",
@@ -2580,7 +2587,7 @@
 			"twitter": "https://x.com/Exteria_Music",
 			"bandcamp": "https://exteria.bandcamp.com",
 			"soundcloud": "https://soundcloud.com/exteriamusic",
-			"apple": "https://music.apple.com/us/artist/exteria/1497783233",
+			"apple": "https://music.apple.com/us/artist/exteria/",
 			"spotify": "https://open.spotify.com/artist/7udfzijkpyxCcXZ6fiDeBO",
 			"website": "https://twitter.com/Exteria_Music",
 			"vgmdb": "https://vgmdb.net/artist/56079"
@@ -3150,6 +3157,7 @@
 			"twitter": "https://x.com/frenlize",
 			"bluesky": "https://bsky.app/profile/frenlize.bsky.social",
 			"bandcamp": "https://eili.bandcamp.com/",
+			"soundcloud": "https://soundcloud.com/sigrdrifa",
 			"youtube": "https://www.youtube.com/c/EiliYT",
 			"apple": "https://music.apple.com/artist/1536945071",
 			"spotify": "https://open.spotify.com/artist/0HoB9AatPDpqytQxix7ctv",
