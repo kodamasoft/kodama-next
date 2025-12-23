@@ -40,7 +40,7 @@ export default function YggdrasilTracklist({ tracklist }) {
 				),
 				bgColor: discColors[discIndex] || discColors[0],
 				coverPath: `/assets/discography/covers/0022~${discIndex + 1}.png`,
-				headerPath: `/assets/discography/headers/0022~${discIndex + 1}.jpg`,
+				headerPath: `/assets/discography/headers/0022~${discIndex + 1}.png`,
 				logoPath: `/assets/discography/logos/0022~${discIndex + 1}.png`,
 			}));
 		} else {
