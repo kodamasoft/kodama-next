@@ -49,6 +49,7 @@
 		"name": "Tee-vee",
 		"links": {
 			"website": "https://teevee.neocities.org/",
+			"bluesky": "https://bsky.app/profile/teeveeterminal.bsky.social",
 			"twitter": "https://twitter.com/teevee_terminal",
 			"bandcamp": "https://teeveemusic.bandcamp.com/",
 			"soundcloud": "https://soundcloud.com/tee-vee-novae",
@@ -178,6 +179,7 @@
 			"jp": "亜店"
 		},
 		"links": {
+			"bluesky": "https://bsky.app/profile/intelligencecasino.bsky.social",
 			"bandcamp": "https://66clown.bandcamp.com/",
 			"soundcloud": "https://soundcloud.com/intelligencecasino",
 			"vgmdb": "https://vgmdb.net/artist/54381"
@@ -186,6 +188,7 @@
 	"intelligencecasino": {
 		"name": "intelligencecasino",
 		"links": {
+			"bluesky": "https://bsky.app/profile/intelligencecasino.bsky.social",
 			"bandcamp": "https://66clown.bandcamp.com/",
 			"soundcloud": "https://soundcloud.com/intelligencecasino",
 			"vgmdb": "https://vgmdb.net/artist/54381"
@@ -205,6 +208,7 @@
 		"name": "Ren",
 		"links": {
 			"twitter": "https://twitter.com/RenSoundworks",
+			"bluesky": "https://bsky.app/profile/rensoundworks.bsky.social",
 			"bandcamp": "https://rensoundworks.bandcamp.com/",
 			"soundcloud": "https://soundcloud.com/higanren",
 			"vgmdb": "https://vgmdb.net/artist/46976"
@@ -213,11 +217,11 @@
 	"Lollipop": {
 		"name": "Lollipop",
 		"links": {
-			"website": "https://lollipop314.github.io/site/",
 			"twitter": "https://twitter.com/Lollipop_314",
 			"soundcloud": "https://soundcloud.com/lollipop-144989227/",
 			"youtube": "https://www.youtube.com/@lollipop6258",
 			"bandcamp": "https://lollipop314.bandcamp.com/",
+			"website": "https://lollipop314.github.io/site/",
 			"vgmdb": "https://vgmdb.net/artist/48955"
 		}
 	},
@@ -244,11 +248,11 @@
 	"malicent": {
 		"name": "malicent",
 		"links": {
-			"website": "http://cursedmonastery.blog.fc2.com/",
 			"twitter": "https://twitter.com/malicent_hart",
 			"bandcamp": "https://malicent.bandcamp.com/",
 			"soundcloud": "https://soundcloud.com/malicent",
 			"youtube": "https://www.youtube.com/@MalicentHart",
+			"website": "http://cursedmonastery.blog.fc2.com/",
 			"vgmdb": "https://vgmdb.net/artist/12619"
 		}
 	},
@@ -350,7 +354,7 @@
 	"GOETIA": {
 		"name": "GOETIΛ",
 		"links": {
-			"bandcamp": "https://arsgoetia1.bandcamp.com/releases",
+			"bandcamp": "https://arsgoetia1.bandcamp.com/",
 			"soundcloud": "https://soundcloud.com/ars_goetia",
 			"youtube": "https://www.youtube.com/channel/UCaBnlDM9zC_KdPkMC0eZd-A",
 			"twitter": "https://twitter.com/Ars_Goetia_",
@@ -488,11 +492,11 @@
 	"Yumi Sakata": {
 		"name": "Yumi Sakata",
 		"links": {
+			"twitter": "https://x.com/YumiSakataMusic",
 			"bandcamp": "https://yumisakata.bandcamp.com/album/sins-of-the-fossil-world",
 			"youtube": "https://www.youtube.com/@YumiSakata/featured",
 			"soundcloud": "https://soundcloud.com/yumi-sakata-music",
 			"spotify": "https://open.spotify.com/artist/71Q5wFTtnvfca20C5LexUO",
-			"twitter": "https://x.com/YumiSakataMusic",
 			"vgmdb": "https://vgmdb.net/artist/57074"
 		}
 	},
@@ -817,6 +821,7 @@
 		"name": "Nuchuu",
 		"links": {
 			"twitter": "https://twitter.com/Neema_Dreamer",
+			"bluesky": "https://bsky.app/profile/neemadreamer.bsky.social",
 			"bandcamp": "https://nuchuu.bandcamp.com",
 			"youtube": "https://www.youtube.com/channel/UCiqC6Ip0v8G0Y44VYne5JiA",
 			"soundcloud": "https://soundcloud.com/nuchuu-music",
@@ -959,6 +964,7 @@
 		"name": "AIKATYPE",
 		"links": {
 			"twitter": "https://twitter.com/aikatype",
+			"bluesky": "https://bsky.app/profile/aikatype.bsky.social",
 			"soundcloud": "https://soundcloud.com/aikatype",
 			"youtube": "https://www.youtube.com/@aikatype",
 			"vgmdb": "https://vgmdb.net/artist/60619"
@@ -1206,6 +1212,7 @@
 		"name": "Asayami",
 		"links": {
 			"twitter": "https://twitter.com/ReeKDoesDTM",
+			"bluesky": "https://bsky.app/profile/reekdoesdtm.bsky.social",
 			"soundcloud": "https://soundcloud.com/reek_wobs",
 			"bandcamp": "https://reekandthemeitriphecta.bandcamp.com",
 			"spotify": "https://open.spotify.com/artist/6g1tKcNoNq2ZqlCiYyAh4i",
@@ -1239,6 +1246,7 @@
 		"name": "Foodbot",
 		"links": {
 			"twitter": "https://twitter.com/Foodbot4",
+			"bluesky": "https://bsky.app/profile/foodbot.bsky.social",
 			"bandcamp": "https://foodbot.bandcamp.com/music",
 			"youtube": "https://www.youtube.com/channel/UCoiwXTR6Q36gqxP4ykfIYtg",
 			"soundcloud": "https://soundcloud.com/foodbot",
@@ -1656,6 +1664,7 @@
 		"name": "WujuBlade",
 		"links": {
 			"twitter": "https://x.com/WujuB1ade",
+			"bluesky": "https://bsky.app/profile/wujublade.bsky.social",
 			"soundcloud": "https://soundcloud.com/WujuBlade",
 			"website": "https://linktr.ee/WujuBlade",
 			"vgmdb": "https://vgmdb.net/artist/66099"
@@ -1769,6 +1778,7 @@
 		"name": "Faxyne",
 		"links": {
 			"twitter": "https://x.com/Faxyne",
+			"bluesky": "https://bsky.app/profile/idiosavan.me",
 			"bandcamp": "https://raphlesia.bandcamp.com",
 			"soundcloud": "https://soundcloud.com/faxyne",
 			"vgmdb": "https://vgmdb.net/artist/53070"
@@ -1999,7 +2009,7 @@
 		"name": "wrashi",
 		"links": {
 			"twitter": "https://x.com/wrashi_",
-			"bluesky": "https://bsky.app/profile/did:plc:g6amuofbkh246nq47eb7oing",
+			"bluesky": "https://bsky.app/profile/alchemzik.com",
 			"soundcloud": "https://soundcloud.com/wrashi",
 			"website": "https://alchemzik.com",
 			"vgmdb": "https://vgmdb.net/artist/57040"
@@ -2199,7 +2209,7 @@
 	"Alkome": {
 		"name": "Alkome",
 		"links": {
-			"twitter": "https://vgmdb.net/artist/57268",
+			"twitter": "https://x.com/Alkome0x63",
 			"bandcamp": "https://alkome.bandcamp.com/",
 			"youtube": "https://www.youtube.com/channel/UCQSR1orJCx-jj-WKN9LYBfw",
 			"soundcloud": "https://soundcloud.com/alkome",
@@ -3196,6 +3206,7 @@
 		"name": "Aiyru",
 		"links": {
 			"twitter": "https://x.com/Aiyru1",
+			"bluesky": "https://bsky.app/profile/aiyru1.bsky.social",
 			"youtube": "https://www.youtube.com/@Aiyru1",
 			"soundcloud": "https://soundcloud.com/aiyru",
 			"apple": "https://music.apple.com/artist/aiyru/1601258392",
