@@ -1,0 +1,716 @@
+{
+	"slug": "touhou-fractured-transience",
+	"logo": "/assets/discography/logos/0021.png",
+	"color": "ff4daf",
+	"soundcloud_track_id": "2213739698",
+	"cover": "/assets/discography/covers/0021.png",
+	"header": {
+		"image": "/assets/discography/headers/0021.png"
+	},
+	"background": {
+		"image": "/assets/discography/backgrounds/0021.png",
+		"color": "f1f6ea",
+		"text_color": "616294"
+	},
+	"title": {
+		"en": "Touhou Fractured Transience Original Soundtrack",
+		"jp": "東方暫永台 オリジナルサウンドトラック"
+	},
+	"circle": {
+		"name": "KodamaSounds",
+		"link": "/"
+	},
+	"specification": "Digital Original Game Soundtrack",
+	"release_date": "Nov 29th, 2025",
+	"catalog": "KSDL-0021",
+	"price": "Price: 15€ / 2500 yen",
+	"store": {
+		"bandcamp": {
+			"name": "Bandcamp",
+			"link": "https://kodamasounds.bandcamp.com/album/touhou-fractured-transience-original-soundtrack"
+		},
+		"booth": {
+			"name": "BOOTH",
+			"link": "https://kodamasoft.booth.pm/items/7525876"
+		}
+	},
+	"tracklist": [
+		{
+			"_isMultiDisc": true,
+			"_discNames": ["Disc 1: Mayhem in Gensokyo", "Disc 2: Nightmare in Dream World"]
+		},
+		{
+			"01": {
+				"title": "Eastern Evanescence ~ Lingering Immortal Bubbles",
+				"artist": "ArmpitMaiden",
+				"description": [
+					"",
+					"• Original Composer: ZUN (Team Shanghai Alice)",
+					"• Arranger: ArmpitMaiden (Holmgang Ov Gensokyo)",
+					"• Electric Guitar (Schecter Guitar Research C-1 Diamond Series): ArmpitMaiden (Holmgang Ov Gensokyo)",
+					"",
+					"• Programmed, Produced & Mixed by ArmpitMaiden (Holmgang Ov Gensokyo)",
+					"• Mastering Engineer: R-Man (Resonant Union)",
+					"",
+					"• Original Track: Theme of Eastern Story [テーマ・オブ・イースタンストーリー]",
+					"• Source: Touhou Fuumaroku ~ the Story of Eastern Wonderland. [東方封魔録　～ the Story of Eastern Wonderland.]",
+					"",
+					"• Used Software: Mixcraft 10 Professional",
+					"• Used VSTs & Samples: Archetype Nolly, EastWest",
+					"",
+					"• About this track: \"Lingering bubbles. Glimpses into eternity. To grasp them is to grasp boundless dreams. But dreams.. are only as real as they are fleeting dawn-side memories. And so, humans and youkai alike dare to grasp that of which can never be seen again.\"",
+					"",
+					"Context: Main Menu",
+					"BPM: 195",
+					"Key: N/A",
+					"Genre: Orchestral / Cinematic Folk",
+					"",
+					"https://holmgangovgensokyo.bandcamp.com"
+				]
+			},
+			"02": {
+				"title": "Hold my Bullets",
+				"artist": "intelligencecasino",
+				"description": [
+					"• Original Composer: ZUN (Team Shanghai Alice)",
+					"• Arranger: intelligencecasino",
+					"",
+					"• Programmed, Produced, Mixed & Mastered by intelligencecasino",
+					"• Additional Mastering: Ceiling Adjustment",
+					"",
+					"• Original Track: Take Thy Danmaku In Hand, O Bulletphiles [弾幕を持て、バレットフィリア達よ]",
+					"• Source: Black Market of Bulletphilia ~ 100th Black Market. [バレットフィリア達の闇市場 〜 100th Black Market.]",
+					"",
+					"• Used Software: FL Studio",
+					"• Used VSTs & Samples: Hive/Serum/EZDrummer",
+					"",
+					"Context: Player Selection Screen",
+					"BPM: 90/180",
+					"Key: D minor/B minor",
+					"Genre: DnB",
+					"• Used VSTs & Samples: Hive/Serum/EZDrummer",
+					"",
+					"https://66clown.bandcamp.com/"
+				]
+			},
+			"03": {
+				"title": "Nymphaea, Nocturne, Reverie, -Sigil-",
+				"artist": "Emelia K.",
+				"description": [
+					"• Track Name: Nymphaea, Nocturne, Reverie, -Sigil-",
+					"• Display Artist: Emelia K.",
+					"• Original Composer: ZUN (Team Shanghai Alice)",
+					"• Arranger: Emelia K.",
+					"",
+					"• Programmed, Produced & Mixed by Emelia K.",
+					"• Mastering Engineer: R-Man (Resonant Union)",
+					"",
+					"• Original Track: Maiden's Capriccio ~ Dream Battle [少女綺想曲　～ Dream Battle]",
+					"• Source: Touhou Eiyashou ~ Imperishable Night. [東方永夜抄　～ Imperishable Night.]",
+					"",
+					"• Used Software: Renoise 3.4.3",
+					"• Used VSTs & Samples: Surge XT, Podolski, Helm",
+					"",
+					"Context: Reimu Hakurei's Theme",
+					"BPM: 162",
+					"Key: Eb minor",
+					"Genre: Mystic Full-on",
+					"",
+					"https://bsky.app/profile/iberaiemelia.kasuka.be"
+				]
+			},
+			"04": {
+				"title": "Magician's Rondo",
+				"artist": "Benji Tunez",
+				"description": [
+					"• Original Composer: ZUN (Team Shanghai Alice)",
+					"• Arranger: Benji Tunez",
+					"",
+					"• Programmed, Produced, Mixed & Mastered by Benji Tunez",
+					"• Additional Mastering: Glue comp, subtle saturation, multiband comp, limiter",
+					"",
+					"• Original Track: Magus Night [メイガスナイト]",
+					"• Source: Yousei Daisensou ~ Touhou Sangetsusei [妖精大戦争　〜 東方三月精]",
+					"",
+					"• Used Software: FL Studio",
+					"• Used VSTs & Samples: SD-90, Kontakt, Electric6ty, Ample HellRazer, Trilian, Superior Drummer 3",
+					"",
+					"• About this track: This is a song I always loved since I first got into the touhou series. It's a song that perfectly encapsulates who Marisa is in the series, so of course I had to arrange this song in a genre that I think Marisa would listen to.",
+					"",
+					"Context: Marisa Kirisame's Theme",
+					"BPM: 178",
+					"Key: E Minor",
+					"Genre: Hard Rock",
+					"",
+					"https://benjitunez.bandcamp.com/music"
+				]
+			},
+			"05": {
+				"title": "Génépi Beer on Mt. Blanc",
+				"artist": "YOKAI x intelligencecasino",
+				"description": [
+					"• Original Composer: ZUN (Team Shanghai Alice)",
+					"• Arranger: YOKAI (KodamaSounds), intelligencecasino",
+					"• Electric Guitar: YOKAI (KodamaSounds)",
+					"",
+					"• Programmed & Mixed by YOKAI (KodamaSounds)",
+					"• Produced by YOKAI (KodamaSounds), intelligencecasino",
+					"• Mastering Engineer: R-Man (Resonant Union)",
+					"",
+					"• Original Track: A Flower-Studded Sake Dish on Mt. Ooe [華のさかづき大江山]",
+					"• Source: Touhou Chireiden ~ Subterranean Animism. [東方地霊殿　～ Subterranean Animism.]",
+					"",
+					"• Used Software: Cubase 11",
+					"• Used VSTs & Samples: Pianoteq 8, EastWest RA, Easy Drummer",
+					"",
+					"• About this track:",
+					"YOKAI: A dark and powerful song to defeat our ennemies.",
+					"",
+					"Context: Yuugi Hoshiguma's Theme",
+					"BPM: 120",
+					"Key: A",
+					"Genre: Metal",
+					"",
+					"https://yokaiproducer.bandcamp.com",
+					"https://66clown.bandcamp.com"
+				]
+			},
+			"06": {
+				"title": "Make It Red Instead",
+				"artist": "Comet Mystic",
+				"description": [
+					"• Original Composer: U2 Akiyama (Twilight Frontier)",
+					"• Arranger: Comet Mystic",
+					"",
+					"• Programmed, Produced, Mixed & Mastered by Comet Mystic",
+					"• Additional Mastering: Ceiling Adjustment",
+					"",
+					"• Original Track: The Ground's Color is Yellow [地の色は黄色]",
+					"• Source: Touhou Hisouten ~ Scarlet Weather Rhapsody. [東方緋想天～ Scarlet Weather Rhapsody.]",
+					"",
+					"• About this track: I was curious what it would sound like if, for the lead, I went low to contrast with the original's high, so I turned the violin into a cello! I'd like to think it makes for a more intense feel.",
+					"",
+					"Context: Hakurei Shrine Stage Theme",
+					"BPM: 145",
+					"Key: A major",
+					"Genre: Cinematic Dubstep",
+					"",
+					"https://cometmystic.bandcamp.com"
+				]
+			},
+			"07": {
+				"title": "Resolution",
+				"artist": "Ren",
+				"description": [
+					"• Original Composer: ZUN (Team Shanghai Alice)",
+					"• Arranger: Ren (Higan Daybreak)",
+					"",
+					"• Programmed, Produced & Mixed by Ren (Higan Daybreak)",
+					"• Mastering Engineer: R-Man (Resonant Union)",
+					"",
+					"• Original Track: Magician's Melancholy [魔法使いの憂鬱]",
+					"• Source: The Grimoire of Marisa",
+					"",
+					"• Used Software: FL Studio 20",
+					"• Used VSTs & Samples: Spire, Kontakt 6, FLEX, Metal-GTX, MT-PowerDrums",
+					"",
+					"Context: Forest of Magic Stage Theme",
+					"BPM: 155",
+					"Key: B Major",
+					"Genre: Rock",
+					"",
+					"https://rensoundworks.bandcamp.com/"
+				]
+			},
+			"08": {
+				"title": "Nightmare Diary",
+				"artist": "Scramel",
+				"description": [
+					"• Original Composer: ZUN (Team Shanghai Alice)",
+					"• Arranger: Scramel (KodamaSounds)",
+					"",
+					"• Programmed, Produced, Mixed & Mastered by Scramel (KodamaSounds)",
+					"• Additional Mastering: Ceiling Adjustment",
+					"",
+					"• Original Track: Nightmare Diary [ナイトメアダイアリー]",
+					"• Source: Hifuu Nightmare Diary ~ Violet Detector. [秘封ナイトメアダイアリー　〜 Violet Detector.]",
+					"",
+					"• Used Software: FL Studio 20",
+					"• Used VSTs & Samples: Stradivari Solo Violin by Garritan and Ample Metal Eclipse by Ample Sound",
+					"",
+					"• About this track: Very obviously inspired by zts' work for Umineko no Naku Koro ni, but I wanted to add my own spin to the style by adding the electric guitar sound. Maybe I'll keep doing this in future works!",
+					"",
+					"Context: Dream World Stage Theme",
+					"BPM: 145",
+					"Key: N/A",
+					"Genre: Neoclassic Trance",
+					"",
+					"https://scramel.bandcamp.com"
+				]
+			},
+			"09": {
+				"title": "I Summon You -Two Hearts Become One-",
+				"artist": "Damare",
+				"description": [
+					"• Original Composer: ZUN (Team Shanghai Alice)",
+					"• Arranger: Damare",
+					"",
+					"• Programmed, Produced & Mixed by Damare",
+					"• Mastering Engineer: R-Man (Resonant Union)",
+					"",
+					"• Original Track: Celestial Wizardry ~ Magical Astronomy [大空魔術 ～ Magical Astronomy]",
+					"• Source: Magical Astronomy -ZUN's Music Collection vol.5- [大空魔術　～ Magical Astronomy]",
+					"",
+					"• Used Software: Ableton Live 12 Suite",
+					"",
+					"Context: Network Mode",
+					"BPM: 135",
+					"Key: C Major",
+					"Genre: N/A",
+					"",
+					"https://notdamare.bandcamp.com/"
+				]
+			},
+			"10": {
+				"title": "And There She Was, Flying Through Space (Intermezzo)",
+				"artist": "Emelia K.",
+				"description": [
+					"• Original Composer: ZUN (Team Shanghai Alice)",
+					"• Arranger: Emelia K.",
+					"",
+					"• Programmed, Produced & Mixed by Emelia K.",
+					"• Mastering Engineer: R-Man (Resonant Union)",
+					"",
+					"• Original Track: The Mysterious Shrine Maiden Flying Through Space [宇宙を飛ぶ不思議な巫女]",
+					"• Source: Touhou Kanjuden ~ Legacy of Lunatic Kingdom. [東方紺珠伝　～ Legacy of Lunatic Kingdom.]",
+					"",
+					"• Used Software: Renoise",
+					"• Used VSTs & Samples: Helm, Podolski, Synth1, TyrellN6",
+					"",
+					"Context: Training Room",
+					"BPM: 80",
+					"Key: C# minor",
+					"Genre: Ambient",
+					"",
+					"https://bsky.app/profile/iberaiemelia.kasuka.be"
+				]
+			}
+		},
+		{
+			"01": {
+				"title": "Geta Grip!",
+				"artist": "Comet Mystic",
+				"description": [
+					"• Original Composer: ZUN (Team Shanghai Alice)",
+					"• Arranger: Comet Mystic",
+					"",
+					"• Programmed, Produced, Mixed & Mastered by Comet Mystic",
+					"• Additional Mastering: Ceiling Adjustment",
+					"",
+					"• Original Track: Youkai Mountain ~ Mysterious Mountain [妖怪の山　～ Mysterious Mountain]",
+					"• Source: Touhou Fuujinroku ~ Mountain of Faith. [東方風神録　～ Mountain of Faith.]",
+					"",
+					"• About this track: Was asked to make this Jazz Funk inspired, so I focused hard on giving it a bouncy fun groove! Gives me the impression of an Aya that's just really having fun zipping in circles and taking unflattering pics of her opponents.",
+					"",
+					"Context: Extra Battle Theme (Formerly Aya Shameimaru's Theme)",
+					"BPM: 130",
+					"Key: A Minor",
+					"Genre: Jazz Funk",
+					"",
+					"https://cometmystic.bandcamp.com"
+				]
+			},
+			"02": {
+				"title": "Chrono Felis ~ Luna Dial",
+				"artist": "KoDyMaxx",
+				"description": [
+					"• Original Composer: ZUN (Team Shanghai Alice)",
+					"• Arranger: Maxx (KodamaSounds), Kopan (KodamaSounds), LyhNed (KodamaSounds)",
+					"• Guitar & Bass: Maxx (KodamaSounds)",
+					"• Keys: Kopan (KodamaSounds)",
+					"• Drums: LyhNed (KodamaSounds)",
+					"",
+					"• Programmed & Produced by Maxx (KodamaSounds), Kopan (KodamaSounds), LyhNed (KodamaSounds)",
+					"• Mixed by Maxx (KodamaSounds)",
+					"• Mastering Engineer: R-Man (Resonant Union)",
+					"",
+					"• Original Track: Lunar Clock ~ Luna Dial [月時計～ ルナ・ダイアル]",
+					"• Source: Touhou Koumakyou ~ the Embodiment of Scarlet Devil. [東方紅魔郷～ the Embodiment of Scarlet Devil.]",
+					"",
+					"• Used Software: GetGood Drums Invasion , Neural DSP Archetype Gojira",
+					"",
+					"• About this track: We've always wanted to make a Prog version of this track, as we think Sakuya fits this style very well.",
+					"",
+					"Context: Extra Battle Theme",
+					"BPM: N/A",
+					"Key: N/A",
+					"Genre: Progressive Metal",
+					"",
+					"https://kodymaxx.bandcamp.com/"
+
+				]
+			},
+			"03": {
+				"title": "Catastrophe in Bhava-agra ~ Wonderful Heaven (Sylvy Arrange)",
+				"artist": "Princess Sylvysprit",
+				"description": [
+					"• Original Composer: ZUN (Team Shanghai Alice)",
+					"• Arranger: Princess Sylvysprit",
+					"",
+					"• Programmed, Produced, Mixed & Mastered by Princess Sylvysprit",
+					"",
+					"• Original Track: Catastrophe in Bhavaagra ~ Wonderful Heaven [有頂天変　～ Wonderful Heaven]",
+					"• Source: Touhou Hisouten ~ Scarlet Weather Rhapsody. [東方緋想天　～ Scarlet Weather Rhapsody.]",
+					"",
+					"• Used Software: FL Studio",
+					"• Used VSTs & Samples: Retrologue, Kontakt 5, Nexus, Addictive Drums, Groove Agent 4, Hallion 6, Virtual Guitarist 2, LM4, Super Quartet, Omnisphere",
+					"",
+					"• About this track: I wanted to arrange Tenshi's theme for a long time, this arrange was slightly inspired by some of the works of Jake Kaufman. I wanted the song to have this kind of salsa feeling to it, but in a new kind of way that could also encourage fighting, I tried to imagine Tenshi with this arrangement style, it's loud but still graceful in a way. I added 2 solos for fun! One piano solo and one guitar solo, I hope you enjoy.",
+					"",
+					"Context: Extra Battle Theme",
+					"BPM: 126",
+					"Key: B minor (for the most part)",
+					"Genre: N/A",
+					"",
+					"https://sylvysprit.bandcamp.com/"
+				]
+			},
+			"04": {
+				"title": "DIVA•GATE",
+				"artist": "Comet Mystic",
+				"description": [
+					"• Original Composer: ZUN (Team Shanghai Alice)",
+					"• Arranger: Comet Mystic",
+					"",
+					"• Programmed, Produced, Mixed & Mastered by Comet Mystic",
+					"• Additional Mastering: Ceiling Adjustment",
+					"",
+					"• Original Track: Shanghai Scarlet Teahouse ~ Chinese Tea [上海紅茶館～ Chinese Tea]",
+					"• Source: Touhou Koumakyou ~ the Embodiment of Scarlet Devil. [東方紅魔郷～ the Embodiment of Scarlet Devil.]",
+					"",
+					"• About this track: Meiling is my favourite character, so the first thing I did when I got invited to the sound team was asking if I could make something for her! Trancewave, to me, fits right in with the aesthetic of the UI of this game, so I gravitated to that, and tried making it feel heavy and intense.",
+					"",
+					"Context: Extra Battle Theme",
+					"BPM: 175",
+					"Key: F# minor",
+					"Genre: Trance",
+					"",
+					"https://cometmystic.bandcamp.com/"
+				]
+			},
+			"05": {
+				"title": "Retribution for the Fractured Transience",
+				"artist": "Saroth",
+				"description": [
+					"• Original Composer: ZUN (Team Shanghai Alice)",
+					"• Arranger: Saroth",
+					"",
+					"• Programmed, Produced & Mixed by Saroth",
+					"• Mastering Engineer: R-Man (Resonant Union)",
+					"",
+					"• Original Track: Retribution for the Eternal Night ~ Imperishable Night [永夜の報い　～ Imperishable Night]",
+					"• Source: Touhou Eiyashou ~ Imperishable Night. [東方永夜抄 ～ Imperishable Night.]",
+					"",
+					"• Used Software: Renoise v.3.4.2",
+					"• Used VSTs & Samples: Bitkits by Uppercussion, Chipshop Deluxe by midierror, Essential Chip Sounds by Henry Homesweet, Kawai K5000W, Ensoniq SQ-1, and Roland R5-One",
+					"",
+					"• About this track: The main theme of Touhou Project has been one of my favorite anthems in music. I feel that there's a reason this song in particular gets so much love throughout the proud history of the franchise. This song is awesome, iconic, and simply beautiful to listen to. It's a loop of music that can be said to be as iconic of a video game loop as the Mario theme, IMO. I was very honored to be able to arrange this tracks and I truly hope I did it justice by combining the traditional sounds of Japanese instrumental music with the modern digital world of synths and beeps!",
+					"",
+					"Context: Extra Battle Theme ",
+					"BPM: 160",
+					"Key: N/A",
+					"Genre: Traditional / Chiptune hybrid"
+				]
+			},
+			"06": {
+				"title": "Decisive Magic Brawl! ~ Take it Outside Girls!!",
+				"artist": "Tee-vee",
+				"description": [
+					"• Original Composer: ZUN (Team Shanghai Alice)",
+					"• Arranger: Tee-vee",
+					"• Acoustic Guitar, Electric Guitar, Bass Guitar, Flute, Melodica, Djembe, Bongos, Tambourine: Tee-vee",
+					"",
+					"• Programmed, Produced & Mixed by Tee-vee",
+					"• Mastering Engineer: R-Man (Resonant Union)",
+					"",
+					"• Original Track: Decisive Magic Battle! ~ Fight it out! [魔法決戦！　～ Fight it out!]",
+					"• Source: Touhou Yumejikuu ~ Phantasmagoria of Dim.Dream. [東方夢時空　～ Phantasmagoria of Dim.Dream.]",
+					"",
+					"• Used Software: FL Studio",
+					"• Used VSTs & Samples: NI Kontakt 7, NI Abbey Roads 70s Drummer, NI Sessions Horns Pro, NI Kontakt Factory Library, NI Spotlight Collection: Cuba, Arturia B-3 V2",
+					"",
+					"Context: Extra Battle Theme",
+					"BPM: 140",
+					"Key: C minor (intro/hook & final section), D minor (\"verses\")",
+					"Genre: Folky Jazz Fusion?",
+					"",
+					"• About this track: A somewhat festive? dancey? acoustic instruments-driven take on the original tune, which originally has more of the PC98 Touhou melancholy and crazy arpeggios with a tense rhythmic intro. I felt like it would fit for a fighting game in this context",
+					"",
+					"https://teeveemusic.bandcamp.com/"
+				]
+			},
+			"07": {
+				"title": "She's Not Moshing, She's Crunching Leaves",
+				"artist": "Comet Mystic",
+				"description": [
+					"• Original Composer: ZUN (Team Shanghai Alice)",
+					"• Arranger: Comet Mystic",
+					"",
+					"• Programmed, Produced, Mixed & Mastered by Comet Mystic",
+					"• Additional Mastering: Celing Adjustment",
+					"",
+					"• Original Track: Because Princess Inada is Scolding Me [稲田姫様に叱られるから]",
+					"• Source: Touhou Fuujinroku ~ Mountain of Faith. [東方風神録～ Mountain of Faith.]",
+					"",
+					"• About this track: I went through several versions of this track before I landed on this...! What I wanted to do at first was a silly orchestral piece reminiscent of Grant Kirkhope's body of work, to kind of function as the \"theme of friendly matches\" or something like that. I got anxious about how well that would fit with the game's aesthetic, though, so a couple of attempts later I landed on this; inspired by ziki_7's Lunatic Red Eyes like some of my tracks have been, but also Mamorukun Curse!'s soundtrack.",
+					"",
+					"Context: Extra Battle Theme",
+					"BPM: 162",
+					"Key: C# minor",
+					"Genre: Hardstyle",
+					"",
+					"https://cometmystic.bandcamp.com"
+				]
+			},
+			"08": {
+				"title": "Starbound Purgatory",
+				"artist": "Yuutou",
+				"description": [
+					"• Original Composer: ZUN (Team Shanghai Alice)",
+					"• Arranger: Yuutou",
+					"",
+					"• Programmed, Produced, Mixed & Mastered by Yuutou",
+					"• Mastering Engineer: R-Man (Resonant Union)",
+					"",
+					"• Original Track: Angel of a Distant Star ~ The \"★Alice-in-Wonderland\" Angel [星幽天使 ～ The \"★Alice-in-Wonderland\" Angel]",
+					"• Source: Touhou Rei'iden ~ Highly Responsive to Prayers. [東方靈異伝　～ Highly Responsive to Prayers.]",
+					"",
+					"• Used Software: FL Studio",
+					"• Used VSTs & Samples: JV-1080, Xpand!2, Hybrid 2, Genny, Trillian, SI String Section, Kontakt, Producer Loops Trance Drums Volume 2, Function Loops Psytrance Samples",
+					"",
+					"• About this track: I just like Konngara and her theme a lot. I don't see arrangements or remixes of her theme despite it being really well composed, so I figured it might work well for a fighting game sort of scenario if anything. I wanted to make something otherworldly and unpredictable, so I did my best to make the digital instruments harmonize with traditional Japanese ones. Konngara is an enigmatic character, so I guess the starry feeling of this arrangement kind of fits? ( ´・ω・｀)",
+					"",
+					"Context: Extra Battle Theme",
+					"BPM: 160",
+					"Key: N/A",
+					"Genre: Trance Jungle",
+					"",
+					"https://hazamayuutou.bandcamp.com/"
+				]
+			},
+			"09": {
+				"title": "The Princess is Finally Free",
+				"artist": "Saroth",
+				"description": [
+					"• Original Composer: ZUN (Team Shanghai Alice)",
+					"• Arranger: Saroth",
+					"",
+					"• Programmed, Produced & Mixed by Saroth",
+					"• Mastering Engineer: R-Man (Resonant Union)",
+					"",
+					"• Original Track: The Exaggerated Castle Keep [針小棒大の天守閣] & Inchlings of the Shining Needle ~ Little Princess [輝く針の小人族　～ Little Princess]",
+					"• Source: Touhou Kishinjou ~ Double Dealing Character. [東方輝針城　～ Double Dealing Character.]",
+					"",
+					"• Used Software: Renoise v3.4.2",
+					"• Used VSTs & Samples: Bitkits by Uppercussion, Chipshop Deluxe by midierror, Essential Chip Sounds by Henry Homesweet, Kawai K5000W, Ensoniq SQ-1, Roland R5-One",
+					"",
+					"• About this track: Kobito of the Shining Needle is one of my favorite pieces of music, period. I gave a deep, undying love for Touhou's soundtracks, and Kobito has always been one of the pieces that stuck with me like glue when I first heard it. IMO, it's up in the hall of fame with Touhou OSTs that is populated by other legendary pieces like Septette, U.N. Owen, and Love-Colored Magic. This song rules, and I felt the best way I could turn it into a lethal stage theme was by giving it the lethal chiprock treatment! There are so many ways I could have mixed this song, I could have made it 20 minutes if I wanted. I hope I did this amazing piece justice!!",
+					"",
+					"Context: Extra Battle Theme",
+					"BPM: 160",
+					"Key: N/A",
+					"Genre: Chiprock"
+				]
+			},
+			"10": {
+				"title": "Necrofantasia ~ Dance of Particle and Wave",
+				"artist": "LibriJamm",
+				"description": [
+					"• Original Composer: ZUN (Team Shanghai Alice)",
+					"• Arranger: LibriJamm",
+					"",
+					"• Programmed, Produced & Mixed by LibriJamm",
+					"• Mastering Engineer: R-Man (Resonant Union)",
+					"",
+					"• Original Track: Necrofantasia [ネクロファンタジア]",
+					"• Source: Touhou Youyoumu ~ Perfect Cherry Blossom. [東方妖々夢　～ Perfect Cherry Blossom.]",
+					"",
+					"• Used Software: FL Studio 2024",
+					"• Used VSTs & Samples: Flex, Serum - Nhato Serum Bass Essentials - LD Supersaw 01, Sytrus, Korg M1, Kontact 7 - Glaze, Vocalise 2 - Gravity Pack 04, Sylenth1, Iota_Mini2, Creepy Piano 2 Lite",
+					"",
+					"• About this track:",
+					"I toil ",
+					"in both dream and reality ",
+					"to create a paradise ",
+					"that the creature deems, acceptable ",
+					"fickle are its joys",
+					"cruel are its miseries",
+					"and yet, as the creature reaches out to me",
+					"so, do I respond",
+					"thus I have naught to blame but myself",
+					"as I dance in its palm",
+					"oblivious to the days passing",
+					"the moments missed",
+					"huddled quietly in a void of me",
+					"yet being dragged along violently by its whims",
+					"until randomly, shockingly it is satiated",
+					"content for the moment",
+					"slithering away with a pat on the back",
+					"hiding in the depths",
+					"until it wishes to call again",
+					"to build something anew",
+					"for its cursed divine scheme ",
+					"",
+					"And call again it will",
+					"for why wouldn't it",
+					"I have answered to its desires countless times",
+					"so, what's yet another",
+					"be it as a steady solider in its petty play",
+					"or a shining testimonial of its neverending game",
+					"as the creature rouses me to action",
+					"so to will I look it in the eyes",
+					"and meet it fairly",
+					"",
+					"But until then",
+					"I slink off to rest",
+					"content in my ability",
+					"lamenting my chains",
+					"and yearning the quiet comforts",
+					"as I pray for fruitful sleep's return.",
+					"",
+					"Context: Extra Battle Theme",
+					"BPM: 164",
+					"Key: N/A",
+					"Genre: DnB x Hardcore",
+					"",
+					"https://librijamm.bandcamp.com/"
+				]
+			},
+			"11": {
+				"title": "Retro Fantasy",
+				"artist": "LibriJamm",
+				"description": [
+					"• Original Composer: ZUN (Team Shanghai Alice)",
+					"• Arranger: LibriJamm",
+					"",
+					"• Programmed, Produced, Mixed & Mastered by LibriJamm",
+					"",
+					"• Original Track: Retrospective Kyoto [レトロスペクティブ京都]",
+					"• Source: Touhou Bunkachou ~ Shoot the Bullet. [東方文花帖　～ Shoot The Bullet.]",
+					"",
+					"• Used Software: FL Studio 2024",
+					"• Used VSTs & Samples: Flex, Serum, Sytrus, Korg M1, 4Front Piano Module, Quiet Piano by Quiet Music, Kontact 7 - Etheral Earth, Glaze, Hybrid Keys, Vocalise 2 - Gravity Pack 04, Sylenth1, Iota_Mini2, The Touhou \"Graze\" SFX and \"Item Collection\" SFX are used as percussion. The lead piano is based on Kijiriki's piano rendition of the song with minor changes made.",
+					"",
+					"• About this track: Gensokyo… May your love for it and it’s inhabitants live on in your heart and mind forever. Or at least… until you can say, that you feel completely satisfied. Thanks for Playing!",
+					"",
+					"Context: Credits Theme",
+					"BPM: 120",
+					"Key: N/A",
+					"Genre: House",
+					"",
+					"https://librijamm.bandcamp.com/"
+				]
+			}
+		}
+	],
+	"youtube_id": "F_Uq9YW3YXE",
+	"credits": {
+		"1": {
+			"role": "Arranger",
+			"id": "ArmpitMaiden"
+		},
+		"2": {
+			"role": "Arranger",
+			"id": "intelligencecasino"
+		},
+		"3": {
+			"role": "Arranger",
+			"id": "Emelia K."
+		},
+		"4": {
+			"role": "Arranger",
+			"id": "Benji Tunez"
+		},
+		"5": {
+			"role": "Arranger",
+			"id": "YOKAI"
+		},
+		"6": {
+			"role": "Arranger",
+			"id": "Comet Mystic"
+		},
+		"7": {
+			"role": "Arranger",
+			"id": "Ren"
+		},
+		"8": {
+			"role": "Arranger",
+			"id": "Scramel"
+		},
+		"9": {
+			"role": "Arranger",
+			"id": "Damare"
+		},
+		"10": {
+			"role": "Arranger",
+			"id": "KoDyMaxx"
+		},
+		"11": {
+			"role": "Arranger",
+			"id": "Princess Sylvysprit"
+		},
+		"12": {
+			"role": "Arranger",
+			"id": "Saroth"
+		},
+		"13": {
+			"role": "Arranger",
+			"id": "Tee-vee"
+		},
+		"14": {
+			"role": "Arranger",
+			"id": "Yuutou"
+		},
+		"15": {
+			"role": "Arranger",
+			"id": "LibriJamm"
+		},
+		"16": {
+			"role": "Original Composer",
+			"id": "ZUN"
+		},
+		"17": {
+			"role": "Original Composer",
+			"id": "U2 Akiyama"
+		},
+		"18": {
+			"role": "Mastering Engineer",
+			"id": "R-Man"
+		},
+		"19": {
+			"role": "Illustration, Logo Design",
+			"id": "NobiMana"
+		},
+		"20": {
+			"role": "Crossfade Video",
+			"id": "RummySM"
+		},
+		"21": {
+			"role": "Sound Director, Supervisor & Planner",
+			"id": "Fivda"
+		},
+		"22": {
+			"role": "Japanese Translator",
+			"id": "Yanis"
+		},
+		"23": {
+			"role": "Web",
+			"id": "Bonnie"
+		},
+		"24": {
+			"role": "Web",
+			"id": "VIIweights"
+		}
+	},
+	"footer": "All original compositions and characters respective of ZUN (Team Shanghai Alice) & U2 Akiyama (Twilight Frontier). 東方Project © 上海アリス幻樂団 © 黄昏フロンティア"
+}
