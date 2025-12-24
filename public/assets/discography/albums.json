@@ -364,15 +364,15 @@
 		"website": "/releases/eclectic-resonance-uprising-3",
 		"vgmdb": "https://vgmdb.net/album/145979"
 	},
-	"touhou-fractured-transience": {
-		"id": "KSDL-0021",
-		"releaseDate": "2025-11-29",
-		"name": "Touhou Fractured Transience Original Soundtrack",
-		"cover": "/assets/discography/covers/0021.png",
-		"coverColor": "#616294",
-		"bandcamp": "https://kodamasounds.bandcamp.com/album/touhou-fractured-transience-original-soundtrack",
-		"booth": "https://kodamasoft.booth.pm/items/7525876",
-		"website": "/releases/touhou-fractured-transience",
-		"vgmdb": "https://vgmdb.net/album/148598"
+	"yggdrasil": {
+		"id": "KSDL-0022",
+		"releaseDate": "2025-12-31T12:00:00+0200",
+		"name": "YGGDRASIL",
+		"cover": "/assets/discography/covers/0022.png",
+		"coverColor": "#d6281b",
+		"bandcamp": "https://kodamasounds.bandcamp.com/album/yggdrasil",
+		"booth": "https://kodamasoft.booth.pm/items/7525875",
+		"website": "/releases/yggdrasil",
+		"vgmdb": "https://vgmdb.net/album/152681"
 	}
 }
