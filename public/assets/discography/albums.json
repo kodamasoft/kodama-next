@@ -325,6 +325,7 @@
 		"vgmdb": "https://vgmdb.net/album/145977",
 		"melonbooks": "https://www.melonbooks.co.jp/detail/detail.php?product_id=3207282",
 		"akibahobby": "https://shop.akbh.jp/en/products/2100000167142",
+		"bandcampPhysical": "https://kodamasounds.bandcamp.com/merch/eclectic-resonance-paradise-download-card",
 		"fullAlbum": "https://www.youtube.com/watch?v=AbphInr6PtM"
 	},
 	"legendes": {
@@ -374,6 +375,7 @@
 		"booth": "https://kodamasoft.booth.pm/items/7525875",
 		"diverse": "https://www.diverse.direct/kodamasounds/ksdl-0022/",
 		"website": "/releases/yggdrasil",
-		"vgmdb": "https://vgmdb.net/album/152681"
+		"vgmdb": "https://vgmdb.net/album/152681",
+		"bandcampPhysical": "https://kodamasounds.bandcamp.com/merch/yggdrasil-48p-download-booklet"
 	}
 }
