@@ -90,7 +90,7 @@ const projectInfos = [
 
 export default function Discography() {
 	// Page starts at 1, I know this is triggering
-	const [currentPage, setCurrentPage] = useState(1);
+	const [currentPage, setCurrentPage] = useState(2);
 	const cardsPerPage = 6;
 	const totalPages = Math.ceil(projectInfos.length / cardsPerPage);
 	const [isDesktop, setIsDesktop] = useState(false);
