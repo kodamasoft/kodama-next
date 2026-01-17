@@ -1,15 +1,9 @@
 import Head from 'next/head';
+import { useRouter } from 'next/router';
 import useTranslation from 'next-translate/useTranslation';
 
-import ReleaseHead from './release-head';
-import ReleaseDescription from './release-description';
-import ReleaseCallToAction from './release-call-to-action';
-import ReleaseTracklist from './release-tracklist';
-import ReleaseYouTubeEmbed from './release-youtube-embed';
-import ReleaseCredits from './release-credits';
-import ReleaseFooter from './release-footer';
+import { getTheme } from './themes';
 
-import { createGlobalStyle } from 'styled-components';
 import { Noto_Sans_JP } from 'next/font/google';
 
 const noto = Noto_Sans_JP({
@@ -20,19 +14,37 @@ const noto = Noto_Sans_JP({
 
 export default function ReleaseLayout({ release }) {
 	const { t } = useTranslation('release');
+	const { locale } = useRouter();
+
+	// Get theme from release or default to 'default'
+	const themeName = release.theme || 'default';
+	const theme = getTheme(themeName);
+
+	// Get theme components
+	const ReleaseHead = theme.components.ReleaseHead;
+	const ReleaseDescription = theme.components.ReleaseDescription;
+	const ReleaseCallToAction = theme.components.ReleaseCallToAction;
+	const ReleaseTracklist = theme.components.ReleaseTracklist;
+	const ReleaseYouTubeEmbed = theme.components.ReleaseYouTubeEmbed;
+	const ReleaseCredits = theme.components.ReleaseCredits;
+	const ReleaseFooter = theme.components.ReleaseFooter;
+
+	// Handle localized title with fallback
+	const getLocalizedTitle = (title) => {
+		if (typeof title === 'object' && title !== null) {
+			return (
+				title[locale] || title.en || title.jp || Object.values(title)[0]
+			);
+		}
+		return title;
+	};
 	const backgroundColor =
 		release.background && release.background.color
 			? release.background.color
 			: '232426';
-	const GlobalStyles = createGlobalStyle`
-    :root {
-        --release-color: #${release.color};
-        --background-color: #${backgroundColor};
-    }`;
 
 	return (
 		<>
-			<GlobalStyles />
 			<Head>
 				<link rel="shortcut icon" href="/favicons/favicon.ico" />
 				<link
@@ -52,10 +64,14 @@ export default function ReleaseLayout({ release }) {
 					sizes="16x16"
 					href="/favicons/favicon-16x16.png"
 				/>
-				<title>{release.title + ' - KodamaSounds'}</title>
+				<title>
+					{getLocalizedTitle(release.title) + ' - KodamaSounds'}
+				</title>
 				<meta
 					property="og:title"
-					content={release.title + ' - KodamaSounds'}
+					content={
+						getLocalizedTitle(release.title) + ' - KodamaSounds'
+					}
 				/>
 				<meta name="theme-color" content={'#' + release.color} />
 				<meta property="og:image" content={release.cover} />
@@ -64,13 +80,27 @@ export default function ReleaseLayout({ release }) {
 					content={t(release.slug + '.desc')}
 				/>
 				<meta property="og:type" content="website" />
+				<style
+					dangerouslySetInnerHTML={{
+						__html: `
+						:root {
+							--release-color: #${release.color};
+							--background-color: #${backgroundColor};
+						}
+					`,
+					}}
+				/>
 			</Head>
 			<div
 				className={`${noto.variable} font-release min-h-screen pb-1 bg-cover bg-center`}
 				style={{
-					color: `#${release.background?.text_color || 'white'}`,
+					color: `#${release.background?.text_color || 'ffffff'}`,
 					backgroundColor: `#${backgroundColor}`,
-					backgroundImage: `url(${release.background?.image || 'none'})`,
+					backgroundImage: release.background?.image
+						? `url(${release.background.image})`
+						: 'none',
+					backgroundAttachment:
+						release.background?.image_attachment || 'scroll',
 				}}
 			>
 				<ReleaseHead

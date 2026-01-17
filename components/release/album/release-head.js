@@ -1,4 +1,5 @@
 import Image from 'next/image';
+import { useRouter } from 'next/router';
 import useTranslation from 'next-translate/useTranslation';
 import ReleaseNav from './release-nav';
 
@@ -11,6 +12,17 @@ export default function ReleaseHead({
 	color,
 }) {
 	const { t } = useTranslation('release');
+	const { locale } = useRouter();
+
+	// Handle localized title with fallback
+	const getLocalizedTitle = (title) => {
+		if (typeof title === 'object' && title !== null) {
+			return (
+				title[locale] || title.en || title.jp || Object.values(title)[0]
+			);
+		}
+		return title;
+	};
 
 	return (
 		<>
@@ -21,9 +33,10 @@ export default function ReleaseHead({
 							<div className="absolute w-full h-full mask-b-from-80%">
 								{header.image && (
 									<Image
-										alt={title}
+										alt={getLocalizedTitle(title)}
 										src={header.image}
 										fill={true}
+										priority={true}
 										quality={90}
 										className={`z-2 object-cover blur-[${header.blur ?? 25}px] brightness-[${header.brightness ?? 0.5}] scale-110`}
 									/>
@@ -52,6 +65,7 @@ export default function ReleaseHead({
 									height="340"
 									width="1000"
 									alt="Logo"
+									priority={true}
 									className="object-contain object-center p-6 md:relative -top-14 w-[1000px] h-[500px] max-w-full mx-auto drop-shadow-[0_0_5px_rgba(0,0,0,0.75)]"
 									quality={100}
 								/>
@@ -67,6 +81,7 @@ export default function ReleaseHead({
 								height="340"
 								width="1000"
 								alt="Logo"
+								priority={true}
 								className="object-contain object-center p-6 md:relative -top-14 w-[1000px] h-[500px] max-w-full mx-auto"
 								quality={100}
 							/>

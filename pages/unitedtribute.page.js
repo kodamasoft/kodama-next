@@ -11,6 +11,7 @@ import PortalPagination from '../components/namco70th/portal/pagination';
 import PortalEntrance from '../components/namco70th/portal/entrance';
 import KTMLogo from '/public/assets/namco70th/katamari/ktm-logo.webp';
 import SoraLogo from '/public/assets/namco70th/sorasuite/sora-logo.png';
+import SSLogo from '/public/assets/namco70th/speedstars/ss-logo.png';
 import StarlitLogo from '/public/assets/namco70th/starlit/starlit-logo.png';
 
 const projectInfos = [
@@ -25,7 +26,7 @@ const projectInfos = [
 	{
 		name: 'Game Sound Collage',
 		image: GSCLogo,
-		presentedBy: 'PxTunes',
+		presentedBy: 'Pxtunes',
 		releasedAt: '2025.06.01',
 
 		href: '/unitedtribute/gamesoundcollage',
@@ -56,6 +57,14 @@ const projectInfos = [
 		isDisabled: false,
 	},
 	{
+		name: 'SpeedSTARS -a Ridge Racer tribute album-',
+		image: SSLogo,
+		presentedBy: 'COUNTERFEST RECORDS',
+		releasedAt: '2025.09.01',
+		href: 'https://counterfest.kodamasoft.net/releases/speedstars',
+		isDisabled: false,
+	},
+	{
 		name: 'Starlit Reverie',
 		image: StarlitLogo,
 		releasedAt: '2025.12.29',
@@ -66,21 +75,14 @@ const projectInfos = [
 	{
 		name: '?????????',
 		image: '',
-		presentedBy: 'Team Name',
+		presentedBy: '?????????',
 		href: '/unitedtribute/almightysoundexpress',
 		isDisabled: true,
 	},
 	{
 		name: '?????????',
 		image: '',
-		presentedBy: 'Team Name',
-		href: '/unitedtribute/almightysoundexpress',
-		isDisabled: true,
-	},
-	{
-		name: '?????????',
-		image: '',
-		presentedBy: 'Team Name',
+		presentedBy: '?????????',
 		href: '/unitedtribute/almightysoundexpress',
 		isDisabled: true,
 	},

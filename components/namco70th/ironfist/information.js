@@ -5,11 +5,11 @@ import { Calendar, User } from 'lucide-react';
 
 const linkData = [
 	{
-		href: 'https://almightyarrangeproject.bandcamp.com/album/almighty-sound-express',
+		href: 'https://technomarina.bandcamp.com/album/tekken-the-iron-fist-tributes',
 		title: 'Bandcamp',
 	},
 	{
-		href: 'https://www.youtube.com/watch?v=j1KoamGQUiE',
+		href: 'https://www.youtube.com/watch?v=SxU3XO5Dwhg',
 		title: 'YouTube',
 	},
 ];

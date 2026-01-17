@@ -39,7 +39,7 @@
 		"remark": "14.0.2",
 		"remark-html": "15.0.1",
 		"sass": "^1.50.0",
-		"styled-components": "^5.3.5",
+		"sharp": "^0.34.3",
 		"styled-jsx": "^5.0.2"
 	},
 	"devDependencies": {

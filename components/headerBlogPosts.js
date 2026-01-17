@@ -23,28 +23,35 @@ export default function Header({ slug, twinSlug }) {
 		// { href: '/blog', label: 'Blog' }
 	];
 
-	let canDisplayBanner =
-		new Date().getMonth() <= 3 && new Date().getFullYear() === 2024;
+	// Show M3-2025 banner until October 27, 2025
+	const bannerEndDate = new Date('2025-10-27');
+	const canDisplayM3Banner = new Date() <= bannerEndDate;
 
 	return (
 		<header className="relative w-full h-auto text-white text-center flex flex-col select-none bg-[url('/assets/big_01_space_g.png')] bg-center bg-cover">
-			{canDisplayBanner && (
+			{canDisplayM3Banner && (
 				<Link
-					className="bg-purple-900 text-white p-2"
-					href="/posts/kodamadirect-2024"
+					className="bg-violet-600 text-white p-3 text-center block"
+					href={
+						lang === 'jp'
+							? '/jp/posts/kodamanews-aug25-jp'
+							: '/posts/kodamanews-aug25'
+					}
 				>
-					<p className="text-sm">
-						{t('common:kodamadirect2024_banner')}
+					<p className="text-sm whitespace-nowrap">
+						{t('common:m3_2025_fall_banner')}
 					</p>
 					<button
-						id="close"
-						className="absolute top-0 right-0 p-2 text-white"
+						id="close-m3"
+						className="absolute top-0 right-0 p-2 text-white hover:bg-violet-700"
 						onClick={() =>
 							(document.getElementById(
-								'close'
+								'close-m3'
 							).parentElement.style.display = 'none')
 						}
-					/>
+					>
+						×
+					</button>
 				</Link>
 			)}
 

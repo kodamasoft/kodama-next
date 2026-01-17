@@ -3,32 +3,18 @@
 		"cat_slug": "eclectic-resonance",
 		"projects": [
 			{
-				"slug": "eclectic-resonance-uprising-3",
+				"slug": "eclectic-resonance-tremor",
 				"status": "accepting",
-				"percentage": "70",
-				"duration": "1:01:38",
-				"finished_tracks": "14",
-				"deadline": "2025-09-13T23:59:59Z",
+				"percentage": "0",
+				"duration": "00:00",
+				"deadline": "2026-08-31T23:59:59Z",
+				"finished_tracks": "0",
 				"mastering": {
 					"status": "pending",
-					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"
-				},
-				"artwork_comission": "completed",
-				"color": "#6cc3b9"
-			},
-      {
-				"slug": "eclectic-resonance-memories-2",
-				"status": "accepting",
-				"percentage": "70",
-				"duration": "37:58",
-				"finished_tracks": "11",
-				"deadline": "2025-09-13T23:59:59Z",
-				"mastering": {
-					"status": "pending",
-					"engineer": "sdhizumi"
+					"engineer": "Volumetrique (KodamaSounds)"
 				},
 				"artwork_comission": "pending",
-				"color": "#f9c74f"
+				"color": "#9f1239"
 			},
 			{
 				"slug": "eclectic-resonance-detuned-alloy-2",
@@ -44,7 +30,7 @@
 				"artwork_comission": "pending",
 				"color": "#9f1239"
 			},
-      {
+{
 				"slug": "eclectic-resonance-hollow-horizons-2",
 				"status": "accepting",
 				"percentage": "0",
@@ -85,7 +71,7 @@
 			},
 			{
 				"slug": "eclectic-resonance-paradise",
-				"status": "about-to-release",
+				"status": "released",
 				"percentage": "100",
 				"duration": "58:48",
 				"finished_tracks": "16",
@@ -95,6 +81,34 @@
 				},
 				"artwork_comission": "completed",
 				"color": "#dbb458"
+			},
+			{
+				"slug": "eclectic-resonance-uprising-3",
+				"status": "released",
+				"percentage": "100",
+				"duration": "2:01:47",
+				"finished_tracks": "30",
+				"deadline": "2025-09-13T23:59:59Z",
+				"mastering": {
+					"status": "pending",
+					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"
+				},
+				"artwork_comission": "completed",
+				"color": "#6cc3b9"
+			},
+      {
+				"slug": "eclectic-resonance-memories-2",
+				"status": "released",
+				"percentage": "100",
+				"duration": "1:30:17",
+				"finished_tracks": "27",
+				"deadline": "2025-09-13T23:59:59Z",
+				"mastering": {
+					"status": "pending",
+					"engineer": "sdhizumi"
+				},
+				"artwork_comission": "completed",
+				"color": "#f9c74f"
 			}
 		]
 	},

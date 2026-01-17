@@ -1,6 +1,6 @@
 import cn from '../../../lib/cn';
 import Image from 'next/image';
-import Jacket from '../../../public/assets/namco70th/almightysoundexpress/jacket.png';
+import Jacket from '../../../public/assets/namco70th/almightysoundexpress/jacket.jpg';
 
 export default function Hero({ className, ...props }) {
 	return (

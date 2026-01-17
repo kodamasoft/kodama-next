@@ -1,0 +1,982 @@
+{
+	"slug": "eclectic-resonance-uprising-3",
+	"logo": "/assets/discography/logos/CD0003-4.png",
+	"color": "d6281b",
+	"soundcloud_track_id": "2184480579",
+	"cover": "/assets/discography/covers/CD0003-4.png",
+	"header": {
+		"image": "/assets/discography/headers/CD0003-4.png",
+		"video": "/assets/discography/headers/CD0003-4.mp4"
+	},
+	"background": {
+		"color": "2c0d0d"
+	},
+	"title": "ECLECTIC RESONANCE UPRISING 3",
+	"circle": {
+		"name": "KodamaSounds",
+		"link": "/"
+	},
+	"specification": "2xCD Original Hardcore Compilation",
+	"release_date": "Oct 26, 2025 (M3-2025 Fall) [M3-2025秋]",
+	"booth": {
+		"name": "Rolling Bassline / コ-34a & Four Corners / P-17b"
+	},
+	"catalog": "KSCD-0003~4",
+	"price": "Pre-Order & Event Price: 15€ / 2500 yen | Digital Price: 17€ / 3000 yen | Shop Price: 3250 yen",
+	"store": {
+		"bandcamp": {
+			"name": "Bandcamp",
+			"link": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-uprising-3"
+		},
+		"booth": {
+			"name": "BOOTH",
+			"link": "https://kodamasoft.booth.pm/items/7448201"
+		},
+		"diverse": {
+			"name": "Diverse Direct",
+			"link": "https://www.diverse.direct/kodamasounds/kscd-0003-4/"
+		}
+	},
+	"tracklist": [
+		{
+			"_isMultiDisc": true,
+			"_discNames": ["DISC1: DEVOTION", "DISC2: MALICE"]
+		},
+		{
+			"01": {
+				"title": "Agility",
+				"artist": "Renpul",
+				"description": [
+					"• Composer & Arranger: Renpul",
+					"",
+					"• Programmed, Produced, Mixed & Mastered by Renpul",
+					"• Additional Mastering: Ceiling Adjustment",
+					"",
+					"• Used Software: Ableton Live 11",
+					"• Used VSTs & Samples: Current, Serum, KYMOGRAPH",
+					"",		
+					"• About this track: I wanted to create a song with an intense rhythm reminiscent of a battle theme. Therefore, i used a relatively high BPM as well as halftempo, while including midtempo cyberpunk elements. [戦闘イメージの曲ということで、早めのBPMでハーフテンポを採用し、CyberpunkなMidtempoの要素も追加して俊敏性を演出しました。]",
+					"",
+					"BPM: 180",
+					"Time Signature: 4/4",
+					"Key: Fm",
+					"Genre: Ultrafunk",
+					"",
+					"https://flatfield-aaa.bandcamp.com/"
+				]
+			},
+			"02": {
+				"title": "Redemption",
+				"artist": "trailmix37",
+				"description": [
+					"• Composer & Arranger: trailmix37 (KodamaSounds)",
+					"",
+					"• Programmed, Produced, Mixed & Mastered by trailmix37 (KodamaSounds)",
+					"• Additional Mastering: Ceiling Adjustment",
+					"",
+					"BPM: 200",
+					"Time Signature: 4/4",
+					"Key: G minor",
+					"Genre: Hard Renaissance",
+					"",
+					"https://x.com/trailmix37"
+				]
+			},
+			"03": {
+				"title": "Unphased",
+				"artist": "yeowool vs yusi.",
+				"description": [
+					"• Composer & Arranger: yeowool, yusi.",
+					"",
+					"• Programmed, Produced & Mixed by yeowool, yusi.",
+					"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+					"",
+					"• Used Software: FL Studio 2025, Ableton Live 12",
+					"",
+					"• About this track:",
+					"yusi.: My first techcore track with yeowool, inspired by the three-phase boss battle commonly found in video games. The each three drops portray course of challenge - struggle - breakthrough (i think)",
+					"",
+					"BPM: 178",
+					"Time Signature: 4/4",
+					"Key: C minor",
+					"Genre: Techcore",
+					"",
+					"https://yeowool.bandcamp.com/",
+					"https://yyuussii.bandcamp.com/"
+				]
+			},
+			"04": {
+				"title": "4LL N!GHT",
+				"artist": "Exteria",
+				"description": [
+					"• Composer & Arranger: Exteria (The Cynphetic Collective)",
+					"",
+					"• Programmed, Produced, Mixed & Mastered by Exteria (The Cynphetic Collective)",
+					"• Additional Mastering: Ceiling Adjustment",
+					"",
+					"• Used Software: FL Studio 2025",
+					"",
+					"• About this track: There is no story really, just a rave'y track.",
+					"",
+					"BPM: 160 (0:00~0:38), increase (0:39~0:50), 180 (0:50~2:26, 2:37~end), 175>180 (2:26~2:37)",
+					"Time Signature: 4/4",
+					"Key: A minor",
+					"Genre: Hardpsy/Hardstyle/Frenchcore/Uptempo",
+					"",
+					"https://exteria.bandcamp.com"
+				]
+			},
+			"05": {
+				"title": "Spy",
+				"artist": "Hexacube",
+				"description": [
+					"• Composer & Arranger: Hexacube",
+					"",
+					"• Programmed, Produced & Mixed by Hexacube",
+					"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+					"",
+					"• Used Software: FL Studio",
+					"",
+					"BPM: 170",
+					"Time Signature: 4/4",
+					"Key: D#m",
+					"Genre: Techcore",
+					"",
+					"https://hexacube.bandcamp.com/"
+				]
+			},
+			"06": {
+				"title": "KAWAII-CORE",
+				"artist": "R O C K Y",
+				"description": [
+					"• Composer & Arranger: Rakim Garland",
+					"",
+					"• Programmed, Produced, Mixed & Mastered by Rakim Garland",
+					"• Additional Mastering: Ceiling Adjustment",
+					"",
+					"• Used Software: Ableton Live 10 Suite",
+					"• Used VSTs & Samples: Serum, Kick 2, Camel Crush",
+					"",
+					"• About this track: In a world where only the cuteness strives, there's nothing left but to be kawaii :3",
+					"",
+					"BPM: 195",
+					"Key: F# Minor/A Major",
+					"Time Signature: 4/4",
+					"Genre: KAWAII-CORE",
+					"",
+					"https://rockymusicghost.bandcamp.com"
+				]
+			},
+			"07": {
+				"title": "In My Heart",
+				"artist": "Oacke",
+				"description": [
+					"• Composer & Arranger: Baptiste \"Oacke\" Simon",
+					"",
+					"• Programmed, Produced, Mixed & Mastered by Baptiste \"Oacke\" Simon",
+					"• Additional Mastering: Ceiling Adjustment",
+					"",
+					"• Used Software: FL Studio",
+					"• Used VSTs & Samples: AUVM10_Acapella3_Full_Wet_125_Bm.wav on Splice (vocals)",
+					"",
+					"• About this track: Happy Hardcore is the genre that got me into electronic music by listening to artists like S3RL or Darren Styles. If my main genre under my main project is usually drum & bass, I wanted to go back to my \"roots\" with a new alias, Oacke. \"In My Heart\" is one of the debut releases, highly influenced by mid-2000s Happy and UK Hardcore, with a joyful melody and powerful synths.",
+					"",
+					"BPM: 173",
+					"Time Signature: 4/4",
+					"Key: B minor",
+					"Genre: Happy Hardcore",
+					"",
+					"https://x.com/audeondnb"
+				]
+			},
+			"08": {
+				"title": "Crush!",
+				"artist": ".noise",
+				"description": [
+					"• Composer & Arranger: .noise",
+					"",
+					"• Programmed, Produced, Mixed & Mastered by .noise",
+					"• Mastering Engineer: Ceiling Adjustment",
+					"",
+					"• Used Software: FL Studio",
+					"• Used VSTs & Samples: Serum, Ozone, Purple Audio 76, Lots & lots of samples!",
+					"",
+					"• About this track: Crush! A bouncy hardtek track that combines my favourite elements of hardtek and UK hardcore into one fast-paced song. Produced in mid-2023, well before my first release on KodamaSounds.",
+					"",
+					"BPM: 190",
+					"Time Signature: 4/4",
+					"Key: F# Minor",
+					"Genre: Hardtek",
+					"",
+					"https://x.com/dot_noise"
+
+				]
+			},
+			"09": {
+				"title": "Isekai'd Villainess",
+				"artist": "Dr.ReB",
+				"description": [
+					"• Composer & Arranger: Dr.ReB",
+					"",
+					"• Programmed, Produced & Mixed by Dr.ReB",
+					"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+					"",
+					"• About this track: for all villainesses(akuyaku-reijou) fighting against their fate...",
+					"",
+					"BPM: 150",
+					"Time Signature: 4/4",
+					"Key: C minor",
+					"Genre: Psytrance Fusion",
+					"",
+					"https://twitter.com/dr_reb_official"
+				]
+			},
+			"10": {
+				"title": "Impulse",
+				"artist": "utzbo",
+				"description": [
+					"• Composer & Arranger: utzbo",
+					"",
+					"• Programmed, Produced & Mixed by utzbo",
+					"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+					"",
+					"• Used Software: Bitwig Studio5",
+					"",
+					"• About this track: Because the theme was adversity, I created a song which would make everyone get fired up. [テーマがVSとのことなので、アツく盛り上がれるような楽曲を制作しました。]",
+					"",
+					"BPM: 185",
+					"Time Signature: 4/4",
+					"Key: F#m",
+					"Genre: Hardcore",
+					"",
+					"https://utzbo.bandcamp.com/"
+				]
+			},
+			"11": {
+				"title": "Kawaii Yourself",
+				"artist": "Nuchuu",
+				"description": [
+					"• Composer & Arranger: Nuchuu",
+					"",
+					"• Programmed, Produced & Mixed by Nuchuu",
+					"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+					"",
+					"• Used Software: Ableton",
+					"• Used VSTs & Samples: Text to Speech",
+					"",
+					"• About this track: This track, coincidentally beginning production on world suicide prevention day, is about investing in yourself as a means of fighting suicidal thoughts. It subverts the meaning of the phrase \"kys\", and uses the theming of kawaii, like a magical girl transition, to instead tell you to \"become the one you were \"meant to be\", and that you are \"absolutely deserving of love\". The tone of the track resembles mania and conflict, the kind of feelings relevant when needing reassurance and direction to focus back on your values. Every positive upbeat message is paired with harsh bass and drums, conflicting sounds, sudden transitions in tone. Kawaii Yourself (verb) - Become the one you were always meant to be.",
+					"",
+					"• Lyrics:",
+					"K, Y, S, Yes",
+					"K, Y, S, Yes",
+					"K, Y, S, Yes",
+					"Kawaii Yourself",
+					"",
+					"Become the one you were always meant to be",
+					"I see the spark adrift within you.",
+					"",
+					"Fortunately, I can show you myself.",
+					"",
+					"K-",
+					"Y-",
+					"S-",
+					"Yes-",
+					"",
+					"K-",
+					"Y-",
+					"S-",
+					"Yes-",
+					"",
+					"kys, yes",
+					"kawaii yourself, yes",
+					"kys, yes",
+					"kawaii yourself, yes",
+					"",
+					"kawaii yourself, yes",
+					"kawaii yourself, yes",
+					"",
+					"kys, yes",
+					"kawaii yourself, yes",
+					"kys, yes",
+					"kawaii yourself, yes",
+					"",
+					"kawaii yourself, yes",
+					"kawaii yourself, ye-",
+					"",
+					"become, become, become",
+					"the one, the one, the one",
+					"you were always, you were always",
+					"meant to be, me-meant to be",
+					"",
+					"I see, I see, I see",
+					"the spark, the spark, the spark",
+					"you were always, you were always",
+					"meant to be, me-meant to be",
+					"",
+					"kys, yes",
+					"kys, yes",
+					"become, become, the one, the one",
+					"you were always meant to be",
+					"",
+					"kys, yes",
+					"kys, yes",
+					"become, become, the one, the one",
+					"you were always meant to be",
+					"",
+					"K-",
+					"Y-",
+					"S-",
+					"Yes-",
+					"",
+					"K-",
+					"Y-",
+					"S-",
+					"Yes-",
+					"",
+					"kys, yes",
+					"kawaii yourself, yes",
+					"kys, yes",
+					"kawaii yourself, yes",
+					"",
+					"kawaii yourself, yes",
+					"kawaii yourself, yes",
+					"",
+					"kys, yes",
+					"kawaii yourself, yes",
+					"kys, yes",
+					"kawaii yourself, yes",
+					"",
+					"kawaii yourself, yes",
+					"kawaii yourself, ye-",
+					"",
+					"I know you worry sometimes",
+					"about whether you're broken inside",
+					"I can't tell you you're not",
+					"But I do know you are",
+					"Absolutely deserving of love",
+					"",
+					"become, become, become",
+					"the one, the one, the one",
+					"you were always, you were always",
+					"meant to be, me-meant to be",
+					"",
+					"I see, I see, I see",
+					"the spark, the spark, the spark",
+					"you were always, you were always",
+					"meant to be, me-meant to be",
+					"",
+					"kys, yes",
+					"kawaii yourself, yes",
+					"kys, yes",
+					"kawaii yourself, yes",
+					"",
+					"kawaii yourself, yes",
+					"kawaii yourself, yes",
+					"",
+					"kys, yes",
+					"kawaii yourself, yes",
+					"kys, yes",
+					"kawaii yourself, yes",
+					"",
+					"kawaii yourself, yes",
+					"kawaii, kawaii, kawaii, kawaii, kawaii, kawaii",
+					"ka-wa-ii your-self",
+					"",
+					"",
+					"BPM: 180",
+					"Time Signature: 4/4",
+					"Key: F Major",
+					"Genre: Hardcore",
+					"",
+					"https://nuchuu.bandcamp.com/"
+				]
+			},
+			"12": {
+				"title": "PRESS RESTART",
+				"artist": "Casio Lamb",
+				"description": [
+					"• Composer & Arranger: Casio Lamb (KodamaSounds)",
+					"",
+					"• Programmed, Produced & Mixed by Casio Lamb (KodamaSounds)",
+					"• Mastering Engineer: Clipping, Limiting, Sustrative EQ",
+					"",
+					"• Used Software: Ableton Live 12 Suite",
+					"• Used VSTs & Samples: \"Ethereal Vocals\" (Sample Tools by CR2)",
+					"",
+					"• About this track: PRESS RESTART is my first step into tech genres. MEGAREX has consistently put out works that I greatly admire and cherish, with FUGENE and Techcore Evangelix being some of my favourites -- so I thought I'd give it a shot! While I don't believe it meets the same standards, I am proud of how it turned out and hope others are too. During production I chose to do it all by ear, I had heard many lapix, Mameyudoufu, PSYQUI, and Srav3R tracks over and over again and used them as inspiration. Towards the end I got inspired to add a little bit of artcore/breaks because I found myself listening to a lot of Mili over the week, too.",
+					"",
+					"BPM: 187BPM (0:00 - 1:12) 180BPM (1:12 - 1:54) 187BPM (1:54 - 3:20)",
+					"Key: D Minor",
+					"Time Signature: 4/4",
+					"Genre: Techcore // Artcore",
+					"",
+					"https://x.com/LambLifeform"
+				]
+			},
+			"13": {
+				"title": "The Fear of Total Nothingness",
+				"artist": "Yozu C",
+				"description": [
+					"• Composer & Arranger: Sandi Setiawan",
+					"",
+					"• Programmed, Produced, Mixed & Mastered by Sandi Setiawan",
+					"• Additional Mastering: Ceiling Adjustment",
+					"",
+					"• Used Software: Ableton Live 11",
+					"• Used VSTs & Samples: Xfer Serum",
+					"",
+					"• About this track: Inspired by one of Nhato's EP. The pounding rhythm creates a gripping and adrenaline-pumping atmosphere. The title itself was inspired by an empty coffee cup and the coffee stock was out while I still finishing my song.",
+					"",
+					"BPM: 140 (0:00~3:03) - 160 (3:15~5:22)",
+					"Key: G minor",
+					"Time Signature: 4/4",
+					"Genre: Trance Hardcore",
+					"",
+					"https://yozushitunes.bandcamp.com/"
+
+				]
+			},
+			"14": {
+				"title": "Otherness Entire",
+				"artist": "GOETIΛ",
+				"description": [
+					"• Composer & Arranger: GOETIΛ (Sigillum Azoetia)",
+					"",
+					"• Programmed, Produced, Mixed & Mastered by GOETIΛ (Sigillum Azoetia)",
+					"• Additional Mastering: Ceiling Adjustment",
+					"",
+					"BPM: 200",
+					"Time Signature: 4/4",
+					"Key: D# Min",
+					"Genre: N/A",
+					"",
+					"https://arsgoetia1.bandcamp.com/"
+				]
+			},
+			"15": {
+				"title": "goldendenominator",
+				"artist": "Aethral",
+				"description": [
+					"• Composer & Arranger: Aethral",
+					"",
+					"• Programmed, Produced, Mixed & Mastered by Aethral",
+					"• Additional Mastering: Ceiling Adjustment",
+					"",
+					"• Used Software: FL Studio 2025",
+					"• Used VSTs & Samples: Aethral Sample Packs, Serum, Kontakt",
+					"",
+					"• About this track: umineko inspired track with a modern twist.",
+					"",
+					"https://aethral.bandcamp.com/music"
+				]
+			}
+		},
+		{
+			"01": {
+				"title": "FALSE FLAG",
+				"artist": "blobdash",
+				"description": [
+					"• Composer & Arranger: blobdash",
+					"",
+					"• Programmed, Produced, Mixed & Mastered by blobdash",
+					"• Additional Mastering: Ceiling Adjustment",
+					"",
+					"• Used Software: FL Studio 25",
+					"• Used VSTs & Samples: Serum, Infiltrator, Omnisphere",
+					"",
+					"BPM: 190",
+					"Time Signature: 4/4",
+					"Key: C#m",
+					"Genre: Frenchcore",
+					"",
+					"https://blobdash.bandcamp.com/"
+				]
+			},
+			"02": {
+				"title": "Sandevistan",
+				"artist": "Mothtek & Supire",
+				"description": [
+					"• Composer & Arranger: Mothtek, Supire (NH)",
+					"",
+					"• Programmed, Produced & Mixed by Mothtek, Supire (NH)",
+					"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+					"",
+					"BPM: 174",
+					"Time Signature: 4/4",
+					"Key: F minor",
+					"Genre: Drum & Bass",
+					"",
+					"https://nhspire.bandcamp.com/"
+				]
+			},
+			"03": {
+				"title": "REBORN 2X97",
+				"artist": "Mitomoro",
+				"description": [
+					"• Composer & Arranger: Mitomoro (Attack The Music)",
+					"",
+					"• Programmed, Produced, Mixed & Mastered by Mitomoro (Attack The Music)",
+					"• Additional Mastering: Ceiling Adjustment",
+					"",
+					"BPM: 170",
+					"Time Signature: 4/4",
+					"Key: N/A",
+					"Genre: N/A",
+					"",
+					"https://open.spotify.com/artist/3T4C9VQCeR73EPdY1cslYN"
+				]
+			},
+			"04": {
+				"title": "dauntless",
+				"artist": "Monochrome",
+				"description": [
+					"• Composer & Arranger: Monochrome",
+					"",
+					"• Programmed, Produced & Mixed by Monochrome",
+					"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+					"",
+					"• About this track: This track has existed in some form or another for two years now. I first produced it in 2023, when I was just beginning to cut my teeth on the trance genre. I was looking to submit it to hypertrance, but something stopped me from doing so. Then, earlier this year, I revisited the project for ECLECTIC RESONANCE Escapism, but the song didn't fit into the overall hopeful mood of the album. Finally, as the deadline for ECLECTIC RESONANCE UPRISING 3 drew near, I gave the track one last shot, and third time was the charm. Though the project file itself wasn't the easiest to work with, my ideas from 2 years ago were surprisingly still compelling to me - I think it builds a great spaciousness, and the arps and gated chords sound divine. I'm happy to release this track at last.",
+					"",
+					"BPM: 160",
+					"Time Signature: 4/4",
+					"Key: 4/4",
+					"Genre: Hard Trance",
+					"",
+					"https://monochromemedia.bandcamp.com/"
+				]
+			},
+			"05": {
+				"title": "The Headliner",
+				"artist": "vervid! as Hybrid Anomaly",
+				"description": [
+					"• Composer & Arranger: vervid!",
+					"",
+					"• Programmed, Produced, Mixed & Mastered by vervid!",
+					"• Mastering Engineer: Ceiling Adjustment",
+					"",
+					"• Used Software: FL Studio 2024",
+					"",
+					"• About this track: hi again. it's vervid. this song has been in the works for as long as i can remember, and i'm so happy that i managed to get it done. for this song, i go under the alias \"Hybrid Anomaly\", which are reserved for more heavier, non-breakcore genres and styles - such as this track right here. \"The Headliner\" is my definition of a 'hype' song whilst also being my first genuine attempt in making UK hardcore (fused with some breakbeats here and there). hope you guys enjoy this one!",
+					"",
+					"BPM: 175",
+					"Key: E min",
+					"Time Signature: 4/4",
+					"Genre: Breakbeat Hardcore/UK Hardcore",
+					"",
+					"https://vvdxsounds.bandcamp.com"
+				]
+			},
+			"06": {
+				"title": {
+			"en": "Neblack",
+			"jp": "ネブラック"
+			},
+				"artist": {
+			"en": "LisicA vs Luze",
+			"jp": "LisicA vs ルゼ"
+			},
+				"description": [
+					"• Composer & Arranger: LisicA, Luze [ルゼ] (LuzeriA)",
+					"",
+					"• Programmed, Produced, Mixed & Mastered by LisicA, Luze [ルゼ] (LuzeriA)",
+					"• Additional Mastering: Ceiling Adjustment",
+					"",
+					"• Used Software: FL Studio 2025",
+					"• Used VSTs & Samples: VST: Sylenth1 / Vital / Massive || Samples:1200 kawaii voice!! / Splice",
+					"",
+					"• About this track:",
+					"LisicA: Black. [クローン。]",
+					"Luze [ルゼ]: Grand Universe Black Fox Techno. [大宇宙黒狐テクノです。]",
+					"",
+					"BPM: 165",
+					"Time Signature: 4/4",
+					"Key: D",
+					"Genre: TECHNO PHOBIA",
+					"",
+					"https://luzeria.bandcamp.com/"
+				]
+			},
+			"07": {
+				"title": "White Carnation",
+				"artist": "Ko-Shan",
+				"description": [
+					"• Composer & Arranger: Ko-Shan",
+					"",
+					"• Programmed, Produced, Mixed & Mastered by Ko-Shan",
+					"• Additional Mastering: Ceiling Adjustment",
+					"",
+					"BPM: 200",
+					"Time Signature: 4/4",
+					"Key: F#(m)",
+					"Genre: Euphoric Frenchcore",
+					"",
+					"https://koshanhardcore.bandcamp.com/"
+				]
+			},
+			"08": {
+				"title": "FALL FOR U",
+				"artist": "Xeudo Code",
+				"description": [
+					"• Composer & Arranger: Xeudo Code",
+					"",
+					"• Programmed, Produced & Mixed by Xeudo Code",
+					"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+					"",
+					"• Used Software: FL Studio",
+					"• Used VSTs & Samples: Serum 2 is love, Serum 2 is life <3",
+					"",
+					"BPM: 160",
+					"Time Signature: 4/4",
+					"Key: For the Original, DJ edit : C#m (0:00 ~ 2:57) - F# (2:57 ~ )",
+					"Genre: Hard Psy, Xtra Raw",
+					"",
+					"https://xeudocode.bandcamp.com"
+				]
+			},
+			"09": {
+				"title": "Circuit Failure",
+				"artist": "sanmal",
+				"description": [
+					"• Composer & Arranger: sanmal (MYORPH)",
+					"",
+					"• Programmed, Produced, Mixed & Mastered by sanmal (MYORPH)",
+					"• Additional Mastering: Ceiling Adjustment",
+					"",
+					"• Used Software: Ableton Live",
+					"• Used VSTs & Samples: Serum2, Serum, SublabXL",
+					"",
+					"• About this track: This is a drum and bass track influenced by technoid.",
+					"",
+					"BPM: 174",
+					"Time Signature: 4/4",
+					"Key: D",
+					"Genre: Drum and Bass",
+					"",
+					"https://sanmal.bandcamp.com/"
+				]
+			},
+			"10": {
+				"title": "Obstruction",
+				"artist": "Null Specification",
+				"description": [
+					"• Composer & Arranger: Null Specification",
+					"",
+					"• Programmed, Produced, Mixed & Mastered by Null Specification",
+					"• Additional Mastering: Ceiling Adjustment",
+					"",
+					"• Used Software: FL Studio 2025",
+					"• Used VSTs & Samples: Hive1, Sytrus, Battery 4, Absynth 5, FM8, Massive, Omnisphere",
+					"",
+					"• About this track: I tried adding some Freeform Hardcore elements to 160 BPM Schranz. Also, while you occasionally find tracks with triplet grooves in Hardtechno, it’s almost unheard of in the Schranz style, so I decided to try it out this time.",
+					"",
+					"BPM: 160",
+					"Time Signature: 4/4",
+					"Key: D#m(0:00~4:48)-Em(4:48~5:59)-D#m(5:59~6:55)",
+					"Genre: Hardtechno/Schranz",
+					"",
+					"https://nullspecification.bandcamp.com"
+				]
+			},
+			"11": {
+				"title": "The Order of the End",
+				"artist": "Round Wave Crusher",
+				"description": [
+					"• Composer & Arranger: Round Wave Crusher",
+					"",
+					"• Programmed, Produced, Mixed & Mastered by Round Wave Crusher",
+					"• Additional Mastering: Ceiling Adjustment",
+					"",
+					"• Used Software: FL Studio",
+					"• Used VSTs & Samples: Serum 2",
+					"",
+					"• About this track: At first I wanted to mix some Tango with Hardtek but ended up evolving into something else.",
+					"",
+					"BPM: 200",
+					"Time Signature: 4/4",
+					"Key: A minor",
+					"Genre: Hardtek",
+					"",
+					"https://roundwavecrusher.bandcamp.com/"
+				]
+			},
+			"12": {
+				"title": "Willing To Die",
+				"artist": "DJKurara vs QURELESS",
+				"description": [
+					"• Composer & Arranger: DJKurara (KURAHLAB), QURELESS (Psycho Filth Records)",
+					"",
+					"• Programmed & Produced by DJKurara (KURAHLAB), QURELESS (Psycho Filth Records)",
+					"• Mixed by DJKurara (KURAHLAB)",
+					"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+					"",
+					"• Used Software: FL Studio",
+					"• Used VSTs: Serum, Serum 2",
+					"",
+					"• About this track: Both of them put in a strong determination to complete the project, even though they felt overwhelmed by the schedule and the enormous daily burden.",
+					"",
+					"BPM: 220",
+					"Time Signature: 4/4",
+					"Key: C# (maybe)",
+					"Genre: Frenchcore",
+					"",
+					"https://djkurara.bandcamp.com/",
+					"https://x.com/QURELESS_"
+				]
+			},
+			"13": {
+				"title": "this is NOT peak music",
+				"artist": "XH",
+				"description": [
+					"• Composer & Arranger: Xanhann Yeo",
+					"",
+					"• Programmed, Produced, Mixed & Mastered by Xanhann Yeo",
+					"• Additional Mastering: Ceiling Adjustment",
+					"",
+					"• Used Software: Logic Pro",
+					"• Used VSTs & Samples: Vital, Phase plant, Kickstart 2, OTT",
+					"",
+					"BPM: 219",
+					"Time Signature: 4/4",
+					"Key: D#min",
+					"Genre: Frenchcore / Uptempo / Speedcore",
+					"",
+					"https://xhmusic.bandcamp.com/"
+				]
+			},
+			"14": {
+				"title": "Injured",
+				"artist": "exnoiz",
+				"description": [
+					"• Composer & Arranger: exnoiz",
+					"",
+					"• Programmed, Produced & Mixed by exnoiz",
+					"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+					"",
+					"• Used Software: FL Studio",
+					"• Used VSTs & Samples: Noisia ∴ Sample Pack Vol. 3 Noise Requiem, a KAVARI moment Prototypes Records Signature Sample Pack #1 SYNC 3 Lair(EQ) etc. ",
+					"",
+					"BPM: 175(0:00~04:09)",
+					"Time Signature: 4/4",
+					"Key: N/A",
+					"Genre: hardcore",
+					"",
+					"https://x.com/ex_noiz"
+				]
+			},
+			"15": {
+				"title": "Sorrow & Demise",
+				"artist": "PSYQUO & Volumetrique",
+				"description": [
+					"• Composer & Arranger: PSYQUO, Volumetrique (KodamaSounds)",
+					"",
+					"• Programmed, Produced & Mixed by PSYQUO, Volumetrique (KodamaSounds)",
+					"• Mastering Engineer: Volumetrique (KodamaSounds)",
+					"• Additional Mastering: Ceiling Adjustment",
+					"",
+					"• Used Software: FL Studio",
+					"• Used VSTs & Samples: Brainstorm (1983) Vocal Sample",
+					"",
+					"• About this track:",
+					"PSYQUO: Hi, it's PSYQUO. This time collabing with Volumetrique, we made a Tech DnB track. For the concept I had while making parts of the track - the song reflects the many things we see in the world. This sadness and hopeless is what many of us are feeling right now. I hope these feelings come through the song. As for the collab, I originally approached Volumetrique to make a Schranz track, but after a bit of  back and forth, we decided to do DnB instead. (Schranz collab when) A big thank you to Volumetrique for making the track whole!",
+					"Volumetrique: Dan here. I've finally had the opportunity of releasing a track as Volumetrique on KodamaSounds... And it's a Tech DnB banger with feelings™, inspired by the likes of IMANU, The Caracal Project, C&K... With the massive help and gorgeous sound design skills of PSYQUO, we've cooked a snappy, tech-neurofunk-ish track. You won't find any snappier drums anywhere else at M3 ;) ( ok, maybe at Supire's :P ). I've been immensely carried by PSYQUO, who also initiated the collab and I'm deeply thankful for the opportunity, through the highs and the lows. We ended up crunching hard to finish this~! And about that Schranz collab... maybe we'll get to start it in Japan together ;;) Enjoy!!! 🙇⚡🚵",
+					"",
+					"BPM: 174",
+					"Time Signature: 4/4",
+					"Key: Abmin",
+					"Genre: Tech Drum & Bass",
+					"",
+					"https://psyquo.bandcamp.com",
+					"https://volumetrique.bandcamp.com/"
+				]
+			}
+		}
+	],
+	"youtube_id": "ms7oVen6bDA",
+	"credits": {
+		"1": {
+			"role": "Composer & Arranger",
+			"id": "Renpul"
+		},
+		"2": {
+			"role": "Composer & Arranger",
+			"id": "trailmix37"
+		},
+		"3": {
+			"role": "Composer & Arranger",
+			"id": "yeowool"
+		},
+		"4": {
+			"role": "Composer & Arranger",
+			"id": "yusi."
+		},
+		"5": {
+			"role": "Composer & Arranger",
+			"id": "Exteria"
+		},
+		"6": {
+			"role": "Composer & Arranger",
+			"id": "R O C K Y"
+		},
+		"7": {
+			"role": "Composer & Arranger",
+			"id": "Oacke"
+		},
+		"8": {
+			"role": "Composer & Arranger",
+			"id": ".noise"
+		},
+		"9": {
+			"role": "Composer & Arranger",
+			"id": "Dr.ReB"
+		},
+		"10": {
+			"role": "Composer & Arranger",
+			"id": "utzbo"
+		},
+		"11": {
+			"role": "Composer & Arranger",
+			"id": "Nuchuu"
+		},
+		"12": {
+			"role": "Composer & Arranger",
+			"id": "Casio Lamb"
+		},
+		"13": {
+			"role": "Composer & Arranger",
+			"id": "Yozu C"
+		},
+		"14": {
+			"role": "Composer & Arranger",
+			"id": "GOETIA"
+		},
+		"15": {
+			"role": "Composer & Arranger",
+			"id": "Aethral"
+		},
+		"16": {
+			"role": "Composer & Arranger",
+			"id": "blobdash"
+		},
+		"17": {
+			"role": "Composer & Arranger",
+			"id": "Mothtek"
+		},
+		"18": {
+			"role": "Composer & Arranger",
+			"id": "Supire"
+		},
+		"19": {
+			"role": "Composer & Arranger",
+			"id": "Mitomoro"
+		},
+		"20": {
+			"role": "Composer & Arranger",
+			"id": "Monochrome"
+		},
+		"21": {
+			"role": "Composer & Arranger",
+			"id": "vervid!"
+		},
+		"22": {
+			"role": "Composer & Arranger",
+			"id": "LisicA"
+		},
+		"23": {
+			"role": "Composer & Arranger",
+			"id": "Luze"
+		},
+		"24": {
+			"role": "Composer & Arranger",
+			"id": "Ko-Shan"
+		},
+		"25": {
+			"role": "Composer & Arranger",
+			"id": "Xeudo Code"
+		},
+		"26": {
+			"role": "Composer & Arranger",
+			"id": "sanmal"
+		},
+		"27": {
+			"role": "Composer & Arranger",
+			"id": "Null Specification"
+		},
+		"28": {
+			"role": "Composer & Arranger",
+			"id": "Round Wave Crusher"
+		},
+		"29": {
+			"role": "Composer & Arranger",
+			"id": "DJKurara"
+		},
+		"30": {
+			"role": "Composer & Arranger",
+			"id": "QURELESS"
+		},
+		"31": {
+			"role": "Composer & Arranger",
+			"id": "XH"
+		},
+		"32": {
+			"role": "Composer & Arranger",
+			"id": "exnoiz"
+		},
+		"33": {
+			"role": "Composer & Arranger",
+			"id": "PSYQUO"
+		},
+		"34": {
+			"role": "Composer, Arranger & Audio Crossfade",
+			"id": "Volumetrique"
+		},
+		"35": {
+			"role": "Mastering Engineer",
+			"id": "malicent"
+		},
+		"36": {
+			"role": "Illustration",
+			"id": "Ness"
+		},
+		"37": {
+			"role": "Logo Designer",
+			"id": "MelissaLiTian"
+		},
+		"38": {
+			"role": "Layout",
+			"id": "Zeth"
+		},
+		"39": {
+			"role": "Supervisor & Planner",
+			"id": "Fivda"
+		},
+		"40": {
+			"role": "Japanese Translator",
+			"id": "Yanis"
+		},
+		"41": {
+			"role": "Crossfade Video",
+			"id": "Len"
+		},
+		"42": {
+			"role": "Web",
+			"id": "Bonnie"
+		},
+		"43": {
+			"role": "Web",
+			"id": "Kat"
+		},
+		"44": {
+			"role": "Special Thanks",
+			"id": "RLZY"
+		},
+		"45": {
+			"role": "Special Thanks",
+			"id": "NForza"
+		},
+		"46": {
+			"role": "Special Thanks",
+			"id": "cal"
+		}
+	},
+	"footer": "All music and visuals owned by KodamaSounds and their respective artists"
+}

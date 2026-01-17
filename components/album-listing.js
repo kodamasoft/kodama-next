@@ -9,12 +9,24 @@ import VgmdbSVG from '../public/assets/icons/vgmdb.svg';
 import albumsJSON from '/public/assets/discography/albums.json';
 import Image from 'next/image';
 import { useState } from 'react';
+import { useRouter } from 'next/router';
 import useTranslation from 'next-translate/useTranslation';
 import DateFormatter from './date-formatter';
 
 export default function AlbumListing({ slug }) {
 	let album = {};
 	const { t } = useTranslation('common');
+	const { locale } = useRouter();
+
+	// Handle localized title with fallback
+	const getLocalizedTitle = (title) => {
+		if (typeof title === 'object' && title !== null) {
+			return (
+				title[locale] || title.en || title.jp || Object.values(title)[0]
+			);
+		}
+		return title;
+	};
 
 	// if we find an album with the key equal as the slug we are looking for, return the album
 	let keys = Object.keys(albumsJSON);
@@ -63,7 +75,7 @@ export default function AlbumListing({ slug }) {
 					>
 						<Image
 							src={album.cover}
-							alt={album.name}
+							alt={getLocalizedTitle(album.name)}
 							unoptimized
 							fill
 							style={{ objectFit: 'contain' }}
@@ -83,7 +95,9 @@ export default function AlbumListing({ slug }) {
 							</>
 						)}
 					</span>
-					<h2 className="text-2xl font-semibold">{album.name}</h2>
+					<h2 className="text-2xl font-semibold">
+						{getLocalizedTitle(album.name)}
+					</h2>
 				</div>
 
 				<div className="flex flex-wrap mt-4 gap-4">
@@ -109,7 +123,7 @@ export default function AlbumListing({ slug }) {
 
 					{album.fullAlbum ? (
 						<a
-							href={album.mv}
+							href={album.fullAlbum}
 							className="kodama_btn kodama_btn--primary"
 						>
 							<SiYoutubemusic className="h-4 w-4 mr-2" />
@@ -208,7 +222,10 @@ export default function AlbumListing({ slug }) {
 						</a>
 					) : null}
 				</div>
-				{(album.diverse || album.melonbooks || album.akibahobby) && (
+				{(album.diverse ||
+					album.melonbooks ||
+					album.akibahobby ||
+					album.bandcampPhysical) && (
 					<h3 className="text-lg font-semibold mt-4">
 						{t('common:words.physical')}
 					</h3>
@@ -221,6 +238,16 @@ export default function AlbumListing({ slug }) {
 						>
 							<FaCompactDisc className="h-4 w-4 mr-2" />
 							Diverse Direct
+						</a>
+					) : null}
+
+					{album.bandcampPhysical ? (
+						<a
+							href={album.bandcampPhysical}
+							className="kodama_btn kodama_btn--primary"
+						>
+							<FaCompactDisc className="h-4 w-4 mr-2" />
+							Bandcamp (Physical)
 						</a>
 					) : null}
 
