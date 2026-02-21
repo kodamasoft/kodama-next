@@ -9,59 +9,61 @@ twin: kodamanews-feb26
 
 # KodamaNews - February 2026
 
-## Comic Market 106
+皆さん、こんにちは！大切なお知らせがたくさんありますので、すべてをしっかりお伝えできるように、今回はブログ記事を書くことにしました。
 
-Hello people! We have some excellent news to share with you - we have confirmed the reception of all three of our planned physical releases for Comic Market 106, meaning that this is the first time KodamaSounds will be distributing our new releases physically during a doujin event! There was a lot of tears and sweat that went into making all of this happen, so we hope that anyone in Japan on August 17th could take this opportunity to come in person to the event to get our new releases! If you aren’t caught up yet, please check out the crossfades of those gorgeous albums.
+今年アルバム制作に参加を希望している作曲家の皆さんへ、現在進行中のプロジェクトを簡単にまとめます。
+
+## 2026年のKodamaSoundsの企画
+
+**Gensokyo Party Vol. 7 Moriya Barista 2** および **ECLECTIC RESONANCE Detuned Alloy 2** の締め切りは、2026年3月1日です。すでに完成に近いWIPがあってもう少し時間が必要な場合は、私（Fivda）まで個別にご相談ください。現時点では提出数がやや少ないため、例大祭／M3-春でのリリースが可能かどうかはまだ確定できません。もし難しい場合は、**今年の秋の例大祭およびM3-秋へ延期となる可能性があります**。スケジュールに変更がある場合は、参加者および過去参加者の皆さまへ必ずご連絡いたします。サークルとして期待されるクオリティを維持するための判断となりますので、ご理解いただければと存じます。
+
+**ECLECTIC RESONANCE TREMOR** は、9月1日締め切りですでに楽曲を募集しております。まだ余裕はありますが、楽曲はコンピレーションに適しているか判断するため、WIPは適切なチャンネルへ投稿してください。
+
+## M3-2026 春・秋への参加
+**M3-2026春**では、**Rolling Bassline** と合同で参加予定です！ぜひYanisに声をかけてください。DLカード版 ECLECTIC **RESONANCE Detuned Alloy**、そして予定通り進めばその続編 **ECLECTIC RESONANCE Detuned Alloy 2** を頒布する予定です。また、**Four Corners**様でも一部作品の委託頒布を予定しておりますが、新作は **KodamaSounds / Rolling Bassline（F-12a）** でのみ頒布します。ステッカーなどのグッズも用意できるかもしれません。頒布物一覧はイベント数日前にSNSでお知らせいたします。ぜひお越しください！
+
+さらに、今年の**M3-2026**秋にはVolumetriqueと共に再び来日する予定で、私自身も現地参加します！予算が許せば、記念として **TREMOR** のCD版も制作したいです。まだすいぶんブースの応募期間前ですが、進展があり次第お知らせします。
+
+## 例大祭 2026
+Four Corners様にて、**Gensokyo Party Vol. 3 Moriya Barista** のDLカード、そして可能であれば **Gensokyo Party Vol. 7 Moriya Barista 2** も入手可能となる予定です。KodamaSounds作品の具体的なラインナップやブース位置（未定）については、イベント直前に改めてお知らせいたします。
 
 
-[Phantasmal Metamorphosis / KoDyMaxx](https://www.youtube.com/watch?v=wAs0QDpotS8)
+## 2026年のCOUNTERFEST RECORDSの企画
+以下の2つの企画の締切およびリリース予定日は下記の通りです。
 
-[Lapis Lazuli / YOKAI 3rd Solo Album](https://www.youtube.com/watch?v=Xr23M-R8mAY)
+- **COUNTERFEST HEROES 01**
+締切：5月16日
+リリース予定：6月16日
 
-[ECLECTIC RESONANCE PARADISE](https://www.youtube.com/watch?v=nitPlqBdm8Y)
+- **Vanilla Parfait**
+締切：7月10日
+リリース：準備完了次第
 
+**Vanilla Parfait**については、長期間募集しているにもかかわらず、参加希望者がまだ不足しています。他のトリビュート企画へ注力するため、悔しい気持ちにはなってしまいますが提出楽曲数が少なくてもリリースする予定です。ぜひご参加ください！
 
-Although we will not be joining in person (just yet, since we will be there for M3-Fall 2025), we are privileged to have our albums distributed by our friend at [Four Corners](https://x.com/4cornersdoujin). The booth location will be at **East Hall 6 オ-24b [東ホール6 オ-24b]**, so come over if you can!
+## Moriya Barista アナログ（レコード）版
+このたび、**Phantoms Records**とのコラボレーションにより、KodamaSounds初となるアナログレコードを制作できることを大変嬉しく思います。本作は、特別なアナログマスタリングを施した限定盤で、その特徴を反映して「Moriya Barista -Analog Edition-」と名付けました。あらかじめお伝えしておきますが、本商品は非常に限定数のコレクターズアイテムとなっており、価格面や流通数の関係上、多くの方に行き渡るものではありません。それでも、この作品が本当に求めてくださる方々の手に届くことを心より願っております。なお、ヴァイナルは収録時間に物理的な制限があるため、本バージョンにはアルバム全曲は収録されていません。収録楽曲は、私とPhantoms Recordsのマネージャーとの間で協議し、厳選した内容となっています。ご購入は[こちら](https://phantomsrecords.com/product/gensokyo-party-moriya-barista-analog-edition/)です。
+[![Moriya Barista vinyl design](/assets/posts/moriyaVinyl.webp)](/assets/posts/moriyaVinyl.webp)
 
-## M3-Fall 2025
+## ストリーミング配信について
+一部の特に注意深いファンの皆さまは、すでにストリーミング配信において大きな変更があったことにお気づきかもしれません。まず第一に、昨年以降ストリーミングに追加されていなかったアルバムが、ついに各プラットフォームに追加されました。対象作品は以下の通りです。
+- ・ECLECTIC RESONANCE UPRISING 3
+- ・ECLECTIC RESONANCE Memories 2
+- ・Touhou Fractured Transience Original Soundtrack
+- ・YGGDRASIL
+上記の作品の中には、すでに数か月前にリリースされていたものもあり、長らくお待たせしてしまい申し訳ありません。以前のディストリビューターとの間で問題があり、このたびToo Lostへ移行することを決断いたしました。現時点では、より明確で低コストな選択肢であり、私たちの掲げるアーティスト・ファーストの理念やクリエイティブな方向性にもより適したサービスだと感じています。カタログ全体を別のディストリビューターへ移行したので、プラットフォームによってはプレイリストやお気に入り登録、再生統計などが引き継がれない可能性があります。ご不便をおかけする場合があることをお詫びいたします。情報の復旧は容易ではない場合もありますが、私たちにとって今最も重要なのは、まず何よりも音楽を再び確実に配信プラットフォーム上で聴ける状態にすることです。そのため、アルバムを確実に、そしてリリース直後からお楽しみいただくには、**BandcampやBOOTHのご利用をおすすめいたします。**ストリーミング配信に関しては、今後どのくらいの期間継続されるかをお約束できない状況です。
+また、ストリーミング上のアルバムのメタデータに変化があることにお気づきかもしれません。現在、アーティスト欄に実際のアーティスト名とあわせて「KodamaSounds」が表示されています。これは意図的なもので、ディストリビューター移行に伴い、すべての作品を一つのページに集約し、分かりやすくご案内できるようにするための措置です。主要プラットフォーム（Apple Music、Deezer、YouTube Music）における各プロフィールの正式な管理・統合ができるようになるには少し時間がかかる見込みですが、いずれのストリーミングサービスをご利用の場合でも、機能自体には問題なくご利用いただけるはずです。KodamaSoundsのSpotifyプロフィールは、[こちら](https://open.spotify.com/intl-fr/artist/5PJKOtaZ3aDEpm6qiSJhqE)からご確認いただけます。「Featured In」セクションまでスクロールしてご覧ください。今回の変更によって、プレイリストに頼らずとも、より分かりやすく快適に作品を探していただけるようになれば幸いです。
 
-We have unfortunately lost the lottery entry for M3-Fall 2025… But thankfully, we still have ways to distribute our works and I will be there in person to help out at the following spaces:
-- **Rolling Bassline コ-34a**
-- **Four Corners P-17b**
+## YouTubeアップロードについて
+YouTube上でのアップロードが十分でないことについて、一部のファンの皆さまが不満を感じていらっしゃることは承知しております。YouTubeは依然として無視できない重要な可視性の源であり、この点については私たちも重く受け止めています。現在、各アルバムの楽曲を個別にYouTubeへアップロードする取り組みを強化しており、すでに[YGGDRASILから着手しています](https://www.youtube.com/playlist?list=PL1Z4FSfUqPNZ7oiW557Ac9yFsbc7yy2za)。これまでYouTube上で公開されていなかった楽曲を、毎日順次アップロードしています。ただし、アップロードのタイミングはビジュアル制作スタッフの対応状況に大きく左右されるため、明確なスケジュールや一貫性をお約束することはできません。あらかじめご了承ください。また、該当アーティスト自身が楽曲をアップロードする予定がない場合を優先して、こちらで個別公開を進めていきます。この作業には相応の時間がかかりますので、お気に入りの楽曲がチャンネルに公開されるまでお待ちいただけますと幸いです。
 
-We will be distributing ECLECTIC RESONANCE UPRISING 3 and Memories 2 during M3-Fall 2025! We will also be distributing our three releases from the upcoming Comic Market 106.
+## KODAMA COMET -Stellar Sanctuary- 開発遅延
+言うまでもなく、2025年に予定していた『Stellar Sanctuary』のリリースは大幅に遅れてしまっています。この点については深くお詫びいたします。この一年間は明らかにKodamaSoundsの活動を最優先としてきました。しかし同時に、Kodamaの名が優れた音楽アルバム制作だけで知られる存在にとどまらないよう、KodamaSoftの活動もさらに拡大していきたいと考えています。そのためにも、本作のシナリオ執筆を2027年までに完了させることを目標としていますが、それ以前にゲームを完成させることをお約束することはできません。現在、本作はエンジンをTyranoBuilderからGodotへ全面的に移行しています。この変更は開発に大きな影響を与えていますが、その一方で制作ツールの自由度は格段に向上しており、ゲーム全体の完成度やクオリティもこれまでとは比較にならないレベルに引き上げられる見込みです。本作の開発期間はまもなく10年という節目を迎えます。その間、さまざまな人生上の問題が開発に影響を及ぼしました。特に、私自身のモチベーション不足や、率直に言ってしまえば計画性やマネジメントの甘さが大きな要因でした。この長年取り組んできたライフワークとも言えるプロジェクトを、できる限り早く完結させたいと心から願っています。長年にわたり私にとって大きな悔しさの種でもありました。だからこそ、妥協せず、可能な限り最高の形で世に送り出したいと思っています。
 
-During the first hour of the event, I will be helping over at Four Corners. After that, I will be staying at Rolling Bassline. If you want to come say hi in person and have a word with me, please keep that in mind! We will also ensure a balanced flow of stock at both booths, meaning that anyone who really wants copies will be able to get one, whichever hall people choose to go to first!
+## 終わりに
+想定以上に長いKodamaNewsとなりましたが、2026年も素晴らしい一年にできるよう尽力します！
 
-For artists who contributed to KodamaSounds at some point who will be attending the event: Please come over to either booth whenever I'll be present! I would love to feature your signature and name on a collaborative signature sheet and reunite as many people as possible on it!
-
-We hope to see you there, as this event is really personal to me, and the opportunity of a lifetime. I am not sure when I will be able to come back again to live something like this again, and I want to make this count. See you soon!
-
-## Spring 2026 Projects
-
-With 2026 already approaching, it means we need to get started with next year’s first few albums. Therefore, we are now putting deadlines on:
-- [ECLECTIC RESONANCE Detuned Alloy 2](https://kodamasoft.net/projects/eclectic-resonance-detuned-alloy-2) (2026 March 1st Deadline)
-- [Gensokyo Party Vol. 7 Moriya Barista 2](https://kodamasoft.net/projects/moriya-barista-2) (2026 March 1st Deadline)
-- [Vanilla Parfait -a Vanillaware tribute album-](https://counterfest.kodamasoft.net/en/projects/vanilla-parfait) (2026 June 10th Deadline)
-
-We also have another COUNTERFEST RECORDS project planned as our first release of 2026, that we will share with you once the stream of releases of this summer passes by!
-
-## Availability and Sustainability
-
-2025 means we are now jumping from 0 to 5 albums available in physical format - in just 4 months for KodamaSounds. Those are big numbers, especially for a relatively niche circle like ours. Three of those are going to be Jewel Case CDs, one of these a Download Card (despite just being simple printed materials, those still do cost money), and another will be a double jewel case CD. As you can imagine, this means a lot of funds and research for the best options out there were needed to make this happen.
-
-I would like to personally insist on the fact that I personally want nothing to do with a speculative market - I firmly believe that our art needs to live on and stay preserved for as long as possible, and this is why I am very happy to finally offer a physical format for our albums. If anyone was worried about this, KodamaSounds’ albums will absolutely always be available digitally, and we have NO plans to make any of our albums physical only.
-
-Which is why we have requested more than 200 copies of each of our produced albums, with the majority of our batches being 300 copies, even. Due to our niche nature, I hardly believe that we will run out of stock too soon. But at the same time, it is important for our albums to sell well enough so that we can not only break even the initial costs of production, but so we can produce physical versions of older and oncoming albums, as well as reprinting any out of stock products. We want to reassure anyone scared of stocks running out, that we do plan to keep on printing album copies so long as we have some form of warranty that they will indeed sell. We do ask for your understanding that we still hardly know what to expect sales-wise however, so we will be using the coming months to properly evaluate our scope regarding future printing/selling copies for the future of our discography and its preservation and availability to as many fans as possible. 
-
-With all of those upcoming announcements, we understand that many people who cannot attend events in Japan would still be interested in acquiring physical copies of our albums.
-
-As much as we are not planning to do any domestic shipping directly ourselves (through Bandcamp, for example), we are however working and discussing opportunities to sell our content on most major doujin distribution platforms.
-
-## Sales and Costs
-
-As much as digital sales cost us nothing at all to publish, this is different for physical goods. Due to the high costs of production, we ask for the understanding of artists that our first focus when selling copies is to get rid of the albums’ costs of production. We are on a solution to operate with royalties while also doing that, and we think that for now a fair way of doing so will be to focus our first sales of CDs to make up for the costs of the CDs, with 100% of the sales’ revenues dedicated to making up with the net loss of production. This means that approximately 40 copies per album will need to be sold to break even (for a batch of 300 copies). Once the breaking even part is done, we will add royalties off the following net album sales to 70% (which will then be processed exactly the same way as royalties from digital sales), with the remaining 30% of the sales’ revenues being used to anticipate future costs of production and reprints of albums. Note that the same would apply for download cards, but considering how significantly lower the production costs are for these (just about 10 copies would need to be sold to break even), that threshold would be reached much faster. It would be appreciated if I could get feedback from contributing artists for this, as I would love to discuss this further.
-
-That’s about it for today’s yapping session - please support us, and we will give it back to you tenfold! We hope to do relatively decent sales and exposure to our circle through our CDs and Download Cards sales. Thank you all so much, and I will hope for the best now! See you soon!
+以上です。
+いつもありがとうございます！
 
 -Robin
