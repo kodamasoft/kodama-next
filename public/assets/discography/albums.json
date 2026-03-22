@@ -379,5 +379,21 @@
 		"website": "/releases/yggdrasil",
 		"vgmdb": "https://vgmdb.net/album/152681",
 		"bandcampPhysical": "https://kodamasounds.bandcamp.com/merch/yggdrasil-48p-download-booklet"
+	},
+	"gensokyo-party-vol7": {
+		"id": "KSDL-0014",
+		"releaseDate": "2026-05-03T00:00:00+0200",
+		"name": "Gensokyo Party Vol. 7 MORIYA BARISTA 2 (à éditer)",
+		"cover": "/assets/discography/covers/0014.png",
+		"coverColor": "#F01857",
+		"bandcamp": "https://kodamasounds.bandcamp.com/album/gensokyo-party-vol-5-vantablack-2",
+		"booth": "https://kodamasoft.booth.pm/items/5667642",
+		"appleMusic": "https://music.youtube.com/playlist?list=OLAK5uy_mmHcIikogpN4o_LTZfE7KrVIzqVJUIwww",
+		"spotify": "https://open.spotify.com/album/0R7vKUXHQzUq6Zv7o3ToIR",
+		"deezer": "https://www.deezer.com/en/album/594945662",
+		"youtubeMusic": "https://music.youtube.com/browse/MPREb_NhKE2QBKTgj",
+		"website": "/releases/gensokyo-party-vol7",
+		"vgmdb": "https://vgmdb.net/album/137463",
+		"thbwiki": "https://thwiki.cc/Gensokyo_Party_Vol._5_VANTABLACK_2"
 	}
 }
