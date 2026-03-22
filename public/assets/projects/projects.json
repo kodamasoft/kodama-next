@@ -19,15 +19,15 @@
 			{
 				"slug": "eclectic-resonance-detuned-alloy-2",
 				"status": "accepting",
-				"percentage": "0",
-				"duration": "00:00",
+				"percentage": "80",
+				"duration": "36:09",
 				"deadline": "2026-02-28T23:59:59Z",
-				"finished_tracks": "0",
+				"finished_tracks": "9",
 				"mastering": {
 					"status": "pending",
 					"engineer": "R-Man (Resonant Union)"
 				},
-				"artwork_comission": "pending",
+				"artwork_comission": "completed",
 				"color": "#9f1239"
 			},
 {
@@ -118,15 +118,15 @@
 			{
 				"slug": "moriya-barista-2",
 				"status": "accepting",
-				"percentage": "0",
-				"duration": "00:00",
-				"finished_tracks": "0",
+				"percentage": "65",
+				"duration": "25:22",
+				"finished_tracks": "6",
 				"deadline": "2026-02-28T23:59:59Z",
 				"mastering": {
 					"status": "pending",
-					"engineer": "R-Man (Resonant Union)"
+					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"
 				},
-				"artwork_comission": "pending",
+				"artwork_comission": "completed",
 				"color": "#6ee7b7"
 			},
 			{
