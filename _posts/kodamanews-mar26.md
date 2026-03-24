@@ -7,9 +7,9 @@ public: true
 twin: kodamanews-mar26-jp
 ---
 
-# Moriya Barista 2 delay
+# Moriya Barista 2 Delay
 
-We regret to inform you that “Gensokyo Party Vol. 7 Moriya Barista 2” will be postponed from its intended release date of May 4th during Hakurei Shrine Reitaisai 23 [第23回博麗神社例大祭] in favor of delaying it for Hakurei Shrine Fall Reitaisai 13 [第八回 博麗神社秋季例大祭] instead. The event does not have a date yet, but we can assume it will be as early as late October.
+We regret to inform you that “Gensokyo Party Vol. 7 Moriya Barista 2” will be postponed from its intended release date of May 4th during Hakurei Shrine Reitaisai 23 in favor of delaying it for Hakurei Shrine Fall Reitaisai 13 instead. The event does not have a date yet, but we can assume it will be as early as late October.
 
 We have received 7 very high quality submissions, and as high quality as the album is right now, we believe that it was for the best sake of the compilation to be polished further on. Not only to deliver a compilation as big and ambitious as you can expect from us, but also to give a fair treatment to all participants that wished to contribute to Moriya Barista 2’s legacy. A lot of eager participants (special guests as much as regular contributors) unfortunately could not participate due to time constraints, therefore, we believe it’s only fair to polish the album to the best it can be.
 
