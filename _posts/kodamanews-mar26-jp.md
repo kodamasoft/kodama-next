@@ -1,5 +1,5 @@
 ---
-title: 'Moriya Barista 2 delay'
+title: 'Moriya Barista 2 延期告知'
 date: '2026-03-24T18:00:00+0200'
 locale: jp
 author: Robin
@@ -7,7 +7,7 @@ public: true
 twin: kodamanews-mar26
 ---
 
-# Moriya Barista2 延期告知
+# Moriya Barista 2 延期告知
 
 「Gensokyo Party Vol. 7 Moriya Barista 2」につきまして、当初予定しておりました5月4日・第23回博麗神社例大祭での頒布を延期し、第八回 博麗神社秋季例大祭での頒布へと変更させていただくこととなりました。現時点ではイベントの正式な開催日は未定ですが、例年通りであれば10月下旬頃になる見込みです。
 
