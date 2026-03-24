@@ -1,6 +1,6 @@
 ---
 title: 'Moriya Barista 2 delay'
-date: '2026-03-31T18:00:00+0200'
+date: '2026-03-24T18:00:00+0200'
 locale: en
 author: Robin
 public: true

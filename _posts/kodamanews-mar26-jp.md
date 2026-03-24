@@ -1,6 +1,6 @@
 ---
 title: 'Moriya Barista 2 delay'
-date: '2026-03-31T18:00:00+0200'
+date: '2026-03-24T18:00:00+0200'
 locale: jp
 author: Robin
 public: true
@@ -9,20 +9,21 @@ twin: kodamanews-mar26
 
 # Moriya Barista 2 delay
 
-We regret to inform you that “Gensokyo Party Vol. 7 Moriya Barista 2” will be postponed from its intended release date of May 4th during Hakurei Shrine Reitaisai 23 [第23回博麗神社例大祭] in favor of delaying it for Hakurei Shrine Fall Reitaisai 13 [第八回 博麗神社秋季例大祭] instead. The event does not have a date yet, but we can assume it will be as early as late October.
+「Gensokyo Party Vol. 7 Moriya Barista 2」につきまして、当初予定しておりました5月4日・第23回博麗神社例大祭での頒布を延期し、第八回 博麗神社秋季例大祭での頒布へと変更させていただくこととなりました。現時点ではイベントの正式な開催日は未定ですが、例年通りであれば10月下旬頃になる見込みです。
 
-We have received 7 very high quality submissions, and as high quality as the album is right now, we believe that it was for the best sake of the compilation to be polished further on. Not only to deliver a compilation as big and ambitious as you can expect from us, but also to give a fair treatment to all participants that wished to contribute to Moriya Barista 2’s legacy. A lot of eager participants (special guests as much as regular contributors) unfortunately could not participate due to time constraints, therefore, we believe it’s only fair to polish the album to the best it can be.
+現在、非常に高いクオリティの作品を7曲ご提出いただいております。本アルバムはすでに高いクオリティに達していますが、コンピレーション全体の完成度をさらに高めるため、今回の延期が最善であると判断いたしました。私たちに期待される規模と野心を持った作品をお届けするためだけでなく、「Moriya Barista 2」という企画に参加を希望してくださったすべての方々に対して、公平な対応をするためでもあります。時間的な都合により参加できなかった多くの意欲的な参加希望者（ゲスト・通常参加者を問わず）がいらっしゃったため、本作品を可能な限り最高の形に仕上げることが公平であると考えました。
 
-The new deadlines will now be fixed as such:
-- **August 15th: Flat deadline for song submissions**
-- September 7th: Layout and Mastering are both 100% finished / Crossfade process begins (audio+video)
-- September 15th: Audio Crossfade Completion
-- October 1st: Video Crossfade Completion
-- Mid October: Public announcement with crossfades, etc
-- Late October: Fall Reitaisai Release Date
+更新された締切は以下の通りです：
+- **8月15日：楽曲提出の締切**
+- 9月7日：レイアウトおよびマスタリングの完成／クロスフェード制作開始（音声＋映像）
+- 9月15日：音声クロスフェード完成
+- 10月1日：映像クロスフェード完成
+- 10月中旬：クロスフェード等を含む発表
+- 10月下旬：秋季例大祭にて頒布予定
 
-If there were any participants that felt pressured by the initial deadline, we hope that this deadline change will make things possible for you to submit to the compilation.
+当初の締切にプレッシャーを感じていた参加者の方々にとって、今回の変更が本コンピレーションへの参加につながることを願っております。
 
-Thank you for your patience, and please look forward to a great release.
+このたびはご理解とご協力を賜り、誠にありがとうございます。素晴らしい作品の完成をどうぞご期待ください。
+
 
 -Robin
