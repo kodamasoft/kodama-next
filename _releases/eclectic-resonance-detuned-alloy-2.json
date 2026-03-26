@@ -1,22 +1,25 @@
 {
 	"slug": "eclectic-resonance-detuned-alloy-2",
-	"logo": "/assets/discography/logos/0013.png",
+	"logo": "/assets/discography/logos/0023.png",
 	"color": "8439A9",
 	"soundcloud_track_id": "1803019923",
-	"cover": "/assets/discography/covers/0013.png",
-	"title": "ECLECTIC RESONANCE DETUNED ALLOY 2",
+	"cover": "/assets/discography/covers/0023.png",
+	"header": {
+		"image": "/assets/discography/headers/0023.png"
+	},
+	"title": "ECLECTIC RESONANCE Detuned Alloy 2",
 	"circle": {
 		"name": "KodamaSounds",
 		"link": "/"
 	},
-	"specification": "Hard EDM Original Work Album",
-	"release_date": "28 Apr. 2024 (M3-2024 Spring)",
-	"catalog": "KSDL-0013",
-	"price": "Pre-Order & Event Price: 12€ / 2000 yen | Post Release Price: 15€ / 2300 yen",
+	"specification": "Original Rock / Acoustic Compilation",
+	"release_date": "April 26th, 2026 (M3-2026春)",
+	"catalog": "KSDL-0023",
+	"price": "Pre-Order & Event Price: 12€ / 2000 yen | Post Release Price: 15€ / 2500 yen",
 	"store": {
 		"bandcamp": {
 			"name": "Bandcamp",
-			"link": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-uprising-2"
+			"link": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-detuned-alloy-2"
 		},
 		"booth": {
 			"name": "BOOTH",
