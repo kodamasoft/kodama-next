@@ -7,6 +7,11 @@
 	"header": {
 		"image": "/assets/discography/headers/0023.png"
 	},
+	"background": {
+		"color": "000000",
+		"image": "/assets/discography/backgrounds/0023.jpg",
+		"image_attachment": "fixed"
+	},
 	"title": "ECLECTIC RESONANCE Detuned Alloy 2",
 	"circle": {
 		"name": "KodamaSounds",

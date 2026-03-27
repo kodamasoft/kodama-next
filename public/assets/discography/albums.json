@@ -381,18 +381,14 @@
 		"bandcampPhysical": "https://kodamasounds.bandcamp.com/merch/yggdrasil-48p-download-booklet"
 	},
 	"eclectic-resonance-detuned-alloy-2": {
-		"id": "KSDL-0013",
+		"id": "KSDL-0023",
 		"releaseDate": "2026-04-28T00:00:00+0200",
-		"name": "ECLECTIC RESONANCE DETUNED ALLOY 2 (à éditer)",
-		"cover": "/assets/discography/covers/0013.png",
-		"coverColor": "#8439A9",
-		"bandcamp": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-uprising-2",
+		"name": "ECLECTIC RESONANCE Detuned Alloy 2)",
+		"cover": "/assets/discography/covers/0023.png",
+		"coverColor": "#ae0759",
+		"bandcamp": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-detuned-alloy-2",
 		"booth": "https://kodamasoft.booth.pm/items/5665348",
-		"appleMusic": "https://music.apple.com/album/eclectic-resonance-uprising-2/1745927054",
-		"spotify": "https://open.spotify.com/album/3eX4tR84uC1Mzj3UlSHwAn",
-		"deezer": "https://www.deezer.com/album/603031552",
-		"youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_lMpqS2KDRiW0O8fGn8iHR3PvUGps48Asw",
-		"website": "/releases/eclectic-detuned-alloy-2",
-		"vgmdb": "https://vgmdb.net/album/137462"
+		"website": "/releases/eclectic-resonance-detuned-alloy-2",
+		"vgmdb": "https://vgmdb.net/album/156245"
 	}
 }
