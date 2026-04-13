@@ -279,6 +279,7 @@
 		"links": {
 			"website": "https://sites.google.com/view/shonocondo",
 			"twitter": "https://twitter.com/shonocondo",
+			"bluesky": "https://bsky.app/profile/shonocondo.bsky.social",
 			"pixiv": "https://shonocondo.fanbox.cc/",
 			"vgmdb": "https://vgmdb.net/artist/47392"
 		}
@@ -562,7 +563,7 @@
 		}
 	},
 	"Rämillia": {
-		"name": "Sample",
+		"name": "Rämillia",
 		"links": {
 			"bluesky": "https://bsky.app/profile/rammy.bsky.social",
 			"youtube": "https://www.youtube.com/@ramillia_music",
@@ -856,6 +857,7 @@
 		"name": "PSYQUO",
 		"links": {
 			"twitter": "https://twitter.com/PSYQUO_",
+			"bluesky": "https://bsky.app/profile/psyquo.bsky.social",
 			"bandcamp": "https://psyquo.bandcamp.com",
 			"youtube": "https://www.youtube.com/channel/UCP14Evt7dZpOgJZ3ZBQFgHA",
 			"soundcloud": "https://soundcloud.com/psyquo",
@@ -1221,6 +1223,7 @@
 		"name": "ReeK",
 		"links": {
 			"twitter": "https://twitter.com/ReeKDoesDTM",
+			"bluesky": "https://bsky.app/profile/reekdoesdtm.bsky.social",
 			"soundcloud": "https://soundcloud.com/reek_wobs",
 			"bandcamp": "https://reekandthemeitriphecta.bandcamp.com",
 			"spotify": "https://open.spotify.com/artist/6g1tKcNoNq2ZqlCiYyAh4i",
@@ -1244,6 +1247,7 @@
 		"name": "Afflected Light",
 		"links": {
 			"twitter": "https://twitter.com/ReeKDoesDTM",
+			"bluesky": "https://bsky.app/profile/reekdoesdtm.bsky.social",
 			"soundcloud": "https://soundcloud.com/reek_wobs",
 			"bandcamp": "https://reekandthemeitriphecta.bandcamp.com",
 			"spotify": "https://open.spotify.com/artist/6g1tKcNoNq2ZqlCiYyAh4i",
@@ -1255,6 +1259,7 @@
 		"name": "Mei Naganowa",
 		"links": {
 			"twitter": "https://twitter.com/ReeKDoesDTM",
+			"bluesky": "https://bsky.app/profile/reekdoesdtm.bsky.social",
 			"soundcloud": "https://soundcloud.com/reek_wobs",
 			"bandcamp": "https://reekandthemeitriphecta.bandcamp.com",
 			"spotify": "https://open.spotify.com/artist/6g1tKcNoNq2ZqlCiYyAh4i",
@@ -3431,20 +3436,6 @@
 			"apple": "https://music.apple.com/artist/1685941212",
 			"spotify": "https://open.spotify.com/artist/3uplHwgI9ArQg72mER6bXU",
 			"vgmdb": "https://vgmdb.net/artist/56717"
-		}
-	},
-	"juicy": {
-		"name": "juicy",
-		"links": {
-			"twitter": "link",
-			"bluesky": "link",
-			"bandcamp": "link",
-			"youtube": "link",
-			"soundcloud": "link",
-			"apple": "link",
-			"spotify": "link",
-			"website": "link",
-			"vgmdb": "https://vgmdb.net/artist/79622"
 		}
 	},
 	"gsharp": {
