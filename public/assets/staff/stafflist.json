@@ -214,7 +214,7 @@
 		"pronouns": "she/her",
 		"dateOfBirth": "February 14th, 2001",
 		"placeOfBirth": "Cagnes-sur-Mer, France",
-		"description": "Web developer, self-taught digital 2D artist, 3D artist, photograph, cosplayer, game developer or even wannabe musician, there isn't a discipline that doesn't interest Bonnie! Her desire to become a jack-of-all-trades and her thirst for knowledge mean that she is always interested in new artistic fields and facing new challenges. She's also a dog fan.",
+		"description": "Web developer, self-taught digital 2D artist, 3D artist, photograph, cosplayer, game developer or even wannabe musician, there isn't a discipline that doesn't interests Bonnie! Her desire to become a jack-of-all-trades and her thirst for knowledge mean that she is always interested in new artistic fields and facing new challenges. She's also a dog fan.",
 		"socials": {
 			"twitter": "https://twitter.com/Doggibelle",
 			"bsky": "https://bsky.app/profile/bonnie.doggibelle.quest",
@@ -277,6 +277,16 @@
 		"dateOfBirth": "July 15th, 1994",
 		"placeOfBirth": "Bouches-du-Rhône, France",
 		"description": "Deep in the western bass music scene since the 2010s and the doujin scene since 2021, Daniel aka. Volumetrique & VTQ creates sound stories through his mixes. Evolving between Drum & Bass and Schranz, he's always on the lookout for the best snare created by mankind. His main skills include mixing engineering, production & arrangement, DJ-mixing and mashups. Ever since his first KodamaSounds appearance in April 2023, he has been the main XFD mixer, a semi-frequent collaborator, and a mixing engineer for various projects."
+	},
+	{
+		"_collabId": "PSYQUO",
+		"name": "PSYQUO",
+		"role": "Sound Staff",
+		"realName": "Patsy",
+		"pronouns": "he/him",
+		"dateOfBirth": "1998",
+		"placeOfBirth": "Philippines",
+		"description": "PSYQUO makes music he likes. He's been producing music as a hobby for more than 10 years, but only recently put all his efforts into making a living out of it. Finally joined KodamaSounds in April 2026 after much hesitance. Likes driving."
 	},
 	{
 		"_collabId": "Dwimepon",

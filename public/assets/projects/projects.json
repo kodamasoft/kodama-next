@@ -18,11 +18,11 @@
 			},
 			{
 				"slug": "eclectic-resonance-detuned-alloy-2",
-				"status": "accepting",
-				"percentage": "80",
-				"duration": "36:09",
+				"status": "about-to-release",
+				"percentage": "100",
+				"duration": "1:05:11",
 				"deadline": "2026-02-28T23:59:59Z",
-				"finished_tracks": "9",
+				"finished_tracks": "15",
 				"mastering": {
 					"status": "pending",
 					"engineer": "R-Man (Resonant Union)"
@@ -121,7 +121,7 @@
 				"percentage": "65",
 				"duration": "25:22",
 				"finished_tracks": "6",
-				"deadline": "2026-02-28T23:59:59Z",
+				"deadline": "2026-08-14T23:59:59Z",
 				"mastering": {
 					"status": "pending",
 					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"
