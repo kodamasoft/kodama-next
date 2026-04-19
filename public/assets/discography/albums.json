@@ -96,7 +96,8 @@
 		"youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_ktgvTSfhQyAhaLJe0Bp5yo8_rOsCKUSCQ",
 		"website": "/releases/gensokyo-party-vol3",
 		"vgmdb": "https://vgmdb.net/album/120017",
-		"thbwiki": "https://thwiki.cc/Gensokyo_Party_Vol._3_Moriya_Barista"
+		"thbwiki": "https://thwiki.cc/Gensokyo_Party_Vol._3_Moriya_Barista",
+		"diverse": "https://www.diverse.direct/kodamasounds/ksdl-0007/"
 	},
 	"eclectic-resonance-uprising": {
 		"id": "KSDL-0008",
@@ -126,7 +127,8 @@
 		"spotify": "https://open.spotify.com/album/0pOxoFk9dPUd1L15pTvz7V",
 		"deezer": "https://www.deezer.com/album/587402332",
 		"youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_m5pbrS8f02V7qIO0ktaQ8FyAZ-Fkr6MDI",
-		"vgmdb": "https://vgmdb.net/album/125840"
+		"vgmdb": "https://vgmdb.net/album/125840",
+		"diverse": "https://www.diverse.direct/kodamasounds/ksdl-0009/"
 	},
 	"gensokyo-party-4-dj-koishi": {
 		"id": "KSDL-0010",
@@ -389,6 +391,7 @@
 		"bandcamp": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-detuned-alloy-2",
 		"booth": "https://kodamasoft.booth.pm/items/5665348",
 		"website": "/releases/eclectic-resonance-detuned-alloy-2",
-		"vgmdb": "https://vgmdb.net/album/156245"
+		"vgmdb": "https://vgmdb.net/album/156245",
+		"diverse": "https://www.diverse.direct/kodamasounds/ksdl-0023/"
 	}
 }
