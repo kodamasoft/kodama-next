@@ -35,6 +35,10 @@
 		"diverse": {
 			"name": "Diverse Direct",
 			"link": "https://www.diverse.direct/kodamasounds/kscd-0005-6/"
+		},
+		"bandcampPhysical": {
+			"name": "Bandcamp (Physical)",
+			"link": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-memories-2"
 		}
 	},
 	"tracklist": [
