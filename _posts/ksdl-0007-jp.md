@@ -75,7 +75,7 @@ public: false
 - ミックスはできる限り正確できちんとしたものにしましょう。マスタリングのポイントは、ミキシングエラーを修正することではなく、最終的なリリースのサウンドを向上させることなのです。
 - 最終的なミックスの音に自信がない場合、私たちのマスタリングエンジニアに送ってもいいです。
 
-Google Drive/MEGAなどのホスティングサイトにミックスをアップロードし、アクセスリンクを私たちのマスタリングエンジニアmalicentに、できればDiscordメッセージ（malicent_）、またはメール（[kodamateam@gmail.com](mailto:kodamateam@gmail.com)）、またはTwitter（@KodamaSoftあるいは@Fivda_のプライベートメッセージ）でお送りください。
+Google Drive/MEGAなどのホスティングサイトにミックスをアップロードし、アクセスリンクを私たちのマスタリングエンジニアmalicentに、できればDiscordメッセージ（malicent_）、またはメール（[kodamasoft@protonmail.com](mailto:kodamasoft@protonmail.com)）、またはTwitter（@KodamaSoftあるいは@Fivda_のプライベートメッセージ）でお送りください。
 
 ## アレンジメントルール
 
@@ -175,7 +175,7 @@ https://yourbandcampusername.bandcamp.com
 
 KodamaSoftの連絡先です。
 - Discordサーバー [https://discordapp.com/invite/9ZmHv3r](https://discordapp.com/invite/9ZmHv3r)
-- メール: kodamateam@gmail.com.
+- メール: kodamasoft@protonmail.com.
 - X KodamaSoft（@KodamaSoft)
 
 プロジェクトリーダーであるFivdaの連絡先。
