@@ -30,8 +30,12 @@
 			"link": "https://www.diverse.direct/kodamasounds/ksdl-0009/"
 		},
 		"bandcampPhysical": {
-			"name": "Bandcamp Physical",
+			"name": "Bandcamp (Physical)",
 			"link": "https://kodamasounds.bandcamp.com/merch/eclectic-resonance-detuned-alloy-15x15cm-download-card"
+		},
+		"akibahobby": {
+			"name": "AKIBA-HOBBY",
+			"link": "https://shop.akbh.jp/en/products/2100000176250"
 		}
 	},
 	"tracklist": {
