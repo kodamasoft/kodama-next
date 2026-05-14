@@ -11,20 +11,30 @@ export default function ReleaseCallToAction({ store }) {
 			<div className="text-center">
 				<span className="text-2xl block font-bold p-2">PHYSICAL</span>
 				{Object.entries(store).map((storeItem) => {
-					if (storeItem[1].name === 'AKIBA-HOBBY' || storeItem[1].name === 'Diverse Direct' || storeItem[1].name === 'Bandcamp (Physical)') return (
-						<Link
-							key={storeItem[0]}
-							href={storeItem[1].link}
-							className="inline-block text-center text-lg rounded border-2 py-3 px-8 m-1 transition text-[color:var(--release-color)] border-[color:var(--release-color)] hover:text-white hover:bg-[color:var(--release-color)]"
-						>
-							{storeItem[1].name}
-						</Link>
+					if (
+						storeItem[1].name === 'AKIBA-HOBBY' ||
+						storeItem[1].name === 'Diverse Direct' ||
+						storeItem[1].name === 'Bandcamp (Physical)'
 					)
+						return (
+							<Link
+								key={storeItem[0]}
+								href={storeItem[1].link}
+								className="inline-block text-center text-lg rounded border-2 py-3 px-8 m-1 transition text-[color:var(--release-color)] border-[color:var(--release-color)] hover:text-white hover:bg-[color:var(--release-color)]"
+							>
+								{storeItem[1].name}
+							</Link>
+						);
 					return null;
 				})}
 				<span className="text-2xl font-bold block p-2">DIGITAL</span>
 				{Object.entries(store).map((storeItem) => {
-					if (storeItem[1].name === 'AKIBA-HOBBY' || storeItem[1].name === 'Diverse Direct' || storeItem[1].name === 'Bandcamp (Physical)') return null;
+					if (
+						storeItem[1].name === 'AKIBA-HOBBY' ||
+						storeItem[1].name === 'Diverse Direct' ||
+						storeItem[1].name === 'Bandcamp (Physical)'
+					)
+						return null;
 					return (
 						<Link
 							key={storeItem[0]}
@@ -33,7 +43,7 @@ export default function ReleaseCallToAction({ store }) {
 						>
 							{storeItem[1].name}
 						</Link>
-					)
+					);
 				})}
 			</div>
 		</section>
