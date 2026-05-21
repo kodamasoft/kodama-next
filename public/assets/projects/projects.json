@@ -17,20 +17,6 @@
 				"color": "#9f1239"
 			},
 			{
-				"slug": "eclectic-resonance-detuned-alloy-2",
-				"status": "about-to-release",
-				"percentage": "100",
-				"duration": "1:05:11",
-				"deadline": "2026-02-28T23:59:59Z",
-				"finished_tracks": "15",
-				"mastering": {
-					"status": "pending",
-					"engineer": "R-Man (Resonant Union)"
-				},
-				"artwork_comission": "completed",
-				"color": "#9f1239"
-			},
-{
 				"slug": "eclectic-resonance-hollow-horizons-2",
 				"status": "accepting",
 				"percentage": "0",
@@ -43,7 +29,7 @@
 				"artwork_comission": "pending",
 				"color": "#000000"
 			},
-      {
+      		{
 				"slug":"eclectic-resonance-legendaria-2",
 				"status": "accepting",
 				"percentage": "0",
@@ -96,7 +82,7 @@
 				"artwork_comission": "completed",
 				"color": "#6cc3b9"
 			},
-      {
+  		    {
 				"slug": "eclectic-resonance-memories-2",
 				"status": "released",
 				"percentage": "100",
@@ -109,6 +95,20 @@
 				},
 				"artwork_comission": "completed",
 				"color": "#f9c74f"
+			},
+			{
+				"slug": "eclectic-resonance-detuned-alloy-2",
+				"status": "released",
+				"percentage": "100",
+				"duration": "1:05:11",
+				"deadline": "2026-02-28T23:59:59Z",
+				"finished_tracks": "15",
+				"mastering": {
+					"status": "pending",
+					"engineer": "R-Man (Resonant Union)"
+				},
+				"artwork_comission": "completed",
+				"color": "#9f1239"
 			}
 		]
 	},
@@ -135,6 +135,7 @@
 				"percentage": "0",
 				"duration": "00:00",
 				"finished_tracks": "0",
+				"deadline": "2027-02-15T23:59:59Z",
 				"mastering": {
 					"status": "pending",
 					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"
