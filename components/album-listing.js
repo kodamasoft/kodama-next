@@ -267,7 +267,7 @@ export default function AlbumListing({ slug }) {
 							className="kodama_btn kodama_btn--primary"
 						>
 							<FaCompactDisc className="h-4 w-4 mr-2" />
-							Akiba Hobby
+							AKIBA-HOBBY
 						</a>
 					) : null}
 				</div>
