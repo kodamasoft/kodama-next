@@ -3,20 +3,20 @@
 		"cat_slug": "eclectic-resonance",
 		"projects": [
 			{
-				"slug": "eclectic-resonance-detuned-alloy-2",
+				"slug": "eclectic-resonance-tremor",
 				"status": "accepting",
 				"percentage": "0",
 				"duration": "00:00",
-				"deadline": "2026-02-28T23:59:59Z",
+				"deadline": "2026-08-31T23:59:59Z",
 				"finished_tracks": "0",
 				"mastering": {
 					"status": "pending",
-					"engineer": "R-Man (Resonant Union)"
+					"engineer": "Volumetrique (KodamaSounds)"
 				},
 				"artwork_comission": "pending",
 				"color": "#9f1239"
 			},
-{
+			{
 				"slug": "eclectic-resonance-hollow-horizons-2",
 				"status": "accepting",
 				"percentage": "0",
@@ -29,7 +29,7 @@
 				"artwork_comission": "pending",
 				"color": "#000000"
 			},
-      {
+      		{
 				"slug":"eclectic-resonance-legendaria-2",
 				"status": "accepting",
 				"percentage": "0",
@@ -82,7 +82,7 @@
 				"artwork_comission": "completed",
 				"color": "#6cc3b9"
 			},
-      {
+  		    {
 				"slug": "eclectic-resonance-memories-2",
 				"status": "released",
 				"percentage": "100",
@@ -95,6 +95,20 @@
 				},
 				"artwork_comission": "completed",
 				"color": "#f9c74f"
+			},
+			{
+				"slug": "eclectic-resonance-detuned-alloy-2",
+				"status": "released",
+				"percentage": "100",
+				"duration": "1:05:11",
+				"deadline": "2026-02-28T23:59:59Z",
+				"finished_tracks": "15",
+				"mastering": {
+					"status": "pending",
+					"engineer": "R-Man (Resonant Union)"
+				},
+				"artwork_comission": "completed",
+				"color": "#9f1239"
 			}
 		]
 	},
@@ -104,15 +118,15 @@
 			{
 				"slug": "moriya-barista-2",
 				"status": "accepting",
-				"percentage": "0",
-				"duration": "00:00",
-				"finished_tracks": "0",
-				"deadline": "2026-02-28T23:59:59Z",
+				"percentage": "65",
+				"duration": "25:22",
+				"finished_tracks": "6",
+				"deadline": "2026-08-14T23:59:59Z",
 				"mastering": {
 					"status": "pending",
-					"engineer": "R-Man (Resonant Union)"
+					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"
 				},
-				"artwork_comission": "pending",
+				"artwork_comission": "completed",
 				"color": "#6ee7b7"
 			},
 			{
@@ -121,6 +135,7 @@
 				"percentage": "0",
 				"duration": "00:00",
 				"finished_tracks": "0",
+				"deadline": "2027-02-15T23:59:59Z",
 				"mastering": {
 					"status": "pending",
 					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"

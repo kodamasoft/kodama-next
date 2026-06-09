@@ -12,6 +12,7 @@ import PortalEntrance from '../components/namco70th/portal/entrance';
 import KTMLogo from '/public/assets/namco70th/katamari/ktm-logo.webp';
 import SoraLogo from '/public/assets/namco70th/sorasuite/sora-logo.png';
 import SSLogo from '/public/assets/namco70th/speedstars/ss-logo.png';
+import StarlitLogo from '/public/assets/namco70th/starlit/starlit-logo.png';
 
 const projectInfos = [
 	{
@@ -64,11 +65,12 @@ const projectInfos = [
 		isDisabled: false,
 	},
 	{
-		name: '?????????',
-		image: '',
-		presentedBy: '?????????',
-		href: '/unitedtribute/almightysoundexpress',
-		isDisabled: true,
+		name: 'Starlit Reverie',
+		image: StarlitLogo,
+		releasedAt: '2025.12.29',
+		presentedBy: 'Resonant Union',
+		href: 'https://www.youtube.com/watch?v=dZCXZRGUxYA',
+		isDisabled: false,
 	},
 	{
 		name: '?????????',
@@ -88,7 +90,7 @@ const projectInfos = [
 
 export default function Discography() {
 	// Page starts at 1, I know this is triggering
-	const [currentPage, setCurrentPage] = useState(1);
+	const [currentPage, setCurrentPage] = useState(2);
 	const cardsPerPage = 6;
 	const totalPages = Math.ceil(projectInfos.length / cardsPerPage);
 	const [isDesktop, setIsDesktop] = useState(false);

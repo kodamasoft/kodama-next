@@ -73,82 +73,89 @@ export default function ReleaseTracklist({ credits }) {
 					</tr>
 				</thead>
 				<tbody className="grid grid-cols-1 sm:grid-cols-2 p-4 gap-4 md:table-row-group md:p-0 md:border-t border-current/40">
-					{Object.entries(credits).map((creditJSON) => {
-						const tdClass =
-							'md:border-b border-current/40 md:p-4 md:pl-8';
+					{Object.entries(credits)
+						.sort((a, b) => Number(a[0]) - Number(b[0]))
+						.map((creditJSON) => {
+							const tdClass =
+								'md:border-b border-current/40 md:p-4 md:pl-8';
 
-						let collaboratorInfo =
-							collaboratorsJson[creditJSON[1].id];
+							let collaboratorInfo =
+								collaboratorsJson[creditJSON[1].id];
 
-						if (collaboratorInfo === undefined) {
+							if (collaboratorInfo === undefined) {
+								return (
+									<tr
+										key={creditJSON[0]}
+										className="flex flex-col gap-4 w-auto pb-4 mb-4 border-b border-current/40 sm:border-0 md:m-0 md:table-row md:w-full"
+									>
+										<td
+											className={
+												tdClass + ' text-red-600'
+											}
+										>
+											{creditJSON[1].id}
+										</td>
+										<td className={tdClass}>
+											{creditJSON[1].role}
+										</td>
+										<td className={tdClass}></td>
+									</tr>
+								);
+							}
+
 							return (
 								<tr
 									key={creditJSON[0]}
 									className="flex flex-col gap-4 w-auto pb-4 mb-4 border-b border-current/40 sm:border-0 md:m-0 md:table-row md:w-full"
 								>
-									<td className={tdClass + ' text-red-600'}>
-										{creditJSON[1].id}
+									<td className={tdClass}>
+										{typeof collaboratorInfo.name ===
+										'object'
+											? collaboratorInfo.name[locale]
+											: collaboratorInfo.name}
 									</td>
 									<td className={tdClass}>
-										{creditJSON[1].role}
+										<span className="text-current/50">
+											{creditJSON[1].role}
+										</span>
 									</td>
-									<td className={tdClass}></td>
+									<td className={tdClass}>
+										<div className="flex flex-wrap gap-4">
+											{collaboratorInfo.links &&
+												Object.entries(
+													collaboratorInfo.links
+												)
+													.sort((a, b) => {
+														if (a[0] < b[0]) {
+															return -1;
+														}
+														if (a[0] > b[0]) {
+															return 1;
+														}
+														return 0;
+													})
+													.map((link) => {
+														return (
+															<Link
+																href={link[1]}
+																passHref
+																target="_blank"
+																key={link[0]}
+															>
+																<LinkIcon
+																	className="min-w-6 w-auto fw-bold h-6 hover:text-(--release-color) focus:text-(--release-color) transition-all duration-300 ease-in-out"
+																	linkObj={
+																		link[1]
+																	}
+																/>
+															</Link>
+														);
+													})}
+										</div>
+									</td>
 								</tr>
 							);
-						}
-
-						return (
-							<tr
-								key={creditJSON[0]}
-								className="flex flex-col gap-4 w-auto pb-4 mb-4 border-b border-current/40 sm:border-0 md:m-0 md:table-row md:w-full"
-							>
-								<td className={tdClass}>
-									{typeof collaboratorInfo.name === 'object'
-										? collaboratorInfo.name[locale]
-										: collaboratorInfo.name}
-								</td>
-								<td className={tdClass}>
-									<span className="text-current/50">
-										{creditJSON[1].role}
-									</span>
-								</td>
-								<td className={tdClass}>
-									<div className="flex flex-wrap gap-4">
-										{collaboratorInfo.links &&
-											Object.entries(
-												collaboratorInfo.links
-											)
-												.sort((a, b) => {
-													if (a[0] < b[0]) {
-														return -1;
-													}
-													if (a[0] > b[0]) {
-														return 1;
-													}
-													return 0;
-												})
-												.map((link) => {
-													return (
-														<Link
-															href={link[1]}
-															passHref
-															target="_blank"
-															key={link[0]}
-														>
-															<LinkIcon
-																className="min-w-6 w-auto fw-bold h-6 hover:text-(--release-color) focus:text-(--release-color) transition-all duration-300 ease-in-out"
-																linkObj={
-																	link[1]
-																}
-															/>
-														</Link>
-													);
-												})}
-									</div>
-								</td>
-							</tr>
-						);
-					})}
+						})}
 				</tbody>
 			</table>
 		</section>

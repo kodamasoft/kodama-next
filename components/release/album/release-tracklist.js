@@ -38,15 +38,15 @@ export default function ReleaseTracklist({ tracklist }) {
 				{processedTracklist.map((disc, discIndex) => (
 					<div
 						key={discIndex}
-						className={`${isMultiDisc ? 'w-full md:w-[30%] mb-8 relative' : 'w-full'}`}
+						className={`${isMultiDisc ? 'w-full md:w-[30%] mb-8 mx-4 relative' : 'w-full'}`}
 					>
 						{disc.discName && (
 							<h3 className="text-lg text-center font-bold mb-4">
 								{disc.discName}
 							</h3>
 						)}
-						{disc.tracks.map((track, trackIndex) => (
-							<ReleaseTrack key={trackIndex} track={track} />
+						{disc.tracks.map((track) => (
+							<ReleaseTrack key={track[0]} track={track} />
 						))}
 					</div>
 				))}

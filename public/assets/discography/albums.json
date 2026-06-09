@@ -50,10 +50,10 @@
 		"bandcamp": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-dawn",
 		"booth": "https://kodamasoft.booth.pm/items/3763619",
 		"website": "https://eclecticresonance-dawn.tumblr.com/",
-		"appleMusic": "http://itunes.apple.com/album/id/1683188875",
-		"spotify": "https://open.spotify.com/album/4SEtuGuPC0c8ul62ytNbnm",
-		"deezer": "https://www.deezer.com/album/431478877",
-		"youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_lM2mKjvZeZsEpFr8P30k1xJs38npnEChY",
+		"appleMusic": "https://music.apple.com/album/eclectic-resonance-dawn/1682957437",
+		"spotify": "https://open.spotify.com/album/2y8xINYomI06RIz3fp4IR2",
+		"deezer": "https://www.deezer.com/album/430865907",
+		"youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_kruw5pUjAV0cW90XHihJXm2NKZ4YYN1So",
 		"vgmdb": "https://vgmdb.net/album/117492"
 	},
 	"eclectic-resonance-dusk": {
@@ -65,10 +65,10 @@
 		"bandcamp": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-dusk",
 		"booth": "https://kodamasoft.booth.pm/items/3793016",
 		"website": "https://eclecticresonance-dusk.tumblr.com/",
-		"appleMusic": "https://music.apple.com/album/eclectic-resonance-dawn/1682957437",
-		"spotify": "https://open.spotify.com/album/2y8xINYomI06RIz3fp4IR2",
-		"deezer": "https://www.deezer.com/album/430865907",
-		"youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_kruw5pUjAV0cW90XHihJXm2NKZ4YYN1So",
+		"appleMusic": "http://itunes.apple.com/album/id/1683188875",
+		"spotify": "https://open.spotify.com/album/4SEtuGuPC0c8ul62ytNbnm",
+		"deezer": "https://www.deezer.com/album/431478877",
+		"youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_lM2mKjvZeZsEpFr8P30k1xJs38npnEChY",
 		"vgmdb": "https://vgmdb.net/album/119738"
 	},
 	"fragments-of-gratitude": {
@@ -92,11 +92,13 @@
 		"booth": "https://kodamasoft.booth.pm/items/4392560",
 		"appleMusic": "https://music.apple.com/us/album/gensokyo-party-vol-3-moriya-barista/1747892760",
 		"spotify": "https://open.spotify.com/album/5UVwRzkrz7F3jk86IVy2wl",
+		"akibahobby": "https://shop.akbh.jp/products/2100000176274",
 		"deezer": "https://www.deezer.com/album/591096342",
 		"youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_ktgvTSfhQyAhaLJe0Bp5yo8_rOsCKUSCQ",
 		"website": "/releases/gensokyo-party-vol3",
 		"vgmdb": "https://vgmdb.net/album/120017",
-		"thbwiki": "https://thwiki.cc/Gensokyo_Party_Vol._3_Moriya_Barista"
+		"thbwiki": "https://thwiki.cc/Gensokyo_Party_Vol._3_Moriya_Barista",
+		"diverse": "https://www.diverse.direct/kodamasounds/ksdl-0007/"
 	},
 	"eclectic-resonance-uprising": {
 		"id": "KSDL-0008",
@@ -111,7 +113,7 @@
 		"appleMusic": "https://music.apple.com/album/eclectic-resonance-uprising/1736730395",
 		"spotify": "https://open.spotify.com/album/505XahYZjp644CxbQBOWQv",
 		"deezer": "https://www.deezer.com/album/562208652",
-		"youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_lMpqS2KDRiW0O8fGn8iHR3PvUGps48Asw"
+		"youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_kK_OVxK2bm25prl5-g3yCKtxJzhtEljeY"
 	},
 	"eclectic-resonance-detuned-alloy": {
 		"id": "KSDL-0009",
@@ -120,13 +122,16 @@
 		"cover": "/assets/discography/covers/0009.png",
 		"coverColor": "#7d0803",
 		"bandcamp": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-detuned-alloy",
+		"bandcampPhysical": "https://kodamasounds.bandcamp.com/merch/eclectic-resonance-detuned-alloy-15x15cm-download-card",
 		"booth": "https://kodamasoft.booth.pm/items/5183373",
 		"website": "/releases/eclectic-resonance-detuned-alloy",
+		"akibahobby": "https://shop.akbh.jp/en/products/2100000176250",
 		"appleMusic": "https://music.apple.com/album/eclectic-resonance-detuned-alloy/1746646578",
 		"spotify": "https://open.spotify.com/album/0pOxoFk9dPUd1L15pTvz7V",
 		"deezer": "https://www.deezer.com/album/587402332",
 		"youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_m5pbrS8f02V7qIO0ktaQ8FyAZ-Fkr6MDI",
-		"vgmdb": "https://vgmdb.net/album/125840"
+		"vgmdb": "https://vgmdb.net/album/125840",
+		"diverse": "https://www.diverse.direct/kodamasounds/ksdl-0009/"
 	},
 	"gensokyo-party-4-dj-koishi": {
 		"id": "KSDL-0010",
@@ -196,7 +201,7 @@
 		"appleMusic": "https://music.youtube.com/playlist?list=OLAK5uy_mmHcIikogpN4o_LTZfE7KrVIzqVJUIwww",
 		"spotify": "https://open.spotify.com/album/0R7vKUXHQzUq6Zv7o3ToIR",
 		"deezer": "https://www.deezer.com/en/album/594945662",
-		"youtubeMusic": "https://music.apple.com/album/gensokyo-party-vol-5-vantablack-2/1749462731",
+		"youtubeMusic": "https://music.youtube.com/browse/MPREb_NhKE2QBKTgj",
 		"website": "/releases/gensokyo-party-vol5",
 		"vgmdb": "https://vgmdb.net/album/137463",
 		"thbwiki": "https://thwiki.cc/Gensokyo_Party_Vol._5_VANTABLACK_2"
@@ -266,7 +271,7 @@
 		"appleMusic": "https://music.apple.com/album/1814369535",
 		"spotify": "https://open.spotify.com/album/2ebVz6ZyE493M02npfR0yx",
 		"deezer": "https://www.deezer.com/album/756595081",
-		"youtubeMusic": "https://www.youtube.com/playlist?list=OLAK5uy_m4EfTvukKnVN6lgKXCgBem8GHhJLmZIc4",
+		"youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_m0EWBHQBKRbgXIXQwUwp-5oUz2lWZBuNE",
 		"website": "/releases/gensokyo-party-vol6",
 		"vgmdb": "https://vgmdb.net/album/137952",
 		"thbwiki": "https://thwiki.cc/Gensokyo_Party_Vol._6_Border_in_Stasis"
@@ -278,6 +283,7 @@
 		"cover": "/assets/discography/covers/CD0001.png",
 		"coverColor": "b32d79",
 		"bandcamp": "https://kodamasounds.bandcamp.com/album/phantasmal-metamorphosis",
+		"bandcampPhysical": "https://kodamasounds.bandcamp.com/album/phantasmal-metamorphosis",
 		"booth": "https://kodamasoft.booth.pm/items/6960326",
 		"appleMusic": "https://music.apple.com/album/1836346600",
 		"spotify": "https://open.spotify.com/album/3j688iEtScsQAMjisKVRsA",
@@ -297,6 +303,7 @@
 		"cover": "/assets/discography/covers/CD0002.png",
 		"coverColor": "#2f6af4",
 		"bandcamp": "https://kodamasounds.bandcamp.com/album/lapis-lazuli",
+		"bandcampPhysical": "https://kodamasounds.bandcamp.com/album/lapis-lazuli",
 		"booth": "https://kodamasoft.booth.pm/items/7229354",
 		"appleMusic": "https://music.apple.com/album/1835253456",
 		"spotify": "https://open.spotify.com/album/4l7BlCCD7oNrGCcFi9uKsk",
@@ -325,6 +332,7 @@
 		"vgmdb": "https://vgmdb.net/album/145977",
 		"melonbooks": "https://www.melonbooks.co.jp/detail/detail.php?product_id=3207282",
 		"akibahobby": "https://shop.akbh.jp/en/products/2100000167142",
+		"bandcampPhysical": "https://kodamasounds.bandcamp.com/merch/eclectic-resonance-paradise-download-card",
 		"fullAlbum": "https://www.youtube.com/watch?v=AbphInr6PtM"
 	},
 	"legendes": {
@@ -349,9 +357,11 @@
 		"cover": "/assets/discography/covers/KSCD-0005~6.png",
 		"coverColor": "#ff5888",
 		"bandcamp": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-memories-2",
+		"bandcampPhysical": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-memories-2",
 		"booth": "https://kodamasoft.booth.pm/items/7448202",
 		"website": "/releases/eclectic-resonance-memories-2",
-		"vgmdb": "https://vgmdb.net/album/145981"
+		"vgmdb": "https://vgmdb.net/album/145981",
+		"diverse": "https://www.diverse.direct/kodamasounds/kscd-0005-6/"
 	},
 	"eclectic-resonance-uprising-3": {
 		"id": "KSCD-0003~4",
@@ -362,7 +372,21 @@
 		"bandcamp": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-uprising-3",
 		"booth": "https://kodamasoft.booth.pm/items/7448201",
 		"website": "/releases/eclectic-resonance-uprising-3",
-		"vgmdb": "https://vgmdb.net/album/145979"
+		"vgmdb": "https://vgmdb.net/album/145979",
+		"diverse": "https://www.diverse.direct/kodamasounds/kscd-0003-4/"
+	},
+	"yggdrasil": {
+		"id": "KSDL-0022",
+		"releaseDate": "2025-12-31T12:00:00+0200",
+		"name": "YGGDRASIL",
+		"cover": "/assets/discography/covers/0022.png",
+		"coverColor": "#d6281b",
+		"bandcamp": "https://kodamasounds.bandcamp.com/album/yggdrasil",
+		"booth": "https://kodamasoft.booth.pm/items/7525875",
+		"diverse": "https://www.diverse.direct/kodamasounds/ksdl-0022/",
+		"website": "/releases/yggdrasil",
+		"vgmdb": "https://vgmdb.net/album/152681",
+		"bandcampPhysical": "https://kodamasounds.bandcamp.com/merch/yggdrasil-48p-download-booklet"
 	},
 	"touhou-fractured-transience": {
 		"id": "KSDL-0021",
@@ -374,5 +398,22 @@
 		"booth": "https://kodamasoft.booth.pm/items/7525876",
 		"website": "/releases/touhou-fractured-transience",
 		"vgmdb": "https://vgmdb.net/album/148598 "
+	"eclectic-resonance-detuned-alloy-2": {
+		"id": "KSDL-0023",
+		"releaseDate": "2026-04-28T00:00:00+0200",
+		"name": "ECLECTIC RESONANCE Detuned Alloy 2",
+		"cover": "/assets/discography/covers/0023.png",
+		"coverColor": "#ae0759",
+		"bandcamp": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-detuned-alloy-2",
+		"bandcampPhysical": "https://kodamasounds.bandcamp.com/merch/eclectic-resonance-detuned-alloy-2-15x15cm-download-card",
+		"booth": "https://kodamasoft.booth.pm/items/5665348",
+		"spotify": "https://open.spotify.com/album/66QoLCDpXEJtcDDt6cQ4U6",
+		"youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_k_AM8wkPXBrBTu0uuC6j7jfSH5kVVPFBw",
+		"appleMusic": "https://music.apple.com/album/1896081943",
+		"akibahobby": "https://shop.akbh.jp/products/2100000176267",
+		"website": "/releases/eclectic-resonance-detuned-alloy-2",
+		"vgmdb": "https://vgmdb.net/album/156245",
+		"deezer": "https://www.deezer.com/album/982267751",
+		"diverse": "https://www.diverse.direct/kodamasounds/ksdl-0023/"
 	}
 }

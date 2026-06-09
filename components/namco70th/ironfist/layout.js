@@ -4,6 +4,7 @@ const newsreader = Newsreader({
 	weight: ['400', '500', '600', '700'],
 	subsets: ['latin'],
 	display: 'swap',
+	fontDisplay: 'swap',
 	style: ['normal'],
 	variable: '--font-newsreader',
 });

@@ -222,7 +222,10 @@ export default function AlbumListing({ slug }) {
 						</a>
 					) : null}
 				</div>
-				{(album.diverse || album.melonbooks || album.akibahobby) && (
+				{(album.diverse ||
+					album.melonbooks ||
+					album.akibahobby ||
+					album.bandcampPhysical) && (
 					<h3 className="text-lg font-semibold mt-4">
 						{t('common:words.physical')}
 					</h3>
@@ -235,6 +238,16 @@ export default function AlbumListing({ slug }) {
 						>
 							<FaCompactDisc className="h-4 w-4 mr-2" />
 							Diverse Direct
+						</a>
+					) : null}
+
+					{album.bandcampPhysical ? (
+						<a
+							href={album.bandcampPhysical}
+							className="kodama_btn kodama_btn--primary"
+						>
+							<FaCompactDisc className="h-4 w-4 mr-2" />
+							Bandcamp (Physical)
 						</a>
 					) : null}
 
@@ -254,7 +267,7 @@ export default function AlbumListing({ slug }) {
 							className="kodama_btn kodama_btn--primary"
 						>
 							<FaCompactDisc className="h-4 w-4 mr-2" />
-							Akiba Hobby
+							AKIBA-HOBBY
 						</a>
 					) : null}
 				</div>

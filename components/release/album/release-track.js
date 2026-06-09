@@ -3,16 +3,13 @@ import { ChevronRightIcon } from '@heroicons/react/20/solid';
 
 import { useRouter } from 'next/router';
 
-export default function ReleaseTrack({ track, key }) {
+export default function ReleaseTrack({ track }) {
 	const { locale } = useRouter();
 
-	function Track({ trackKey, track, locale }) {
+	function Track({ track, locale }) {
 		return (
-			<div
-				className="container max-w-(--breakpoint-sm) mx-auto mb-4 flex content-start items-start px-2 md:px-8"
-				key={trackKey}
-			>
-				<div className="text-xl mr-2 text-[color:var(--release-color)]">
+			<div className="container max-w-(--breakpoint-sm) mx-auto mb-4 flex content-start items-start px-2 md:px-8">
+				<div className="text-xl mr-2 text-[color:var(--release-color)] tabular-nums font-semibold">
 					{track[0].padStart(2, '0')}
 				</div>
 				<div>
@@ -27,7 +24,7 @@ export default function ReleaseTrack({ track, key }) {
 
 					{track[1].artist && (
 						<>
-							<div className="text-sm grow text-left select-none text-current/50 font-extralight	">
+							<div className="text-sm grow text-left select-none text-current/50">
 								{typeof track[1].artist === 'object'
 									? track[1].artist[locale]
 									: track[1].artist}
@@ -40,12 +37,12 @@ export default function ReleaseTrack({ track, key }) {
 	}
 
 	if (track[1].description === undefined) {
-		return <Track track={track} trackKey={key} />;
+		return <Track track={track} locale={locale} />;
 	}
 	return (
-		<Disclosure className="accordion mb-4" key={key} as="div">
+		<Disclosure className="accordion mb-4" as="div">
 			<Disclosure.Button className="w-full flex max-w-(--breakpoint-md) mx-auto">
-				<Track track={track} trackKey={key} locale={locale} />
+				<Track track={track} locale={locale} />
 				<ChevronRightIcon className="ui-open:rotate-90 ui-open:transform transition inline-block h-9 w-9 relative top-0.5 justify-self-end shrink-0 ml-2" />
 			</Disclosure.Button>
 
@@ -61,7 +58,7 @@ export default function ReleaseTrack({ track, key }) {
 					<div className="container max-w-(--breakpoint-sm) mt-2 mx-auto">
 						{track[1].description.map((descParagraph, index) => {
 							return descParagraph === '' ? (
-								<br />
+								<br key={`br-${index}`} />
 							) : (
 								<p key={index} className="mb-2 text-sm">
 									{descParagraph}

@@ -4,5 +4,5 @@
 }
 
 .main {
-	@apply text-black dark:text-white min-h-screen ;
+	@apply text-white min-h-screen;
 } 
