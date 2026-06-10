@@ -428,9 +428,7 @@ export default function AlbumListing({ slug }) {
 					) : null}
 				</div>
 
-
 				{/*BACK TO THE REST*/}
-
 
 				{(album.diverse ||
 					album.melonbooks ||
