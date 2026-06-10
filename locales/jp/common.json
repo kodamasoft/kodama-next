@@ -5,6 +5,10 @@
 		"readmore": "続きを読む",
 		"download": "ダウンロード",
 		"streaming": "ストリーミング",
+		"streaming1": "ストリーミング (Disc 1)",
+		"streaming2": "ストリーミング (Disc 2)",
+		"streaming3": "ストリーミング (Disc 3)",
+		"streaming4": "ストリーミング (Disc 4)",
 		"physical": "物理的"
 	},
 	"home": {

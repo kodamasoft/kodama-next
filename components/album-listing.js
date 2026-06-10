@@ -222,6 +222,216 @@ export default function AlbumListing({ slug }) {
 						</a>
 					) : null}
 				</div>
+
+				{/*YGGDRASIL SPECIFIC*/}
+				{(album.appleMusic1 ||
+					album.spotify1 ||
+					album.deezer1 ||
+					album.youtubeMusic1) && (
+					<h3 className="text-lg font-semibold mt-4">
+						{t('common:words.streaming1')}
+					</h3>
+				)}
+
+				<div className="flex flex-wrap mt-2 gap-4">
+					{album.appleMusic1 ? (
+						<a
+							href={album.appleMusic1}
+							className="kodama_btn kodama_btn--secondary"
+						>
+							<SiApplemusic className="h-4 w-4 mr-2" />
+							Apple Music
+						</a>
+					) : null}
+
+					{album.deezer1 ? (
+						<a
+							href={album.deezer1}
+							className="kodama_btn kodama_btn--secondary"
+						>
+							<DeezerSVG className="h-4 w-4 mr-2" />
+							Deezer
+						</a>
+					) : null}
+
+					{album.spotify1 ? (
+						<a
+							href={album.spotify1}
+							className="kodama_btn kodama_btn--secondary"
+						>
+							<FaSpotify className="h-4 w-4 mr-2" />
+							Spotify
+						</a>
+					) : null}
+
+					{album.youtubeMusic1 ? (
+						<a
+							href={album.youtubeMusic1}
+							className="kodama_btn kodama_btn--secondary"
+						>
+							<SiYoutubemusic className="h-4 w-4 mr-2" />
+							YouTube Music
+						</a>
+					) : null}
+				</div>
+
+				{(album.appleMusic2 ||
+					album.spotify2 ||
+					album.deezer2 ||
+					album.youtubeMusic2) && (
+					<h3 className="text-lg font-semibold mt-4">
+						{t('common:words.streaming2')}
+					</h3>
+				)}
+
+				<div className="flex flex-wrap mt-2 gap-4">
+					{album.appleMusic2 ? (
+						<a
+							href={album.appleMusic2}
+							className="kodama_btn kodama_btn--secondary"
+						>
+							<SiApplemusic className="h-4 w-4 mr-2" />
+							Apple Music
+						</a>
+					) : null}
+
+					{album.deezer2 ? (
+						<a
+							href={album.deezer2}
+							className="kodama_btn kodama_btn--secondary"
+						>
+							<DeezerSVG className="h-4 w-4 mr-2" />
+							Deezer
+						</a>
+					) : null}
+
+					{album.spotify2 ? (
+						<a
+							href={album.spotify2}
+							className="kodama_btn kodama_btn--secondary"
+						>
+							<FaSpotify className="h-4 w-4 mr-2" />
+							Spotify
+						</a>
+					) : null}
+
+					{album.youtubeMusic2 ? (
+						<a
+							href={album.youtubeMusic2}
+							className="kodama_btn kodama_btn--secondary"
+						>
+							<SiYoutubemusic className="h-4 w-4 mr-2" />
+							YouTube Music
+						</a>
+					) : null}
+				</div>
+
+				{(album.appleMusic3 ||
+					album.spotify3 ||
+					album.deezer3 ||
+					album.youtubeMusic3) && (
+					<h3 className="text-lg font-semibold mt-4">
+						{t('common:words.streaming3')}
+					</h3>
+				)}
+
+				<div className="flex flex-wrap mt-2 gap-4">
+					{album.appleMusic3 ? (
+						<a
+							href={album.appleMusic3}
+							className="kodama_btn kodama_btn--secondary"
+						>
+							<SiApplemusic className="h-4 w-4 mr-2" />
+							Apple Music
+						</a>
+					) : null}
+
+					{album.deezer3 ? (
+						<a
+							href={album.deezer3}
+							className="kodama_btn kodama_btn--secondary"
+						>
+							<DeezerSVG className="h-4 w-4 mr-2" />
+							Deezer
+						</a>
+					) : null}
+
+					{album.spotify3 ? (
+						<a
+							href={album.spotify3}
+							className="kodama_btn kodama_btn--secondary"
+						>
+							<FaSpotify className="h-4 w-4 mr-2" />
+							Spotify
+						</a>
+					) : null}
+
+					{album.youtubeMusic3 ? (
+						<a
+							href={album.youtubeMusic3}
+							className="kodama_btn kodama_btn--secondary"
+						>
+							<SiYoutubemusic className="h-4 w-4 mr-2" />
+							YouTube Music
+						</a>
+					) : null}
+				</div>
+
+				{(album.appleMusic4 ||
+					album.spotify4 ||
+					album.deezer4 ||
+					album.youtubeMusic4) && (
+					<h3 className="text-lg font-semibold mt-4">
+						{t('common:words.streaming4')}
+					</h3>
+				)}
+
+				<div className="flex flex-wrap mt-2 gap-4">
+					{album.appleMusic4 ? (
+						<a
+							href={album.appleMusic4}
+							className="kodama_btn kodama_btn--secondary"
+						>
+							<SiApplemusic className="h-4 w-4 mr-2" />
+							Apple Music
+						</a>
+					) : null}
+
+					{album.deezer4 ? (
+						<a
+							href={album.deezer4}
+							className="kodama_btn kodama_btn--secondary"
+						>
+							<DeezerSVG className="h-4 w-4 mr-2" />
+							Deezer
+						</a>
+					) : null}
+
+					{album.spotify4 ? (
+						<a
+							href={album.spotify4}
+							className="kodama_btn kodama_btn--secondary"
+						>
+							<FaSpotify className="h-4 w-4 mr-2" />
+							Spotify
+						</a>
+					) : null}
+
+					{album.youtubeMusic4 ? (
+						<a
+							href={album.youtubeMusic4}
+							className="kodama_btn kodama_btn--secondary"
+						>
+							<SiYoutubemusic className="h-4 w-4 mr-2" />
+							YouTube Music
+						</a>
+					) : null}
+				</div>
+
+
+				{/*BACK TO THE REST*/}
+
+
 				{(album.diverse ||
 					album.melonbooks ||
 					album.akibahobby ||

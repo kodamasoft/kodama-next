@@ -17,6 +17,10 @@
 		"readmore": "Read more",
 		"download": "Download",
 		"streaming": "Streaming",
+		"streaming1": "Streaming (Disc 1)",
+		"streaming2": "Streaming (Disc 2)",
+		"streaming3": "Streaming (Disc 3)",
+		"streaming4": "Streaming (Disc 4)",
 		"physical": "Physical"
 	},
 	"home": {
