@@ -416,5 +416,16 @@
 		"vgmdb": "https://vgmdb.net/album/156245",
 		"deezer": "https://www.deezer.com/album/982267751",
 		"diverse": "https://www.diverse.direct/kodamasounds/ksdl-0023/"
-	}
+	},
+	"hearts-station": {
+        "id": "KSDS-0002",
+        "releaseDate": "2026-06-09T00:00:00+0200",
+        "name": "Heart's Station",
+        "cover": "/assets/discography/covers/KSDS-0002.png",
+        "coverColor": "#0090fe",
+        "bandcamp": "https://kodamasounds.bandcamp.com/track/hearts-station",
+        "booth": "https://kodamasoft.booth.pm/items/8446442",
+        "vgmdb": "https://vgmdb.net/album/160996",
+        "mv": "https://www.youtube.com/watch?v=SbIT1Pxfk2o"
+    }
 }
