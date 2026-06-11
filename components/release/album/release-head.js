@@ -92,9 +92,14 @@ export default function ReleaseHead({
 
 			<div className="container mx-auto">
 				<div className="my-16">
+					{slug === 'la-mulana' ? 
+					<p className="text-center text-sm font-jennerikExtraBold my-4">
+						{t(slug + '.desc')}
+					</p> : (
 					<p className="text-center text-sm my-4">
 						{t(slug + '.desc')}
 					</p>
+					)}
 				</div>
 
 				<div>
