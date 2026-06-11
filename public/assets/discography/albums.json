@@ -455,5 +455,16 @@
         "booth": "https://kodamasoft.booth.pm/items/8446442",
         "vgmdb": "https://vgmdb.net/album/160996",
         "mv": "https://www.youtube.com/watch?v=SbIT1Pxfk2o"
-    }
+    },
+	"la-mulana": {
+		"id": "KSEM-0001",
+        "releaseDate": "2026-06-27T00:00:00+0200",
+        "name": "LA-MULANA -Songs of the 8th Child-",
+        "cover": "/assets/discography/covers/KSDS-0002.png",
+        "coverColor": "#0090fe",
+        "bandcamp": "",
+        "booth": "",
+        "vgmdb": "",
+		"website": "/releases/la-mulana"
+	}
 }
