@@ -5,10 +5,10 @@
 			{
 				"slug": "eclectic-resonance-tremor",
 				"status": "accepting",
-				"percentage": "0",
-				"duration": "00:00",
+				"percentage": "10",
+				"duration": "10:13",
 				"deadline": "2026-08-31T23:59:59Z",
-				"finished_tracks": "0",
+				"finished_tracks": "2",
 				"mastering": {
 					"status": "pending",
 					"engineer": "Volumetrique (KodamaSounds)"
@@ -118,9 +118,9 @@
 			{
 				"slug": "moriya-barista-2",
 				"status": "accepting",
-				"percentage": "65",
-				"duration": "25:22",
-				"finished_tracks": "6",
+				"percentage": "70",
+				"duration": "29:50",
+				"finished_tracks": "7",
 				"deadline": "2026-08-14T23:59:59Z",
 				"mastering": {
 					"status": "pending",
