@@ -454,7 +454,11 @@
         "bandcamp": "https://kodamasounds.bandcamp.com/track/hearts-station",
         "booth": "https://kodamasoft.booth.pm/items/8446442",
         "vgmdb": "https://vgmdb.net/album/160996",
-        "mv": "https://www.youtube.com/watch?v=SbIT1Pxfk2o"
+        "mv": "https://www.youtube.com/watch?v=SbIT1Pxfk2o",
+		"appleMusic": "https://music.apple.com/album/6779988903",
+		"spotify": "https://open.spotify.com/album/1h8d1LsOYOAPMCJ6OdS97A",
+		"deezer": "https://www.deezer.com/album/1003546391",
+		"youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_lyi9bxjYb9kE3UReRpsx75oRWQsjVBZ4Y"
     },
 	"la-mulana": {
 		"id": "KSEM-0001",
