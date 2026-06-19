@@ -79,7 +79,6 @@
 			"vgmdb": "https://vgmdb.net/artist/46083"
 		}
 	},
-
 	"Smart Cat Rides Bicycle": {
 		"name": "Smart Cat Rides Bicycle",
 		"links": {
@@ -3545,5 +3544,68 @@
 			"website": "link",
 			"vgmdb": "link"
 		}
+	},
+	"DoricDream": {
+		"name": "DoricDream"
+	},
+	"Andrew Shouldice": {
+		"name": "Andrew Shouldice"
+	},
+	"FANTOM IRIS": {
+		"name": "FANTOM IRIS"
+	},
+	"Broomietunes": {
+		"name": "Broomietunes"
+	},
+	"Nat Roth": {
+		"name": "Nat Roth"
+	},
+	"Zoey Reed": {
+		"name": "Zoey Reed"
+	},
+	"alexa sophia": {
+		"name": "alexa sophia"
+	},
+	"WASD": {
+		"name": "WASD"
+	},
+	"TrojanHorse711": {
+		"name": "TrojanHorse711"
+	},
+	"June Flower": {
+		"name": "June Flower"
+	},
+	"GaMetal": {
+		"name": "GaMetal"
+	},
+	"bleepmusic": {
+		"name": "bleepmusic"
+	},
+	"イブライ": {
+		"name": "イブライ"
+	},
+	"beatrix quinn": {
+		"name": "beatrix quinn"
+	},
+	"garoslaw": {
+		"name": "garoslaw"
+	},
+	"Jemmysponz": {
+		"name": "Jemmysponz"
+	},
+	"IsabelleChiming": {
+		"name": "IsabelleChiming"
+	},
+	"Tenshio": {
+		"name": "Tenshio"
+	},
+	"Kiara_TV": {
+		"name": "Kiara_TV"
+	},
+	"JUNNY": {
+		"name": "JUNNY"
+	},
+	"Takumi Naramura": {
+		"name": "Takumi Naramura (NIGORO)"
 	}
 }

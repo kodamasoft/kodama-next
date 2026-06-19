@@ -1,80 +1,80 @@
 {
-  "title": "Title",
-  "circle": "Circle",
-  "specification": "Specification",
-  "release_date": "Release Date",
-  "catalog": "Catalog",
-  "booth": "Booth",
-  "price": "Price",
-  "store": "Store",
-  "available_now": "Available now",
-  "0001": {
-    "desc": "KodamaSounds' first album, centered around Touhou Project, featuring tons of artists from all around the world!"
-  },
-  "gensokyo-party-vol3": {
-    "desc": "Just lay down for a bit. Appreciate the moment, and let’s let go of last year’s intensity. Moriya Barista will be an ideal album for people who just want something nice, groovy or cozy, accessible to anyone to pick up and listen to."
-  },
-  "eclectic-resonance-uprising": {
-    "desc": "Sometimes you just need a good burst of dopamine to help through tough times. Sometimes you just need to headbang to some absurd tunes. Absurd drums, absurd sampling… Some might call it music for the deranged, and not for the faint of heart. Maybe they’re right. But we’re into it, and that’s not gonna stop us from making even more. ECLECTIC RESONANCE UPRISING is all about original hardcore electronic music, J-core, and whatever name you wanna give it."
-  },
-  "eclectic-resonance-uprising-2": {
-    "desc": "Time for a descent into madness. As you dig deeper into the UPRISING in this sequel, the joyful ecstasy of your destructive spree will leave your mind with nothing but more lust for bloodshed. Don't lose your soul. ECLECTIC RESONANCE UPRISING 2 is the sequel to our HARD EDM original work compilation album, filled with high quality hardcore songs ranging from happy and energetic to dark and twisted."
-  },
-  "eclectic-resonance-detuned-alloy": {
-    "desc": "Grab your gear, and get your fingers in shape: Detuned Alloy is an album for all guitar lovers out there. “Detuned Alloy” is the Rock/Hard Rock/Metal variant of our “ECLECTIC RESONANCE” original work album series, where the featured tracks are focused on all kinds of acoustic/rock music styles. For centuries, guitars and guitar-like instruments have been used for their flexibility and sonic characteristics. More recently, innovations such as the electric guitar have completely transformed and defined the sounds of genres ranging from blues and rock to heavy metal and jazz. Whether clean or distorted, acoustic or electric, the timbre of the guitar has affected or shaped a significant portion of the music that we listen to today, and KodamaSounds is celebrating that legacy with ECLECTIC RESONANCE Detuned Alloy."
-  },
-  "gensokyo-party-vol4": {
-    "desc": "\"DJ Koishi\" is a variant of our \"Gensokyo Party\" series, where the featured tracks are planned to be very rhythmic, juicy, electronic and noisy.  The green haired satori has had enough. She’s bored to death, and manipulating people is just not as fun as it used to be… And thus, she decided to become a DJ! Manipulating people through thick beats is much more fun than using your powers! …Wait, seriously?"
-  },
-  "katamania": {
-    "desc": "Nanaaaa-nanananaaa~... Who doesn’t love Katamari? If there’s one game series that embraces love, care, pure fun and beauty into one, it’s this one. Now show us what you’re made of, and come roll with us with your musical talent, and let’s take the world by storm with a BEAUTIFUL Katamari filled with LOVE and music, FOREVER and ever!"
-  },
-  "eclectic-resonance-memories": {
-    "desc": "The cogs of nostalgia and electronic music are in gear, roaming in unison. From simple happy melodies to the depths of complex audio programming, it’s up to you to complete your task. ECLECTIC RESONANCE Memories is all about Chiptune & FM Music."
-  },
-  "gensokyo-party-vol5": {
-    "desc": "Another war. Another mistake. Gensokyo is once again in turmoil, and the feist of violence shall not end until nothing but dust and blood remains. Gensokyo Party Vol. 5 VANTABLACK 2 is another entry in our Touhou arrangement album series, and yet another bloodthirsty chapter to the VANTABLACK variant, focused on a dark and gritty atmosphere."
-  },
-  "midnight-syndrome": {
-    "desc": "It's Game Time! Take a deep cut back into Grasshopper Manufacture's extensive history, filled with arrangements of amazing songs picked out of many gems developped by SUDA51's lovely studio, from Moonlight Syndrome to No More Heroes 3."
-  },
-  "eclectic-resonance-hollow-horizons": {
-    "desc": "There’s always more to music than meets the eye. Sometimes, less is more. You may just need something to space out to. Something for those critical moments in life, wondering about what your next step in life should be. ECLECTIC RESONANCE hollow horizons is about wondering what’s next and contemplation, with ambient electronic beats for you to reflect upon. “hollow horizons” is a variant of our “ECLECTIC RESONANCE” original work albums, where the featured tracks are contemplative electronic songs. Ranges from traditional techno to more complex IDM, this album is particularly rich in its intended texture, ready for you to play at any time, any day."
-  },
-  "eclectic-resonance-legendaria": {
-    "desc": "Legends once foretold of a magical music compilation… One with heroic pieces, and warm songs of nostalgia. ECLECTIC RESONANCE Legendaria is a tale not to be forgotten… Warning: This album may contain tunes only fit for slaying demon lords, wandering through neverending mossy forests, drinking at the tavern, and more. “Legendaria” is the Fantasy variant of our “ECLECTIC RESONANCE” original work album series, where the featured tracks are inspired by JRPGs, Anime soundtracks, classical and celtic music. Classical instruments evocating fantasy sceneries are recommended."
-  },
-  "eclectic-resonance-escapism": {
-    "desc": "Focus on what’s ahead. Contemplate tomorrow, take a breather, and let your soul wash away all of its pain - escape, and ascend. \"Escapism\" is an \"ECLECTIC RESONANCE\" original work entry with a focus on Uplifting sonorities, and progressiveness. Inspired by long pieces and intoxicating trance/progressive house, we hope that you can close your eyes while listening to this album, and feel ready to face the day."
-  },
-  "gensokyo-party-vol6": {
-    "desc": "The barrier that once held Gensokyo together and free of the turmoil of the outside world is no more. The shrine maiden is at a standstill, faced with the ruins of what once was her home - saccaged and ruined by the turmoil of the outside world. Now, Gensokyo is nothing but the shadow of its former self. Fragments and shards of memories scattered around, old friends and enemies alike now fight for their lives. As some try to rebuild what they loved and holds firm, the other ones try to move on and build something anew. “Border in Stasis” is a conceptual Touhou arrange album project, and is probably our most ambitious one to this day. “Gensokyo in Ruins” is the keyword, and advocates the melancholy of Gensokyo, deprived of its former glory. Through emotional pieces, songs of recollection, and tunes of turmoil."
-  },
+	"title": "Title",
+	"circle": "Circle",
+	"specification": "Specification",
+	"release_date": "Release Date",
+	"catalog": "Catalog",
+	"booth": "Booth",
+	"price": "Price",
+	"store": "Store",
+	"available_now": "Available now",
+	"0001": {
+		"desc": "KodamaSounds' first album, centered around Touhou Project, featuring tons of artists from all around the world!"
+	},
+	"gensokyo-party-vol3": {
+		"desc": "Just lay down for a bit. Appreciate the moment, and let’s let go of last year’s intensity. Moriya Barista will be an ideal album for people who just want something nice, groovy or cozy, accessible to anyone to pick up and listen to."
+	},
+	"eclectic-resonance-uprising": {
+		"desc": "Sometimes you just need a good burst of dopamine to help through tough times. Sometimes you just need to headbang to some absurd tunes. Absurd drums, absurd sampling… Some might call it music for the deranged, and not for the faint of heart. Maybe they’re right. But we’re into it, and that’s not gonna stop us from making even more. ECLECTIC RESONANCE UPRISING is all about original hardcore electronic music, J-core, and whatever name you wanna give it."
+	},
+	"eclectic-resonance-uprising-2": {
+		"desc": "Time for a descent into madness. As you dig deeper into the UPRISING in this sequel, the joyful ecstasy of your destructive spree will leave your mind with nothing but more lust for bloodshed. Don't lose your soul. ECLECTIC RESONANCE UPRISING 2 is the sequel to our HARD EDM original work compilation album, filled with high quality hardcore songs ranging from happy and energetic to dark and twisted."
+	},
+	"eclectic-resonance-detuned-alloy": {
+		"desc": "Grab your gear, and get your fingers in shape: Detuned Alloy is an album for all guitar lovers out there. “Detuned Alloy” is the Rock/Hard Rock/Metal variant of our “ECLECTIC RESONANCE” original work album series, where the featured tracks are focused on all kinds of acoustic/rock music styles. For centuries, guitars and guitar-like instruments have been used for their flexibility and sonic characteristics. More recently, innovations such as the electric guitar have completely transformed and defined the sounds of genres ranging from blues and rock to heavy metal and jazz. Whether clean or distorted, acoustic or electric, the timbre of the guitar has affected or shaped a significant portion of the music that we listen to today, and KodamaSounds is celebrating that legacy with ECLECTIC RESONANCE Detuned Alloy."
+	},
+	"gensokyo-party-vol4": {
+		"desc": "\"DJ Koishi\" is a variant of our \"Gensokyo Party\" series, where the featured tracks are planned to be very rhythmic, juicy, electronic and noisy.  The green haired satori has had enough. She’s bored to death, and manipulating people is just not as fun as it used to be… And thus, she decided to become a DJ! Manipulating people through thick beats is much more fun than using your powers! …Wait, seriously?"
+	},
+	"katamania": {
+		"desc": "Nanaaaa-nanananaaa~... Who doesn’t love Katamari? If there’s one game series that embraces love, care, pure fun and beauty into one, it’s this one. Now show us what you’re made of, and come roll with us with your musical talent, and let’s take the world by storm with a BEAUTIFUL Katamari filled with LOVE and music, FOREVER and ever!"
+	},
+	"eclectic-resonance-memories": {
+		"desc": "The cogs of nostalgia and electronic music are in gear, roaming in unison. From simple happy melodies to the depths of complex audio programming, it’s up to you to complete your task. ECLECTIC RESONANCE Memories is all about Chiptune & FM Music."
+	},
+	"gensokyo-party-vol5": {
+		"desc": "Another war. Another mistake. Gensokyo is once again in turmoil, and the feist of violence shall not end until nothing but dust and blood remains. Gensokyo Party Vol. 5 VANTABLACK 2 is another entry in our Touhou arrangement album series, and yet another bloodthirsty chapter to the VANTABLACK variant, focused on a dark and gritty atmosphere."
+	},
+	"midnight-syndrome": {
+		"desc": "It's Game Time! Take a deep cut back into Grasshopper Manufacture's extensive history, filled with arrangements of amazing songs picked out of many gems developped by SUDA51's lovely studio, from Moonlight Syndrome to No More Heroes 3."
+	},
+	"eclectic-resonance-hollow-horizons": {
+		"desc": "There’s always more to music than meets the eye. Sometimes, less is more. You may just need something to space out to. Something for those critical moments in life, wondering about what your next step in life should be. ECLECTIC RESONANCE hollow horizons is about wondering what’s next and contemplation, with ambient electronic beats for you to reflect upon. “hollow horizons” is a variant of our “ECLECTIC RESONANCE” original work albums, where the featured tracks are contemplative electronic songs. Ranges from traditional techno to more complex IDM, this album is particularly rich in its intended texture, ready for you to play at any time, any day."
+	},
+	"eclectic-resonance-legendaria": {
+		"desc": "Legends once foretold of a magical music compilation… One with heroic pieces, and warm songs of nostalgia. ECLECTIC RESONANCE Legendaria is a tale not to be forgotten… Warning: This album may contain tunes only fit for slaying demon lords, wandering through neverending mossy forests, drinking at the tavern, and more. “Legendaria” is the Fantasy variant of our “ECLECTIC RESONANCE” original work album series, where the featured tracks are inspired by JRPGs, Anime soundtracks, classical and celtic music. Classical instruments evocating fantasy sceneries are recommended."
+	},
+	"eclectic-resonance-escapism": {
+		"desc": "Focus on what’s ahead. Contemplate tomorrow, take a breather, and let your soul wash away all of its pain - escape, and ascend. \"Escapism\" is an \"ECLECTIC RESONANCE\" original work entry with a focus on Uplifting sonorities, and progressiveness. Inspired by long pieces and intoxicating trance/progressive house, we hope that you can close your eyes while listening to this album, and feel ready to face the day."
+	},
+	"gensokyo-party-vol6": {
+		"desc": "The barrier that once held Gensokyo together and free of the turmoil of the outside world is no more. The shrine maiden is at a standstill, faced with the ruins of what once was her home - saccaged and ruined by the turmoil of the outside world. Now, Gensokyo is nothing but the shadow of its former self. Fragments and shards of memories scattered around, old friends and enemies alike now fight for their lives. As some try to rebuild what they loved and holds firm, the other ones try to move on and build something anew. “Border in Stasis” is a conceptual Touhou arrange album project, and is probably our most ambitious one to this day. “Gensokyo in Ruins” is the keyword, and advocates the melancholy of Gensokyo, deprived of its former glory. Through emotional pieces, songs of recollection, and tunes of turmoil."
+	},
 	"phantasmal-metamorphosis": {
 		"desc": "A Sonic Journey Through Gensokyo. Step into the spellbound world of Touhou Project like never before. KoDyMaxx reshapes familiar themes with a kaleidoscope of sound—classic rock riffs, blistering metal assaults, synth-driven dreamscapes, and delicate acoustic moments collide in a genre-morphing tribute to the beloved characters of Gensokyo. From the icy bravado of Cirno to the clockwork elegance of Sakuya and Marisa’s explosive magic, each track transforms with the spirit of its muse. This isn’t just a cover album—it’s musical shapeshifting. Each song reimagines a theme through the lens of a different band or era, forging a wild and unpredictable ride through sound and story. Daring. Dynamic. Danmaku-fueled. This is KoDyMaxx: Reforged Fantasies."
 	},
 	"lapis-lazuli": {
 		"desc": "A deep dive in the ocean that just goes on  as far as the abyss. In there, our thoughts blend as the colors dim. The blue from the sky and the sea become nothing but astral projections of our collective unconsciousness. In this dark world, our imagination breaks free and takes ahold of reality. \"Yume ga ukiyo ka, Ukiyo ga yume ka\" ; is The Dream just a floating world, or is the world just a fleeting dream? So clear your mind, take a deep breath and join us in the heart of the sea, within the Lapis Lazuli."
-  },
-  "eclectic-resonance-paradise": {
-    "desc": "Stash your worries away for now, let’s just go on a nice trip and transform your frown into a smile. Come over for a ride, and don’t forget your sunglasses and your sunscreen! “PARADISE” is another entry in our “ECLECTIC RESONANCE” original work album series, with a focus on genres with an upbeat, tropical, poppy and energetic sonority. Inspired by the carefree sounding nature of pre-2000 free jazz, jazz fusion and funk tunes, PARADISE also focuses on more modern and lighter sounding genres of EDM, such as House, Garage and Electroswing."
-  },
-  "eclectic-resonance-uprising-3": {
-    "desc": "A clash between heaven and earth. A devoted young girl against a malicious enemy, the sound of their clashes echoing within the distant underground. The fury of their fight will bring an earth-shattering doom upon one or the other. ECLECTIC RESONANCE UPRISING 3 represents the apex of this discord, blasting away songs of hope and despair - in an avalanche of sounds, bringing you closer to heaven or hell."
-  },
-  "eclectic-resonance-memories-2": {
-    "desc": "Together, our past will be made anew. What is it about the days gone by that bonds the young and wise, the west and east, the smiles and tears? With the technology of old we will find out, and create some new memories to cherish along the way. \"Memories 2\" takes the \"ECLECTIC RESONANCE\" series of original work albums back into Chiptune territory to once again explore the hardware and techniques of early sound chips, whether it be PSG, FM, wavetable or sample-based. Enjoy a wide range of genres and styles filtered through the instruments of a digital era that has bridged cultures and generations."
-  },
-  "yggdrasil": {
-    "desc": "The roots of the YGGDRASIL take shape and form, to create an ascension towards a new future. \"YGGDRASIL\" is KodamaSounds' 5th massive anniversary project, with the goal of celebrating the legacy and future of the circle. You will see familiar faces, maybe even some new ones. We just hope the sprout of this tree will grow larger and prettier as time goes on, and that you will be able to reminisce and discover new grounds. We hope you can feel the creativity of this tree carrying your feelings for you alongside ours."
-  },
-  "touhou-fractured-transience": {
-    "desc": "KodamaSounds' very first global soundtrack release! Enjoy those smashing- I mean, incredible tracks of various genres and styles from the hot, fresh, stylish and brand new platform fighting game 'Touhou Fractured Transience'! Although the game remains in an unfinished state, we are looking forward into exploring this game's interesting concept further. We hope to see you again someday!"
-  },
-  "eclectic-resonance-detuned-alloy-2": {
-    "desc": "Ain't nothing like a good riff. Detuned Alloy 2 is the sequel album to our emblematic acoustic and sonic original compilation. Old and new blood mix for a perfect sequel worthy to be called a new successor and ambassador of the best rock the doujin scene can offer."
-  },
-  "la-mulana": {
-    "desc": "Oh my god. Oh my goodness gracious"
-  }
+	},
+	"eclectic-resonance-paradise": {
+		"desc": "Stash your worries away for now, let’s just go on a nice trip and transform your frown into a smile. Come over for a ride, and don’t forget your sunglasses and your sunscreen! “PARADISE” is another entry in our “ECLECTIC RESONANCE” original work album series, with a focus on genres with an upbeat, tropical, poppy and energetic sonority. Inspired by the carefree sounding nature of pre-2000 free jazz, jazz fusion and funk tunes, PARADISE also focuses on more modern and lighter sounding genres of EDM, such as House, Garage and Electroswing."
+	},
+	"eclectic-resonance-uprising-3": {
+		"desc": "A clash between heaven and earth. A devoted young girl against a malicious enemy, the sound of their clashes echoing within the distant underground. The fury of their fight will bring an earth-shattering doom upon one or the other. ECLECTIC RESONANCE UPRISING 3 represents the apex of this discord, blasting away songs of hope and despair - in an avalanche of sounds, bringing you closer to heaven or hell."
+	},
+	"eclectic-resonance-memories-2": {
+		"desc": "Together, our past will be made anew. What is it about the days gone by that bonds the young and wise, the west and east, the smiles and tears? With the technology of old we will find out, and create some new memories to cherish along the way. \"Memories 2\" takes the \"ECLECTIC RESONANCE\" series of original work albums back into Chiptune territory to once again explore the hardware and techniques of early sound chips, whether it be PSG, FM, wavetable or sample-based. Enjoy a wide range of genres and styles filtered through the instruments of a digital era that has bridged cultures and generations."
+	},
+	"yggdrasil": {
+		"desc": "The roots of the YGGDRASIL take shape and form, to create an ascension towards a new future. \"YGGDRASIL\" is KodamaSounds' 5th massive anniversary project, with the goal of celebrating the legacy and future of the circle. You will see familiar faces, maybe even some new ones. We just hope the sprout of this tree will grow larger and prettier as time goes on, and that you will be able to reminisce and discover new grounds. We hope you can feel the creativity of this tree carrying your feelings for you alongside ours."
+	},
+	"touhou-fractured-transience": {
+		"desc": "KodamaSounds' very first global soundtrack release! Enjoy those smashing- I mean, incredible tracks of various genres and styles from the hot, fresh, stylish and brand new platform fighting game 'Touhou Fractured Transience'! Although the game remains in an unfinished state, we are looking forward into exploring this game's interesting concept further. We hope to see you again someday!"
+	},
+	"eclectic-resonance-detuned-alloy-2": {
+		"desc": "Ain't nothing like a good riff. Detuned Alloy 2 is the sequel album to our emblematic acoustic and sonic original compilation. Old and new blood mix for a perfect sequel worthy to be called a new successor and ambassador of the best rock the doujin scene can offer."
+	},
+	"la-mulana": {
+		"desc": "The ruins of La-Mulana. Record of an ancient civilization, buried beneath divine constructs and forgotten scripture. The 8th Child descended. Seeking answers. Seeking truth. Twenty years. Echoes remain. Music reborn from halls where knowledge once resounded. Twentieth year. Echoes gathered — arrangements from sealed knowledge. Where nothing was forgotten. Nothing remains undone."
+	}
 }

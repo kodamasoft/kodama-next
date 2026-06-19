@@ -4,12 +4,14 @@
 import DefaultTheme from './default';
 import BlankTheme from './blank';
 import YggdrasilTheme from './yggdrasil';
+import LaMulanaTheme from './la-mulana';
 
 // Theme registry - add new themes here
 const themeRegistry = {
 	default: DefaultTheme,
 	blank: BlankTheme,
 	yggdrasil: YggdrasilTheme,
+	'la-mulana': LaMulanaTheme,
 };
 
 export function getTheme(themeName = 'default') {

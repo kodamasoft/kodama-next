@@ -94,6 +94,98 @@ html {
     color-scheme: dark;
 }
 
+.theme-la-mulana {
+    --font-release: var(--font-lora), Georgia, 'Times New Roman', serif;
+}
+
+/* ─── La-Mulana Album Cover Animation ─────────────────── */
+.la-mulana-cover-layer {
+    position: absolute;
+    inset: 0;
+    opacity: 0;
+    transition:
+        opacity   650ms cubic-bezier(0.22, 1, 0.36, 1),
+        transform 650ms cubic-bezier(0.22, 1, 0.36, 1),
+        filter    650ms cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.la-mulana-cover-layer-bg             { z-index: 1; }
+.la-mulana-cover-layer-lighting       { z-index: 2; mix-blend-mode: screen; transform-origin: center; transition: none; }
+.la-mulana-cover-layer-char-2         { z-index: 3; transform: translateX(24px); transition-delay: 560ms; }
+.la-mulana-cover-layer-char-3         { z-index: 4; transform: translateY(-20px); transition-delay: 200ms; }
+.la-mulana-cover-layer-char-1         { z-index: 5; transform: translateX(-24px); transition-delay: 400ms; }
+.la-mulana-cover-layer-main           { z-index: 6; transform: translateY(32px); transition-delay: 720ms; }
+.la-mulana-cover-layer-subtitle-bg    { z-index: 22; transform: scale(0.94); transition-delay: 960ms; }
+.la-mulana-cover-layer-subtitle-staff { z-index: 23; transform: scale(0.94); transition-delay: 1080ms; }
+.la-mulana-cover-layer-subtitle-text  { z-index: 24; transform: scale(0.94); transition-delay: 1200ms; }
+.la-mulana-cover-layer-logo           { z-index: 25; transform: scale(0.88); filter: blur(4px); transition-delay: 1400ms; }
+
+/*
+ * Desktop overrides for the La-Mulana cover layers.
+ *
+ * All character PNGs are square (374×374) and rendered with object-fit:contain.
+ * In a landscape viewport (vw > svh) the image always scales by height, so:
+ *   rendered size  = 100svh × 100svh
+ *   horizontal offset (centered) = (vw - svh) / 2
+ *   left edge  = calc(50vw - 50svh)
+ *   right edge = calc(50vw + 50svh)
+ *
+ * Use these landmarks to position masks/gradients relative to the actual
+ * image content instead of the full viewport width.
+ * e.g. X% through the image = calc(50vw - 50svh + X * 1svh)
+ */
+@media (min-width: 768px) {
+    .la-mulana-cover-layer-bg img,
+    .la-mulana-cover-layer-lighting img {
+        object-fit: cover;
+    }
+
+    /* char-3 (girl, right side) is cut at the right edge of the PNG —
+       fade her arm out before the hard cut. Start at 86% through the image. */
+    .la-mulana-cover-layer-char-3 {
+        mask-image: linear-gradient(
+            to right,
+            black calc(50vw + 36svh),
+            transparent calc(50vw + 50svh)
+        );
+    }
+}
+
+.la-mulana-cover.is-visible .la-mulana-cover-layer {
+    opacity: 1;
+    transform: none;
+    filter: none;
+}
+
+@keyframes la-mulana-light-fadein {
+    from { opacity: 0;   }
+    to   { opacity: 0.4; }
+}
+
+@keyframes la-mulana-breathe {
+    0%, 100% { opacity: 0.4; }
+    50%       { opacity: 1.0; }
+}
+
+.la-mulana-cover.is-visible .la-mulana-cover-layer-lighting {
+    animation:
+        la-mulana-breathe    7s   ease-in-out                        2350ms infinite,
+        la-mulana-light-fadein 650ms cubic-bezier(0.22, 1, 0.36, 1) 1700ms backwards;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .la-mulana-cover-layer {
+        transition: opacity 400ms ease;
+        transform: none !important;
+        filter: none !important;
+    }
+    .la-mulana-cover.is-visible .la-mulana-cover-layer-lighting {
+        animation: none;
+        opacity: 0.7;
+    }
+}
+
+
 .kodama_btn {
     @apply py-2 px-3 text-xs font-medium text-center text-white rounded-lg focus:ring-4 inline-flex transition items-center;
     @apply bg-slate-600 hover:bg-slate-700 focus:ring-slate-800;

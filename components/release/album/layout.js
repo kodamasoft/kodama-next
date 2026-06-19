@@ -4,12 +4,26 @@ import useTranslation from 'next-translate/useTranslation';
 
 import { getTheme } from './themes';
 
-import { Noto_Sans_JP } from 'next/font/google';
+import { Noto_Sans_JP, Lora, Playfair_Display } from 'next/font/google';
 
 const noto = Noto_Sans_JP({
 	subsets: ['latin'],
 	weight: ['400', '900'],
 	variable: '--font-noto',
+});
+
+const lora = Lora({
+	subsets: ['latin'],
+	weight: ['400', '500', '600', '700'],
+	style: ['normal', 'italic'],
+	variable: '--font-lora',
+});
+
+const playfair = Playfair_Display({
+	subsets: ['latin'],
+	weight: ['400', '500', '600', '700', '800', '900'],
+	style: ['normal', 'italic'],
+	variable: '--font-playfair',
 });
 
 export default function ReleaseLayout({ release }) {
@@ -92,7 +106,7 @@ export default function ReleaseLayout({ release }) {
 				/>
 			</Head>
 			<div
-				className={`${noto.variable} font-release min-h-screen pb-1 bg-cover bg-center`}
+				className={`${noto.variable} ${lora.variable} ${playfair.variable} theme-${themeName} font-release min-h-screen pb-1 bg-cover bg-center`}
 				style={{
 					color: `#${release.background?.text_color || 'ffffff'}`,
 					backgroundColor: `#${backgroundColor}`,
@@ -128,7 +142,9 @@ export default function ReleaseLayout({ release }) {
 					tracklist={release.tracklist}
 					suppressHydrationWarning={true}
 				/>
-				<ReleaseYouTubeEmbed youtube={release.youtube_id} />
+				{release.youtube_id && (
+					<ReleaseYouTubeEmbed youtube={release.youtube_id} />
+				)}
 				<ReleaseCredits credits={release.credits} />
 				<ReleaseFooter
 					slug={release.slug}
