@@ -1,16 +1,14 @@
 {
 	"slug": "la-mulana",
-	"logo": "/assets/discography/logos/0023.png",
+	"logo": "/assets/discography/logos/KSEM-0001.png",
 	"color": "62ebe2",
-	"soundcloud_track_id": null,
-	"cover": "/assets/discography/covers/0023.png",
+	"soundcloud_track_id": "2301629312",
+	"cover": "/assets/discography/covers/KSEM-0001.png",
 	"header": {
-		"image": "/assets/discography/headers/0023.png"
+		"image": "/assets/discography/headers/KSEM-0001.png"
 	},
-	"theme": "la-mulana",
 	"background": {
-		"color": "f2ede3",
-		"text_color": "2c1a0e"
+		"color": "6d1243"
 	},
 	"title": "LA-MULANA -Songs of the 8th Child-",
 	"circle": {
@@ -21,11 +19,6 @@
 	"release_date": "June 27th, 2026",
 	"catalog": "KSEM-0001",
 	"price": "Name Your Price",
-	"booth": {
-		"link": "https://x.com/kodamasoft",
-		"name": "KodamaSounds & Rolling Bassline",
-		"other": " / 第一展示場 F-12a"
-	},
 	"store": {
 		"bandcamp": {
 			"name": "Bandcamp",
@@ -33,10 +26,10 @@
 		},
 		"booth": {
 			"name": "BOOTH",
-			"link": "https://kodamasoft.booth.pm/items/8524126"
+			"link": "ttps://kodamasoft.booth.pm/items/8524126"
 		}
 	},
-	"tracklist": {
+		"tracklist": {
 		"01": {
 			"title": "Return Me To Heaven, My Children",
 			"artist": "DoricDream feat. Andrew Shouldice"
