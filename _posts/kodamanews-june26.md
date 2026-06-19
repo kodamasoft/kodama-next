@@ -65,8 +65,7 @@ For once, we'll try not to prepare those at the last moment! (and we hope this w
 
 marklincadet will be organizing a COUNTERFEST special Chiptune/FM album! Deadline is planned to be on January 4th, with a release around February 5th. If you wanted to make some self-defining chiptune, original or arranged, it's definitely the album for you. At this point, Kodama and COUNTERFEST both have their own UPRISING/Memories-like series…
 
-[Check Out the Project Page Over Here!](#) 
-<marquee style="margin-top: 1em;" behavior="scroll" direction="left" scrollamount="5">link missing</marquee>
+[Check Out the Project Page Over Here!](https://counterfest.kodamasoft.net/projects/counterfest-bomb-disposal)
 
 ### ECLECTIC RESONANCE Sequel Album
 
