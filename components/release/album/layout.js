@@ -140,6 +140,7 @@ export default function ReleaseLayout({ release }) {
 				<ReleaseCallToAction store={release.store} />
 				<ReleaseTracklist
 					tracklist={release.tracklist}
+					bonus_tracklist={release.bonus_tracklist}
 					suppressHydrationWarning={true}
 				/>
 				{release.youtube_id && (

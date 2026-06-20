@@ -1,5 +1,6 @@
 import { useRef, useState, useEffect } from 'react';
 import Image from 'next/image';
+import Link from 'next/link';
 import useTranslation from 'next-translate/useTranslation';
 import ReleaseNav from '../release-nav';
 
@@ -143,7 +144,22 @@ export default function LaMulanaHead({ slug, sc_track_id, color }) {
 
 				{/* Navigation — overlaid */}
 				<div className="absolute top-0 inset-x-0 z-30 pt-4">
-					<ReleaseNav />
+					<ReleaseNav
+						extraLogo={
+							<Link
+								href="https://bsky.app/profile/engamusica.bsky.social"
+								target="_blank"
+							>
+								<Image
+									src="/assets/enga-musica-logo.png"
+									width={70}
+									height={70}
+									alt="Enga Musica"
+									quality={100}
+								/>
+							</Link>
+						}
+					/>
 				</div>
 
 				{/* Bottom fade to page background */}
@@ -161,7 +177,7 @@ export default function LaMulanaHead({ slug, sc_track_id, color }) {
 			<div className="container mx-auto">
 				<div className="my-12 max-w-2xl mx-auto text-center px-4">
 					<p
-						className="text-sm leading-relaxed italic"
+						className="text-sm leading-relaxed italic whitespace-pre-line"
 						style={{ fontFamily: 'var(--font-lora), serif' }}
 					>
 						{t(slug + '.desc')}
