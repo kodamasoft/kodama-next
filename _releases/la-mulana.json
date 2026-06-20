@@ -2,14 +2,12 @@
 	"slug": "la-mulana",
 	"theme": "la-mulana",
 	"logo": "/assets/discography/logos/KSEM-0001.png",
-	"color": "62ebe2",
+	"color": "FEEC33",
 	"soundcloud_track_id": "2301629312",
 	"cover": "/assets/discography/covers/KSEM-0001.png",
-	"header": {
-		"image": "/assets/discography/headers/KSEM-0001.png"
-	},
 	"background": {
-		"color": "6d1243"
+		"color": "C19E75",
+		"text_color": "422719"
 	},
 	"title": "LA-MULANA -Songs of the 8th Child-",
 	"circle": {

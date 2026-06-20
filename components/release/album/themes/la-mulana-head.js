@@ -7,70 +7,70 @@ import ReleaseNav from '../release-nav';
 const LAYERS = [
 	{
 		key: 'bg',
-		src: '/assets/discography/album-cover/0023/bg.png',
+		src: '/assets/discography/headers/KSEM-0001/bg.png',
 		alt: 'Background',
 		priority: true,
 		fit: 'contain',
 	},
 	{
 		key: 'lighting',
-		src: '/assets/discography/album-cover/0023/lighting.png',
+		src: '/assets/discography/headers/KSEM-0001/lighting.png',
 		alt: '',
 		priority: true,
 		fit: 'contain',
 	},
 	{
 		key: 'char-2',
-		src: '/assets/discography/album-cover/0023/char-2.png',
+		src: '/assets/discography/headers/KSEM-0001/char-2.png',
 		alt: 'Character 2',
 		priority: false,
 		fit: 'contain',
 	},
 	{
 		key: 'char-3',
-		src: '/assets/discography/album-cover/0023/char-3.png',
+		src: '/assets/discography/headers/KSEM-0001/char-3.png',
 		alt: 'Character 3',
 		priority: false,
 		fit: 'contain',
 	},
 	{
 		key: 'char-1',
-		src: '/assets/discography/album-cover/0023/char-1.png',
+		src: '/assets/discography/headers/KSEM-0001/char-1.png',
 		alt: 'Character 1',
 		priority: false,
 		fit: 'contain',
 	},
 	{
 		key: 'main',
-		src: '/assets/discography/album-cover/0023/main.png',
+		src: '/assets/discography/headers/KSEM-0001/main.png',
 		alt: 'Main character',
 		priority: false,
 		fit: 'contain',
 	},
 	{
 		key: 'subtitle-bg',
-		src: '/assets/discography/album-cover/0023/subtitle-bg.png',
+		src: '/assets/discography/headers/KSEM-0001/subtitle-bg.png',
 		alt: 'Subtitle background',
 		priority: false,
 		fit: 'contain',
 	},
 	{
 		key: 'subtitle-staff',
-		src: '/assets/discography/album-cover/0023/subtitle-bg.png',
+		src: '/assets/discography/headers/KSEM-0001/subtitle-notes.png',
 		alt: 'Subtitle background',
 		priority: false,
 		fit: 'contain',
 	},
 	{
 		key: 'subtitle-text',
-		src: '/assets/discography/album-cover/0023/subtitle-text.png',
+		src: '/assets/discography/headers/KSEM-0001/subtitle-text.png',
 		alt: 'Subtitle text',
 		priority: false,
 		fit: 'contain',
 	},
 	{
 		key: 'logo',
-		src: '/assets/discography/album-cover/0023/logo.png',
+		src: '/assets/discography/headers/KSEM-0001/logo.png',
 		alt: 'Logo',
 		priority: false,
 		fit: 'contain',
@@ -118,7 +118,7 @@ export default function LaMulanaHead({ slug, sc_track_id, color }) {
 			<div
 				ref={coverRef}
 				className={`la-mulana-cover relative w-full overflow-hidden${isVisible ? ' is-visible' : ''}`}
-				style={{ height: '100svh', backgroundColor: '#6d1243' }}
+				style={{ height: '100svh' }}
 			>
 				{/* Layers */}
 				{LAYERS.map(({ key, src, alt, priority, fit }) => (
@@ -162,13 +162,22 @@ export default function LaMulanaHead({ slug, sc_track_id, color }) {
 					/>
 				</div>
 
-				{/* Bottom fade to page background */}
+				{/* Top fade */}
+				<div
+					className="absolute top-0 inset-x-0 z-20 pointer-events-none"
+					style={{
+						height: '120px',
+						background:
+							'linear-gradient(to bottom, var(--background-color) 0%, transparent 100%)',
+					}}
+				/>
+				{/* Bottom fade */}
 				<div
 					className="absolute bottom-0 inset-x-0 z-20 pointer-events-none"
 					style={{
 						height: '220px',
 						background:
-							'linear-gradient(to bottom, transparent 0%, #f2ede3 100%)',
+							'linear-gradient(to bottom, transparent 0%, var(--background-color) 100%)',
 					}}
 				/>
 			</div>
