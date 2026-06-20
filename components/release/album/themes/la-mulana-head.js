@@ -7,70 +7,70 @@ import ReleaseNav from '../release-nav';
 const LAYERS = [
 	{
 		key: 'bg',
-		src: '/assets/discography/headers/KSEM-0001/bg.png',
+		src: '/assets/discography/headers/KSEM-0001/bg.webp',
 		alt: 'Background',
 		priority: true,
 		fit: 'contain',
 	},
 	{
 		key: 'lighting',
-		src: '/assets/discography/headers/KSEM-0001/lighting.png',
+		src: '/assets/discography/headers/KSEM-0001/lighting.webp',
 		alt: '',
 		priority: true,
 		fit: 'contain',
 	},
 	{
 		key: 'char-2',
-		src: '/assets/discography/headers/KSEM-0001/char-2.png',
+		src: '/assets/discography/headers/KSEM-0001/char-2.webp',
 		alt: 'Character 2',
 		priority: false,
 		fit: 'contain',
 	},
 	{
 		key: 'char-3',
-		src: '/assets/discography/headers/KSEM-0001/char-3.png',
+		src: '/assets/discography/headers/KSEM-0001/char-3.webp',
 		alt: 'Character 3',
 		priority: false,
 		fit: 'contain',
 	},
 	{
 		key: 'char-1',
-		src: '/assets/discography/headers/KSEM-0001/char-1.png',
+		src: '/assets/discography/headers/KSEM-0001/char-1.webp',
 		alt: 'Character 1',
 		priority: false,
 		fit: 'contain',
 	},
 	{
 		key: 'main',
-		src: '/assets/discography/headers/KSEM-0001/main.png',
+		src: '/assets/discography/headers/KSEM-0001/main.webp',
 		alt: 'Main character',
 		priority: false,
 		fit: 'contain',
 	},
 	{
 		key: 'subtitle-bg',
-		src: '/assets/discography/headers/KSEM-0001/subtitle-bg.png',
+		src: '/assets/discography/headers/KSEM-0001/subtitle-bg.webp',
 		alt: 'Subtitle background',
 		priority: false,
 		fit: 'contain',
 	},
 	{
 		key: 'subtitle-staff',
-		src: '/assets/discography/headers/KSEM-0001/subtitle-notes.png',
+		src: '/assets/discography/headers/KSEM-0001/subtitle-notes.webp',
 		alt: 'Subtitle background',
 		priority: false,
 		fit: 'contain',
 	},
 	{
 		key: 'subtitle-text',
-		src: '/assets/discography/headers/KSEM-0001/subtitle-text.png',
+		src: '/assets/discography/headers/KSEM-0001/subtitle-text.webp',
 		alt: 'Subtitle text',
 		priority: false,
 		fit: 'contain',
 	},
 	{
 		key: 'logo',
-		src: '/assets/discography/headers/KSEM-0001/logo.png',
+		src: '/assets/discography/headers/KSEM-0001/logo.webp',
 		alt: 'Logo',
 		priority: false,
 		fit: 'contain',
@@ -155,7 +155,6 @@ export default function LaMulanaHead({ slug, sc_track_id, color }) {
 									width={70}
 									height={70}
 									alt="Enga Musica"
-									quality={100}
 								/>
 							</Link>
 						}
