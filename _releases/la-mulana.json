@@ -521,7 +521,8 @@
 				"",
 				"https://doricdream.bandcamp.com"
 			]
-		},
+		}
+	},
 	"bonus_tracklist": {
 		"01": {
 			"title": "TBD",
@@ -728,5 +729,4 @@
 			"role": "Special Thanks"
 		}
 	}
-}
 }
