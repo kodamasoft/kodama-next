@@ -3714,6 +3714,7 @@
 			"soundcloud": "https://soundcloud.com/beatrixquinn",
 			"website": "https://beatrixquinn.carrd.co",
 			"vgmdb": "https://vgmdb.net/artist/77635"
+		}
 	},
 	"Garoslaw": {
 		"name": "Garoslaw",
@@ -3794,6 +3795,9 @@
 			"vgmdb": "https://vgmdb.net/artist/82198"
 		}
 	},
+	"All Explorers": {
+		"name": "All Explorers"
+	},
 	"Sergio Cornaga": {
 		"name": "Sergio Cornaga",
 		"links": {
@@ -3832,5 +3836,4 @@
 			"vgmdb": "link"
 		}
 	}
-}
 }
