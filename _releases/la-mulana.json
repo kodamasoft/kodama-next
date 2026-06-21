@@ -29,7 +29,6 @@
 		}
 	},
 	"tracklist": {
-		},
 		"01": {
 			"title": "Return Me To Heaven, My Children",
 			"artist": "DoricDream feat. Andrew Shouldice",
@@ -56,7 +55,7 @@
 			"title": "The Fearless Explorer",
 			"artist": "FANTOM IRIS",
 			"description": [
-				"• Composer: Takumi Naramura [楢村匠] (NIGORO) & Houryu Samejima [鮫島朋龍] (NIGORO)",
+				"• Composer: Houryu Samejima [鮫島朋龍] (NIGORO)",
 				"• Arranger: kyo-ji (FANTOM IRIS)",
 				"• Guitar: Pattzn (FANTOM IRIS)",
 				"• Bass: kyo-ji (FANTOM IRIS)",
@@ -157,7 +156,7 @@
 				"jp": "はがね"
 			},
 			"description": [
-				"• Composer: Takumi Naramura [楢村匠] (NIGORO) & Houryu Samejima [鮫島朋龍] (NIGORO)",
+				"• Composer: Houryu Samejima [鮫島朋龍] (NIGORO)",
 				"• Arranger: HAGANE [はがね] (Koutetsu Ongen)",
 				"",
 				"• Programmed, Produced & Mixed by HAGANE [はがね] (Koutetsu Ongen)",
@@ -246,9 +245,7 @@
 				"• Used Software: FL Studio",
 				"• Used VSTs & Samples: VOPM, chipsynth OPS7, Omnisphere, Session Horns Pro, Addictive Drums 2, Korg Triton, Roland XV-5080",
 				"",
-				"• About this track: Out of all tracks, I felt this one was the best vehicle for my groovy FM bass. I also felt some extra percussion would befit the drum breakdown in the middle of the song rather well.",
-				"",
-				"https://person.bandcamp.com"
+				"• About this track: Out of all tracks, I felt this one was the best vehicle for my groovy FM bass. I also felt some extra percussion would befit the drum breakdown in the middle of the song rather well."
 			]
 		},
 		"12": {
@@ -328,17 +325,12 @@
 				"",
 				"• Used Software: Tadahiro Nitta [新田忠弘]",
 				"",
-				"• About this track: This performance was done using a single Roland Sound Canvas SC-88 Pro unit. Furthermore, I insisted on recording directly from the main LR outputs without using parallel outputs.",
-				"",
-				"https://person.bandcamp.com"
+				"• About this track: This performance was done using a single Roland Sound Canvas SC-88 Pro unit. Furthermore, I insisted on recording directly from the main LR outputs without using parallel outputs."
 			]
 		},
 		"16": {
 			"title": "linkedlightsorceror",
-			"artist": {
-				"en": "Iberai/Emelia",
-				"jp": "イブライ/Emelia"
-			},
+			"artist": "イベライ/Emelia",
 			"description": [
 				"• Composer: Takumi Naramura [楢村匠] (NIGORO)",
 				"• Arranger: イベライ/Emelia [iberai/Emelia] (Event Line Junction Out of Phase)",
@@ -513,14 +505,14 @@
 			"title": "Wise Men Who Saw Her Off To Heaven",
 			"artist": "DoricDream feat. Kiara_TV",
 			"description": [
-				"• Composer: Takumi Naramura [楢村匠] (NIGORO) & Houryu Samejima [鮫島朋龍] (NIGORO)",
+				"• Composer: Takumi Naramura [楢村匠] (NIGORO)",
 				"• Arranger: DoricDream",
 				"• Piano: Kiara_TV",
 				"",
 				"• Programmed, Produced & Mixed by DoricDream",
 				"• Mastering Engineer: R-Man (Resonant Union)",
 				"",
-				"• Original Track:  Good Night Mom",
+				"• Original Track: Wise men who halts, Good Night Mom",
 				"",
 				"• Used Software: Renoise, Dorico 4",
 				"• Used VSTs & Samples: Addictive Drums 2, Plogue Chipsynth OPS7, Sonatina Symphonic Orchestra",
@@ -529,9 +521,25 @@
 				"",
 				"https://doricdream.bandcamp.com"
 			]
+		},
+	"bonus_tracklist": {
+		"01": {
+			"title": "TBD",
+			"artist": "TBD",
+			"description": [
+				""
+			]
+		},
+		"02": {
+			"title": "TBD",
+			"artist": "TBD",
+			"description": [
+				""
+			]
+		}
 	},
 	"footer": {
-		"en": "LA-MULANA and all associated music, characters, logo, and other intellectual property are © NIGORO. This fan-made album is released with permission from NIGORO but is not officially endorsed.",
+		"en": "LA-MULANA and all associated music, characters, logos, and other intellectual property are © ASTERIZM CO., LTD. / Game Production Division NIGORO. This work is released with permission from NIGORO but is not officially endorsed.",
 		"jp": "『LA-MULANA』およびそれに関連するすべての音楽、キャラクター、ロゴ、その他の知的財産は、株式会社アスタリズム／ゲーム事業部 NIGORO に帰属します。本作品はNIGOROの許諾を得て公開されていますが、公式に承認・監修されたものではありません。"
 	},
 	"credits": {
@@ -549,169 +557,176 @@
 		},
 		"4": {
 			"id": "FANTOM IRIS",
-			"role": "Music & Arrangement"
+			"role": "Band Performance"
 		},
 		"5": {
+			"id": "kyo-ji",
+			"role": "Arranger & Bass"
+		},
+		"6": {
+			"id": "Pattzn",
+			"role": "Guitar"
+		},
+		"7": {
+			"id": "Jinja",
+			"role": "Keyboards"
+		},
+		"8": {
+			"id": "Yamaoh",
+			"role": "Drums"
+		},
+		"9": {
 			"id": "Andrew Shouldice",
 			"role": "Narration"
 		},
-		"6": {
+		"10": {
 			"id": "Broomietunes",
 			"role": "Arranger, Melodica, Additional Pixel Art & Game Footage"
 		},
-		"7": {
+		"11": {
 			"id": "Nat Roth",
 			"role": "Arranger & Bassoon"
 		},
-		"8": {
+		"12": {
 			"id": "Zoey Reed",
 			"role": "Saxophone, Clarinet & Flute"
 		},
-		"9": {
+		"13": {
 			"id": "alexa sophia",
 			"role": "Arranger"
 		},
-		"10": {
-			"id": "Austin Copek-Green",
-			"role": "Arranger"
-		},
-		"11": {
-			"id": "Jack Simms",
-			"role": "Arranger"
-		},
-		"12": {
-			"id": "TrojanHorse711",
-			"role": "Arranger"
-		},
-		"13": {
-			"id": "HAGANE",
-			"role": "Arranger"
-		},
 		"14": {
-			"id": "June Flower",
-			"role": "Arranger & Video Art Designer"
+			"id": "WASD",
+			"role": "Band Performance "
 		},
 		"15": {
-			"id": "Lila Mellark",
+			"id": "Austin Copek-Green",
 			"role": "Arranger & Instruments"
 		},
 		"16": {
-			"id": "SomeSpoonyBard",
+			"id": "Jack Simms",
 			"role": "Arranger"
 		},
 		"17": {
-			"id": "GaMetal",
-			"role": "Arranger & Instruments"
+			"id": "TrojanHorse711",
+			"role": "Arranger"
 		},
 		"18": {
-			"id": "bleepmusic",
+			"id": "HAGANE",
 			"role": "Arranger"
 		},
 		"19": {
-			"id": "HEAVYVIPER",
-			"role": "Arranger & Electric Guitar"
+			"id": "June Flower",
+			"role": "Arranger, Video Art Design & Pixel Art"
 		},
 		"20": {
-			"id": "Tadahiro Nitta",
-			"role": "Arranger"
+			"id": "Lila Mellark",
+			"role": "Arranger & Instruments"
 		},
 		"21": {
-			"id": "Iberai/Emelia",
+			"id": "SomeSpoonyBard",
 			"role": "Arranger"
 		},
 		"22": {
-			"id": "beatrix quinn",
-			"role": "Arranger"
+			"id": "GaMetal",
+			"role": "Arranger & Instruments"
 		},
 		"23": {
-			"id": "DJ ROUGE-GORGE",
+			"id": "bleepmusic",
 			"role": "Arranger"
 		},
 		"24": {
-			"id": "Garoslaw",
-			"role": "Arranger"
+			"id": "HEAVYVIPER",
+			"role": "Arranger & Electric Guitar"
 		},
 		"25": {
-			"id": "Jemmysponz",
+			"id": "Tadahiro Nitta",
 			"role": "Arranger"
 		},
 		"26": {
-			"id": "IsabelleChiming",
+			"id": "イベライ/Emelia",
 			"role": "Arranger"
 		},
 		"27": {
-			"id": "Tenshio",
+			"id": "beatrix quinn",
 			"role": "Arranger"
 		},
 		"28": {
-			"id": "hasu",
+			"id": "DJ ROUGE-GORGE",
 			"role": "Arranger"
 		},
 		"29": {
-			"id": "Kiara_TV",
+			"id": "Garoslaw",
 			"role": "Arranger"
 		},
 		"30": {
+			"id": "Jemmysponz",
+			"role": "Arranger"
+		},
+		"31": {
+			"id": "IsabelleChiming",
+			"role": "Arranger"
+		},
+		"32": {
+			"id": "Tenshio",
+			"role": "Arranger"
+		},
+		"33": {
+			"id": "hasu",
+			"role": "Arranger"
+		},
+		"34": {
+			"id": "Kiara_TV",
+			"role": "Piano"
+		},
+		"35": {
 			"id": "R-Man",
 			"role": "Mastering Engineer"
 		},
-		"31": {
+		"36": {
 			"id": "cal",
-			"role": "Project Organizer, Logo Design & Narration"
+			"role": "Project Organizer, Logo Design & Narration Script"
 		},
-		"32": {
+		"37": {
 			"id": "Fivda",
 			"role": "Production Support"
 		},
-		"33": {
+		"38": {
 			"id": "JUNNY",
 			"role": "Illustration"
 		},
-		"34": {
-			"id": "NIGORO",
-			"role": "Game Logo Courtesy of"
-		},
-		"35": {
+		"39": {
 			"id": "RummySM",
 			"role": "Video Editor"
 		},
-		"36": {
+		"40": {
 			"id": "Birds Probably",
 			"role": "Additional Pixel Art"
 		},
-		"37": {
+		"41": {
 			"id": "Yanis",
 			"role": "Japanese Translator"
 		},
-		"38": {
+		"42": {
 			"id": "krz",
 			"role": "Web"
 		},
-		"39": {
+		"43": {
 			"id": "Doggibelle",
 			"role": "Web"
 		},
-		"40": {
+		"44": {
 			"id": "VIIweights",
 			"role": "Web"
 		},
-		"41": {
+		"45": {
 			"id": "sergiocornaga",
 			"role": "Special Thanks"
 		},
-		"42": {
+		"46": {
 			"id": "All Explorers",
 			"role": "Special Thanks"
 		}
-	},
-	"bonus_tracklist": {
-		"01": {
-			"title": "TBD",
-			"artist": "TBD"
-		},
-		"02": {
-			"title": "TBD",
-			"artist": "TBD"
-		}
 	}
+}
 }

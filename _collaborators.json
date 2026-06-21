@@ -1584,7 +1584,6 @@
 		"links": {
 			"youtube": "https://www.youtube.com/user/HombreDeElectricidad",
 			"soundcloud": "https://soundcloud.com/justinthornburgh",
-			"website": "link",
 			"vgmdb": "https://vgmdb.net/artist/27594"
 		}
 	},
@@ -1976,11 +1975,8 @@
 			"vgmdb": "https://vgmdb.net/artist/54807"
 		}
 	},
-	"Iberai/Emelia": {
-		"name": {
-			"en": "Iberai/Emelia",
-			"jp": "イブライ/Emelia"
-		},
+	"イベライ/Emelia": {
+		"name": "イベライ/Emelia",
 		"links": {
 			"youtube": "https://www.youtube.com/@iberaiemelia",
 			"soundcloud": "https://soundcloud.com/emelia-kaylee",
@@ -2050,7 +2046,6 @@
 		"name": "KaNa",
 		"links": {
 			"twitter": "https://x.com/kanaijuin",
-			"bluesky": "link",
 			"bandcamp": "https://kanaijuin.bandcamp.com",
 			"youtube": "https://www.youtube.com/channel/UCOt9ImjcJIDAa6Z4chd0UMQ",
 			"soundcloud": "https://soundcloud.com/kanaijuin",
@@ -2113,13 +2108,11 @@
 	"SnugglyBun": {
 		"name": "SnugglyBun",
 		"links": {
-			"twitter": "link",
 			"bluesky": "https://bsky.app/profile/snugglybun.bsky.social",
 			"bandcamp": "https://valeriasan.bandcamp.com/",
 			"youtube": "https://www.youtube.com/@snugglybun",
 			"website": "https://snugglybun.nekoweb.org/",
-			"apple": "https://music.apple.com/artist/snugglybun/1798268734",
-			"vgmdb": "link"
+			"apple": "https://music.apple.com/artist/snugglybun/1798268734"
 		}
 	},
 	"Claire": {
@@ -3197,9 +3190,6 @@
 	"TaroNuke": {
 		"name": "TaroNuke",
 		"links": {
-			"twitter": "link",
-			"bluesky": "link",
-			"bandcamp": "link",
 			"youtube": "https://www.youtube.com/user/taro4012",
 			"vgmdb": "https://vgmdb.net/artist/77468"
 		}
@@ -3557,8 +3547,7 @@
 	"DoricDream": {
 		"name": "DoricDream",
 		"links": {
-			"twitter": "link",
-			"bluesky": "https://doricdream.bsky.social",
+			"bluesky": "https://bsky.app/profile/doricdream.bsky.social",
 			"bandcamp": "https://doricdream.bandcamp.com/",
 			"youtube": "https://www.youtube.com/@doricdream498",
 			"soundcloud": "https://soundcloud.com/doricdream",
@@ -3580,6 +3569,44 @@
 			"twitter": "https://x.com/fantom_iris",
 			"website": "https://fantomiris.com",
 			"vgmdb": "https://vgmdb.net/artist/34650"
+		}
+	},
+	"kyo-ji": {
+		"name": "kyo-ji",
+		"links": {
+			"twitter": "https://x.com/kyo4s",
+			"vgmdb": "https://vgmdb.net/artist/77719"
+		}
+	},
+	"Pattzn": {
+		"name": {
+			"en": "Pattzn",
+			"jp": "ぱっつん"
+		},
+		"links": {
+			"twitter": "https://x.com/Pattzn_Gorochan",
+			"vgmdb": "https://vgmdb.net/artist/77720"
+		}
+	},
+	"Jinja": {
+		"name": {
+			"en": "Jinja",
+			"jp": "じんじゃ"
+		},
+		"links": {
+			"twitter": "https://x.com/jinja_nanja",
+			"vgmdb": "https://vgmdb.net/artist/17586"
+		}
+	},
+	"Yamaoh": {
+		"name": {
+			"en": "Yamaoh",
+			"jp": "山王"
+		},
+		"links": {
+			"twitter": "https://x.com/drummeryamaoh",
+			"website": "https://fantomyamaoh.com",
+			"vgmdb": "https://vgmdb.net/artist/77042"
 		}
 	},
 	"Broomietunes": {
@@ -3605,7 +3632,6 @@
 	"alexa sophia": {
 		"name": "alexa sophia",
 		"links": {
-			"twitter": "link",
 			"bluesky": "https://bsky.app/profile/amelyssan.bsky.social",
 			"bandcamp": "https://syntheticgoddess.bandcamp.com",
 			"youtube": "https://www.youtube.com/channel/UC0wlY7mjjVuy6dl-zP7ul_w",
@@ -3745,6 +3771,7 @@
 		"name": "JUNNY",
 		"links": {
 			"twitter": "https://x.com/junny113",
+			"bluesky": "https://bsky.app/profile/junny113.bsky.social",
 			"vgmdb": "https://vgmdb.net/artist/80847"
 		}
 	},
@@ -3759,8 +3786,16 @@
 	"Birds Probably": {
 		"name": "Birds Probably",
 		"links": {
+			"bluesky": "https://bsky.app/profile/birdsprobably.bsky.social",
 			"website": "https://sites.google.com/view/birdsprobably",
-			"vgmdb": "https://sites.google.com/view/birdsprobably"
+			"vgmdb": "https://vgmdb.net/artist/61007"
+		}
+	},
+	"sergiocornaga": {
+		"name": "sergiocornaga",
+		"links": {
+			"bluesky": "https://bsky.app/profile/corneaga.bsky.social",
+			"vgmdb": "https://vgmdb.net/artist/61007"
 		}
 	},
 	"SampleEN": {
