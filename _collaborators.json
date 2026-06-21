@@ -3683,8 +3683,8 @@
 			"vgmdb": "https://vgmdb.net/artist/81177"
 		}
 	},
-	"GaMetal": {
-		"name": "GaMetal",
+	"Jonny Atma": {
+		"name": "Jonny Atma",
 		"links": {
 			"twitter": "https://x.com/JonnyAtma",
 			"bandcamp": "https://gametal.bandcamp.com",
@@ -3752,6 +3752,7 @@
 		"name": "Tenshio",
 		"links": {
 			"bluesky": "https://bsky.app/profile/tenshio.bsky.social",
+			"twitch": "https://www.twitch.tv/tennshio",
 			"youtube": "https://youtube.com/@tenshio",
 			"soundcloud": "https://soundcloud.com/tenshioluma",
 			"website": "https://tenshio.carrd.co/",
@@ -3763,6 +3764,7 @@
 		"links": {
 			"twitter": "https://x.com/KiaraStreams",
 			"bluesky": "https://bsky.app/profile/kiaratv.bsky.social",
+			"twitch": "https://www.twitch.tv/kiara_tv",
 			"youtube": "https://www.youtube.com/@kiaraVT",
 			"vgmdb": "https://vgmdb.net/artist/81709"
 		}
@@ -3772,6 +3774,7 @@
 		"links": {
 			"twitter": "https://x.com/junny113",
 			"bluesky": "https://bsky.app/profile/junny113.bsky.social",
+			"pixiv": "https://www.pixiv.net/users/17960",
 			"vgmdb": "https://vgmdb.net/artist/80847"
 		}
 	},
@@ -3788,11 +3791,11 @@
 		"links": {
 			"bluesky": "https://bsky.app/profile/birdsprobably.bsky.social",
 			"website": "https://sites.google.com/view/birdsprobably",
-			"vgmdb": "https://vgmdb.net/artist/61007"
+			"vgmdb": "https://vgmdb.net/artist/82198"
 		}
 	},
-	"sergiocornaga": {
-		"name": "sergiocornaga",
+	"Sergio Cornaga": {
+		"name": "Sergio Cornaga",
 		"links": {
 			"bluesky": "https://bsky.app/profile/corneaga.bsky.social",
 			"vgmdb": "https://vgmdb.net/artist/61007"

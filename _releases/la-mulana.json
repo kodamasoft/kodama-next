@@ -315,7 +315,7 @@
 				"jp": "新田忠弘"
 			},
 			"description": [
-				"• Composer: Takumi Naramura [楢村匠] (NIGORO) & Houryu Samejima [鮫島朋龍] (NIGORO)",
+				"• Composer: Takumi Naramura [楢村匠] (NIGORO)",
 				"• Arranger: Tadahiro Nitta [新田忠弘]",
 				"",
 				"• Programmed, Produced & Mixed by Tadahiro Nitta [新田忠弘]",
@@ -323,7 +323,7 @@
 				"",
 				"• Original Track: Mother will be awaken",
 				"",
-				"• Used Software: Tadahiro Nitta [新田忠弘]",
+				"• Used Software: Cubase 13",
 				"",
 				"• About this track: This performance was done using a single Roland Sound Canvas SC-88 Pro unit. Furthermore, I insisted on recording directly from the main LR outputs without using parallel outputs."
 			]
@@ -629,8 +629,8 @@
 			"role": "Arranger"
 		},
 		"22": {
-			"id": "GaMetal",
-			"role": "Arranger & Instruments"
+			"id": "Jonny Atma",
+			"role": "Arranger, Instruments"
 		},
 		"23": {
 			"id": "bleepmusic",
@@ -721,7 +721,7 @@
 			"role": "Web"
 		},
 		"45": {
-			"id": "sergiocornaga",
+			"id": "Sergio Cornaga",
 			"role": "Special Thanks"
 		},
 		"46": {

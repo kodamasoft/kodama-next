@@ -11,6 +11,7 @@ import {
 	FaSpotify,
 	FaApple,
 	FaPatreon,
+	FaTwitch,
 } from 'react-icons/fa';
 import BoothSVG from '../../../public/assets/icons/booth.svg';
 import PixivSVG from '../../../public/assets/icons/pixiv.svg';
@@ -50,6 +51,8 @@ export default function ReleaseTracklist({ credits }) {
 			return <FaApple className={props.className} />;
 		} else if (link.toString().includes('patreon')) {
 			return <FaPatreon className={props.className} />;
+		} else if (link.toString().includes('twitch.tv')) {
+			return <FaTwitch className={props.className} />;
 		} else if (link.toString().includes('bsky.app')) {
 			return <BskySVG className={props.className} />;
 		} else {
