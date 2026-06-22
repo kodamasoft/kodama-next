@@ -525,17 +525,40 @@
 	},
 	"bonus_tracklist": {
 		"01": {
-			"title": "TBD",
-			"artist": "TBD",
+			"title": "Return Me To Heaven, My Children (instrumental)",
+			"artist": "DoricDream feat. Andrew Shouldice",
 			"description": [
-				""
+				"• Composer: Takumi Naramura [楢村匠] (NIGORO)",
+				"• Arranger: DoricDream",
+				"",
+				"• Programmed, Produced & Mixed by DoricDream",
+				"• Mastering Engineer: R-Man (Resonant Union)",
+				"",
+				"• Original Track: Earth Wind",
+				"",
+				"• Used Software: Renoise",
+				"• Used VSTs & Samples: Addictive Drums 2, Plogue Chipsynth OPS7, Sonatina Symphonic Orchestra 4.0, HALion Sonic 7",
+				"",
+				"• About this track: This was fun to arrange! The original theme is quite dramatic and has all these beautiful melodies, and I wanted to try and capture that in a more contrapuntal style. So I ended up taking the melody and chopping it up, and passing it around with different instruments in a Mahler-esque fashion. Since it was an opening theme and the game itself has mysterious text narrating it, I felt it would be neat to have some narration over it as well. So in addition to a purely instrumental version, I got my friend Andrew Shouldice (lead developer of TUNIC and fellow La-Mulana fan) to narrate with some text cal had written. It was really cool!",
+				"",
+				"https://doricdream.bandcamp.com"
 			]
 		},
 		"02": {
-			"title": "TBD",
-			"artist": "TBD",
+			"title": "Friends and the Sun",
+			"artist": "Broomietunes",
 			"description": [
-				""
+				"• Composer: Takumi Naramura [楢村匠] (NIGORO)",
+				"• Arranger: Broomietunes",
+				"",
+				"• Programmed, Produced & Mixed by Broomietunes",
+				"• Mastering Engineer: R-Man (Resonant Union)",
+				"",
+				"• Original Track: Run toward the sun",
+				"",
+				"• Used Software: Ultrabox",
+				"",
+				"• About this track: Happy 20 years LA-MULANA!!"
 			]
 		}
 	},
