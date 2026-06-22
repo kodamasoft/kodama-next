@@ -82,7 +82,7 @@ export default function LaMulanaCredits({ credits }) {
 					Staff Credits
 				</h2>
 
-				<table style={{ width: '100%', borderCollapse: 'collapse' }}>
+				<table className="lm-credits-table" style={{ width: '100%', borderCollapse: 'collapse' }}>
 					<thead>
 						<tr style={{ borderBottom: `1px solid ${LM.green}` }}>
 							{['Name', 'Role', 'Links'].map((label, i) => (
@@ -112,6 +112,35 @@ export default function LaMulanaCredits({ credits }) {
 										: collaboratorInfo.name)
 									: creditJSON[1].id;
 
+								const linkIcons = collaboratorInfo?.links && (
+									<div style={{ display: 'flex', gap: 4, justifyContent: 'flex-end' }}>
+										{Object.entries(collaboratorInfo.links)
+											.sort(([a], [b]) => a < b ? -1 : a > b ? 1 : 0)
+											.map(([key, link]) => (
+												<Link
+													key={key}
+													href={link}
+													target="_blank"
+													rel="noopener noreferrer"
+													className="lm-social-link"
+													style={{
+														display: 'inline-flex',
+														alignItems: 'center',
+														justifyContent: 'center',
+														width: 22,
+														height: 22,
+														color: LM.white,
+														opacity: 0.5,
+														textDecoration: 'none',
+														transition: 'opacity 0.15s, color 0.15s',
+													}}
+												>
+													<LinkIcon linkObj={link} className="w-3.5 h-3.5" />
+												</Link>
+											))}
+									</div>
+								);
+
 								return (
 									<tr
 										key={creditJSON[0]}
@@ -121,7 +150,7 @@ export default function LaMulanaCredits({ credits }) {
 											transition: 'background 0.1s',
 										}}
 									>
-										<td style={{
+										<td className="lm-credits-name" style={{
 											padding: '0.85rem 1rem',
 											fontFamily: STM,
 											fontSize: '0.88rem',
@@ -131,7 +160,7 @@ export default function LaMulanaCredits({ credits }) {
 										}}>
 											{name}
 										</td>
-										<td style={{
+										<td className="lm-credits-role" style={{
 											padding: '0.85rem 1rem',
 											fontFamily: STM,
 											fontSize: '0.88rem',
@@ -141,48 +170,13 @@ export default function LaMulanaCredits({ credits }) {
 										}}>
 											{creditJSON[1].role}
 										</td>
-										<td style={{
+										<td className="lm-credits-links" style={{
 											padding: '0.85rem 1rem',
 											textAlign: 'right',
 											whiteSpace: 'nowrap',
 											verticalAlign: 'middle',
 										}}>
-											{collaboratorInfo?.links && (
-												<div style={{
-													display: 'flex',
-													gap: 4,
-													justifyContent: 'flex-end',
-												}}>
-													{Object.entries(collaboratorInfo.links)
-														.sort(([a], [b]) => a < b ? -1 : a > b ? 1 : 0)
-														.map(([key, link]) => (
-															<Link
-																key={key}
-																href={link}
-																target="_blank"
-																rel="noopener noreferrer"
-																className="lm-social-link"
-																style={{
-																	display: 'inline-flex',
-																	alignItems: 'center',
-																	justifyContent: 'center',
-																	width: 22,
-																	height: 22,
-																	color: LM.white,
-																	opacity: 0.5,
-																	textDecoration: 'none',
-																	transition: 'opacity 0.15s, color 0.15s',
-																	verticalAlign: 'middle',
-																}}
-															>
-																<LinkIcon
-																	linkObj={link}
-																	className="w-3.5 h-3.5"
-																/>
-															</Link>
-														))}
-												</div>
-											)}
+											{linkIcons}
 										</td>
 									</tr>
 								);

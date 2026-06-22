@@ -207,6 +207,54 @@
     animation: lm-dialog-in 0.22s cubic-bezier(0.22, 1, 0.36, 1) forwards;
 }
 
+/* ─── La-Mulana Credits — mobile card layout ──────────────── */
+@media (max-width: 767px) {
+    /* Collapse table into block so rows can become flex containers */
+    .lm-credits-table,
+    .lm-credits-table tbody {
+        display: block;
+    }
+    .lm-credits-table thead {
+        display: none;
+    }
+
+    /* Each row: name + links on one line, role wraps below */
+    .lm-credits-table .lm-credits-row {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: baseline;
+        gap: 0;
+        padding: 0.6rem 0;
+    }
+
+    .lm-credits-table .lm-credits-name {
+        flex: 1 1 0;
+        min-width: 0;
+        padding: 0 0.5rem 0 0 !important;
+        white-space: normal !important;
+        font-size: 0.82rem !important;
+        vertical-align: baseline !important;
+    }
+
+    /* Links sit on the same line as the name, right-aligned */
+    .lm-credits-table .lm-credits-links {
+        flex: 0 0 auto;
+        padding: 0 !important;
+        text-align: right !important;
+        white-space: nowrap;
+        vertical-align: baseline !important;
+    }
+
+    /* Role drops to its own line below */
+    .lm-credits-table .lm-credits-role {
+        flex: 0 0 100%;
+        padding: 0.2rem 0 0 !important;
+        font-size: 0.72rem !important;
+        vertical-align: baseline !important;
+        opacity: 0.7 !important;
+    }
+}
+
 /* La-Mulana description responsive grid */
 .lm-desc-grid {
     grid-template-columns: 1fr !important;
