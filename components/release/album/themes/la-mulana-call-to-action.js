@@ -1,6 +1,6 @@
 import { lmFontVars } from './la-mulana-fonts';
 
-const PS2P = "var(--font-press-start-2p, 'Press Start 2P', monospace)";
+const PS2P = "var(--font-press-start-2p, 'Press Start 2P', monospace)"; // eslint-disable-line quotes
 
 export default function LaMulanaCallToAction() {
 	return (

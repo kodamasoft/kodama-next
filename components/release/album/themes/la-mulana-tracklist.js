@@ -1,4 +1,5 @@
 import { useState, useEffect, useRef } from 'react';
+import Image from 'next/image';
 import { useRouter } from 'next/router';
 import LaMulanaTrack from './la-mulana-track';
 import { lmFontVars } from './la-mulana-fonts';
@@ -12,9 +13,9 @@ const LM = {
 	dkgreen: '#1c5c1c',
 };
 
-const PS2P = "var(--font-press-start-2p, 'Press Start 2P', monospace)";
+const PS2P = "var(--font-press-start-2p, 'Press Start 2P', monospace)"; // eslint-disable-line quotes
 const STM =
-	"var(--font-share-tech-mono, 'Share Tech Mono', 'Courier New', monospace)";
+	"var(--font-share-tech-mono, 'Share Tech Mono', 'Courier New', monospace)"; // eslint-disable-line quotes
 
 function TrackDialog({ title, artist, aboutText, onClose }) {
 	const closeBtnRef = useRef(null);
@@ -307,9 +308,12 @@ export default function LaMulanaTracklist({
 						justifyContent: 'flex-end',
 					}}
 				>
-					<img
+					<Image
 						src={scene.pillar_left}
 						alt=""
+						width={384}
+						height={384}
+						unoptimized
 						style={{
 							width: '100%',
 							maxWidth: 384,
@@ -342,9 +346,12 @@ export default function LaMulanaTracklist({
 								zIndex: 0,
 							}}
 						>
-							<img
+							<Image
 								src={scene.face_bg}
 								alt=""
+								width={260}
+								height={260}
+								unoptimized
 								style={{
 									width: 260,
 									maxWidth: '100%',
@@ -371,9 +378,12 @@ export default function LaMulanaTracklist({
 						justifyContent: 'flex-start',
 					}}
 				>
-					<img
+					<Image
 						src={scene.pillar_right}
 						alt=""
+						width={384}
+						height={384}
+						unoptimized
 						style={{
 							width: '100%',
 							maxWidth: 384,

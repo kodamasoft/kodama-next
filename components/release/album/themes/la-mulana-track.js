@@ -10,9 +10,9 @@ const LM = {
 	dkgreen: '#1c5c1c',
 };
 
-const PS2P = "var(--font-press-start-2p, 'Press Start 2P', monospace)";
+const PS2P = "var(--font-press-start-2p, 'Press Start 2P', monospace)"; // eslint-disable-line quotes
 const STM =
-	'var(--font-share-tech-mono, \'Share Tech Mono\', \'Courier New\', monospace)';
+	"var(--font-share-tech-mono, 'Share Tech Mono', 'Courier New', monospace)"; // eslint-disable-line quotes
 
 function parseDescription(description) {
 	if (!description) return { credits: [], aboutText: null, links: [] };

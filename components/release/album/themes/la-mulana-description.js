@@ -3,9 +3,9 @@ import Link from 'next/link';
 import { useRouter } from 'next/router';
 import { lmFontVars } from './la-mulana-fonts';
 
-const PS2P = "var(--font-press-start-2p, 'Press Start 2P', monospace)";
+const PS2P = "var(--font-press-start-2p, 'Press Start 2P', monospace)"; // eslint-disable-line quotes
 const STM =
-	'var(--font-share-tech-mono, \'Share Tech Mono\', \'Courier New\', monospace)';
+	"var(--font-share-tech-mono, 'Share Tech Mono', 'Courier New', monospace)"; // eslint-disable-line quotes
 
 export default function LaMulanaDescription({
 	cover,

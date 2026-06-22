@@ -3,8 +3,8 @@ import { useRouter } from 'next/router';
 import { lmFontVars } from './la-mulana-fonts';
 
 const STM =
-	'var(--font-share-tech-mono, \'Share Tech Mono\', \'Courier New\', monospace)';
-const PS2P = "var(--font-press-start-2p, 'Press Start 2P', monospace)";
+	"var(--font-share-tech-mono, 'Share Tech Mono', 'Courier New', monospace)"; // eslint-disable-line quotes
+const PS2P = "var(--font-press-start-2p, 'Press Start 2P', monospace)"; // eslint-disable-line quotes
 
 const LM = {
 	black: '#000000',
