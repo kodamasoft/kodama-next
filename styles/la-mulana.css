@@ -1,0 +1,218 @@
+.theme-la-mulana {
+    --font-release: var(--font-lora), Georgia, 'Times New Roman', serif;
+    --lm-black:   #000000;
+    --lm-cyan:    #74d7ee;
+    --lm-white:   #d4d4d4;
+    --lm-amber:   #cccc77;
+    --lm-green:   #3eb849;
+    --lm-dkgreen: #1c5c1c;
+}
+
+.theme-la-mulana .lm-track-header:hover {
+    background: rgba(62, 184, 73, 0.1);
+}
+
+.lm-about-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background: none;
+    border: 1px solid #1c5c1c;
+    color: #cccc77;
+    font-family: var(--font-press-start-2p, 'Press Start 2P', monospace);
+    font-size: 0.5rem;
+    letter-spacing: 0.1em;
+    padding: 5px 10px;
+    cursor: pointer;
+    margin-top: 8px;
+    transition: border-color 0.15s, color 0.15s;
+    text-transform: uppercase;
+}
+
+.theme-la-mulana .lm-about-btn:hover {
+    border-color: #3eb849 !important;
+    color: #d4d4d4 !important;
+}
+
+.theme-la-mulana .lm-modal-close:hover {
+    opacity: 1 !important;
+    color: #d4d4d4 !important;
+}
+
+.theme-la-mulana .lm-credits-row:hover {
+    background: rgba(62, 184, 73, 0.07);
+}
+
+.theme-la-mulana .lm-social-link:hover {
+    opacity: 1 !important;
+    color: #cccc77 !important;
+}
+
+/* ─── La-Mulana Album Cover Animation ─────────────────── */
+.la-mulana-cover-layer {
+    position: absolute;
+    inset: 0;
+    opacity: 0;
+    transition:
+        opacity   650ms cubic-bezier(0.22, 1, 0.36, 1),
+        transform 650ms cubic-bezier(0.22, 1, 0.36, 1),
+        filter    650ms cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.la-mulana-cover-layer-bg             { z-index: 1; }
+.la-mulana-cover-layer-lighting       { z-index: 2; mix-blend-mode: screen; transform-origin: center; transition: none; }
+.la-mulana-cover-layer-char-2         { z-index: 3; transform: translateX(24px); transition-delay: 560ms; }
+.la-mulana-cover-layer-char-3         { z-index: 4; transform: translateY(-20px); transition-delay: 200ms; }
+.la-mulana-cover-layer-char-1         { z-index: 5; transform: translateX(-24px); transition-delay: 400ms; }
+.la-mulana-cover-layer-main           { z-index: 6; transform: translateY(32px); transition-delay: 720ms; }
+.la-mulana-cover-layer-subtitle-bg    { z-index: 22; transform: scale(0.94); transition-delay: 960ms; }
+.la-mulana-cover-layer-subtitle-staff { z-index: 23; transform: scale(0.94); transition-delay: 1080ms; }
+.la-mulana-cover-layer-subtitle-text  { z-index: 24; transform: scale(0.94); transition-delay: 1200ms; }
+.la-mulana-cover-layer-logo           { z-index: 25; transform: scale(0.88); filter: blur(4px); transition-delay: 1400ms; }
+
+/*
+ * Desktop overrides for the La-Mulana cover layers.
+ *
+ * All character PNGs are square (374×374) and rendered with object-fit:contain.
+ * In a landscape viewport (vw > svh) the image always scales by height, so:
+ *   rendered size  = 100svh × 100svh
+ *   horizontal offset (centered) = (vw - svh) / 2
+ *   left edge  = calc(50vw - 50svh)
+ *   right edge = calc(50vw + 50svh)
+ *
+ * Use these landmarks to position masks/gradients relative to the actual
+ * image content instead of the full viewport width.
+ * e.g. X% through the image = calc(50vw - 50svh + X * 1svh)
+ */
+/* On mobile with object-fit:contain the images don't fill 100svh — they center
+   within the container leaving empty space above/below. The mask fades the
+   layers at the image edges (calc'd from the contain geometry). */
+@media (max-width: 767px) {
+    /*
+     * Square images (2560×2560) with object-fit:contain in a 100svh container
+     * render at 100vw × 100vw, centered vertically.
+     * Image top edge  = (100svh - 100vw) / 2 = 50svh - 50vw
+     * Image bottom edge = 100svh - (50svh - 50vw)
+     * Fade 60px inside the image on each edge.
+     */
+    .la-mulana-cover-layer {
+        -webkit-mask-image: linear-gradient(
+            to bottom,
+            transparent calc(50svh - 50vw),
+            black       calc(50svh - 50vw + 60px),
+            black       calc(100svh - (50svh - 50vw) - 60px),
+            transparent calc(100svh - (50svh - 50vw))
+        );
+        mask-image: linear-gradient(
+            to bottom,
+            transparent calc(50svh - 50vw),
+            black       calc(50svh - 50vw + 60px),
+            black       calc(100svh - (50svh - 50vw) - 60px),
+            transparent calc(100svh - (50svh - 50vw))
+        );
+    }
+
+    /* Subtitle and logo layers keep only the top fade */
+    .la-mulana-cover-layer-subtitle-bg,
+    .la-mulana-cover-layer-subtitle-staff,
+    .la-mulana-cover-layer-subtitle-text,
+    .la-mulana-cover-layer-logo {
+        -webkit-mask-image: linear-gradient(
+            to bottom,
+            transparent calc(50svh - 50vw),
+            black       calc(50svh - 50vw + 60px)
+        );
+        mask-image: linear-gradient(
+            to bottom,
+            transparent calc(50svh - 50vw),
+            black       calc(50svh - 50vw + 60px)
+        );
+    }
+}
+
+@media (min-width: 768px) {
+    .la-mulana-cover-layer-bg img,
+    .la-mulana-cover-layer-lighting img {
+        object-fit: cover;
+    }
+
+    /* char-3 (girl, right side) is cut at the right edge of the PNG —
+       fade her arm out before the hard cut. Start at 86% through the image. */
+    .la-mulana-cover-layer-char-3 {
+        mask-image: linear-gradient(
+            to right,
+            black calc(50vw + 36svh),
+            transparent calc(50vw + 50svh)
+        );
+    }
+}
+
+.la-mulana-cover.is-visible .la-mulana-cover-layer {
+    opacity: 1;
+    transform: none;
+    filter: none;
+}
+
+@keyframes la-mulana-light-fadein {
+    from { opacity: 0;   }
+    to   { opacity: 0.4; }
+}
+
+@keyframes la-mulana-breathe {
+    0%, 100% { opacity: 0.4; }
+    50%       { opacity: 1.0; }
+}
+
+.la-mulana-cover.is-visible .la-mulana-cover-layer-lighting {
+    animation:
+        la-mulana-breathe    7s   ease-in-out                        2350ms infinite,
+        la-mulana-light-fadein 650ms cubic-bezier(0.22, 1, 0.36, 1) 1700ms backwards;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .la-mulana-cover-layer {
+        transition: opacity 400ms ease;
+        transform: none !important;
+        filter: none !important;
+    }
+    .la-mulana-cover.is-visible .la-mulana-cover-layer-lighting {
+        animation: none;
+        opacity: 0.7;
+    }
+}
+
+
+/* La-Mulana track dialog animations */
+@keyframes lm-overlay-in {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+@keyframes lm-dialog-in {
+    from { opacity: 0; transform: scale(0.96) translateY(10px); }
+    to   { opacity: 1; transform: scale(1)    translateY(0);    }
+}
+@keyframes lm-overlay-out {
+    from { opacity: 1; }
+    to   { opacity: 0; }
+}
+@keyframes lm-dialog-out {
+    from { opacity: 1; transform: scale(1)    translateY(0);    }
+    to   { opacity: 0; transform: scale(0.96) translateY(10px); }
+}
+
+.lm-overlay-enter {
+    animation: lm-overlay-in 0.2s ease forwards;
+}
+.lm-dialog-enter {
+    animation: lm-dialog-in 0.22s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+}
+
+/* La-Mulana description responsive grid */
+.lm-desc-grid {
+    grid-template-columns: 1fr !important;
+}
+@media (min-width: 768px) {
+    .lm-desc-grid {
+        grid-template-columns: min(320px, 40%) 1fr !important;
+    }
+}

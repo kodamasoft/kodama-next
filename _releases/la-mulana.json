@@ -9,6 +9,11 @@
 		"color": "C19E75",
 		"text_color": "422719"
 	},
+	"scene": {
+		"pillar_left": "/assets/discography/backgrounds/KSEM-0001/gate-l.png",
+		"pillar_right": "/assets/discography/backgrounds/KSEM-0001/gate-r.png",
+		"face_bg": "/assets/discography/backgrounds/KSEM-0001/mom.png"
+	},
 	"title": "LA-MULANA -Songs of the 8th Child-",
 	"circle": {
 		"name": "KodamaSounds & Enga Musica",

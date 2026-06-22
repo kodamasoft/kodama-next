@@ -121,26 +121,28 @@ export default function LaMulanaHead({ slug, sc_track_id, color }) {
 				style={{ height: '100svh' }}
 			>
 				{/* Layers */}
-				{LAYERS.map(({ key, src, alt, priority, fit }) => (
-					<div
-						key={key}
-						className={`la-mulana-cover-layer la-mulana-cover-layer-${key}`}
-						aria-hidden={alt === '' ? true : undefined}
-					>
-						<Image
-							src={src}
-							alt={alt}
-							fill
-							priority={priority}
-							className={
-								fit === 'contain'
-									? 'object-contain'
-									: 'object-cover'
-							}
-							sizes="100vw"
-						/>
-					</div>
-				))}
+				<div className="la-mulana-layers absolute inset-0">
+					{LAYERS.map(({ key, src, alt, priority, fit }) => (
+						<div
+							key={key}
+							className={`la-mulana-cover-layer la-mulana-cover-layer-${key}`}
+							aria-hidden={alt === '' ? true : undefined}
+						>
+							<Image
+								src={src}
+								alt={alt}
+								fill
+								priority={priority}
+								className={
+									fit === 'contain'
+										? 'object-contain'
+										: 'object-cover'
+								}
+								sizes="100vw"
+							/>
+						</div>
+					))}
+				</div>
 
 				{/* Navigation — overlaid */}
 				<div className="absolute top-0 inset-x-0 z-30 pt-4">

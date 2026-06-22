@@ -141,6 +141,7 @@ export default function ReleaseLayout({ release }) {
 				<ReleaseTracklist
 					tracklist={release.tracklist}
 					bonus_tracklist={release.bonus_tracklist}
+					scene={release.scene}
 					suppressHydrationWarning={true}
 				/>
 				{release.youtube_id && (
