@@ -50,7 +50,7 @@ function parseDescription(description) {
 	return { credits, aboutText, links };
 }
 
-export default function LaMulanaTrack({ track, openDialog }) {
+export default function LaMulanaTrack({ track, openDialog, displayNum }) {
 	const { locale } = useRouter();
 	const [isOpen, setIsOpen] = useState(false);
 
@@ -87,11 +87,12 @@ export default function LaMulanaTrack({ track, openDialog }) {
 						toggle();
 					}
 				}}
-				className={hasCredits ? 'lm-track-header' : ''}
+				className="lm-track-header"
 				aria-expanded={hasCredits ? isOpen : undefined}
 				style={{
 					display: 'flex',
-					alignItems: 'center',
+					flexWrap: 'wrap',
+					alignItems: 'flex-start',
 					gap: '1.1rem',
 					padding: '1.1rem 1.65rem',
 					cursor: hasCredits ? 'pointer' : 'default',
@@ -103,9 +104,10 @@ export default function LaMulanaTrack({ track, openDialog }) {
 			>
 				{/* Track number */}
 				<span
+					className="lm-track-number"
 					style={{
 						fontFamily: PS2P,
-						fontSize: '0.61rem',
+						fontSize: '0.79rem',
 						color: LM.amber,
 						letterSpacing: '0.05em',
 						minWidth: '2.2rem',
@@ -113,30 +115,34 @@ export default function LaMulanaTrack({ track, openDialog }) {
 						lineHeight: 1.6,
 					}}
 				>
-					{trackNum.padStart(2, '0')}
+					{(displayNum ?? trackNum).padStart(2, '0')}
 				</span>
 
 				{/* Title + artist */}
-				<div style={{ flex: 1, minWidth: 0 }}>
+				<div className="lm-track-meta" style={{ flex: 1, minWidth: 0 }}>
 					<div
+						className="lm-track-title"
 						style={{
 							fontFamily: STM,
-							fontSize: 'clamp(0.88rem, 1.98vw, 1.1rem)',
+							fontSize: 'clamp(1.15rem, 2.57vw, 1.43rem)',
 							color: LM.white,
 							letterSpacing: '0.04em',
 							lineHeight: 1.4,
+							overflowWrap: 'anywhere',
 						}}
 					>
 						{title}
 					</div>
 					{artist && (
 						<div
+							className="lm-track-artist"
 							style={{
 								fontFamily: STM,
-								fontSize: '0.72rem',
+								fontSize: '0.94rem',
 								color: LM.green,
 								letterSpacing: '0.08em',
 								marginTop: '0.28rem',
+								overflowWrap: 'anywhere',
 							}}
 						>
 							{artist}
@@ -198,6 +204,7 @@ export default function LaMulanaTrack({ track, openDialog }) {
 							{credits.map(({ role, value }, i) => (
 								<div
 									key={i}
+									className="lm-track-credit-row"
 									style={{
 										display: 'flex',
 										gap: '0.83rem',
@@ -207,6 +214,7 @@ export default function LaMulanaTrack({ track, openDialog }) {
 								>
 									{role && (
 										<span
+											className="lm-track-credit-role"
 											style={{
 												fontFamily: PS2P,
 												fontSize: '0.44rem',
@@ -223,6 +231,7 @@ export default function LaMulanaTrack({ track, openDialog }) {
 										</span>
 									)}
 									<span
+										className="lm-track-credit-value"
 										style={{
 											fontFamily: STM,
 											fontSize: '0.72rem',
@@ -237,6 +246,7 @@ export default function LaMulanaTrack({ track, openDialog }) {
 
 							{links.length > 0 && (
 								<div
+									className="lm-track-credit-row"
 									style={{
 										display: 'flex',
 										gap: '0.83rem',
@@ -247,6 +257,7 @@ export default function LaMulanaTrack({ track, openDialog }) {
 									}}
 								>
 									<span
+										className="lm-track-credit-role"
 										style={{
 											fontFamily: PS2P,
 											fontSize: '0.44rem',

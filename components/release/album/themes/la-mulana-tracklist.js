@@ -268,10 +268,11 @@ export default function LaMulanaTracklist({
 							zIndex: 1,
 						}}
 					>
-						{bonusTracks.map((track) => (
+						{bonusTracks.map((track, i) => (
 							<LaMulanaTrack
 								key={track[0]}
 								track={track}
+								displayNum={String(tracks.length + i + 1)}
 								openDialog={openDialog}
 							/>
 						))}
@@ -315,9 +316,10 @@ export default function LaMulanaTracklist({
 						height={384}
 						unoptimized
 						style={{
-							width: '100%',
+							width: 'auto',
 							maxWidth: 384,
 							height: 'auto',
+							maxHeight: '100vh',
 							imageRendering: 'pixelated',
 							display: 'block',
 						}}
@@ -385,9 +387,10 @@ export default function LaMulanaTracklist({
 						height={384}
 						unoptimized
 						style={{
-							width: '100%',
+							width: 'auto',
 							maxWidth: 384,
 							height: 'auto',
+							maxHeight: '100vh',
 							imageRendering: 'pixelated',
 							display: 'block',
 						}}
