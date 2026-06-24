@@ -3,6 +3,7 @@
 @import './namco70th/almightysoundexpress.css';
 @import './namco70th/gamesoundcollage.css';
 @import './namco70th/ironfist.css';
+@import './la-mulana.css';
 
 @plugin '@tailwindcss/typography';
 @plugin '@headlessui/tailwindcss';
@@ -10,7 +11,9 @@
 @theme {
     --font-release: var(--font-noto), sans-serif;
     --font-sans: var(--font-noto), sans-serif;
+	--font-jennerikExtraBold: 'Jennerik', monospace;
     --color-current: currentColor
+
 
     --shadow-inner-xl: inset 0 4px 8px 0 rgb(0 0 0 / 0.5);
 
@@ -76,6 +79,16 @@
 	src: url('/assets/fonts/ArquitectaBold-webfont.woff?3') format('woff');
 	font-weight: bold;
 	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Jennerik';
+	src:
+		url('/assets/fonts/JennerikExtraBold-Regular.ttf')
+			format('truetype');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
 }
 
 html {

@@ -1,7 +1,7 @@
 import React from 'react';
 import ReleaseTrack from './release-track';
 
-export default function ReleaseTracklist({ tracklist }) {
+export default function ReleaseTracklist({ tracklist, bonus_tracklist }) {
 	const processTracklist = (list) => {
 		if (Array.isArray(list) && list.length > 0 && list[0]._isMultiDisc) {
 			// Multi-disc case
@@ -27,6 +27,12 @@ export default function ReleaseTracklist({ tracklist }) {
 	const processedTracklist = processTracklist(tracklist);
 	const isMultiDisc = processedTracklist.length > 1;
 
+	const bonusTracks = bonus_tracklist
+		? Object.entries(bonus_tracklist).sort(
+				(a, b) => Number(a[0]) - Number(b[0])
+			)
+		: null;
+
 	return (
 		<section className="mx-auto my-16">
 			<h2 className="text-2xl text-center uppercase mb-8 font-black">
@@ -51,6 +57,19 @@ export default function ReleaseTracklist({ tracklist }) {
 					</div>
 				))}
 			</div>
+
+			{bonusTracks && (
+				<div className="mt-12">
+					<h3 className="text-xl text-center font-bold mb-6 uppercase opacity-70">
+						Bonus Tracks
+					</h3>
+					<div className="w-full">
+						{bonusTracks.map((track) => (
+							<ReleaseTrack key={track[0]} track={track} />
+						))}
+					</div>
+				</div>
+			)}
 		</section>
 	);
 }

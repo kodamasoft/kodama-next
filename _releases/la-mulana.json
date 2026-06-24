@@ -1,0 +1,761 @@
+{
+	"slug": "la-mulana",
+	"theme": "la-mulana",
+	"logo": "/assets/discography/logos/KSEM-0001.png",
+	"color": "FEEC33",
+	"soundcloud_track_id": "2342610365",
+	"cover": "/assets/discography/covers/KSEM-0001.png",
+	"background": {
+		"color": "C19E75",
+		"text_color": "422719"
+	},
+	"scene": {
+		"pillar_left": "/assets/discography/backgrounds/KSEM-0001/gate-l.png",
+		"pillar_right": "/assets/discography/backgrounds/KSEM-0001/gate-r.png",
+		"face_bg": "/assets/discography/backgrounds/KSEM-0001/mom.png"
+	},
+	"title": "LA-MULANA -Songs of the 8th Child-",
+	"circle": {
+		"name": "KodamaSounds & Enga Musica",
+		"link": "/"
+	},
+	"specification": "LA-MULANA Arrange Album",
+	"release_date": "June 27th, 2026",
+	"catalog": "KSEM-0001",
+	"price": "Name Your Price",
+	"store": {
+		"bandcamp": {
+			"name": "Bandcamp",
+			"link": "https://kodamasounds.bandcamp.com/album/la-mulana-songs-of-the-8th-child"
+		},
+		"booth": {
+			"name": "BOOTH",
+			"link": "ttps://kodamasoft.booth.pm/items/8524126"
+		}
+	},
+	"tracklist": {
+		"01": {
+			"title": "Return Me To Heaven, My Children",
+			"artist": "DoricDream feat. Andrew Shouldice",
+			"description": [
+				"• Composer: Takumi Naramura [楢村匠] (NIGORO)",
+				"• Arranger: DoricDream",
+				"• Narration: Andrew Shouldice",
+				"• Narration Script: cal",
+				"",
+				"• Programmed, Produced & Mixed by DoricDream",
+				"• Mastering Engineer: R-Man (Resonant Union)",
+				"",
+				"• Original Track: Earth Wind",
+				"",
+				"• Used Software: Renoise",
+				"• Used VSTs & Samples: Addictive Drums 2, Plogue Chipsynth OPS7, Sonatina Symphonic Orchestra 4.0, HALion Sonic 7",
+				"",
+				"• About this track: This was fun to arrange! The original theme is quite dramatic and has all these beautiful melodies, and I wanted to try and capture that in a more contrapuntal style. So I ended up taking the melody and chopping it up, and passing it around with different instruments in a Mahler-esque fashion. Since it was an opening theme and the game itself has mysterious text narrating it, I felt it would be neat to have some narration over it as well. So in addition to a purely instrumental version, I got my friend Andrew Shouldice (lead developer of TUNIC and fellow La-Mulana fan) to narrate with some text cal had written. It was really cool!",
+				"",
+				"https://doricdream.bandcamp.com"
+			]
+		},
+		"02": {
+			"title": "The Fearless Explorer",
+			"artist": "FANTOM IRIS",
+			"description": [
+				"• Composer: Houryu Samejima [鮫島朋龍] (NIGORO)",
+				"• Arranger: kyo-ji (FANTOM IRIS)",
+				"• Guitar: Pattzn (FANTOM IRIS)",
+				"• Bass: kyo-ji (FANTOM IRIS)",
+				"• Keyboards: Jinja (FANTOM IRIS)",
+				"• Drums: Yamaoh (FANTOM IRIS)",
+				"",
+				"• Programmed, Produced & Mixed by kyo-ji (FANTOM IRIS)",
+				"• Mastering Engineer: R-Man (Resonant Union)",
+				"",
+				"• Original Track: Mr. Explorer, Fearless Challenger",
+				"",
+				"• About this track: As the title suggests, this arrangement is a medley of the Surface theme, “Mr. Explorer,” and the Gate of Guidance theme, “Fearless Challenger.” Why did we choose to make it a medley? Simply put, because we are fans who have spent over 40 hours completing LA-MULANA ourselves, and we were so attached to every track that we could never narrow down our selection to just one. After much discussion within the band, we arrived at a rather crazy conclusion: “Then let's arrange two songs and turn them into a medley!” Two perspectives guided the overall concept of this arrangement; for veteran players, we wanted it to bring back memories of their journey through the ruins and the emotions they felt along the way; for those who have never played the game, we wanted this piece to inspire them to venture into the ruins themselves. The opening section, “Mr. Explorer,” serves as the first step of a long adventure, much like a classic RPG field theme. Through a combination of organic instrumentation and a full band sound, we sought to capture both the excitement and tension felt by an explorer setting foot near the ruins for the first time. “Fearless Challenger,” meanwhile, is remarkably dramatic for what is effectively the game's first stage theme, leaving an unforgettable impression on players. We expressed the image of a challenger confronting an unfathomable ancient civilization through mechanical guitar and synthesizer phrases, supported by aggressive slap bass and driving drums. For this arrangement, we also reinterpreted one of LA-MULANA's defining characteristics: the way the ruins' front and back sides are intricately interconnected, as well as the complex relationships between the game's musical themes. While retaining the melodic sensibilities that define game music, we translated those ideas into a highly technical ensemble performance. The inclusion of phrases from “Giant's Cry” and the emotional climax associated with the final boss battle serves a specific purpose as well. Through this music, we wanted to share the memories of the listeners' own adventures, the memories of the player themselves. This is FANTOM IRIS's most heartfelt arrangement yet. We hope you enjoy it while reminiscing about those vast and unforgettable ruins. [本作でアレンジした楽曲は、そのタイトルが示す通り、地上BGM「Mr. Explorer」と導きの門BGM「Fearless Challenger」によるメドレーアレンジです。なぜメドレーという形をとったのか。それは、私達自身が実際に『LA-MULANA』を40時間かけて攻略したファンであり、どの楽曲も愛着がありすぎて最後まで選曲を絞り込めなかったからです。バンドでの協議の末、「それなら2曲ともメドレー形式でダブルアレンジしよう！」という贅沢な決断に至りました。全体のコンセプトとして掲げたのは2つの視点です。「歴戦のプレイヤーには、遺跡を踏破した道のりや当時の心境を思い出してもらえるように」「未プレイの方には、この音を通じてこれから遺跡へ挑戦したくなるように」 冒頭の「Mr. Explorer」は、長い旅路の第一歩を想起させる、RPGのフィールド曲のような存在。 遺跡周辺に降り立った探索者の高揚感と緊張感を、オーガニックな楽器構成とバンドサウンドで表現しました。 「Fearless Challenger」は、最初のステージとしてはあまりにもドラマチックで、強烈なインパクトを残す名曲です。底知れぬ未知の文明と、そこへ挑む者の姿を、ギターやシンセサイザーのメカニカルなフレーズ、アグレッシブなスラップベースやドラムで構築しました。さらに、本作では『LA-MULANA』の特徴である「表と裏が密接に絡み合う遺跡の構造」や「ゲーム楽曲が持つ複雑な関係性」をバンドなりに再解釈。ゲームミュージックらしいメロディアスさを核に据えつつ、テクニカルなアンサンブルへと落とし込んでいます。「Giant's Cry」のフレーズや、ラストボス戦のエモーショナルな展開がカットインするのも、聴き手である“プレイヤー自身”の冒険の記憶を、この音楽を通して共有したかったからです。FANTOM IRIS渾身のアレンジ。あの広大な遺跡への想いを馳せながら、是非楽しんで下さい！]"
+			]
+		},
+		"03": {
+			"title": "Samba de Xelpud ~ Money to Spend",
+			"artist": "Broomietunes feat. Nat Roth & Zoey Reed",
+			"description": [
+				"• Composer: Takumi Naramura [楢村匠] (NIGORO)",
+				"• Arranger: Broomietunes, Nat Roth",
+				"• Bassoon: Nat Roth",
+				"• Saxophone, Clarinet & Flute: Zoey Reed",
+				"• Melodica: Broomietunes",
+				"• Vocals: Broomietunes, Nat Roth, borbulon, OnyxBlaster, DoricDream, Helispark, DamaPlaysGames, Alexicographic & Jen_theHuman",
+				"",
+				"• Programmed, Produced & Mixed by Broomietunes",
+				"• Mastering Engineer: R-Man (Resonant Union)",
+				"",
+				"• Original Track: Xelpud, BONGA WANGA & G-U-I-L-D",
+				"",
+				"• Used Software: UltraBox, Audacity",
+				"• Used VSTs & Samples: Squidfont Orchestral",
+				"",
+				"• About this track: i was and still am honored to have been invited to make this track for this album. thank you to everyone who contributed and helped make this happen! especially Zoey and Nat, who knocked it out of the park with their live performances! the vocals are all by my friends who are fans of the game and graciously donated their voices to say something silly. i have been a LA-MULANA fan since i was a kid, and while i seem to see a lot of people (even other fans of the game!) who think of LM as a \"bad game that hates you\" or whatever, i really appreciate the amount of care that went into making it, the (joke-filled) conversation you have with its creator just by playing it, and genuinely believe it is one of the best examples of realizing a creative vision i have ever played. even some of the things that some people might consider to be flaws or mistakes in the english version helped make it better and more memorable to me. the idea that if you keep fighting, and keep thinking, you can make it through everything, and figure out anything... that even if you die, you can laugh about it. i hope that that same kind of care comes through in this medley. i hope you enjoy the song, and the rest of the album! Make it LA-MULANA time, all the time!"
+			]
+		},
+		"04": {
+			"title": "REQUIEM AETERNAM",
+			"artist": "alexa sophia",
+			"description": [
+				"• Composer: Takumi Naramura [楢村匠] (NIGORO)",
+				"• Arranger: alexa sophia",
+				"",
+				"• Programmed, Produced & Mixed by alexa sophia",
+				"• Mastering Engineer: R-Man (Resonant Union)",
+				"",
+				"• Original Track: Requiem",
+				"",
+				"• Used Software: Bitwig Studio",
+				"• Used VSTs & Samples: KORG Triton, KORG Opsix mk.II, BFD3",
+				"",
+				"• About this track: A four-bar loop is a perfect thing to cover, right? Despite the brevity of the source material, this is the BGM that plays while menuing and thinking to oneself, \"What do I use against this boss?\" It's the BGM of anticipation, of having solved the puzzles and of standing at the threshold between ruin exploration and combat. It gets more playtime than one might expect, and the motifs drill their way into one's head, inviting fantastical reimagining. Therefore, a proggy digital fusion expansion of this short theme has naturally emerged, with insistent ostinatos gluing themes and motifs together. After listening to this, I hope you're ready to raise an Ankh Jewel into the air and fight Viy, Baphomet, or any of the other bosses in LA-MULANA!",
+				"",
+				"https://syntheticgoddess.bandcamp.com"
+			]
+		},
+		"05": {
+			"title": "Guardians of Secrets",
+			"artist": "WASD",
+			"description": [
+				"• Composer: Houryu Samejima [鮫島朋龍] (NIGORO) & Takumi Naramura [楢村匠] (NIGORO)",
+				"• Arranger: Austin Copek-Green, Jack Simms",
+				"• Guitar & Bass: Austin Copek-Green",
+				"",
+				"• Programmed, Produced & Mixed by Austin Copek-Green & Jack Simms",
+				"• Mastering Engineer: R-Man (Resonant Union)",
+				"",
+				"• Original Tracks: King Konda, Interstice of the Dimension, Sabbat & High-Speed Beast",
+				"",
+				"• Used Software: Reaper",
+				"",
+				"• About this track: In 2014, I prepared three new WASD arrangements for a demo CD I was going to hand out at events over the coming months, one of which was a medley of tunes from LA-MULANA. In 2016, the first full length WASD album, Shift, was released, and that same LA-MULANA arrangement became the opening track of the album in all its glory, as well as getting posted to OCRemix. Feedback was positive, and LA-MULANA fans were rabid for more arrangements. In a response to a YouTube comment from 2017 I said \"I actually would love to do a medley of some of the boss themes from the game\". In record time, I now present to you that boss medley. Thanks to the production team for reaching out and inviting WASD to be a part of this album, and finally giving me the motivation to complete the idea set forth nearly a decade ago!",
+				"",
+				"https://wasdband.bandcamp.com"
+			]
+		},
+		"06": {
+			"title": "High-Speed Beast",
+			"artist": "TrojanHorse711",
+			"description": [
+				"• Composer: Takumi Naramura [楢村匠] (NIGORO)",
+				"• Arranger: TrojanHorse711",
+				"",
+				"• Programmed, Produced & Mixed by TrojanHorse711",
+				"• Mastering Engineer: R-Man (Resonant Union)",
+				"",
+				"• Original Track: High-Speed Beast",
+				"",
+				"• Used Software: Dn-Famitracker 0.2.1.0",
+				"",
+				"• About this track: This was a last-minute submission, but I listened to High-Speed Beasts and felt it would fit right in with a Castlevania game, so I remixed it for VRC6!"
+			]
+		},
+		"07": {
+			"title": "Curse of REMIX",
+			"artist": {
+				"en": "HAGANE",
+				"jp": "はがね"
+			},
+			"description": [
+				"• Composer: Houryu Samejima [鮫島朋龍] (NIGORO)",
+				"• Arranger: HAGANE [はがね] (Koutetsu Ongen)",
+				"",
+				"• Programmed, Produced & Mixed by HAGANE [はがね] (Koutetsu Ongen)",
+				"• Mastering Engineer: R-Man (Resonant Union)",
+				"",
+				"• Original Track: Curse of IRON PIPE, Curse of Ocean",
+				"",
+				"• Used Software: FL Studio",
+				"• Used VSTs & Samples: Serum 2",
+				"",
+				"• About this track: I’ve created a mix that keeps the original melody’s groove while making it even more intense and up-tempo. It was a real pleasure to arrange this! Thank you for making such an amazing song in the first place. [元のメロディのノリを活かしつつ、更に激しくハイテンポなりミックスにしてみました。とても気持ちよくアレンジ出来ました！素晴らしい原曲に感謝。]",
+				"",
+				"https://steelplus.bandcamp.com/"
+			]
+		},
+		"08": {
+			"title": "Big Step",
+			"artist": "June Flower",
+			"description": [
+				"• Composer: Takumi Naramura [楢村匠] (NIGORO)",
+				"• Arranger: June Flower",
+				"",
+				"• Programmed, Produced & Mixed by June Flower",
+				"• Mastering Engineer: R-Man (Resonant Union)",
+				"",
+				"• Original Track: Grand History",
+				"",
+				"• Used Software: Fl Studio 20",
+				"• Used VSTs & Samples: GMS, FLEX bass guitar, FL soundfont player (cave-story/pxtone samples, touhou samples and megadrive sonic game samples, for the most part), 3xOscillator",
+				"",
+				"• About this track: There's no way those big lads aren't dancing like crazy when Lemeza isn't watching",
+				"",
+				"https://june-flower.bandcamp.com/"
+			]
+		},
+		"09": {
+			"title": "Mulbruk",
+			"artist": "TrojanHorse711",
+			"description": [
+				"• Composer: Takumi Naramura [楢村匠] (NIGORO)",
+				"• Arranger: TrojanHorse711",
+				"",
+				"• Programmed, Produced & Mixed by TrojanHorse711",
+				"• Mastering Engineer: R-Man (Resonant Union)",
+				"",
+				"• Original Track: Mulbruk",
+				"",
+				"• Used Software: PMD",
+				"",
+				"• About this track: I wanted to make a PC-98 version of Mulbruk's theme in a similar style to a certain not-Castlevania game on that system. I think I had intended to capture a dream-like feel in this remix, but I think the dream got out of hand... ^-^;"
+			]
+		},
+		"10": {
+			"title": "Moon Light Boogie Woogie",
+			"artist": "Lila Mellark",
+			"description": [
+				"• Composer: Houryu Samejima [鮫島朋龍] (NIGORO)",
+				"• Arranger: Lila Mellark",
+				"• Trombone, Keyboard & Bass: Lila Mellark",
+				"",
+				"• Programmed, Produced & Mixed by Lila Mellark",
+				"• Mastering Engineer: R-Man (Resonant Union)",
+				"",
+				"• Original Track: Moon Light Dance",
+				"",
+				"• Used Software: Ableton",
+				"• Used VSTs & Samples: Roland JV-1080, Guitar Rig 6",
+				"",
+				"• About this track: A 80'S pop funk version of Moonlight dance from the game LA-MULANA :D",
+				"",
+				"https://lilamellark.bandcamp.com/"
+			]
+		},
+		"11": {
+			"title": "Primitive Dance -Endless Groove-",
+			"artist": "SomeSpoonyBard",
+			"description": [
+				"• Composer: Takumi Naramura [楢村匠] (NIGORO)",
+				"• Arranger: SomeSpoonyBard",
+				"",
+				"• Programmed, Produced, Mixed & Mastered by SomeSpoonyBard",
+				"• Additional Mastering: Light bus compression, dynamic EQ and saturation to tame/smear transients and limiting to control dynamics",
+				"",
+				"• Original Track: Primitive Dance",
+				"",
+				"• Used Software: FL Studio",
+				"• Used VSTs & Samples: VOPM, chipsynth OPS7, Omnisphere, Session Horns Pro, Addictive Drums 2, Korg Triton, Roland XV-5080",
+				"",
+				"• About this track: Out of all tracks, I felt this one was the best vehicle for my groovy FM bass. I also felt some extra percussion would befit the drum breakdown in the middle of the song rather well."
+			]
+		},
+		"12": {
+			"title": "Giant's Cry",
+			"artist": "GaMetal",
+			"description": [
+				"• Composer: Houryu Samejima [鮫島朋龍] (NIGORO)",
+				"• Arranger: Jonny Atma",
+				"• Guitars, Drums, Keyboards & Synths: Jonny Atma",
+				"",
+				"• Programmed, Produced & Mixed by Jonny Atma",
+				"• Mastering Engineer: R-Man (Resonant Union)",
+				"",
+				"• Original Track: Giant's Cry",
+				"",
+				"• Used Software: Logic Pro X",
+				"",
+				"• About this track: This is a LA-MULANA track that I've had my eyes (ears?) to remake someday for quite some time! I gave it a guitar/synth dual solo section, similar to what you'd hear in songs like Interstice of the Dimension or Reproduction of Power.",
+				"",
+				"https://gametal.bandcamp.com"
+			]
+		},
+		"13": {
+			"title": "Edge of Eden",
+			"artist": "bleepmusic",
+			"description": [
+				"• Composer: Takumi Naramura [楢村匠] (NIGORO)",
+				"• Arranger: bleepmusic",
+				"",
+				"• Programmed, Produced, Mixed & Mastered by bleepmusic",
+				"• Additional Mastering: Ceiling adjustment",
+				"",
+				"• Original Track: Eden",
+				"",
+				"• Used Software: Reaper, Helix Rack",
+				"• Used VSTs & Samples: Omnisphere, Addictive Drums, FabFilter Pro-Q, FabFilter Pro-C, LA-2A Emulation, Elevate",
+				"",
+				"• About this track: This was a very interesting song to arrange. Very unconventional structure and harmonic progression. Feels almost like a mockery of angels playing beautiful music, which given what happens was probably the point! I leaned heavily into the ominous elements making it very clear that there was something more to the pretty little room above the moon.",
+				"",
+				"https://bleep.bandcamp.com/"
+			]
+		},
+		"14": {
+			"title": "ILLUSION GATE ~Wandering & Wondering~",
+			"artist": "HEAVYVIPER",
+			"description": [
+				"• Composer: Takumi Naramura [楢村匠] (NIGORO)",
+				"• Electric Guitar: HEAVYVIPER",
+				"",
+				"• Programmed, Produced & Mixed by HEAVYVIPER",
+				"• Mastering Engineer: R-Man (Resonant Union)",
+				"",
+				"• Original Track: Wonder of the Wonder",
+				"",
+				"• Used Software: Reason 14",
+				"• Used VSTs & Samples: Kuassa Amplifikation 360, Kazrog True Iron + KClip3, FabFilter suite, Cableguys Shaperbox",
+				"",
+				"• About this track: To the wanderer who seeks a sensible arrangement. Thou art a fool. Thou art a fool. Thou art a fool.",
+				"",
+				"https://heavyviper.bandcamp.com"
+			]
+		},
+		"15": {
+			"title": "Rite of the Unawakened Mother",
+			"artist": {
+				"en": "Tadahiro Nitta",
+				"jp": "新田忠弘"
+			},
+			"description": [
+				"• Composer: Takumi Naramura [楢村匠] (NIGORO)",
+				"• Arranger: Tadahiro Nitta [新田忠弘]",
+				"",
+				"• Programmed, Produced & Mixed by Tadahiro Nitta [新田忠弘]",
+				"• Mastering Engineer: R-Man (Resonant Union)",
+				"",
+				"• Original Track: Mother will be awaken",
+				"",
+				"• Used Software: Cubase 13",
+				"",
+				"• About this track: This performance was done using a single Roland Sound Canvas SC-88 Pro unit. Furthermore, I insisted on recording directly from the main LR outputs without using parallel outputs."
+			]
+		},
+		"16": {
+			"title": "linkedlightsorceror",
+			"artist": "イベライ/Emelia",
+			"description": [
+				"• Composer: Takumi Naramura [楢村匠] (NIGORO)",
+				"• Arranger: イベライ/Emelia [iberai/Emelia] (Event Line Junction Out of Phase)",
+				"",
+				"• Programmed, Produced & Mixed by イベライ/Emelia [iberai/Emelia] (Event Line Junction Out of Phase)",
+				"• Mastering Engineer: R-Man (Resonant Union)",
+				"",
+				"• Original Track: Sabbat",
+				"",
+				"• Used Software: Renoise 3.5.2",
+				"",
+				"• About this track: zts respect — Can it be seen?"
+			]
+		},
+		"17": {
+			"title": "GODDESS ROCKET",
+			"artist": "beatrix quinn",
+			"description": [
+				"• Composer: Takumi Naramura [楢村匠] (NIGORO)",
+				"• Arranger: beatrix quinn",
+				"",
+				"• Programmed, Produced & Mixed by beatrix quinn",
+				"• Mastering Engineer: R-Man (Resonant Union)",
+				"",
+				"• Original Track: Sky Tower",
+				"",
+				"• Used Software: Reaper",
+				"• Used VSTs & Samples: Serum 2, Vital, Sublab XL, Decent Sampler, Spitfire LABS, FabFilter Pro Suite, ShaperBox 3, Cymatics FX Toolkit Vol 5, JayB Transition Effects, and recordings from data sorting algorithms",
+				"",
+				"• About this track: While I had never played LA-MULANA, I was inspired by the sound of this original track in particular. I asked another arranger on the project (DoricDream) for lore about the area of the game in which this track plays, and was enamored when she explained the original context: discovering an ancient spaceship from a civilization long past. I was reminded of another game series I'm fond of, Metroid, and some influence from the music of Metroid Prime is no doubt apparent in this work. I decided to put a sci-fi spin on the arrangement and create a soundscape that evoked the feeling of being overwhelmed by such unimaginable sights. I also added a trap section because someone challenged me to. LOL! It was a lot of fun to make. 💖",
+				"",
+				"https://beatrixquinn.bandcamp.com"
+			]
+		},
+		"18": {
+			"title": "ReAwakening",
+			"artist": "DJ ROUGE-GORGE",
+			"description": [
+				"• Composer: Houryu Samejima [鮫島朋龍] (NIGORO)",
+				"• Arranger: DJ ROUGE-GORGE (KodamaSounds)",
+				"",
+				"• Programmed, Produced & Mixed by DJ ROUGE-GORGE (KodamaSounds)",
+				"• Mastering Engineer: R-Man (Resonant Union)",
+				"",
+				"• Original Track: Awakening",
+				"",
+				"• Used Software: Reaper",
+				"• Used VSTs & Samples: Spire, TAL Reverb 4, dblue Glitch, OTT, kHs Suite, Analog Lab V, Pro-Q 3, Alterium",
+				"",
+				"• About this track: So... I didn't have any plans to do anything for this album whatsoever, nor do I really honestly know much about LA-MULANA besides its cult classic state, but I figured it'd be interesting to try and remix a track that sounds so typically \"video gamey\" in a somewhat modern hypertrance/hardcore vibe. I've done a lot of progress in the past few months thanks to my teacher, and my objective this year is to try and contribute to as many compilations as I possibly can - and who better than me to represent KodamaSounds on this album. I did this arrangement at the last minute following a chat on the project's Discord server, and thought why not. I'm scared of the clash compared to the level of polish of the rest of the tracklist, both quality and style wise, but I hope you'll somewhat enjoy it still!",
+				"",
+				"https://fivda.bandcamp.com"
+			]
+		},
+		"19": {
+			"title": "La Máquina Antigua",
+			"artist": "Garoslaw",
+			"description": [
+				"• Composer: Houryu Samejima [鮫島朋龍] (NIGORO)",
+				"• Arranger: Garoslaw",
+				"",
+				"• Programmed, Produced & Mixed by Garoslaw",
+				"• Mastering Engineer: R-Man (Resonant Union)",
+				"",
+				"• Original Track: Ancient Machine",
+				"",
+				"• Used Software: Bitwig Studio 6",
+				"• Used VSTs & Samples: Kontakt 7 (Factory Library 2 for Saxophones, Trumpets, Upright Bass. Fracture Sounds Drum Kit), sforzando (VGTrumpet's Harmon-muted trumpet, VSCL Yamaha Upright Piano)",
+				"",
+				"• About this track: Took the opportunity to cover this track since I first heard it used for a pretty faithful recreation of Palenque in Fraxy (a shoot-em-up game with custom boss crafting capability). That's also how I first learned about La-Mulana! It's been in the back of my mind since. When I was thinking about ideas, the strong one that came to me was a swing arrangement. Think a bouncer Palenque chasing Xelpud out of a Mayan casino.",
+				"",
+				"https://arcofdream.bandcamp.com"
+			]
+		},
+		"20": {
+			"title": "Treasure",
+			"artist": "Jemmysponz",
+			"description": [
+				"• Composer: Takumi Naramura [楢村匠] (NIGORO)",
+				"• Arranger: Jemmysponz",
+				"",
+				"• Programmed, Produced & Mixed by Jemmysponz",
+				"• Mastering Engineer: R-Man (Resonant Union)",
+				"",
+				"• Original Track: Treasure Sealed Off",
+				"",
+				"• Used Software: FL Studio",
+				"• Used VSTs & Samples: Pianissimo VST, Spitfire Original Soft Felt Piano VST, FLEX Essential Pianos - Electric Piano Bright",
+				"",
+				"• About this track: When I was a child, I used to plumb the bizarre depths of early YouTube to find silly Mario Paint Composer arrangements of my favorite songs, and then graduated to seeking out silly piano covers. There's a strange beauty to taking a piece of music written to sound a specific way or evoke a specific feeling and choosing to warp it into something you wouldn't necessarily expect to fit its original shape. When I grew up a little and kept looking for those piano covers, I found a particular video where two pianists sat across from each other, their pianos back to back as they played a duet arrangement of a silly anime song, and I knew I wanted to make piano arrangements of my own! I envision a concert hall with a team of pianists each tackling their own small section of a song simultaneously to overlap in a haunting contortion of what someone expects from the original, haha. La-Mulana is twenty years old!!! My complicated relationship with it, however, began eight years ago when my late friend Firynth convinced me to pick up the game for myself. When I was asked if I wanted to participate in this project, I instantly knew what song I wanted to cover. When Wise Men was taken however, I decided this was my chance to play around with Treasure Sealed Off instead! If you've played La-Mulana before and solved a particularly obtuse series of puzzles then you know that this is the kind of song that you are forced to listen to for a long time without a break. There are many elements of it that I am certain were put into the song to be annoying to a degree, and so having the opportunity to tackle this piece felt like a chance to both boil down what I feel is iconic and essential about the song, while simultaneously getting my revenge on it. I am by no means an expert musician or an especially talented arranger, but I spent a lot of time and effort choosing how to fight with this song while sticking to my specific self-imposed limitations in order to make something that ultimately (in my opinion at least!) sounds really nice. For instance, in the original piece, the main melody of this song is played on a bold, brassy-sounding horn of some sort. As a middle finger to how the song treated me in my youth, I took that melody and placed it on the most soft, delicate piano I had in my collection (even though it sucks!!! It's a terrible terrible piano and using it is a nightmare!). Another especially iconic part of the song is the high-pitched, little fairy instrument flitting around constantly while you get shot by lasers or punched by a giant fist. I spent a lot of time picking out specifically the electric piano that I felt best captured that sound without making the song impossible to listen to. As cruel and heartless as La-Mulana wants to seem, it has been a big part of my life since the day that I played it and has resulted in many great commiserative friendships for me. I'm grateful to NIGORO for making such a silly and fun experience, and I'm grateful to the rest of the arrangers here for giving me the opportunity to play along, even with how stylistically different this ended up being. Finally, this song is dedicated to my friend Philip \"Firynth\" Whaley, without whose recommendation I would never have even given La-Mulana a second glance. We miss you man. ",
+				"",
+				"https://jemmysponz.bandcamp.com/"
+			]
+		},
+		"21": {
+			"title": "The Pink Demon's Endless Challenge",
+			"artist": "IsabelleChiming",
+			"description": [
+				"• Composer: Takumi Naramura [楢村匠] (NIGORO)",
+				"• Arranger: IsabelleChiming",
+				"",
+				"• Programmed, Produced & Mixed by IsabelleChiming",
+				"• Mastering Engineer: R-Man (Resonant Union)",
+				"",
+				"• Original Track: Endless Challenger",
+				"",
+				"• Used Software: Furnace 0.6.8.3",
+				"• Used VSTs & Samples: Instrument samples from Kirby Super Star",
+				"",
+				"• About this track: I've never played LA-MULANA, so it was very interesting covering a track I have basically no context for! I heard that it was used in a boss rush, so I made a mix heavily inspired by Kirby Super Star's Arena battle theme. There are a few other Kirby references too, so listen out for those! This is hardware-accurate SNES chiptune.",
+				"",
+				"https://isabellechiming.bandcamp.com/"
+			]
+		},
+		"22": {
+			"title": "Spirits of Giants X",
+			"artist": "Broomietunes",
+			"description": [
+				"• Composer: Houryu Samejima [鮫島朋龍] (NIGORO)",
+				"• Arranger: Broomietunes",
+				"",
+				"• Programmed, Produced, Mixed & Mastered by Broomietunes",
+				"• Additional Mastering: Very light bus compression for transient control, dynamic EQ for balance and limiting to bring loudness back up.",
+				"",
+				"• Original Track: Spirits of Giants",
+				"",
+				"• Used Software: Ultrabox",
+				"• Used VSTs & Samples: Mega Man X Soundfont",
+				"",
+				"• About this track: the other track i did for this album featured a lot of people, and took almost half a year to get everything together and finish it... this one was just me, and took about 2 days lol. seeing other people deciding to speedrun making another song right before the deadline made me want to give it a shot too, and im glad i did! making this was a lot of fun and it turned out pretty well in my opinion. it gave me some new appreciation for the details of the song too : ) (this isnt hardware accurate or anything, its just having fun with the instrument set.)"
+			]
+		},
+		"23": {
+			"title": "Death's Corridor",
+			"artist": "Tenshio",
+			"description": [
+				"• Composer: Houryu Samejima [鮫島朋龍] (NIGORO)",
+				"• Arranger: Tenshio",
+				"",
+				"• Programmed, Produced & Mixed by Tenshio",
+				"• Mastering Engineer: R-Man (Resonant Union)",
+				"",
+				"• Original Track: Death Game",
+				"",
+				"• Used Software: FL STUDIO 2024",
+				"• Used VSTs & Samples: Utopia Audigy, FLEX, Sytrus",
+				"",
+				"• About this track: I wanted to make an intense and imposing mix for Death Game, since the area immediately gives you a high danger / endgame vibe. I used a lot of orchestral samples mixed with some electronic elements to give my own unique take on the track. I also used a leitmotif of the main theme as a little homage to Tiamat's relation to The Mother."
+			]
+		},
+		"24": {
+			"title": "Mr.Explorer arranged version",
+			"artist": "hasu",
+			"description": [
+				"• Composer: Houryu Samejima [鮫島朋龍] (NIGORO)",
+				"• Arranger: hasu",
+				"",
+				"• Programmed, Produced & Mixed by hasu",
+				"• Mastering Engineer: R-Man (Resonant Union)",
+				"",
+				"• Original Track: Mr. Explorer",
+				"",
+				"• Used Software: Cubase 14",
+				"• Used VSTs & Samples: HALion 7",
+				"",
+				"• About this track: I’d be really happy if you enjoyed listening to it",
+				"",
+				"https://hasu2010.bandcamp.com/"
+			]
+		},
+		"25": {
+			"title": "Wise Men Who Saw Her Off To Heaven",
+			"artist": "DoricDream feat. Kiara_TV",
+			"description": [
+				"• Composer: Takumi Naramura [楢村匠] (NIGORO)",
+				"• Arranger: DoricDream",
+				"• Piano: Kiara_TV",
+				"",
+				"• Programmed, Produced & Mixed by DoricDream",
+				"• Mastering Engineer: R-Man (Resonant Union)",
+				"",
+				"• Original Track: Wise men who halts, Good Night Mom",
+				"",
+				"• Used Software: Renoise, Dorico 4",
+				"• Used VSTs & Samples: Addictive Drums 2, Plogue Chipsynth OPS7, Sonatina Symphonic Orchestra",
+				"",
+				"• About this track: I'm a sucker for huge, bombastic music, so picking Good Night Mom was a no-brainer for me. LA-MULANA has one of my favorite game soundtracks of all time, and I really wanted to do this piece justice. I opted to go for an FM synthesis sound, and used the music of Kazuo Hanzawa as a reference in terms of sound. He favors very bright, intense sounds which I felt were perfect for music this expressive and emotional. FM is something I specialize in, so it was very natural for me. I opted to re-use a SNES-styled string sample (from the Sonatina Symphonic Orchestra 4.0 .sfz)I engineered for a game I wrote for as well, since I wanted to give the music an expressive orchestral quality as well.  One of the most impressive aspects of LA-MULANA's music is the usage of symbolic musical motifs. I noticed that the track Wise Men Who Halts has the same main motif as Good Night Mom, used at a climactic moment. I had the idea to fuse these tracks together, so that the climax of Wise Men would immediately transition to Good Night Mom, fusing the two pieces together in an expansive moment of storytelling. It was a fun puzzle getting the tonalities of the two pieces to work together, and reminded me a bit of the puzzlesolving in LA-MULANA itself! The only problem is that Wise Men is a very sparse and dramatic piece in terms of texture, so I felt that FM would be a bit too cold to convey what the music really says. Fortunately, the moment I came up with this idea, I had someone in mind who i knew would make this all work. A friend of mine named Kiara had recently finished live-streaming her playthrough of LA-MULANA on twitch.tv, and she had fallen in love with the game. She is a skilled pianist in addition to being a streamer, so I felt it would be right to ask her to perform in this work. I arranged Wise Men for solo piano, and had the piece bookend the full work. She was overjoyed to be a part of this, and despite how busy she was these past few months she still managed to learn and nail the difficult arrangements I written at at an almost terrifying rate. I want to thank everyone who put this project together, and everyone who took part as well! This was truly a joy to work on, and I am grateful for the opportunity!",
+				"",
+				"https://doricdream.bandcamp.com"
+			]
+		}
+	},
+	"bonus_tracklist": {
+		"01": {
+			"title": "Return Me To Heaven, My Children (instrumental)",
+			"artist": "DoricDream",
+			"description": [
+				"• Composer: Takumi Naramura [楢村匠] (NIGORO)",
+				"• Arranger: DoricDream",
+				"",
+				"• Programmed, Produced & Mixed by DoricDream",
+				"• Mastering Engineer: R-Man (Resonant Union)",
+				"",
+				"• Original Track: Earth Wind",
+				"",
+				"• Used Software: Renoise",
+				"• Used VSTs & Samples: Addictive Drums 2, Plogue Chipsynth OPS7, Sonatina Symphonic Orchestra 4.0, HALion Sonic 7",
+				"",
+				"• About this track: This was fun to arrange! The original theme is quite dramatic and has all these beautiful melodies, and I wanted to try and capture that in a more contrapuntal style. So I ended up taking the melody and chopping it up, and passing it around with different instruments in a Mahler-esque fashion. Since it was an opening theme and the game itself has mysterious text narrating it, I felt it would be neat to have some narration over it as well. So in addition to a purely instrumental version, I got my friend Andrew Shouldice (lead developer of TUNIC and fellow La-Mulana fan) to narrate with some text cal had written. It was really cool!",
+				"",
+				"https://doricdream.bandcamp.com"
+			]
+		},
+		"02": {
+			"title": "Friends and the Sun",
+			"artist": "Broomietunes",
+			"description": [
+				"• Composer: Takumi Naramura [楢村匠] (NIGORO)",
+				"• Arranger: Broomietunes",
+				"",
+				"• Programmed, Produced & Mixed by Broomietunes",
+				"• Mastering Engineer: R-Man (Resonant Union)",
+				"",
+				"• Original Track: Run toward the sun",
+				"",
+				"• Used Software: Ultrabox",
+				"",
+				"• About this track: Happy 20 years LA-MULANA!!"
+			]
+		}
+	},
+	"footer": {
+		"en": "LA-MULANA and all associated music, characters, logos, and other intellectual property are © ASTERIZM CO., LTD. / Game Production Division NIGORO. This work is released with permission from NIGORO but is not officially endorsed.",
+		"jp": "『LA-MULANA』およびそれに関連するすべての音楽、キャラクター、ロゴ、その他の知的財産は、株式会社アスタリズム／ゲーム事業部 NIGORO に帰属します。本作品はNIGOROの許諾を得て公開されていますが、公式に承認・監修されたものではありません。"
+	},
+	"youtube_id": "B62wABS5SB8",
+	"credits": {
+		"1": {
+			"id": "Takumi Naramura",
+			"role": "Original Composer & Special Thanks"
+		},
+		"2": {
+			"id": "Houryu Samejima",
+			"role": "Original Composer"
+		},
+		"3": {
+			"id": "DoricDream",
+			"role": "Arranger"
+		},
+		"4": {
+			"id": "FANTOM IRIS",
+			"role": "Band Performance"
+		},
+		"5": {
+			"id": "kyo-ji",
+			"role": "Arranger & Bass"
+		},
+		"6": {
+			"id": "Pattzn",
+			"role": "Guitar"
+		},
+		"7": {
+			"id": "Jinja",
+			"role": "Keyboards"
+		},
+		"8": {
+			"id": "Yamaoh",
+			"role": "Drums"
+		},
+		"9": {
+			"id": "Andrew Shouldice",
+			"role": "Narration"
+		},
+		"10": {
+			"id": "Broomietunes",
+			"role": "Arranger, Melodica, Additional Pixel Art, Game Footage & Editing Supervision"
+		},
+		"11": {
+			"id": "Nat Roth",
+			"role": "Arranger & Bassoon"
+		},
+		"12": {
+			"id": "Zoey Reed",
+			"role": "Saxophone, Clarinet & Flute"
+		},
+		"13": {
+			"id": "alexa sophia",
+			"role": "Arranger"
+		},
+		"14": {
+			"id": "WASD",
+			"role": "Band Performance "
+		},
+		"15": {
+			"id": "Austin Copek-Green",
+			"role": "Arranger & Instruments"
+		},
+		"16": {
+			"id": "Jack Simms",
+			"role": "Arranger"
+		},
+		"17": {
+			"id": "TrojanHorse711",
+			"role": "Arranger"
+		},
+		"18": {
+			"id": "HAGANE",
+			"role": "Arranger"
+		},
+		"19": {
+			"id": "June Flower",
+			"role": "Arranger, Video Art Design & Pixel Art"
+		},
+		"20": {
+			"id": "Lila Mellark",
+			"role": "Arranger & Instruments"
+		},
+		"21": {
+			"id": "SomeSpoonyBard",
+			"role": "Arranger"
+		},
+		"22": {
+			"id": "Jonny Atma",
+			"role": "Arranger, Instruments"
+		},
+		"23": {
+			"id": "bleepmusic",
+			"role": "Arranger"
+		},
+		"24": {
+			"id": "HEAVYVIPER",
+			"role": "Arranger & Electric Guitar"
+		},
+		"25": {
+			"id": "Tadahiro Nitta",
+			"role": "Arranger"
+		},
+		"26": {
+			"id": "イベライ/Emelia",
+			"role": "Arranger"
+		},
+		"27": {
+			"id": "beatrix quinn",
+			"role": "Arranger"
+		},
+		"28": {
+			"id": "DJ ROUGE-GORGE",
+			"role": "Arranger"
+		},
+		"29": {
+			"id": "Garoslaw",
+			"role": "Arranger"
+		},
+		"30": {
+			"id": "Jemmysponz",
+			"role": "Arranger"
+		},
+		"31": {
+			"id": "IsabelleChiming",
+			"role": "Arranger"
+		},
+		"32": {
+			"id": "Tenshio",
+			"role": "Arranger"
+		},
+		"33": {
+			"id": "hasu",
+			"role": "Arranger"
+		},
+		"34": {
+			"id": "Kiara_TV",
+			"role": "Piano"
+		},
+		"35": {
+			"id": "R-Man",
+			"role": "Mastering Engineer"
+		},
+		"36": {
+			"id": "cal",
+			"role": "Project Organizer, Creative Director, Logo Design & Narration Script"
+		},
+		"37": {
+			"id": "Fivda",
+			"role": "Production Support"
+		},
+		"38": {
+			"id": "JUNNY",
+			"role": "Illustration"
+		},
+		"39": {
+			"id": "RummySM",
+			"role": "Video Editor"
+		},
+		"40": {
+			"id": "Birds Probably",
+			"role": "Additional Pixel Art"
+		},
+		"41": {
+			"id": "Yanis",
+			"role": "Japanese Translator"
+		},
+		"42": {
+			"id": "krz",
+			"role": "Web"
+		},
+		"43": {
+			"id": "Doggibelle",
+			"role": "Web"
+		},
+		"44": {
+			"id": "VIIweights",
+			"role": "Web"
+		},
+		"45": {
+			"id": "Sergio Cornaga",
+			"role": "Special Thanks"
+		},
+		"46": {
+			"id": "All Explorers",
+			"role": "Special Thanks"
+		}
+	}
+}

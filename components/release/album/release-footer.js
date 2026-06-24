@@ -13,6 +13,21 @@ export default function ReleaseNav({ title, slug, footer_string }) {
 		}
 		return title;
 	};
+
+	const getLocalizedFooter = (footer) => {
+		if (typeof footer === 'object' && footer !== null) {
+			return (
+				footer[locale] ||
+				footer.en ||
+				footer.jp ||
+				Object.values(footer)[0]
+			);
+		}
+		return footer;
+	};
+
+	const localizedFooter = getLocalizedFooter(footer_string);
+
 	return (
 		<footer className="container mx-auto mt-16 mb-8 px-2 flex flex-wrap text-current/60 text-sm justify-between align-middle items-end">
 			<div>
@@ -22,8 +37,8 @@ export default function ReleaseNav({ title, slug, footer_string }) {
 				<br />
 				<span>©2021–{new Date().getFullYear()} </span>
 				<Link href="/"> KodamaSounds</Link>
-				{footer_string && (
-					<p className="mt-4 max-w-xl text-xs">{footer_string}</p>
+				{localizedFooter && (
+					<p className="mt-4 max-w-xl text-xs">{localizedFooter}</p>
 				)}
 			</div>
 
