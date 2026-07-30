@@ -313,7 +313,8 @@
 		"diverse": "https://www.diverse.direct/kodamasounds/kscd-0002/",
 		"vgmdb": "https://vgmdb.net/album/151948",
 		"melonbooks": "https://www.melonbooks.co.jp/detail/detail.php?product_id=3207281",
-		"akibahobby": "https://shop.akbh.jp/en/products/2100000167135"
+		"akibahobby": "https://shop.akbh.jp/en/products/2100000167135",
+		"fullAlbum": "https://www.youtube.com/watch?v=PC9IAxQ_ZgM"
 	},
 	"eclectic-resonance-paradise": {
 		"id": "KSDL-0020",
@@ -364,7 +365,8 @@
 		"youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_n4uuQGGQIqfMfAIscfNDXEr7BeXKEZMuw",
 		"website": "/releases/eclectic-resonance-uprising-3",
 		"vgmdb": "https://vgmdb.net/album/145979",
-		"diverse": "https://www.diverse.direct/kodamasounds/kscd-0003-4/"
+		"diverse": "https://www.diverse.direct/kodamasounds/kscd-0003-4/",
+		"fullAlbum": "https://www.youtube.com/watch?v=LJUw_mF9c9g"
 	},
 	"eclectic-resonance-memories-2": {
 		"id": "KSCD-0005~6",
@@ -381,7 +383,8 @@
 		"youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_mDXjI2vGmDHWvdXKu1KqrXyS9v_q3k5sk",
 		"website": "/releases/eclectic-resonance-memories-2",
 		"vgmdb": "https://vgmdb.net/album/145981",
-		"diverse": "https://www.diverse.direct/kodamasounds/kscd-0005-6/"
+		"diverse": "https://www.diverse.direct/kodamasounds/kscd-0005-6/",
+		"fullAlbum": "https://www.youtube.com/watch?v=YgBD3J2kugc"
 	},
 	"touhou-fractured-transience": {
 		"id": "KSDL-0021",
@@ -425,7 +428,8 @@
 		"diverse": "https://www.diverse.direct/kodamasounds/ksdl-0022/",
 		"website": "/releases/yggdrasil",
 		"vgmdb": "https://vgmdb.net/album/152681",
-		"bandcampPhysical": "https://kodamasounds.bandcamp.com/merch/yggdrasil-48p-download-booklet"
+		"bandcampPhysical": "https://kodamasounds.bandcamp.com/merch/yggdrasil-48p-download-booklet",
+		"fullAlbum": "https://www.youtube.com/watch?v=tEjdxbzzcXM"
 	},
 	"eclectic-resonance-detuned-alloy-2": {
 		"id": "KSDL-0023",
@@ -443,7 +447,8 @@
 		"website": "/releases/eclectic-resonance-detuned-alloy-2",
 		"vgmdb": "https://vgmdb.net/album/156245",
 		"deezer": "https://www.deezer.com/album/982267751",
-		"diverse": "https://www.diverse.direct/kodamasounds/ksdl-0023/"
+		"diverse": "https://www.diverse.direct/kodamasounds/ksdl-0023/",
+		"fullAlbum": "https://www.youtube.com/watch?v=hnLo2440ERY"
 	},
 	"hearts-station": {
         "id": "KSDS-0002",
@@ -468,7 +473,8 @@
         "coverColor": "#79746f",
         "bandcamp": "https://kodamasounds.bandcamp.com/album/la-mulana-songs-of-the-8th-child",
         "booth": "https://kodamasoft.booth.pm/items/8524126",
-        "vgmdb": "",
-		"website": "/releases/la-mulana"
+        "vgmdb": "https://vgmdb.net/album/161461",
+		"website": "/releases/la-mulana",
+		"fullAlbum": "https://www.youtube.com/watch?v=TQWd5APJZM4"
 	}
 }
