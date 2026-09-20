@@ -18,16 +18,16 @@
 			},
 			{
 				"slug": "eclectic-resonance-tremor",
-				"status": "accepting",
-				"percentage": "10",
-				"duration": "10:13",
+				"status": "about-to-release",
+				"percentage": "95",
+				"duration": "1:54:19",
 				"deadline": "2026-08-31T23:59:59Z",
-				"finished_tracks": "2",
+				"finished_tracks": "30",
 				"mastering": {
 					"status": "pending",
 					"engineer": "Volumetrique (KodamaSounds)"
 				},
-				"artwork_comission": "pending",
+				"artwork_comission": "completed",
 				"color": "#9f1239"
 			},
 			{
@@ -131,13 +131,13 @@
 		"projects": [
 			{
 				"slug": "moriya-barista-2",
-				"status": "accepting",
-				"percentage": "70",
-				"duration": "29:50",
-				"finished_tracks": "7",
+				"status": "about-to-release",
+				"percentage": "95",
+				"duration": "1:01:02",
+				"finished_tracks": "15",
 				"deadline": "2026-08-14T23:59:59Z",
 				"mastering": {
-					"status": "pending",
+					"status": "ongoing",
 					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"
 				},
 				"artwork_comission": "completed",
