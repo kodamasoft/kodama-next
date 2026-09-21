@@ -476,5 +476,24 @@
         "vgmdb": "https://vgmdb.net/album/161461",
 		"website": "/releases/la-mulana",
 		"fullAlbum": "https://www.youtube.com/watch?v=TQWd5APJZM4"
+	},"eclectic-resonance-tremor": {
+		"id": "KSDL-0025",
+		"releaseDate": "2026-06-27T00:00:00+0200",
+		"name": "ECLECTIC RESONANCE TREMOR",
+		"cover": "/assets/discography/covers/0023.png",
+		"coverColor": "#ae0759",
+		"bandcamp": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-detuned-alloy-2",
+		"bandcampPhysical": "https://kodamasounds.bandcamp.com/merch/eclectic-resonance-detuned-alloy-2-15x15cm-download-card",
+		"booth": "https://kodamasoft.booth.pm/items/5665348",
+		"spotify": "https://open.spotify.com/album/66QoLCDpXEJtcDDt6cQ4U6",
+		"youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_k_AM8wkPXBrBTu0uuC6j7jfSH5kVVPFBw",
+		"appleMusic": "https://music.apple.com/album/1896081943",
+		"akibahobby": "https://shop.akbh.jp/products/2100000176267",
+		"website": "/releases/eclectic-resonance-tremor",
+		"vgmdb": "https://vgmdb.net/album/156245",
+		"deezer": "https://www.deezer.com/album/982267751",
+		"diverse": "https://www.diverse.direct/kodamasounds/ksdl-0023/",
+		"fullAlbum": "https://www.youtube.com/watch?v=hnLo2440ERY"
 	}
+
 }
