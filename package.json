@@ -65,6 +65,7 @@
 	"allowScripts": {
 		"core-js-pure@3.45.1": true,
 		"@tailwindcss/oxide@4.1.7": true,
-		"next-translate-plugin@2.0.5": true
+		"next-translate-plugin@2.0.5": true,
+		"fsevents@2.3.2": true
 	}
 }
