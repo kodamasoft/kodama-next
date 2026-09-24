@@ -479,18 +479,13 @@
 	},
 	"gensokyo-party-vol7": {
 		"id": "KSDL-0024",
-		"releaseDate": "2026-06-27T00:00:00+0200",
+		"releaseDate": "2026-10-04T00:00:00+0200",
 		"name": "Gensokyo Party Vol. 7 Moriya Barista 2",
-		"cover": "/assets/discography/covers/0019.png",
-		"coverColor": "cf5595",
-		"bandcamp": "https://kodamasounds.bandcamp.com/album/gensokyo-party-vol-6-border-in-stasis",
-		"booth": "https://kodamasoft.booth.pm/items/6753843",
-		"appleMusic": "https://music.apple.com/album/1814369535",
-		"spotify": "https://open.spotify.com/album/2ebVz6ZyE493M02npfR0yx",
-		"deezer": "https://www.deezer.com/album/756595081",
-		"youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_m0EWBHQBKRbgXIXQwUwp-5oUz2lWZBuNE",
+		"cover": "/assets/discography/covers/0024.png",
+		"coverColor": "ecc4c2",
+		"bandcamp": "https://kodamasounds.bandcamp.com/album/gensokyo-party-vol-7-moriya-barista-2",
+		"booth": "https://kodamasoft.booth.pm/items/8877127",
 		"website": "/releases/gensokyo-party-vol7",
-		"vgmdb": "https://vgmdb.net/album/137952",
-		"thbwiki": "https://thwiki.cc/Gensokyo_Party_Vol._6_Border_in_Stasis"
+		"vgmdb": "https://vgmdb.net/album/156247"
 	}
 }

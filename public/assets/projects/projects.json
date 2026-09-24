@@ -132,16 +132,16 @@
 			{
 				"slug": "moriya-barista-2",
 				"status": "about-to-release",
-				"percentage": "95",
+				"percentage": "100",
 				"duration": "1:01:02",
 				"finished_tracks": "15",
 				"deadline": "2026-08-14T23:59:59Z",
 				"mastering": {
-					"status": "ongoing",
+					"status": "completed",
 					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"
 				},
 				"artwork_comission": "completed",
-				"color": "#6ee7b7"
+				"color": "#ecc4c2"
 			},
 			{
 				"slug": "dj-koishi-2",
