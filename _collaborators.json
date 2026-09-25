@@ -3805,6 +3805,67 @@
 			"vgmdb": "https://vgmdb.net/artist/61007"
 		}
 	},
+	"Twitter Tohobu": {
+		"name": {
+			"en": "Twitter Tohobu",
+			"jp": "ついったー東方部"
+		},
+		"links": {
+			"twitter": "https://twitter.com/tohobu",
+			"youtube": "https://www.youtube.com/@tohobu",
+			"soundcloud": "https://soundcloud.com/tanigon",
+			"apple": "https://music.apple.com/artist/1480821102",
+			"spotify": "https://open.spotify.com/artist/3WJ4Ve1CPnv3FVDP6o6kEv",
+			"website": "https://tohobu.org/",
+			"vgmdb": "https://vgmdb.net/org/5086"
+		}
+	},
+	"tanigon": {
+		"name": "tanigon",
+		"links": {
+			"twitter": "https://x.com/tanigon",
+			"vgmdb": "https://vgmdb.net/artist/11548"
+		}
+	},
+	"crow": {
+		"name": "crow",
+		"links": {
+			"twitter": "https://x.com/tubax_crow",
+			"vgmdb": "https://vgmdb.net/artist/52348"
+		}
+	},
+	"2416": {
+		"name": "2416",
+		"links": {
+			"vgmdb": "https://vgmdb.net/artist/79157"
+		}
+	},
+	"GUCCHI": {
+		"name": "GUCCHI",
+		"links": {
+			"vgmdb": "https://vgmdb.net/artist/79159"
+		}
+	},
+	"Moca Miyamai": {
+		"name": {
+			"en": "Moca Miyamai",
+			"jp": "宮舞モカ"
+		},
+		"links": {
+			"twitter": "https://x.com/miyamaimoca",
+			"vgmdb": "https://vgmdb.net/artist/68579"
+		}
+	},
+	"Cubey": {
+		"name": "Cubey",
+		"links": {
+			"twitter": "https://x.com/CubeyThePenguin",
+			"bluesky": "https://bsky.app/profile/cubeythepenguin.bsky.social",
+			"youtube": "https://www.youtube.com/channel/UC8xUN5INhlab4-ja6B3pkmQ",
+			"soundcloud": "https://soundcloud.com/cubeythepenguin",
+			"vgmdb": "https://vgmdb.net/artist/74544"
+		}
+	},
 	"SampleEN": {
 		"name": "Sample",
 		"links": {

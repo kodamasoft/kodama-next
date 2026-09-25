@@ -1,390 +1,287 @@
 {
 	"slug": "gensokyo-party-vol7",
-	"logo": "/assets/discography/logos/0023.png",
-	"color": "62ebe2",
-	"soundcloud_track_id": "2301629312",
-	"cover": "/assets/discography/covers/0023.png",
+	"logo": "/assets/discography/logos/0024.png",
+	"color": "ffffff",
+	"soundcloud_track_id": "2405522562",
+	"cover": "/assets/discography/covers/0024.png",
 	"header": {
-		"image": "/assets/discography/headers/0023.png"
+		"image": "/assets/discography/headers/0024.png"
 	},
 	"background": {
-		"color": "6d1243"
+		"color": "b38974",
+		"text_color": "000000"
 	},
 	"title": "Gensokyo Party Vol. 7 Moriya Barista 2",
 	"circle": {
 		"name": "KodamaSounds",
 		"link": "/"
 	},
-	"specification": "15x15cm Download Card / Original Rock & Acoustic Compilation",
-	"release_date": "April 26th, 2026 (M3-2026春)",
-	"catalog": "KSDL-0023",
-	"price": "Pre-Order & Event Price: 12€ / 2000 yen | Shop Price: 15€ / 2500 yen + tax",
+	"specification": "15x15cm Download Card / \"Gensokyo at Peace\" Touhou Arrange Album",
+	"release_date": "Oct 4th, 2026 (秋季例大祭13)",
+	"catalog": "KSDL-0024",
+	"price": "Event Price: 2000 yen | Bandcamp Price: 15€ | Shop Price: 2963YEN",
 	"booth": {
-		"link": "https://x.com/kodamasoft",
-		"name": "KodamaSounds & Rolling Bassline",
-		"other": " / 第一展示場 F-12a"
+		"link": "https://x.com/4CornersDoujin",
+		"name": "Four Corners",
+		"other": " / ぬ24ab"
 	},
 	"store": {
 		"bandcamp": {
 			"name": "Bandcamp",
-			"link": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-detuned-alloy-2"
+			"link": "https://kodamasounds.bandcamp.com/album/gensokyo-party-vol-7-moriya-barista-2"
 		},
 		"booth": {
 			"name": "BOOTH",
-			"link": "https://kodamasoft.booth.pm/items/5665348"
-		},
-		"diverse": {
-			"name": "Diverse Direct",
-			"link": "https://www.diverse.direct/kodamasounds/ksdl-0023/"
-		},
-		"bandcampPhysical": {
-			"name": "Bandcamp (Physical)",
-			"link": "https://kodamasounds.bandcamp.com/merch/eclectic-resonance-detuned-alloy-2-15x15cm-download-card"
-		},
-		"akibahobby": {
-			"name": "AKIBA-HOBBY",
-			"link": "https://shop.akbh.jp/products/2100000176267"
+			"link": "https://kodamasoft.booth.pm/items/8877127"
 		}
 	},
 	"tracklist": {
 		"01": {
-			"title": "Delirium",
-			"artist": "stuv",
+			"title": {
+				"en": "Locked Girl ~ The Girl's Sealed Room",
+				"jp": "ラクトガール　～ 少女密室"
+			},
+			"artist": {
+				"en": "Twitter Tohobu",
+				"jp": "ついったー東方部"
+			},
 			"description": [
-				"• Composer & Arranger: stuv",
-				"• Guitars (Abasi Consepts Larada J8, Strandberg Boden Standard NX 6 Tremolo): stuv",
+				"• Original Composer: ZUN (Team Shanghai Alice)",
+				"• Arranger: tanigon (Twitter Tohobu)",
+				"• Pf: tanigon",
+				"• Sax: crow",
+				"• Bass: 2416",
+				"• Drums: GUCCHI",
 				"",
-				"• Programmed, Produced, Mixed & Mastered by stuv",
-				"• Additional Mastering Engineer: Tape simulator for warmth and brightness, dynamic EQ for balance, multiband saturation for a tighter sound and master limiting",
+				"• Programmed, Produced & Mixed by tanigon (Twitter Tohobu)",
+				"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
 				"",
-				"• Used Software: Reaper",
-				"• Used VSTs & Samples: Neural DSP(Misha / Abasi / Gojira / Parallax ), Mixwave(Mike Stringer / Manuel Gardner Fernandes), GGD Studio Cabs Contenders Round 1,Superior Drummer 3, Mixwave Luke Holland",
+				"• Original Track: Locked Girl ~ The Girl's Sealed Room [ラクトガール　～ 少女密室]",
+				"• Source: Touhou Koumakyou ~ the Embodiment of Scarlet Devil. [東方紅魔郷　～ the Embodiment of Scarlet Devil.]",
 				"",
-				"• About this track: I should at least be allowed to be happy when I look at illusions [幻を見ている間くらいは幸せな気分でいてもいいはずだ]",
+				"• Used Software: Cubase",
 				"",
-				"BPM: 128",
-				"Time Signature: 4/4",
+				"BPM: 138",
+				"Time Signatures: 4/4",
 				"Key: N/A",
-				"Genre: Metal",
+				"Genre: Jazz",
 				"",
-				"https://stuv-rf.bandcamp.com/"
+				"https://x.com/tanigon"
 			]
 		},
 		"02": {
-			"title": "My Yandere GF Doesn't Seem To Go On Murder Sprees in Harajuku. I Want a Refund!",
-			"artist": "Mei Naganowa",
+			"title": "Assim, rumo ao Céu",
+			"artist": "intelligencecasino",
 			"description": [
-				"• Composer & Arranger: Mei Naganowa",
-				"• Vocals: Teto Kasane [重音テト], Yumenokessho PASTEL [夢ノ結唱PASTEL], Ayame, Nakuru [無來], Moka Miyamai [宮舞モカ]",
-				"• Lyrics: Mei Naganowa",
+				"• Original Composer: ZUN (Team Shanghai Alice)",
+				"• Arranger: intelligencecasino",
+				"• Vocals: Moca Miyamai [宮舞モカ] (Synthesizer V)",
+				"• Lyrics: intelligencecasino",
 				"",
-				"• Programmed, Produced & Mixed by Mei Naganowa",
-				"• Mastering Engineer: R-Man (Resonant Union)",
+				"• Programmed, Produced & Mixed by intelligencecasino",
+				"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
 				"",
-				"• Used Software: Bitwig 5",
-				"• Used VSTs & Samples: Kontakt 7, Serum, Nexus, EZBass",
-				"",
-				"• About this track: CRABCORE IS BACK Y'ALL! This time it has implied Yuri and... alt-idols, because they are basically crabcore if you insist. think about it, there ARE similarities between alt-idol metal and early-10s electronic metalcore...",
-				"",
-				"• Lyrics",
-				"Woo!",
-
-				"Let's GOOOOOOOO!!!!",
-
-				"how can I learn to be just as heartless as you",
-				"the heartlessness you had to hide, that you hid away from me",
-				"I only want to be prepared for the next time",
-				"tell me, what can I do to prevent myself from ending up with empty hands again?",
-
-				"I've held on to you for what seems to be my entire time of life",
-				"caught up in too high expectations",
-				"what's there to defend when it was doomed from the start?",
-				"all what's left are empty promises",
-				"So welcome to the bottom line",
-				"just leave your stuff at the door",
-				"make yourself comfortable, I invite you to sink as low as me",
-				"You circle your prey like a predator, waiting for the right moment to strike.",
-				"who's the one behind all this, I just wanna talk with them.",
-
-				"how can I learn to be just as heartless as you",
-				"the heartlessness you had to hide, that you hid away from me",
-				"I only want to be prepared for the next time",
-				"tell me, what can I do to prevent myself from ending up with empty hands again?",
-
-				"Do you think you can crawl back as if nothing ever happened?",
-				"I'll never show weaknes again",
-				"do you think I would die alone, you thought I can't do this at all on my own?",
-				"Our dignety has died with your lies,",
-				"you can have it back!",
-
-				"*BLEGH*",
-
-				"how can I learn to be just as heartless as you",
-				"the heartlessness you had to hide, that you hid away from me",
-				"I only want to be prepared for the next time",
-				"tell me, what can I do to prevent myself from ending up with empty hands again?",
-
-				"You, you have shown me the way to be a girl again (I guess I had to wake up),",
-				"You, you have shown me the way to be a girl again,",
-
-				"regretfulness, resentment, this is what disillusionment sounds like,",
-
-				"OH!",
-
-				"how can I learn to be just as heartless as you,",
-				"the heartlessness you had to hide, that you hid away from me,",
-				"",
-				"BPM: 148 - 188",
-				"Time Signature: 4/4",
-				"Key: C#min",
-				"Genre: Crabcore/Electronicore",
-				"",
-				"https://reekandthemeitriphecta.bandcamp.com"
-			]
-		},
-		"03": {
-			"title": "I Hate You, Yesterday",
-			"artist": "Aiyru",
-			"description": [
-				"• Composer & Arranger: Aiyru",
-				"• Guitar & Bass: Aiyru",
-				"",
-				"• Programmed, Produced, Mixed & Mastered by Aiyru",
-				"• Additional Mastering: -10.6dB of clip gain to avoid clipping. Bus compression for glue, dynamic EQ for balance, multiband saturation for a tighter sound, Vitalizer for subtle stereo width and master limiting",
+				"• Original Track: The Road of the Misfortune God ~ Dark Road [厄神様の通り道　～ Dark Road]",
+				"• Source: Touhou Fuujinroku ~ Mountain of Faith. [東方風神録　～ Mountain of Faith.]",
 				"",
 				"• Used Software: FL Studio",
 				"",
-				"• About this track: rock",
-				"",
-				"BPM: 220",
-				"Time Signature: 4/4",
-				"Key: N/A",
-				"Genre: J-Punk",
-				"",
-				"https://aiyru.bandcamp.com/"
-			]
-		},
-		"04": {
-			"title": "Voidwalker",
-			"artist": "gsharp",
-			"description": [
-				"• Composer, Arranger & Lyrics: gsharp",
-				"• Vocals: Mai (Synthesizer V)",
-				"• Guitar: gsharp",
-				"",
-				"• Programmed, Produced & Mixed by gsharp",
-				"• Mastering Engineer: R-Man (Resonant Union)",
-				"",
 				"• Lyrics",
-				"Shadow of truth, invisible to anyone's eyes",
-				"Irreversible choices stole the light",
-				"Footprints left stronger by what was carried",
-				"Invisible to anyone's eyes",
+				"悲しみを　血に染まる泥と混ぜて",
+
+				"聖なる肌に　そっとなじませる",
+
+				"わたしから隠れるものは",
+				"きみにはもう　透けて見えるみたい",
 				"",
-				"The surfacing representations were sickeningly vivid",
-				"Exist devoid of shadows and inorganic",
-				"The stars that bear no light",
-				"mercilessly proclaim eternity again today, unchanged",
+				"言葉ひとつ　届かない場所へ",
+				"熱を残して　刻まれていく",
+				"もう名乗れない意味たちが",
+				"わたしを　静かに染めてく",
 				"",
-				"Holding a hand over it, I perceive distortion in space",
-				"Even if it is remembered, there is no guarantee of its correctness",
-				"The voice I distinctly heard",
-				"I don't want to betray the present moment",
+				"どこか上で　くらい銀河がほどけて",
+				"きみが先に　名前のない方へ",
+				"滲むまで　残りを手に取って",
+				"この静かな消失へ　連れていって",
 				"",
-				"Asserting achromatic colors",
-				"Ambiguous boundaries",
-				"Unnaturally natural breathing",
-				"It blooms whether one wishes it or not",
+				"燻る廃墟に　甘い雨が降る",
+				"ああ　全部　飲み込んでしまえばいいのに",
+				" ",
+				"視界の外へ　くるくる回る",
+				"天国みたいに　上昇して全部",
+				"空はきっと　重たく垂れて",
+				"この土地の　ゆるやかな終わりに",
 				"",
-				"Averting one's gaze, it forms as desired",
-				"Forgotten relic",
-				"I had wished for you to call my name, thereby proving my existence",
+				"言葉ひとつ　届かない場所へ",
+				"熱を残して　刻まれていく",
+				"もう名乗れない意味たちが",
+				"わたしを　静かに染めてく",
+				"包んでく 殺していく",
 				"",
-				"The surfacing representations were sickeningly vivid",
-				"Exist devoid of shadows and inorganic",
-				"Melting into the stars that do not shine, witnessing the finite",
-				"A path marked by footprints",
-				"",
-				"Asserting achromatic colors",
-				"Ambiguous boundaries",
-				"Shadow of truth, invisible to anyone's eyes",
-				"It's better if only I know",
-				"To stand in the shadows and illuminate",
-				"",
-				"Exhilarated in the face of death",
-				"All discomfort makes one feel alive",
-				"Showing existence, making eye contact and conversing",
-				"Allowed to stop breathing",
-				"",
-				"BPM: 208",
-				"Time Signature: 4/4",
-				"Key: C minor",
-				"Genre: Metalcore / Djent",
-				"",
-				"https://x.com/SharpJijii"
-			]
-		},
-		"05": {
-			"title": {
-				"en": "Until the Error Becomes the Optimal Solution",
-				"jp": "誤差が最適解になるまでで"
-			},
-			"artist": "intelligencecasino feat. Eden Forscythe",
-			"description": [
-				"• Composer, Arranger & Lyrics: intelligencecasino",
-				"• Vocals: Eden Forscythe",
-				"• Guitars: Yumi Sakata (Holmgang Ov Gensokyo)",
-				"",
-				"• Programmed, Produced, Mixed & Mastered by intelligencecasino",
-				"• Additional Mastering: 1.4dB additional limiting to bring the loudness up to par",
-				"",
-				"• Used Software: FL Studio",
-				"",
-				"• About this track",
-				"Eden Forscythe: I think this track has a really interesting quality to it, like soaring through a vast blue synthetic sky full of sci-fi hologram cubes... At least, I envisioned that a lot when I was singing, which makes it somehow refreshing in spite of the dire theme. I think that contrast is what makes it enjoyable.",
-				"",
-				"• Lyrics:",
-				"薬まだ効いてる気しないな",
-				"ぶっちゃけ、舌の上で回る",
-				"断続的　妄念発作",
-				"αは割込みと化する",
-				"",
-				"失敗の級数　分割された章",
-				"配列は崩壊 収束しない証明",
-				"大胆さ　脆弱さ",
-				"雲の振幅に揺られ　浄化のない領域",
-				"「救え」という口は閉じられ　鍵穴だけが増殖する",
-				"",
-				"わたしの歩幅は兵站　転ぶたび世界が前進する",
-				"その瞬間 尊さは売却済み　誰も私を助けない",
-				"",
-				"顔面に刻まれた　切断面",
-				"赤いコチニールが滴り",
-				"戦争が平和として評価され",
-				"誤差が最適解になり",
-				"",
-				"無数の亀裂を引き裂いて",
-				"やってきたこと全てが 罰のように　逆流する",
-				"秩序が虚偽なら 生は拒絶でしかない",
-				"私は　燃えるために飛ぶ 赤い傷を記録する",
-				"",
-				"わたしの鼓動は補給路　躓くたび地図が塗り替わる",
-				"その瞬間　祈りは質入れ済み　誰もわたしを抱き上げない",
-				"",
-				"BPM: 200",
-				"Time Signature: 4/4",
-				"Key: C major",
-				"Genre: J-Rock/Metalcore",
+				"BPM: 85",
+				"Time Signatures: 4/4",
+				"Key: C Minor",
+				"Genre: Bossa Nova",
 				"",
 				"https://66clown.bandcamp.com/"
 			]
 		},
-		"06": {
-			"title": "Silver Willows",
-			"artist": "Zohar Emulator feat. Rämillia",
+		"03": {
+			"title": "Shattered Moon",
+			"artist": "Musicarus",
 			"description": [
-				"• Composer & Arranger: Zohar Emulator (Pixel Mixers)",
-				"• Lead Electric Guitar 1: Zohar Emulator (Pixel Mixers)",
-				"• Lead Electric Guitar 2 & Lead Acoustic Guitar: Rämillia",
+				"• Original Composer: U2 Akiyama [あきやまうに] (Twilight Frontier)",
+				"• Arranger: Musicarus",
 				"",
-				"• Programmed, Produced & Mixed by Zohar Emulator (Pixel Mixers)",
-				"• Mastering Engineer: R-Man (Resonant Union)",
+				"• Programmed, Produced & Mixed by Musicarus",
+				"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
 				"",
-				"• Used Software: Reaper",
-				"• Used VSTs & Samples: Perfect Drums, Xpand!2, Archetype Petrucci X, Ignite Emissary",
+				"• Original Track: Broken Moon [砕月]",
+				"• Source: Touhou Suimusou ~ Immaterial and Missing Power. [東方萃夢想　～ Immaterial and Missing Power.]",
 				"",
-				"• About this track: The chorus melody was the first part I came up when I started arranging this track. By pure chance, I ended up expanding on it with a somber acoustic intro and a rock/metal second part, creating some sort of musical journey towards heaviness, which I find fitting for the overall theme of the album. Bottom line: everything will eventually turn to metal.",
+				"BPM: 111",
+				"Time Signatures: 4/4",
+				"Key: Dbm",
+				"Genre: Lounge House",
 				"",
-				"BPM: 127",
-				"Time Signature: 4/4 (0:00~4:06) - 3/4 (4:06~4:16) - 4/4 (4:16~end)",
-				"Key: N/A",
-				"Genre: Folk Metal",
+				"https://musicarus.bandcamp.com"
+			]
+		},
+		"04": {
+			"title": "Eastern Breeze - Parable of Frozen Time",
+			"artist": "Levc_EGM",
+			"description": [
+				"• Original Composer: ZUN (Team Shanghai Alice)",
+				"• Arranger: Levc_EGM",
 				"",
-				"https://x.com/ZoharNasci"
+				"• Programmed, Produced, Mixed & Mastered by Levc_EGM",
+				"• Additional Mastering: Ceiling Adjustment",
+				"",
+				"• Original Track: Hakurei ~ Eastern Wind [博麗　～ Eastern Wind]",
+				"• Source: Touhou Fuumaroku ~ the Story of Eastern Wonderland. [東方封魔録　～ the Story of Eastern Wonderland.]",
+				"",
+				"• Used Software: FL Studio 21",
+				"• Used VSTs & Samples: Addictive Drums 2, DPinga Congas, Addictive Keys, Play (Goliath), Mel-Lofi 2, Sforzando, Plugsound Box, Falcon (V-Horns Tenor Sax, Plugsound pro), FL Sounfont player, Super Mario RPG sample pack",
+				"",
+				"• About this track: Another jazzy Touhou arrangement by me? Guess so. You know me. I love jazz. Just don't look at the heavy amount of ska albums I have on my phone with me at all times. Wait, should I make a ska arrangement? What am I even thinking. Recently, I've been listening to a lot of early Touhou music (I'm going chronologically). So when I was approached to contribute a new arrangement, I went with one of my favorites! It's a simple melody. But it allows me to expand it in some fun ways! I think it sounds good. No but seriously, when's the Touhou Ska album happening-",
+				"",
+				"BPM: 197.033 (intro), 210.862 (middle), 170 (end).",
+				"Time Signatures: 4/4",
+				"Key: B-flat minor",
+				"Genre: VGM Jazz",
+				"",
+				"https://levcegm.bandcamp.com/"
+			]
+		},
+		"05": {
+			"title": "Sueňo Místico ~ O Nieve o Pétalo de Cerezo",
+			"artist": "Someone45356",
+			"description": [
+				"• Original Composer: ZUN",
+				"• Arranger: Someone45356",
+				"• Piano, Upright Bass, Flute, Saxophone, Guiro, Conga, Tumbadora, Taped Cymbal & Cowbells: Someone45356",
+				"",
+				"• Programmed, Produced, Mixed & Mastered by Someone45356",
+				"• Additional Mastering: DC Offset filter, EQ, Limiting, Ceiling",
+				"",
+				"• Original Track: Ghostly Dream ~ Snow or Cherry Petal [妖々夢　～ Snow or Cherry Petal]",
+				"• Source: Touhou Youyoumu ~ Perfect Cherry Blossom. [東方妖々夢　～ Perfect Cherry Blossom.]",
+				"",
+				"• Used Software: Logic Pro for iPad",
+				"• Used VSTs & Samples: Orchestral Tools Andea, Splice, SWAM, Ink Audio Amateur Orchestra",
+				"",
+				"• About this track: I thought chachá would be an interesting type of music to try for a barista or coffee shop feel, that is hispanoamerican and still fits the vibe more or less. I was told I didn’t need to worry about that too much, but well I still put some thought into it. The track itself too was also a pick I chose for that precise reason, its very straight forward and simple for a touhou song, and so I thought it would be good for a rendition. ",
+				"",
+				"BPM: 120",
+				"Time Signatures: 4/4",
+				"Key: 4/4",
+				"Genre: Chachachá",
+				"",
+				"https://someone45356.bandcamp.com/"
+			]
+		},
+		"06": {
+			"title": "Corpse Cold Brew - A Toast to the Departed • Display Artist: KoDyMaxx",
+			"artist": "KoDyMaxx",
+			"description": [
+				"• Original Composer: ZUN (Team Shanghai Alice)",
+				"• Arranger: Maxx (KodamaSounds), Kopan (KodamaSounds), LyhNed (KodamaSounds)",
+				"• Guitars & Bass: Maxx (KodamaSounds)",
+				"• Keys: Kopan (KodamaSounds)",
+				"• Drums: LyhNed (KodamaSounds)",
+				"",
+				"• Programmed & Produced by Maxx (KodamaSounds), Kopan (KodamaSounds), LyhNed (KodamaSounds)",
+				"• Mixed by Maxx (KodamaSounds)",
+				"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+				"",
+				"• Original Track: Corpse Voyage ~ Be of good cheer! [死体旅行　～ Be of good cheer!]",
+				"• Source: Touhou Chireiden ~ Subterranean Animism. [東方地霊殿　～ Subterranean Animism.]",
+				"",
+				"• Used Software: Reaper, Cubase, FL Studio",
+				"",
+				"• About this track: You're at a cozy Café on a rainy day, having a nice warm drink while looking out the window. That is the picture we had in mind and hope to convey with this track.",
+				"",
+				"BPM: 120",
+				"Time Signatures: 4/4",
+				"Key: E Minor",
+				"Genre: Downtempo",
+				"",
+				"https://kodymaxx.bandcamp.com/"
 			]
 		},
 		"07": {
-			"title": "GET IT TWISTED",
-			"artist": "Tee-vee",
+			"title": "Inaba's Day Off",
+			"artist": "Cubey",
 			"description": [
-				"• Composer & Arranger, Vocals & Lyrics: Tee-vee",
-				"• Guitar & Bass Guitar: Tee-vee",
+				"• Original Composer: ZUN (Team Shanghai Alice)",
+				"• Arranger: Cubey",
 				"",
-				"• Programmed, Produced & Mixed by Tee-vee",
-				"• Mastering Engineer: R-Man (Resonant Union)",
+				"• Programmed, Produced & Mixed by Cubey",
+				"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
 				"",
-				"• Used Software: FL Studio 2025",
+				"• Original Track: Lunatic Eyes ~ Invisible Full Moon [狂気の瞳　～ Invisible Full Moon]",
+				"• Source: Touhou Eiyashou ~ Imperishable Night. [東方永夜抄　～ Imperishable Night.]",
 				"",
-				"• About this track: After YGGDRASIL I didn't think I had in me to make a full song so soon, but I somehow got inspired by the progress of the project and managed to come up with solid ideas super quickly. It was intended to be a fully instrumental arrangement at first, but I wasn't satisfied with what I could come up with for verses, and when I started thinking about adding vocals the lyrics ideas flowed very fast so I went with them",
-				"• Lyrics",
-				"Your heroes of light have shown you their true nature",
-				"A facade of good will just to hide their crimes",
-				"You believed their lies, and followed in their footsteps",
-				"You've looked up to them and now you shall look down",
-				"Your oath is now broken, your life's on the line",
-				"What felt like a sin now's your chance to survive",
-				"You've sharpened steel before but not to this end",
-				"It's time to find your own path to thread",
+				"• Used Software: GarageBand iOS",
+				"• Used VSTs & Samples: Numa Player, Korg Module, Apple loops, restaurant ambience from Fesliyan Studios",
 				"",
-				"Is this what I'm looking for? (I've always been waiting for you)",
-				"Is this truly my destiny? (I've always been waiting for you)",
-				"It's always been waiting for you",
-				"Now draw your blade, and stain it with blood",
+				"• About this track: I chose Inaba's theme because any rest for Inaba is practically unheard of, given that she's a full-time student and servant. Her original theme is also quite chaotic; the harmonious chorus in 4/4 clashes with the meandering verses in 6/4. \"Inaba's Day Off\" is a tamer interpretation of the theme, as everything is pulled into 4/4 so it can breathe.",
 				"",
-				"It's only a matter of time",
-				"The voices are coming after me",
-				"There's no other way but down",
-				"I will never delve in too deep",
+				"BPM: 100",
+				"Time Signatures: 4/4",
+				"Key: E minor (0:00 ~ 0:43); D minor (0:43 ~ 1:12); C# minor (1:12 ~ 1:31); E minor (1:31 ~ 3:00); D minor (3:00 ~ 3:26)",
+				"Genre: Lo-fi / Downtempo",
 				"",
-				"Even on top it feels worse than before",
-				"The world knows your name and it's waiting for more",
-				"What once was your flame is now burning your skin",
-				"Your dresses once blackened now bleached in the sun",
-				"If this is part of some twisted cycle of fate",
-				"You'll spiral outwards 'til it breaks",
-				"Remember there is no other way but down",
-				"Can you dig a deeper grave than your own?",
-				"",
-				"Is this what I'm looking for?",
-				"Is this truly my destiny?",
-				"It's always been waiting for you",
-				"Now draw your blade, and stain it with blood",
-				"",
-				"It's only a matter of time",
-				"The voices are now cowering in fear",
-				"There's no other way but down",
-				"Death is now but making one with me",
-				"",
-				"BPM: 135",
-				"Time Signature: Various (mostly 4/4 for vocal sections)",
-				"Key: mostly B minor for choruses and A minor for verses and pre-choruses, bridge shifts around a bunch",
-				"Genre: Progressive Rock",
-				"",
-				"https://teeveemusic.bandcamp.com"
+				"https://cubeythepenguin.bandcamp.com/"
 			]
 		},
 		"08": {
-			"title": "Black Tooth Swagger",
-			"artist": "JP Glovasa",
+			"title": {
+				"en": "danger past, but the heat still remains...",
+				"jp": "喉元過ぎても熱さはまだ..."
+			},
+			"artist": "Lollipop",
 			"description": [
-				"• Composer & Arranger: JP Glovasa",
-				"• Guitar & Bass: JP Glovasa",
-				"• Drums: John Caputo",
+				"• Original Composer: ZUN (Team Shanghai Alice)",
+				"• Arranger: Lollipop (dandelion sounds)",
 				"",
-				"• Programmed & Produced by JP Glovasa",
-				"• Mixed by Dan Swan",
-				"• Mastering Engineer: R-Man (Resonant Union)",
+				"• Programmed, Produced & Mixed by Lollipop (dandelion sounds)",
+				"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
 				"",
-				"• Used Software: Logic Pro / Pro Tools",
+				"• Original Track: Lullaby of Deserted Hell [廃獄ララバイ]",
+				"• Source: Touhou Chireiden ~ Subterranean Animism. [東方地霊殿　～ Subterranean Animism.]",
 				"",
-				"• About this track: Inspired by classic hard rock and blues, Black Tooth Swagger depicts a suspicious but charismatic badass, drenched in filth and booze but oozing the charm and funk to get by through life. Probably wears a dirty trench coat too.",
+				"• Used Software: REAPER, MuseScore 4",
+				"• Used VSTs & Samples: ",
 				"",
-				"BPM: 105",
-				"Time Signature: 4/4",
-				"Key: A minor blues",
-				"Genre: Classic blues based hard rock",
+				"• About this track: The Remains of Blazing Hell, huh... Honestly, even if we were to set up a café or something here, that'd be that, and I don't think we'd get a lot of foot traffic, y'know... ...Ah, the coffee, let's drink it before it goes cold! [灼熱地獄跡か... 流石にここに喫茶店など構えたら構えたで客足少ないだろうね... ...あっ、コーヒー、冷めないうちに早く飲んで！]",
 				"",
-				"https://jpglovasa.bandcamp.com/"
+				"BPM: 130 (0:00-1:32) - 106 (1:32-2:00) - 90 (2:00-2:10) - 128 (2:10-3:01) - 104 (3:01-3:26) - 104 gradually decreasing to 68 (3:26-3:55)",
+				"Time Signatures: 4/4 (0:00-3:01) - 3/4 (3:01-3:55)",
+				"Key: G minor",
+				"Genre: Bossa Nova / Ragtime / Instrumental",
+				"",
+				"https://x.com/Lollipop_314"
 			]
 		},
 		"09": {
@@ -726,136 +623,69 @@
 	"youtube_id": "3lJtBwPE-bQ",
 	"credits": {
 		"1": {
-			"id": "stuv",
-			"role": "Music & Guitars"
+			"role": "Band",
+			"id": "Twitter Tohobu"
 		},
 		"2": {
-			"id": "Mei Naganowa",
-			"role": "Music & Lyrics"
+			"role": "Arranger & Pf",
+			"id": "tanigon"
 		},
 		"3": {
-			"id": "Aiyru",
-			"role": "Music, Guitars & Bass"
+			"role": "Sax",
+			"id": "crow"
 		},
 		"4": {
-			"id": "gsharp",
-			"role": "Music, Lyrics & Guitars"
+			"role": "Bass",
+			"id": "2416"
 		},
 		"5": {
-			"id": "intelligencecasino",
-			"role": "Music & Lyrics: intelligencecasino"
+			"role": "Drums",
+			"id": "GUCCHI"
 		},
 		"6": {
-			"id": "Eden Forscythe",
-			"role": "Vocals"
+			"role": "Arranger & Lyrics",
+			"id": "intelligencecasino"
 		},
 		"7": {
-			"id": "Yumi Sakata",
-			"role": "Music, Lyrics, Vocals & Guitars"
+			"role": "Vocals",
+			"id": "Moca Miyamai"
 		},
 		"8": {
-			"id": "Zohar Emulator",
-			"role": "Music & Guitars"
+			"role": "Arranger",
+			"id": "Levc_EGM"
 		},
 		"9": {
-			"id": "Rämillia",
-			"role": "Music & Guitars"
+			"role": "Arranger & Instruments",
+			"id": "Someone45356"
 		},
 		"10": {
-			"id": "Tee-vee",
-			"role": "Music, Lyrics, Vocals, Guitars & Bass "
+			"role": "Band",
+			"id": "KoDyMaxx"
 		},
 		"11": {
-			"id": "JP Glovasa",
-			"role": "Music, Guitars & Bass"
+			"role": "Arranger, Guitars & Bass",
+			"id": "Maxx"
 		},
 		"12": {
-			"id": "John Caputo",
-			"role": "Drums"
+			"role": "Arranger & Keys",
+			"id": "Kopan"
 		},
 		"13": {
-			"id": "R-Man",
-			"role": "Music, Lyrics, Guitars, Synths & Mastering Engineer"
+			"role": "Arranger & Drums",
+			"id": "LyhNed"
 		},
 		"14": {
-			"id": "AKA",
-			"role": "Vocals"
+			"role": "Arranger",
+			"id": "Cubey"
 		},
 		"15": {
-			"id": "5KiLOBYTE",
-			"role": "Music"
-		},
-		"16": {
-			"id": "KoDyMaxx",
-			"role": "Music & Instruments"
-		},
-		"17": {
-			"id": "Nico Siberia",
-			"role": "Vocals & Lyrics"
-		},
-		"18": {
-			"id": "PSYQUO",
-			"role": "Music & Lyrics"
-		},
-		"19": {
-			"id": "Skye Senfort",
-			"role": "Vocals"
-		},
-		"20": {
-			"id": "Leyrinne",
-			"role": "Vocals & Lyrics"
-		},
-		"21": {
-			"id": "MB",
-			"role": "Music & Guitars"
-		},
-		"22": {
-			"id": "E-Sarge",
-			"role": "Additional Arranger & Instruments"
-		},
-		"23": {
-			"id": "Roy Girvan",
-			"role": "Guitars"
-		},
-		"24": {
-			"id": "Noa Silversten",
-			"role": "Bass"
-		},
-		"25": {
-			"id": "Volumetrique",
-			"role": "Audio Crossfade"
-		},
-		"26": {
-			"id": "Manof",
-			"role": "Illustration & Logo Designer"
-		},
-		"27": {
-			"id": "shonocondo",
-			"role": "Logo Designer"
-		},
-		"28": {
-			"id": "Zeth",
-			"role": "Layout"
-		},
-		"29": {
-			"id": "Fivda",
-			"role": "Supervisor & Planner"
-		},
-		"30": {
-			"id": "Yanis",
-			"role": "Japanese Translator"
-		},
-		"31": {
-			"id": "RummySM",
-			"role": "Crossfade Video"
-		},
-		"32": {
-			"id": "Doggibelle",
-			"role": "Web"
-		},
-		"33": {
-			"id": "VIIweights",
-			"role": "Web"
+			"role": "Arranger",
+			"id": "Lollipop"
 		}
-	}
+	},
+	"description": {
+		"en": "\"Lady Patchouli, care for another cup of tea?\" Seems like the Moriya shrine maiden got a new hire, and with that, the whole Scarlet Devil mansion has come forward to taste some new beverage! \"Moriya Barista 2\" will be the perfect new addition to your music rotation whenever you want to cool down, or share a warm and bittersweet cup of coffee with the local yokais.",
+		"jp": "「パチュリー様、お紅茶をもう一杯いかがですか？」どうやら守矢神社の魔法使いが新しい仲間を迎えたようで、紅魔館の方々も、新たな一杯を味わいにやって来ました！『Moriya Barista 2』は、ひと息つきたい時や、妖怪たちと温かくほろ苦いコーヒーを囲んで穏やかな時間を過ごしたい時にぴったりな、新たなお気に入りの一枚になることでしょう。"
+	},
+	"footer": "東方Project © 上海アリス幻樂団 © 黄昏フロンティア\n"
 }
