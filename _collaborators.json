@@ -3866,7 +3866,90 @@
 			"vgmdb": "https://vgmdb.net/artist/74544"
 		}
 	},
-	"SampleEN": {
+	"Someone45356": {
+		"name": "Someone45356",
+		"links": {
+			"pixiv": "https://www.pixiv.net/en/users/91366864",
+			"bandcamp": "https://someone45356.bandcamp.com",
+			"youtube": "https://www.youtube.com/channel/UCiiTssXxklIDeDBWq0tPHUA",
+			"soundcloud": "https://soundcloud.com/someone45356",
+			"vgmdb": "https://vgmdb.net/artist/84633"
+		}
+	},
+	"kidlit": {
+		"name": "kidlit",
+		"links": {
+			"twitter": "https://x.com/chi_e",
+			"youtube": "https://www.youtube.com/channel/UCSFogTVlQ7P3LgV_hyk66UA",
+			"soundcloud": "https://soundcloud.com/kidlit_today",
+			"apple": "https://music.apple.com/artist/kidlit/1173382677",
+			"spotify": "https://open.spotify.com/artist/3YZt1J7VhS1TYLcDFD3wLk",
+			"website": "https://www.kidlit.today",
+			"vgmdb": "https://vgmdb.net/artist/36293"
+		}
+	},
+	"milka": {
+		"name": "milka",
+		"links": {
+			"twitter": "https://x.com/chi_e",
+			"youtube": "https://www.youtube.com/channel/UCSFogTVlQ7P3LgV_hyk66UA",
+			"soundcloud": "https://soundcloud.com/kidlit_today",
+			"apple": "https://music.apple.com/artist/kidlit/1173382677",
+			"spotify": "https://open.spotify.com/artist/3YZt1J7VhS1TYLcDFD3wLk",
+			"website": "https://www.kidlit.today",
+			"vgmdb": "https://vgmdb.net/artist/34818"
+		}
+	},
+	"Team LiBRA": {
+		"name": "Team LiBRA",
+		"links": {
+			"twitter": "https://x.com/Team_Libra923",
+			"youtube": "https://www.youtube.com/@Team_LiBRA923",
+			"vgmdb": "https://vgmdb.net/org/5509"
+		}
+	},
+	"NezMayo": {
+		"name": "NezMayo",
+		"links": {
+			"twitter": "https://x.com/nezmayoi",
+			"youtube": "https://www.youtube.com/@nezmayo7179",
+			"website": "https://nezmayo_gt.creatorlink.net",
+			"instagram": "https://www.instagram.com/s_nez1129",
+			"vgmdb": "https://vgmdb.net/artist/58880"
+		}
+	},
+	"NEMP": {
+		"name": "NEMP",
+		"links": {
+			"vgmdb": "https://vgmdb.net/artist/79479"
+		}
+	},
+	"MSPR": {
+		"name": "MSPR",
+		"links": {
+			"vgmdb": "https://vgmdb.net/artist/79480"
+		}
+	},
+	"Lee_Shiba_Inu": {
+		"name": "Lee_Shiba_Inu",
+		"links": {
+			"vgmdb": "https://vgmdb.net/artist/79481"
+		}
+	},
+	"TENMON": {
+		"name": {
+			"en": "TENMON",
+			"jp": "天門"
+		},
+		"links": {
+			"twitter": "https://x.com/tenmon2010",
+			"apple": "https://music.apple.com/artist/282186221",
+			"spotify": "https://open.spotify.com/artist/0dZaFaggaLMwGbMrO39KJJ",
+			"website": "https://den-gaku.org",
+			"vgmdb": "https://vgmdb.net/artist/1936"
+		}
+	},
+		"SampleEN": {
 		"name": "Sample",
 		"links": {
 			"twitter": "link",
