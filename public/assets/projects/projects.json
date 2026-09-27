@@ -3,6 +3,20 @@
 		"cat_slug": "eclectic-resonance",
 		"projects": [
 			{
+				"slug": "eclectic-resonance-howling",
+				"status": "accepting",
+				"percentage": "0",
+				"duration": "00:00",
+				"deadline": "2027-09-06T23:59:59Z",
+				"finished_tracks": "0",
+				"mastering": {
+					"status": "pending",
+					"engineer": ""
+				},
+				"artwork_comission": "pending",
+				"color": "#9f1239"
+			},
+			{
 				"slug": "eclectic-resonance-tremor",
 				"status": "about-to-release",
 				"percentage": "95",
@@ -29,7 +43,7 @@
 				"artwork_comission": "pending",
 				"color": "#000000"
 			},
-      		{
+			{
 				"slug":"eclectic-resonance-legendaria-2",
 				"status": "accepting",
 				"percentage": "0",
@@ -118,16 +132,16 @@
 			{
 				"slug": "moriya-barista-2",
 				"status": "about-to-release",
-				"percentage": "95",
+				"percentage": "100",
 				"duration": "1:01:02",
 				"finished_tracks": "15",
 				"deadline": "2026-08-14T23:59:59Z",
 				"mastering": {
-					"status": "ongoing",
+					"status": "completed",
 					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"
 				},
 				"artwork_comission": "completed",
-				"color": "#6ee7b7"
+				"color": "#ecc4c2"
 			},
 			{
 				"slug": "dj-koishi-2",

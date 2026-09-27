@@ -57,5 +57,12 @@
 		"prettier": "^3.5.3",
 		"tailwind-merge": "^3.3.0",
 		"tailwindcss": "^4.1.7"
+	},
+	"allowScripts": {
+		"@tailwindcss/oxide@4.1.7": true,
+		"core-js-pure@3.45.1": true,
+		"fsevents@2.3.2": true,
+		"next-translate-plugin@2.0.5": true,
+		"sharp@0.34.3": true
 	}
 }
