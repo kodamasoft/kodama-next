@@ -3,6 +3,18 @@ import { useRouter } from 'next/router';
 import useTranslation from 'next-translate/useTranslation';
 import ReleaseNav from './release-nav';
 
+// `header.blur` (px) and `header.brightness` (0–1) soften the header art
+// behind the logo. Inline because Tailwind cannot generate classes built from
+// runtime values.
+function getHeaderFilter(header) {
+	if (header.blur == null && header.brightness == null) {
+		return undefined;
+	}
+	return {
+		filter: `blur(${header.blur ?? 0}px) brightness(${header.brightness ?? 1})`,
+	};
+}
+
 export default function ReleaseHead({
 	slug,
 	title,
@@ -38,7 +50,8 @@ export default function ReleaseHead({
 										fill={true}
 										priority={true}
 										quality={90}
-										className={`z-2 object-cover blur-[${header.blur ?? 25}px] brightness-[${header.brightness ?? 0.5}] scale-110`}
+										className="z-2 object-cover scale-110"
+										style={getHeaderFilter(header)}
 									/>
 								)}
 								{header.video && (

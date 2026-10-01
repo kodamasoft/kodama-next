@@ -67,7 +67,7 @@ export default function ReleaseTracklist({ credits }) {
 				{' '}
 				credit{' '}
 			</h2>
-			<table className="table-auto w-full">
+			<table className="table-auto w-full mx-auto max-w-(--release-content-width)">
 				<thead className="hidden md:table-header-group">
 					<tr>
 						<th className="px-4 py-2">Name</th>

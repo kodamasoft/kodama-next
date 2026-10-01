@@ -26,6 +26,62 @@ const playfair = Playfair_Display({
 	variable: '--font-playfair',
 });
 
+// `layout.content_width` caps the credits and footer, which otherwise run the
+// full container width and leave huge gaps between the columns.
+const CONTENT_WIDTHS = {
+	default: 'none',
+	narrow: '56rem',
+	compact: '42rem',
+};
+
+// `background.image_size` keywords. "width" spans the page width at the
+// image's own ratio, so a transparent flair image is never stretched.
+const BACKGROUND_SIZES = {
+	cover: 'cover',
+	width: '100% auto',
+	contain: 'contain',
+	auto: 'auto',
+};
+
+// Builds the page background from the release's `background` block. Every key
+// is optional; with none of them set the page renders as it always has
+// (image covering the whole page, centred).
+function getBackgroundStyle(background = {}) {
+	if (!background.image) {
+		return { backgroundImage: 'none' };
+	}
+
+	const position = background.image_position || 'center';
+	const overlay = Number(background.overlay) || 0;
+	const layers = [`url(${background.image})`];
+	const sizes = [BACKGROUND_SIZES[background.image_size] || 'cover'];
+
+	// A flat dark layer above the image keeps text readable over busy art.
+	if (overlay > 0) {
+		layers.unshift(
+			`linear-gradient(rgb(0 0 0 / ${overlay}), rgb(0 0 0 / ${overlay}))`
+		);
+		sizes.unshift('auto');
+	}
+
+	return {
+		backgroundImage: layers.join(', '),
+		backgroundSize: sizes.join(', '),
+		// "top" / "bottom" / "center" anchor the image vertically; anything
+		// else is passed through as a raw CSS background-position.
+		backgroundPosition: ['top', 'bottom', 'center'].includes(position)
+			? `center ${position}`
+			: position,
+		backgroundRepeat: background.image_repeat ? 'repeat' : 'no-repeat',
+		backgroundAttachment: background.image_attachment || 'scroll',
+		// Room left under the footer so a bottom-anchored image is not covered
+		// by text, e.g. "35vw" for an image 35% as tall as it is wide.
+		...(background.bottom_space && {
+			paddingBottom: background.bottom_space,
+		}),
+	};
+}
+
 export default function ReleaseLayout({ release }) {
 	const { t } = useTranslation('release');
 	const { locale } = useRouter();
@@ -56,6 +112,9 @@ export default function ReleaseLayout({ release }) {
 		release.background && release.background.color
 			? release.background.color
 			: '232426';
+	const backgroundStyle = getBackgroundStyle(release.background);
+	const contentWidth =
+		CONTENT_WIDTHS[release.layout?.content_width] || CONTENT_WIDTHS.default;
 
 	return (
 		<>
@@ -100,21 +159,18 @@ export default function ReleaseLayout({ release }) {
 						:root {
 							--release-color: #${release.color};
 							--background-color: #${backgroundColor};
+							--release-content-width: ${contentWidth};
 						}
 					`,
 					}}
 				/>
 			</Head>
 			<div
-				className={`${noto.variable} ${lora.variable} ${playfair.variable} theme-${themeName} font-release min-h-screen pb-1 bg-cover bg-center`}
+				className={`${noto.variable} ${lora.variable} ${playfair.variable} theme-${themeName} font-release min-h-screen pb-1`}
 				style={{
 					color: `#${release.background?.text_color || 'ffffff'}`,
 					backgroundColor: `#${backgroundColor}`,
-					backgroundImage: release.background?.image
-						? `url(${release.background.image})`
-						: 'none',
-					backgroundAttachment:
-						release.background?.image_attachment || 'scroll',
+					...backgroundStyle,
 				}}
 			>
 				<ReleaseHead

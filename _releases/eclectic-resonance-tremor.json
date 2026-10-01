@@ -7,9 +7,15 @@
 	"header": {
 		"image": "/assets/discography/headers/0024.png"
 	},
+	"layout": {
+		"content_width": "narrow"
+	},
 	"background": {
 		"color": "252525",
-		"image": "",
+		"image": "/assets/discography/backgrounds/ROCKS.png",
+		"image_size": "width",
+		"image_position": "bottom",
+		"bottom_space": "40vw",
 		"text_color": "ffffff"
 	},
 	"title": "ECLECTIC RESONANCE TREMOR",
