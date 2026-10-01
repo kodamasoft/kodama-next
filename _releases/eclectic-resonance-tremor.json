@@ -5,18 +5,21 @@
 	"soundcloud_track_id": "2301629312",
 	"cover": "/assets/discography/covers/0024.png",
 	"header": {
-		"image": "/assets/discography/headers/0024.png"
+		"image": "/assets/discography/headers/0024.png",
+		"fade": false,
+		"brightness": 1
 	},
 	"layout": {
+		"youtube_position": "before_tracklist",
 		"content_width": "narrow"
 	},
 	"background": {
 		"color": "252525",
 		"image": "/assets/discography/backgrounds/ROCKS.png",
+		"text_color": "ffffff",
 		"image_size": "width",
 		"image_position": "bottom",
-		"bottom_space": "40vw",
-		"text_color": "ffffff"
+		"bottom_space": "10vw"
 	},
 	"title": "ECLECTIC RESONANCE TREMOR",
 	"circle": {
@@ -35,19 +38,18 @@
 	"store": {
 		"bandcamp": {
 			"name": "Bandcamp",
-			"link": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-detuned-alloy-2"
+			"link": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-tremor",
+			"physical": false
 		},
 		"booth": {
 			"name": "BOOTH",
-			"link": "https://kodamasoft.booth.pm/items/5665348"
-		},
-		"diverse": {
-			"name": "Diverse Direct",
-			"link": "https://www.diverse.direct/kodamasounds/ksdl-0023/"
+			"link": "https://kodamasoft.booth.pm/items/8847817",
+			"physical": false
 		},
 		"bandcampPhysical": {
-			"name": "Bandcamp (Physical)",
-			"link": "https://kodamasounds.bandcamp.com/merch/eclectic-resonance-detuned-alloy-2-15x15cm-download-card"
+			"name": "Bandcamp",
+			"link": "https://kodamasounds.bandcamp.com/merch/eclectic-resonance-detuned-alloy-2-15x15cm-download-card",
+			"physical": true
 		}
 	},
 	"tracklist": {
@@ -862,6 +864,9 @@
 			"role": "Web"
 		}
 	},
-	"description": "Do you feel it? The ground shaking beneath your feet? This overwhelming sonic power taking over you? Let the TREMOR guide your steps. Let the sound waves carry your convictions. TREMOR's a compilation to listen through when you want nothing but the most exciting sounds. On one side, a photovoltaic barrage of pure violence pierces through you. On the other side, a strange, bittersweet emotional surge resonates deep within you. The power of BASS is all that matters - in all different kinds of shapes and forms.",
-	"footer": "足元で大地が震えているのを感じるか？全身を呑み込んでいく、この圧倒的な音の力を感じるか？己の歩みを、TREMORに委ねろ。その信念を、音の波に乗せろ。TREMOR――それは、ただひたすらに刺激的な音を求めるときに聴くコンピレーション。片側からは、太陽光発電の砲撃のような純粋な暴力性を持つサウンドが身体を貫く。もう片側からは、どこか奇妙で、ほろ苦い感情の奔流が、深く心の奥底へと響き渡る。重要なのは、ただひとつ。BASSの力。何の形でも。"
+	"description": {
+		"en": "Do you feel it? The ground shaking beneath your feet? This overwhelming sonic power taking over you? Let the TREMOR guide your steps. Let the sound waves carry your convictions. TREMOR's a compilation to listen through when you want nothing but the most exciting sounds. On one side, a photovoltaic barrage of pure violence pierces through you. On the other side, a strange, bittersweet emotional surge resonates deep within you. The power of BASS is all that matters - in all different kinds of shapes and forms.",
+		"jp": "足元で大地が震えているのを感じるか？全身を呑み込んでいく、この圧倒的な音の力を感じるか？己の歩みを、TREMORに委ねろ。その信念を、音の波に乗せろ。TREMOR――それは、ただひたすらに刺激的な音を求めるときに聴くコンピレーション。片側からは、太陽光発電の砲撃のような純粋な暴力性を持つサウンドが身体を貫く。もう片側からは、どこか奇妙で、ほろ苦い感情の奔流が、深く心の奥底へと響き渡る。重要なのは、ただひとつ。BASSの力。何の形でも。"
+	},
+	"footer": ""
 }
