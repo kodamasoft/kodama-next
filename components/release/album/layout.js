@@ -115,6 +115,21 @@ export default function ReleaseLayout({ release }) {
 	const backgroundStyle = getBackgroundStyle(release.background);
 	const contentWidth =
 		CONTENT_WIDTHS[release.layout?.content_width] || CONTENT_WIDTHS.default;
+	// `layout.hide` lists sections to leave out, e.g. ["call_to_action"].
+	const hidden = new Set(release.layout?.hide || []);
+	const youtubeEmbed = release.youtube_id && !hidden.has('youtube') && (
+		<ReleaseYouTubeEmbed youtube={release.youtube_id} />
+	);
+	const youtubeFirst =
+		release.layout?.youtube_position === 'before_tracklist';
+	const panelColors = [
+		release.background?.panel_color &&
+			`--release-panel-color: #${release.background.panel_color};`,
+		release.background?.panel_text_color &&
+			`--release-panel-text-color: #${release.background.panel_text_color};`,
+	]
+		.filter(Boolean)
+		.join('\n');
 
 	return (
 		<>
@@ -160,6 +175,7 @@ export default function ReleaseLayout({ release }) {
 							--release-color: #${release.color};
 							--background-color: #${backgroundColor};
 							--release-content-width: ${contentWidth};
+							${panelColors}
 						}
 					`,
 					}}
@@ -181,29 +197,41 @@ export default function ReleaseLayout({ release }) {
 					description={release.description}
 					sc_track_id={release.soundcloud_track_id}
 					color={release.color}
+					layout={release.layout}
+					hidden={hidden}
 				/>
-				<ReleaseDescription
-					cover={release.cover}
-					title={release.title}
-					circle={release.circle}
-					specification={release.specification}
-					release_date={release.release_date}
-					catalog={release.catalog}
-					price={release.price}
-					store={release.store}
-					booth={release.booth}
-				/>
-				<ReleaseCallToAction store={release.store} />
-				<ReleaseTracklist
-					tracklist={release.tracklist}
-					bonus_tracklist={release.bonus_tracklist}
-					scene={release.scene}
-					suppressHydrationWarning={true}
-				/>
-				{release.youtube_id && (
-					<ReleaseYouTubeEmbed youtube={release.youtube_id} />
+				{!hidden.has('description') && (
+					<ReleaseDescription
+						cover={release.cover}
+						title={release.title}
+						circle={release.circle}
+						specification={release.specification}
+						release_date={release.release_date}
+						catalog={release.catalog}
+						price={release.price}
+						store={release.store}
+						booth={release.booth}
+					/>
 				)}
-				<ReleaseCredits credits={release.credits} />
+				{!hidden.has('call_to_action') && (
+					<ReleaseCallToAction
+						store={release.store}
+						buttonStyle={release.layout?.button_style}
+					/>
+				)}
+				{youtubeFirst && youtubeEmbed}
+				{!hidden.has('tracklist') && (
+					<ReleaseTracklist
+						tracklist={release.tracklist}
+						bonus_tracklist={release.bonus_tracklist}
+						scene={release.scene}
+						suppressHydrationWarning={true}
+					/>
+				)}
+				{!youtubeFirst && youtubeEmbed}
+				{!hidden.has('credits') && release.credits && (
+					<ReleaseCredits credits={release.credits} />
+				)}
 				<ReleaseFooter
 					slug={release.slug}
 					footer_string={release.footer}

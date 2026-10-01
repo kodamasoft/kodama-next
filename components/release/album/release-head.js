@@ -22,7 +22,14 @@ export default function ReleaseHead({
 	header,
 	sc_track_id,
 	color,
+	layout = {},
+	hidden = new Set(),
 }) {
+	// `layout.logo_height` (px) resizes the box the logo is fitted into.
+	const logoBox = layout.logo_height
+		? { height: `${layout.logo_height}px` }
+		: undefined;
+
 	const { t } = useTranslation('release');
 	const { locale } = useRouter();
 
@@ -42,7 +49,9 @@ export default function ReleaseHead({
 				{header ? (
 					<div className="w-full h-full relative overflow-hidden">
 						{header.image || header.video ? (
-							<div className="absolute w-full h-full mask-b-from-80%">
+							<div
+								className={`absolute w-full h-full ${header.fade === false ? '' : 'mask-b-from-80%'}`}
+							>
 								{header.image && (
 									<Image
 										alt={getLocalizedTitle(title)}
@@ -72,7 +81,10 @@ export default function ReleaseHead({
 
 						<div className="md:container relative mx-auto z-10">
 							<ReleaseNav className="bg-[#232426] md:bg-transparent" />
-							<div className="relative w-[800px] h-[500px] max-w-full mx-auto">
+							<div
+								className="relative w-[800px] h-[500px] max-w-full mx-auto"
+								style={logoBox}
+							>
 								<Image
 									src={logo}
 									height="340"
@@ -81,6 +93,7 @@ export default function ReleaseHead({
 									priority={true}
 									className="object-contain object-center p-6 md:relative -top-14 w-[1000px] h-[500px] max-w-full mx-auto drop-shadow-[0_0_5px_rgba(0,0,0,0.75)]"
 									quality={100}
+									style={logoBox}
 								/>
 							</div>
 						</div>
@@ -88,7 +101,10 @@ export default function ReleaseHead({
 				) : (
 					<>
 						<ReleaseNav />
-						<div className="relative w-[800px] h-[500px] max-w-full mx-auto">
+						<div
+							className="relative w-[800px] h-[500px] max-w-full mx-auto"
+							style={logoBox}
+						>
 							<Image
 								src={logo}
 								height="340"
@@ -97,6 +113,7 @@ export default function ReleaseHead({
 								priority={true}
 								className="object-contain object-center p-6 md:relative -top-14 w-[1000px] h-[500px] max-w-full mx-auto"
 								quality={100}
+								style={logoBox}
 							/>
 						</div>
 					</>
@@ -104,34 +121,38 @@ export default function ReleaseHead({
 			</div>
 
 			<div className="container mx-auto">
-				<div className="my-16">
-					{slug === 'la-mulana' ? (
-						<p className="text-center text-sm font-jennerikExtraBold my-4">
-							{t(slug + '.desc')}
-						</p>
-					) : (
-						<p className="text-center text-sm my-4">
-							{t(slug + '.desc')}
-						</p>
-					)}
-				</div>
+				{!hidden.has('blurb') && (
+					<div className="my-16">
+						{slug === 'la-mulana' ? (
+							<p className="text-center text-sm font-jennerikExtraBold my-4">
+								{t(slug + '.desc')}
+							</p>
+						) : (
+							<p className="text-center text-sm my-4">
+								{t(slug + '.desc')}
+							</p>
+						)}
+					</div>
+				)}
 
-				<div>
-					<iframe
-						width="100%"
-						height="166"
-						scrolling="no"
-						frameBorder="no"
-						allow="autoplay"
-						src={
-							'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/' +
-							sc_track_id +
-							'&color=%23' +
-							color +
-							'&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true'
-						}
-					></iframe>
-				</div>
+				{sc_track_id && !hidden.has('soundcloud') && (
+					<div>
+						<iframe
+							width="100%"
+							height="166"
+							scrolling="no"
+							frameBorder="no"
+							allow="autoplay"
+							src={
+								'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/' +
+								sc_track_id +
+								'&color=%23' +
+								color +
+								'&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true'
+							}
+						></iframe>
+					</div>
+				)}
 			</div>
 		</>
 	);

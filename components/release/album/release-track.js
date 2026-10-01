@@ -54,7 +54,7 @@ export default function ReleaseTrack({ track }) {
 				leaveFrom="transform scale-y-100 opacity-100 height-auto"
 				leaveTo="transform scale-y-0 opacity-0 height-0"
 			>
-				<Disclosure.Panel className="accordian-body bg-[#18191b] text-white shadow-inner-xl py-4 px-4 mb-4 ">
+				<Disclosure.Panel className="accordian-body bg-[var(--release-panel-color,#18191b)] text-[color:var(--release-panel-text-color,#fff)] shadow-inner-xl py-4 px-4 mb-4 ">
 					<div className="container max-w-(--breakpoint-sm) mt-2 mx-auto">
 						{track[1].description.map((descParagraph, index) => {
 							return descParagraph === '' ? (
