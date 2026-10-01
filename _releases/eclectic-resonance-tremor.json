@@ -1,28 +1,30 @@
 {
 	"slug": "eclectic-resonance-tremor",
-	"logo": "/assets/discography/logos/0023.png",
-	"color": "62ebe2",
+	"logo": "/assets/discography/logos/0024.png",
+	"color": "f8a70c",
 	"soundcloud_track_id": "2301629312",
-	"cover": "/assets/discography/covers/0023.png",
+	"cover": "/assets/discography/covers/0024.png",
 	"header": {
-		"image": "/assets/discography/headers/0023.png"
+		"image": "/assets/discography/headers/0024.png"
 	},
 	"background": {
-		"color": "6d1243"
+		"color": "252525",
+		"image": "",
+		"text_color": "ffffff"
 	},
 	"title": "ECLECTIC RESONANCE TREMOR",
 	"circle": {
 		"name": "KodamaSounds",
 		"link": "/"
 	},
-	"specification": "15x15cm Download Card / Original Rock & Acoustic Compilation",
-	"release_date": "April 26th, 2026 (M3-2026春)",
+	"specification": "2xCD Original Bass Music Compilation ",
+	"release_date": "Oct 26th, 2026 (M3-2026春)",
 	"catalog": "KSDL-0023",
 	"price": "Pre-Order & Event Price: 12€ / 2000 yen | Shop Price: 15€ / 2500 yen + tax",
 	"booth": {
 		"link": "https://x.com/kodamasoft",
-		"name": "KodamaSounds & Rolling Bassline",
-		"other": " / 第一展示場 F-12a"
+		"name": "KodamaSounds × Rolling Bassline",
+		"other": " / 第二展示場2F サ-39ab"
 	},
 	"store": {
 		"bandcamp": {
@@ -40,10 +42,6 @@
 		"bandcampPhysical": {
 			"name": "Bandcamp (Physical)",
 			"link": "https://kodamasounds.bandcamp.com/merch/eclectic-resonance-detuned-alloy-2-15x15cm-download-card"
-		},
-		"akibahobby": {
-			"name": "AKIBA-HOBBY",
-			"link": "https://shop.akbh.jp/products/2100000176267"
 		}
 	},
 	"tracklist": {
@@ -857,5 +855,7 @@
 			"id": "VIIweights",
 			"role": "Web"
 		}
-	}
+	},
+	"description": "Do you feel it? The ground shaking beneath your feet? This overwhelming sonic power taking over you? Let the TREMOR guide your steps. Let the sound waves carry your convictions. TREMOR's a compilation to listen through when you want nothing but the most exciting sounds. On one side, a photovoltaic barrage of pure violence pierces through you. On the other side, a strange, bittersweet emotional surge resonates deep within you. The power of BASS is all that matters - in all different kinds of shapes and forms.",
+	"footer": "足元で大地が震えているのを感じるか？全身を呑み込んでいく、この圧倒的な音の力を感じるか？己の歩みを、TREMORに委ねろ。その信念を、音の波に乗せろ。TREMOR――それは、ただひたすらに刺激的な音を求めるときに聴くコンピレーション。片側からは、太陽光発電の砲撃のような純粋な暴力性を持つサウンドが身体を貫く。もう片側からは、どこか奇妙で、ほろ苦い感情の奔流が、深く心の奥底へと響き渡る。重要なのは、ただひとつ。BASSの力。何の形でも。"
 }
