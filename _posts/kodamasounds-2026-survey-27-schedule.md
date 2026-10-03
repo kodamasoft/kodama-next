@@ -521,6 +521,8 @@ Current release plan: M3-2027 Fall
 
 **Zn₂Fe(PO₄)₂·4H₂O -a Land of the Lustrous tribute album-**
 
+
+
 “Once you've crossed that bridge, burn it.” Zn₂Fe(PO₄)₂·4H₂O is a concept album based on the masterpiece by Haruko Ichikawa, “Land of the Lustrous”.  Within it, you will find image songs inspired by the original manga’s story, as well as arrangements of the animated series. This album, reflective of the beauty and purity of its inspiration, will record Phosphophyllite’s world and leave an eternal trace of beauty onto our own.
 
 Current release plan: Q4 2027
