@@ -521,13 +521,13 @@ Current release plan: M3-2027 Fall
 
 **Zn₂Fe(PO₄)₂·4H₂O -a Land of the Lustrous tribute album-**
 
-
+[![Zn₂Fe(PO₄)₂·4H₂O -a Land of the Lustrous tribute album- header](/assets/posts/hnkHeader.webp)](https://counterfest.kodamasoft.net/projects/land-of-the-lustrous)
 
 “Once you've crossed that bridge, burn it.” Zn₂Fe(PO₄)₂·4H₂O is a concept album based on the masterpiece by Haruko Ichikawa, “Land of the Lustrous”.  Within it, you will find image songs inspired by the original manga’s story, as well as arrangements of the animated series. This album, reflective of the beauty and purity of its inspiration, will record Phosphophyllite’s world and leave an eternal trace of beauty onto our own.
 
 Current release plan: Q4 2027
 
-Project Page
+[Project Page](https://counterfest.kodamasoft.net/projects/land-of-the-lustrous)
 
 
 This was a massive blogpost, but it will probably be our last one before M3-2026 Fall. Please look forward to the rest of 2026, and stay tuned for more, as always! Thank you!
