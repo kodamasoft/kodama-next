@@ -511,13 +511,13 @@ Current release plan: Q3 2027
 
 **ECLECTIC RESONANCE HOWLING**
 
-[![ECLECTIC RESONANCE HOWLING header](/assets/posts/howlingHeader.webp)](https://kodamasoft.net/projects/dj-koishi-2)
+[![ECLECTIC RESONANCE HOWLING header](/assets/posts/howlingHeader.webp)](https://kodamasoft.net/projects/eclectic-resonance-howling)
 
 Scattered memories. The painful yearning of a long gone past. An inherent disturbance in one’s sanity. Surely, we’ve all been at a point in our life when we were helpless, without any idea on how to be free of the shackles holding our soul down… without hope. This album is an elegiac cry to those who feel this way, and for whom the only way to heal is to resonate with the sound of likeminded individuals.
 
 Current release plan: M3-2027 Fall
 
-Project Page
+[Project Page](https://kodamasoft.net/projects/eclectic-resonance-howling)
 
 **Zn₂Fe(PO₄)₂·4H₂O -a Land of the Lustrous tribute album-**
 
