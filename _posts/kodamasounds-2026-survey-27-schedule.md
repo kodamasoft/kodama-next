@@ -1,6 +1,6 @@
 ---
 title: 'KodamaSounds 2026 Survey Analysis & 2027 Planned Schedule'
-date: '2026-09-01T18:00:00+0200'
+date: '2026-10-01T18:00:00+0200'
 locale: en
 author: Robin
 public: true
@@ -223,7 +223,7 @@ So, it turns out people are not that impartial on the physical availability of o
 
 - 35% are satisfied with our prices
 
-- Analysis
+**Analysis**
 
 A lot of very interesting stuff here. Unsurprisingly, almost everyone in the scene uses an offline local while also using streaming platforms. However, the biggest usage seems to be shared between the two as well. Seems like there’s no reason not to continue posting our albums on streaming platforms while recommending people to use Bandcamp. Sadly, it seems like that as anticipated, due to the location of most of our fans, most of them have never really been to M3. It’s a dream of many, but it’s such a Japan only event that it’s hard to imagine people going to such places… Europe/NA are good places for otaku and nerdy events, but when it comes to the doujin scene, it’s such an exclusively Asian subculture that it’s hard to imagine something like M3 happening overseas… Should we host a KodamaFest??? For crossfades, most people seem to agree that we can salute Volumetrique’s efforts! The results seem to align with what I imagined: the people who care about XFDs in the first place are glad to hear such high mixing efforts for what’s generally overlooked in the scene, while the ones who don’t care about them in the first place… won’t care about it either way. For now, sounds like DJ Mixed XFDs are a Kodama staple, and we have no reason to stop for now! People seem to be content with our prices, both digital and physical. There’s two noticeable groups that believe our digital albums are too expensive, while the other one believes they’re not expensive enough… I guess it’s a good demonstration that our prices are fine and don’t really need to change. Most people buying CDs don’t care about the prices, they just want their CDs, and could spend dozens or just a few bucks for’em. The “right price” is an extremely subjective matter, and I don’t think we can make something which feels like the sweet spot for everyone. So we’ll stick to how things are for now.
 
@@ -459,6 +459,8 @@ For now, that’s the plan! We do have many more albums planned, but seven album
 
 **COUNTERFEST BOMB DISPOSAL**
 
+[![COUNTERFEST BOMB DISPOSAL header](/assets/posts/bombDisposalHeader.webp)](https://counterfest.kodamasoft.net/projects/counterfest-bomb-disposal)
+
 I WANNA SEE IT GO OFF! We at COUNTERFEST are setting up a BOMB DISPOSAL for chiptunes that are too dangerous for others to handle! COUNTERFEST BOMB DISPOSAL is a compilation album specially made for chiptune artists that is free of rules and expectations. Put on a blindfold and bring out your bats, it’s time to make art.
 
 Current release plan: Q1 2027
@@ -467,6 +469,8 @@ Current release plan: Q1 2027
 
 **ECLECTIC RESONANCE Legendaria II**
 
+[![ECLECTIC RESONANCE Legendaria II header](/assets/posts/legendariaHeader.webp)](https://kodamasoft.net/projects/eclectic-resonance-legendaria-2)
+
 Our legendary heroes march through the blizzard. Pure white snow piles up as far as the eye can see, but the more they traverse through the white landscape, the more they question where they might be headed… Is it fame? Is it gold? Is it death? Is it something deeper? Their journey has taken them throughout the entire continent, and yet the world never ceases to surprise our warm and gentle crowd of heroes. They’ve witnessed both misery and happiness in the eyes of its residents, and carry a light which they all hope can reach the heart of their loved ones. A very clear hope pierces through the cold veil of those mountains, however: Their Legend is not yet coming to a close, and this here is just another brave step for our troupe to take.
 
 Current release plan: M3-2027 Spring
@@ -474,6 +478,8 @@ Current release plan: M3-2027 Spring
 [Project Page](https://kodamasoft.net/projects/eclectic-resonance-legendaria-2)
 
 **Gensokyo Party Vol. 8 DJ Koishi 2**
+
+[![Gensokyo Party Vol. 8 DJ Koishi 2 header](/assets/posts/koishi2Header.webp)](https://kodamasoft.net/projects/dj-koishi-2)
 
 “Koishi… Could you not make such noise, please…? What are y- oh.”
 
@@ -485,6 +491,8 @@ Current release plan: Reitaisai 2027 Spring
 
 **Moonstruck Analogy -a TYPE-MOON tribute album- II**
 
+[![Moonstruck Analogy -a TYPE-MOON tribute album- II header](/assets/posts/typeMoonHeader.webp)](https://counterfest.kodamasoft.net/projects/moonstruck-analogy-ii)
+
 It was a thrust like lightning. After five years, our very first tribute album published back in 2021 finally gets its long awaited sequel. The world of TYPE-MOON is vast, and sure doesn’t lack in content. Between the immense franchise that Fate/ has become, the atmospheric melancholy of Witch on the Holy Night, and the chilling yet beautiful world of Tsukihime, TYPE-MOON visual novels have become a staple in urban fantasy. With this album, we will celebrate it all as it deserves to be.
 
 Current release plan: Q2 2027
@@ -493,27 +501,33 @@ Current release plan: Q2 2027
 
 **COUNTERFEST HEROES 02**
 
+[![COUNTERFEST HEROES 02 header](/assets/posts/heroesHeader.webp)](https://kodamasoft.net/projects/dj-koishi-2)
+
 Round 2. Did you guys do your homework and like HEROES 01? Good. You like LYSKO? You better, so do we. Don’t worry, she’s right there, charging up just for you and me. I heard she planned to go and dig some sample CDs and obscure otaku references in some jungle temple. Yeah, I didn’t really get it either, but hey, she’ll get the job done just like she did last year on her moon mission. Just remember, as always: SAMPLING IS GOD.
 
 Current release plan: Q3 2027
 
-Project Page
+[Project Page](https://counterfest.kodamasoft.net/projects/counterfest-heroes-02)
 
 **ECLECTIC RESONANCE HOWLING**
+
+[![ECLECTIC RESONANCE HOWLING header](/assets/posts/howlingHeader.webp)](https://kodamasoft.net/projects/eclectic-resonance-howling)
 
 Scattered memories. The painful yearning of a long gone past. An inherent disturbance in one’s sanity. Surely, we’ve all been at a point in our life when we were helpless, without any idea on how to be free of the shackles holding our soul down… without hope. This album is an elegiac cry to those who feel this way, and for whom the only way to heal is to resonate with the sound of likeminded individuals.
 
 Current release plan: M3-2027 Fall
 
-Project Page
+[Project Page](https://kodamasoft.net/projects/eclectic-resonance-howling)
 
 **Zn₂Fe(PO₄)₂·4H₂O -a Land of the Lustrous tribute album-**
+
+[![Zn₂Fe(PO₄)₂·4H₂O -a Land of the Lustrous tribute album- header](/assets/posts/hnkHeader.webp)](https://counterfest.kodamasoft.net/projects/land-of-the-lustrous)
 
 “Once you've crossed that bridge, burn it.” Zn₂Fe(PO₄)₂·4H₂O is a concept album based on the masterpiece by Haruko Ichikawa, “Land of the Lustrous”.  Within it, you will find image songs inspired by the original manga’s story, as well as arrangements of the animated series. This album, reflective of the beauty and purity of its inspiration, will record Phosphophyllite’s world and leave an eternal trace of beauty onto our own.
 
 Current release plan: Q4 2027
 
-Project Page
+[Project Page](https://counterfest.kodamasoft.net/projects/land-of-the-lustrous)
 
 
 This was a massive blogpost, but it will probably be our last one before M3-2026 Fall. Please look forward to the rest of 2026, and stay tuned for more, as always! Thank you!
