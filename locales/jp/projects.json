@@ -11,6 +11,7 @@
             "completed": "完成",
             "accepting": "応募受付中",
             "cancelled": "中止",
+            "released": "完成・公開済み",
             "about-to-release": "もうすぐリリース"
         },
         "deadline": "締切",
