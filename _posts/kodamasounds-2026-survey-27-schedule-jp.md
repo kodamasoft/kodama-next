@@ -1,10 +1,10 @@
 ---
 title: 'KodamaSounds 2026 Survey Analysis & 2027 Planned Schedule'
 date: '2026-09-01T18:00:00+0200'
-locale: en
+locale: jp
 author: Robin
 public: true
-twin: kodamasounds-2026-survey-27-schedule-jp
+twin: kodamasounds-2026-survey-27-schedule
 ---
 
 ## KodamaSounds 2026 Survey Analysis
