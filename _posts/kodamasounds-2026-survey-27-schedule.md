@@ -1,6 +1,6 @@
 ---
 title: 'KodamaSounds 2026 Survey Analysis & 2027 Planned Schedule'
-date: '2026-09-01T18:00:00+0200'
+date: '2026-10-01T18:00:00+0200'
 locale: en
 author: Robin
 public: true
@@ -223,7 +223,7 @@ So, it turns out people are not that impartial on the physical availability of o
 
 - 35% are satisfied with our prices
 
-- Analysis
+**Analysis**
 
 A lot of very interesting stuff here. Unsurprisingly, almost everyone in the scene uses an offline local while also using streaming platforms. However, the biggest usage seems to be shared between the two as well. Seems like there’s no reason not to continue posting our albums on streaming platforms while recommending people to use Bandcamp. Sadly, it seems like that as anticipated, due to the location of most of our fans, most of them have never really been to M3. It’s a dream of many, but it’s such a Japan only event that it’s hard to imagine people going to such places… Europe/NA are good places for otaku and nerdy events, but when it comes to the doujin scene, it’s such an exclusively Asian subculture that it’s hard to imagine something like M3 happening overseas… Should we host a KodamaFest??? For crossfades, most people seem to agree that we can salute Volumetrique’s efforts! The results seem to align with what I imagined: the people who care about XFDs in the first place are glad to hear such high mixing efforts for what’s generally overlooked in the scene, while the ones who don’t care about them in the first place… won’t care about it either way. For now, sounds like DJ Mixed XFDs are a Kodama staple, and we have no reason to stop for now! People seem to be content with our prices, both digital and physical. There’s two noticeable groups that believe our digital albums are too expensive, while the other one believes they’re not expensive enough… I guess it’s a good demonstration that our prices are fine and don’t really need to change. Most people buying CDs don’t care about the prices, they just want their CDs, and could spend dozens or just a few bucks for’em. The “right price” is an extremely subjective matter, and I don’t think we can make something which feels like the sweet spot for everyone. So we’ll stick to how things are for now.
 

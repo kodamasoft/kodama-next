@@ -1,325 +1,278 @@
 ---
-title: 'KodamaSounds 2026 Survey Analysis & 2027 Planned Schedule'
-date: '2026-09-01T18:00:00+0200'
+title: 'KodamaSoundsの2026年アンケート分析と2027年のスケジュール'
+date: '2026-10-01T18:00:00+0200'
 locale: jp
 author: Robin
 public: true
 twin: kodamasounds-2026-survey-27-schedule
 ---
 
-## KodamaSounds 2026 Survey Analysis
+## KodamaSoundsの2026年アンケート分析
 
-Our [survey](https://forms.gle/8r84mSLqPvsesYvq5) is now closed for new answers! Thanks to everyone who took the time to take it! We figured we would be sharing some stats of this year's satisfaction survey! We've had over 50 responses. Here's some noteworthy results:
+[アンケート](https://forms.gle/8r84mSLqPvsesYvq5)の回答受付を終了しました！回答に時間を割いてくださった皆さん、本当にありがとうございました！今回は、今年実施した満足度アンケートの統計をいくつか公開したいと思います！50件以上の回答が集まりました。ここでは、その中でも特に注目すべき結果をご紹介します。
 
-## About our audience
+## オーディエンスについて
 
-**Continents Outreach**
+**地域別**
 
-- 42% of our audience is in Europe
+- オーディエンスの42%がヨーロッパ
+- 32%が北米
+- 15.4%がアジア
 
-- 32% of our audience is in North America
 
-- 15.4% of our audience is in Asia
+**国別**
 
-**Countries Outreach**
+- オーディエンスの31%がアメリカ
+- 13%がフランス
+- 11%がイギリス
+- 6%が日本
 
-- 31% of our audience is in the USA
+**オーディエンスの割合**
 
-- 13% of our audience is in France
+- 48%がKodamaSoundsの一般的なリスナー
+- 25%がKS/CRへの参加アーティスト
+- 15%がアーティストだが、まだKS/CRには参加したことがない
 
-- 11% of our audience is in the UK
 
-- 6% of our audience is in Japan
+**いつKR/CRのことを知るようになった**
 
-- 6% of our audience is in UK
+- 約50%が過去3年以内にKR/CRのことを知るようになった
 
-**Discovered by who?**
+**どうやって知るようになった**
 
-- 48% of our audience are regular listeners
+- 60%がSNS経由
 
-- 25% of our audience are contributing artists to KS/CR
+- 32%がYouTube/Bandcamp/SoundCloud経由
+- 28%がTwitter/Bluesky/Discord経由
 
-- 15% of our audience are artists, but have yet to contribute to KS/CR
+- 56%が友人からの紹介
 
-**Discovered when?**
+- 28%が参加アーティスト経由
+- 28%がファン経由
 
-- Around 50% of people have discovered us in the past 3 years
 
-**Discovered how?**
+**分析**
 
-- 60% on Social Platforms
+現状、私たちのオーディエンスの大半は依然としてアメリカ・ヨーロッパ圏に集中しています。ヨーロッパやアメリカの多くのアーティストたちの協力によって始まったフランスのサークルであることを考えれば、これは納得のいく結果です。一方で、日本のファンやアーティストへの展開を大きく進めてきたにもかかわらず、日本からの割合はいまだ低い水準にあります。ただし、アジアはインドネシア、マレーシア、中国など、さまざまな国も見られます。
 
-- 32% YouTube/Bandcamp/Soundcloud
+予想通り、多くの人が過去3年以内にKodamaを知ったようです。これは、おそらくさまざまなテーマやジャンルの作品を大幅に増やしたことによるものでしょう。特に2023年以降、より高い制作クオリティを目指す方針へと切り替えたこともあり、私たちの知名度は大幅に伸びています。
 
-- 28% Twitter/Bluesky/Disccord
+そして、もっと驚いたのが、サークルの一般的なリスナーの多さです。何年もの間、オーディエンスの大半は実際に作品へ参加したことのあるアーティストだと思い込んでいましたが、実際には回答者の4分の1に過ぎませんでした！
 
-- 56% Friend Recommendations
 
-- 28% by a contributing artist
+## フィジカルフォーマットについて
 
-- 28% by a fan
+**CD版リリース希望リスト（複数回答可）**
 
-**Analysis**
+- 32%がUPRISING 2を希望
+- 32%がYGGDRASILのCDを希望
+- 28%がLegendariaのCDを希望
+- 約30%はCDフォーマットに興味がない
+- その他のアルバムは8～26%程度
 
-For now, most of our audience is still pretty American/European, which does make sense for a French circle which started out thanks to the efforts of a lot of European and American artists. However, despite our major expansion to Japanese fans and artists, Japanese representation is still at the lower end - but there are also a lot of other countries from Asia being represented, from Indonesia, to Malaysia and China. Unsurprisingly, most people have heard of the Kodama name in the past three years, likely due to our significantly bigger output of all kinds of different themes and genres, and our popularity has been exponential since 2023, which marks the time when we decided to aim for a much higher production value. On a more surprising note, I seem to have underestimated the amount of regular listeners of the circle. For years I just assumed most of our audience were our actual contributors, but that only represented a quarter of the answers!
 
-## About Physical Formats
+**CD版リリース希望リスト（一つのみ）**
 
-**CD Wishlist (no limit)**
+- 22%がYGGDRASILを最も希望
+- 22%がまったく興味なし
+- 10%がDetuned Alloy 2を最も希望
+- 8%がPARADISEを最も希望
+- 8%がBorder in Stasisを最も希望
 
-- 32% wish for UPRISING 2
 
-- 32% wish for YGGDRASIL CD
+**15×15cm ダウンロードカードについて**
 
-- 28% wish for Legendaria CD
+- 36%がダウンロードカードに特に興味なし
+- 21%が、多少高くなってもCDのほうを希望
+- 19%がこのフォーマットを好んでいて、良い妥協案だと考えている
+- 13%が特に意見なし
 
-- About 30% of people are not interested in the CD format
 
-- Other albums average between 8% and 26%
+**ダウンロードカード版リリース希望リスト（複数回答可）**
 
-**CD Wishlist (just one)**
+- 66%がまったく興味なし（痛い...）
+- 11%がVANTABLACK 2に興味あり
+- 11%がUPRISING 3に興味あり
+- 11%がLegendariaに興味あり
+- 9%がBorder in Stasisに興味あり
 
-- 22% wish for YGGDRASIL the most
 
-- 22% are not interested at all
+**ダウンロードカード版リリース希望リスト（1つのみ）**
 
-- 10% wish for Detuned Alloy 2 the most
+- 61%がまったく興味なし（痛い...）
+- 9%がLegendariaを最も希望
+- 7%がUPRISING 3を最も希望
+- 7%がBorder in Stasisを最も希望
 
-- 8% wish for PARADISE the most
 
-- 8% wish for Border in Stasis the most
+**ガチャ**
 
-**About 15x15cm Download Cards**
+コンセプトのリマインダー：
 
-- 36% do not care about Download Cards
+1000円で、私たちのアルバムを対象とした「ガチャ」を1回引くことができ、ランダムに選ばれた作品がもらえるというシステムです。ガチャの対象には、1000～3000円程度のアルバムを含める予定です。もともとは購入する予定のなかったアルバムが思いがけず手元に届くことで、新しい作品との出会いを楽しみながら、実際のアルバム価格よりもお得に購入できるシステムを作ることが目的です。このシステムはライブイベントでの販売だけでなく、Bandcampでの直接販売にも対応し、CDとダウンロードコードの両方を対象にする予定です。
 
-- 21% would prefer a CD, even if it is more expensive
+- 50%はターゲットではないものの、アイデア自体に抵抗感はない
+- 38%は同人音楽ガチャを回してみようかなと思っている
+- 9%はそんなもの想像したくもない
 
-- 19% appreciate the format and consider them a good compromise
 
-- 13% are not really opinionated on the matter
+**分析**
 
-**Download Cards Wishlist (no limit)**
+私たちのアルバムのフィジカル展開について、皆さんは思っていたより意見が多様でした！大半の熱心なファンはCD媒体を重視していると思っていたのですが、そもそもそういう人たちの多くはこのアンケートに回答していなかったんじゃないかと思います...
+予想通り、YGGDRASILのCDを望む人はかなり多いようです。アイデアとしてはとても良さそうなのですが、あれほど大規模な作品を4枚組CDボックスセットにする苦労なんて、考えたくもありません... 絶対に何か手作りの方法を考えるか、かなり特殊な制作工程を通す必要があるでしょう。これはまた後で考えることにしましょう...今のKodamaには、そんなものを作れるほどの知名度も資金力もありません（笑）。とりあえずブックレットがあるから一旦これで満足しましょう！DLカードについては... この数字はちょっと痛いですね...どうやらDLカードについて、まだかなり誤解されている部分があるようです。私はいつも、DLCardsはその品質、サイズ、両面印刷を活かして、プリントとして飾ることもできるダウンロードカードだと宣伝しています。市場にある多くのダウンロードカードは名刺サイズですが、あれが扱いづらいという意見には私も同意しています！私はそれでもDLCardsに誇りを持って飾っていますし、CDに同梱するものについては名刺サイズを維持しています。ただ、DLカード限定となるアルバムについては、必ず非常に凝ったデザインと表面アートワークを用意して、大きなプリント作品のように飾れるものにするつもりです。芸術的なクオリティを犠牲にせず、低コストで制作できるというのは、とても良いポイントだと思っています。それでも10人に2人くらいは、私が何を目指しているのか理解してくれているようで何よりです。私だって、本当はディスコグラフィー全作品をCDにしたいです。しかし、やはり今はそこまでの余裕がありません... 新作をCDとして制作するだけでも、すでにかなりリスクが高く、お金もかかります。しばらくの間は、その点を理解していただければ大変助かります！そして、どうかDLカードをぜひ買ってみてください！手に入れる価値がありますよ。特に、私たちは送料も安く抑えていますし、アルバム自体の価格もBandcampのデジタル版と同じです！！いずれにせよ、Legendaria/VANTABLACK 2/Border in StasisのDLカードを希望している人はかなり多いようです。どれも素晴らしいイラストなので、気持ちは分かります！特にVANTA2とBISはお互いのコントラストがとても綺麗なので、隣同士に並べたら絶対に映えると思います！Legendariaには裏面に使えるボーナスアートワーク（Légendes）もすでにありますし、もしかしたら近いうちに実現できるかもしれません。ディスコグラフィーの中でも特に人気の高いアルバムですし、今のところはCDではなくDLカードとして制作するのが、もっとも現実的な選択肢に思えます。すでにCD版が存在するにもかかわらず、UPRISING 3のDLカードというアイデアに興味がある人がこんなに多かったことに驚きました！15×15cmのDLカードとCDを比較しようとすること自体が、もしかするとあまり意味のないことなのかもしれませんね。単純に、カッコいいプリント作品として欲しいという人もいるでしょうし、その場合はCDであるかどうかは関係ありませんね。いずれにせよ、これもかなり現実的な選択肢です。UPRISING 3については15×15cmのDLカードを作るのに十分すぎるほどのデザイン素材がすでに揃っていますし、そもそもUPRISING 3のCDを再生産するだけでも赤字になってしまう、とだけ言っておきましょう...ガチャについては、多くの人にとって面白そうなアイデアであるか、あるいは特に気にしていないかのどちらかのようです。イベントでちょっとしたお楽しみとして開催するのはかなり面白そうですし、次回のM3で実現してみるのもアリかもしれません！いずれにせよ、これから楽しみにできることは本当にたくさんありますし、今後に向けて記録しておくべき興味深い結果もたくさんありました。
 
-- 66% of people are not interested whatsoever (ouch)
 
-- 11% are interested in VANTABLACK 2
+## 音楽の聴き方
 
-- 11% are interested in UPRISING 3
+**普段、どのように音楽を聴いていますか？（複数回答可）**
 
-- 11% are interested in Legendaria
+- 88%がローカルライブラリで音楽を聴く
+- 80%がストリーミングプラットフォームで聴く
+- 34%がフィジカルフォーマットで聴く
+- 30%がライブイベントで聴く
 
-- 9% are interested in Border in Stasis
 
-**Download Cards Wishlist (just one)**
+**最もよく使う音楽の聴き方は？**
 
-- 61% of people are not interested whatsoever (ouch)
+- 55%がローカルライブラリ
+- 42%がストリーミングプラットフォーム
+- 2%がフィジカルフォーマット
 
-- 9% are interested in Legendaria the most
 
-- 7% are interested in UPRISING 3
+**同人関連イベントについて**
 
-- 7% are interested in Border in Stasis the most
+- 65%がイベントに参加したいが、近くにそのようなイベントがない
+- 15%が参加したいが、金銭的に難しい
+- 7%が興味なし
+- 年に1回以上参加する人は15%未満
 
-**Gacha Concept**
 
-Reminder of the concept:
+**M3について**
 
-People can spend as little as 1000 yen for a "gacha" pull of our albums, and would have a randomly picked release given. Albums between 1000 and 3000 yen would be planned to be included in the pool. We hope that a system like this would give people a surprise album they might not be originally keen on buying upfront, but would still save up on the real cost of the album. This system would be available for live events as well as on Bandcamp for direct sales, and include CDs as well as download codes.
+- 75%以上が行ってみたいが、遠すぎる／費用が高すぎるため行けない
+- 15%がM3についてよく知らない
+- 7%がすでに参加したことがある／時々参加している
 
-- 50% are not the target audience, but fine with the idea
 
-- 38% could see themselves indulging in doujin music gambling
+**XFDの視聴維持率**
 
-- 9% would rather not have to imagine it
+- 44%が私たちのXFDを最後まで聴く
+- 23%が参加作品をざっと確認するためにXFDを飛ばしながら聴く
+- 15%がXFDを視聴せず、参加者リストだけ確認する
+- 9%が動画を見ずにBGMとして流している
 
-**Analysis**
 
-So, it turns out people are not that impartial on the physical availability of our albums! I assumed most enthusiasts were really focused on the CD format, but I don’t think most of those people even took the survey in the first place… Unsurprisingly, a lot of people would love a CD for YGGDRASIL. Which sounds good in concept, but I don’t even want to imagine the pain of doing a 4xCD Boxset of such an ambitious scale… We’d definitely need to do something handmade or go through a very specific process. Let’s keep this for later, shall we… I don’t think Kodama is popular and rich enough to make something like this anytime soon, lol. Well, at least, the booklet would already be ready to go…! For DLcards, yeah, those numbers kind of hurt… It seems there’s still a lot of misconception about DLCards. I keep advertising them to be download cards which you can use as prints, due to their quality, size, and dual sides. Most download cards in the market are business card sized, which I agree with the fact that they’re a pain! I still display them proudly, and we do keep them in business card size for our CDs, but any album “exclusive” to download cards will always have a very nice design and front artwork for you to display as if they were bigger prints. Them being cheap to produce without neglecting the artisan quality of the products is a very nice touch, I think. I am glad that 2/10 people do understand where I’m coming from, though. I very much wish I could make CDs of our entire discography, but again, we can’t really afford this just yet… Just making our new releases in the form of a CD is already such a risky and expensive thing to do. Bear with us in the meantime! And don’t shy away from Download Cards, I promise that they’re worth getting, especially with our cheap shipping and the price of the album being the same as digital on Bandcamp!! Either way, it seems like people really do want Legendaria/VANTABLACK 2/Border in Stasis download cards. I can’t blame them, they’re incredible illustrations! VANTA2 and BIS contrast one another so well too, they must look so good next to each other… We already have a bonus artwork to use (Légendes) for the back cover of Legendaria too, so maybe we can make that happen soon enough? It’s one of our most popular albums, and making a DLC instead of a CD (for now) does sound like the most affordable option. I was surprised to see that there were so many people into the idea of the UPRISING 3 DLC, despite the album existing in CD format already! I guess trying to compare 15x15cm DLCards to CDs is counter productive, maybe. Some people may probably be interested in a cool looking print, and maybe the CD doesn’t matter in this regard. Either way, that also sounds like a affordable option, since we already have way more than enough design elements to make a 15x15cm DLC for this one, and let’s just say that restocking UPRISING 3 CDs already would put us in the red… The gacha seems to be a fun idea to most people, or they don’t seem to care about it. I can definitely see it as a fun little thing to do during events, and I think we might make it happen for the next M3! Either way, there are definitely a lot of interesting things to look forward to in the future, and some very interesting things to note down.
+**DJ Mixed Crossfadesについて**
 
-## Music Habits
+- 53%がDJ Mixed Crossfadesを面白くて良い試みだと感じ、最後まで聴くモチベーションになっている
+- 16%は、その労力を別のところに使ってほしい
+- 14%は面白いと思うが、それだけでは最後まで聴き続ける理由にはならない
+- 8%はDJ MixedよりシンプルなXFDを明確に好む
 
-**How do you listen to music in general? (multiple options)**
 
-- 88% listen to music via a local library
+**ロングXFDの長さについて**
 
-- 80% listen to music via streaming platforms
+- 約30%は、普段ショート版を見るため特に気にしていない
+- 約30%はショート版が好きではないため、ロングXFDに満足している
+- 約13%は、長いと最後までみたくなくなってしまう
+- 約15%は気にしていない、あるいはそもそもXFDを見たり聴いたりしない
+- 少数なのですが、ショート版とロング版の両方を好む人もいる
 
-- 34% listen to music via physical formats
 
-- 30% listen to music via live events
+**デジタル版の価格**
 
-**How do you listen to music the most?**
+- 53%が価格に満足
+- 21%はそもそも価格を見ていない
+- 13%は安すぎると考えている
+- 9%は高すぎると考えている
 
-- 55% via a local library
 
-- 42% via streaming platforms
+**CDの価格**
 
-- 2% via physical formats
+- 52%はそもそも価格を見ていない
+- 35%が価格に満足
 
-**Doujin Related Event**
 
-- 65% wish they could participate to an event, but lack such local events
+**分析**
 
-- 15% wish they could, but cannot afford it
+興味深い結果ですね。予想通り、この界隈ではほとんどの人がローカル環境で音楽を聴きながら、同時にストリーミングプラットフォームも利用しているようです。そして、実際の利用頻度もこの2つで大きく分かれているようです。そう考えると、Bandcampの利用を推奨しつつ、ストリーミングプラットフォームへのアルバム投稿も続けない理由はなさそうですね。残念ながら予想していた通り、ファンの大半が海外にいるため、M3に実際に参加したことのある人はほとんどいないようです。多くの人にとって憧れのイベントではあるものの、海外から参加するのはなかなか難しいですよね...ヨーロッパや北米にはオタク・サブカル系のイベントはたくさんありますが、同人シーンとなると、あまりにもアジア独自のサブカルチャーなので、M3のようなイベントが海外で開催されることはなかなか想像しづらいですね。KodamaFestでも開催するべきでしょうか？？？XFDについては、ほとんどの人がVolumetriqueの努力を評価してくれているようで嬉しいです！結果も私が想像していたものとだいたい一致しています。そもそもXFDを気にする人たちは、この界隈ではあまり重視されていない部分にここまで高度なミックスを施していることを喜んでくれています。一方で、そもそもXFDに興味がない人は、どちらでも気にしないと思います。今のところ、DJ Mixed XFDはKodamaの定番になっているし、やめる理由はなさそうですね！
+デジタルもフィジカルも、価格については概ね満足してもらえているようです。デジタルアルバムについては「高すぎる」と思う人も「安すぎる」と思う人もいます。これはむしろ、今の価格で問題がない、特に変更する必要もないということの証明だと思います。CDを買う人の多くは価格を気にしておらず、とにかくCDが欲しいということが判明しました。「適正価格」というものは非常に主観的なものですし、誰にとっても丁度いい価格を設定することはできないと思います。したがって、しばらくは今の方針を維持します。
 
-- 7% are not interested
 
-- Less than 15% attend at least once a year
+## グッズについて
 
-**About M3**
 
-- 75+% would love to go, but are unable to do so (too far/too expensive)
+**フルセットと特典**
 
-- 15% don’t really know what it is
+- 51%がフルセット割引や特典に影響される
+- 40%はそういう要素に影響されない
+- 30%が、過去作品をまとめて追いつくためのお得な手段だと考えている
 
-- 7% already went and/or go every now and then
 
-**Crossfades Retention**
+**みんなが一般的に興味を持っているグッズは？**
 
-- 44% go through our full XFDs
+- 64%がアパレル
+- 57%がプリント＆ポスター
+- 48%がキーホルダー
+- 48%がユニークでオリジナルなグッズ
+- 42%がステッカー
+- 37%がデスクマットとその他の実用品
+- 37%がぬいぐるみ
 
-- 23% skip through the XFDs just to lightly check the contributions
+**Kodamaのグッズ**
 
-- 15% do not check the XFDs and just want a glance of the list of contributors
+- 60%がKodamaグッズに興味あり
 
-- 9% keep them in the background without looking at it
+- 33%が興味なし
 
-**DJ Mixed Crossfades**
 
-- 53% believe the DJ Mixed crossfades are a nice and interesting effort, and keeps their retention locked in
+**どんなKodamaグッズが欲しい？**
 
-- 16% would rather see the effort spent elsewhere
+- 52%がアパレルを希望
+- 52%がプリントとポスターを希望
+- 50%がユニークでオリジナルなグッズを希望
+- 45%がステッカーを希望
+- 42%がキーホルダーを希望
+- 31%がデスクマットを希望
+- 28%がぬいぐるみを希望
 
-- 14% think they’re great, but they’re not enough to keep their retention in check
 
-- 8% actively prefer simpler XFDs over DJ mixed ones
+**分析**
 
-**Long XFDs Length**
+最高に上品なグッズだけを作りたいと思っています。そして今のところ、かなり良いものを提供できていると思います！すでにキーホルダー、アクリルスタンド、ステッカー、プリント、ポスターなどを制作しています。プリントが人気なのは、すでに15×15cmのDLカードを販売していることを考えると嬉しいですね。Escapismのポスターもとても美しく仕上がっているので、今後もこういうものをもっと作っていきたいです！アパレルについて、私は服やファッションが大好きですが、つまらないグッズは好きではありません。ありがちな「ここにロゴを入れました」みたいなモノクロTシャツを作ることは期待しないでください。もし服を作るなら、安っぽいファストファッションのようなものにはせず、ユニークなデザインにしたいと思っています。私たちのチームには素晴らしいデザイナーがたくさんいるので、絶対に面白いものが作れるはずです！多少高価になるかもしれませんが、ものすごく高品質なアイテムにしたいです。キーホルダーだけでなく、デスクマットもすでに制作を進めています。あとは実際に生産するための資金がもっと必要なだけですが...Kodamaのぬいぐるみは、とても可愛らしいアイデアですね。LYSKOやUPRISINGの子も...とても面白そうですが、ぬいぐるみはグッズの中でも特に製造が難しい部類です。これを実現するなら商業パートナーと組む必要がありそうで、同人サークルとしてはあまり理想的ではないかもしれません。可能性はありますが、様子見をしながら考えていきましょう！
 
-- Around 30% are not concerned, as they tend to look at the short versions instead
 
-- Around 30% are content with the long XFDs, as they dislike short versions
+## 今後のアルバムについて
 
-- Around 13% think the length does a disservice to their retention
-
-- Around 15% don’t mind, or don’t watch/listen to XFDs in the first place
-
-- A few people like both short and long versions either way
-
-**Digital Prices**
-
-- 53% are satisfied with our prices
-
-- 21% don’t even look at the prices
-
-- 13% believe we sell ourselves cheap
-
-- 9% believe they’re too expensive
-
-**CD Prices**
-
-- 52% don’t even look at the prices
-
-- 35% are satisfied with our prices
-
-- Analysis
-
-A lot of very interesting stuff here. Unsurprisingly, almost everyone in the scene uses an offline local while also using streaming platforms. However, the biggest usage seems to be shared between the two as well. Seems like there’s no reason not to continue posting our albums on streaming platforms while recommending people to use Bandcamp. Sadly, it seems like that as anticipated, due to the location of most of our fans, most of them have never really been to M3. It’s a dream of many, but it’s such a Japan only event that it’s hard to imagine people going to such places… Europe/NA are good places for otaku and nerdy events, but when it comes to the doujin scene, it’s such an exclusively Asian subculture that it’s hard to imagine something like M3 happening overseas… Should we host a KodamaFest??? For crossfades, most people seem to agree that we can salute Volumetrique’s efforts! The results seem to align with what I imagined: the people who care about XFDs in the first place are glad to hear such high mixing efforts for what’s generally overlooked in the scene, while the ones who don’t care about them in the first place… won’t care about it either way. For now, sounds like DJ Mixed XFDs are a Kodama staple, and we have no reason to stop for now! People seem to be content with our prices, both digital and physical. There’s two noticeable groups that believe our digital albums are too expensive, while the other one believes they’re not expensive enough… I guess it’s a good demonstration that our prices are fine and don’t really need to change. Most people buying CDs don’t care about the prices, they just want their CDs, and could spend dozens or just a few bucks for’em. The “right price” is an extremely subjective matter, and I don’t think we can make something which feels like the sweet spot for everyone. So we’ll stick to how things are for now.
-
-## About Merch
-
-**Fullsets & Bonus Items**
-
-- 51% can be influenced by fullset discounts and bonus items
-
-- 40% are not affected by such things
-
-- 30% consider them to be an affordable way to catch up on releases
-
-**What kind of merch are people generally interested in?**
-
-- 64% like apparel merch
-
-- 57% like prints & posters
-
-- 48% like keychains
-
-- 48% like unique and original merch
-
-- 42% like stickers
-
-- 37% like deskmat & other utility stuff
-
-- 37% like plushies
-
-**Merch, but make it Kodama**
-
-- 60% like the idea of Kodama merch
-
-- 33% aren’t interested
-
-**What Kodama merch do people want?**
-
-- 52% would love apparel
-
-- 52% would love prints and posters
-
-- 50% would love unique and original merch
-
-- 45% would love stickers
-
-- 42% would love keychains
-
-- 31% would love deskmats
-
-- 28% would love plushies
-
-**Analysis**
-
-I only want to make the classiest of merch, and for now, I feel like we’ve been delivering pretty well! We’ve already started doing keychains, acrylic stands, stickers, prints and posters. A lot of people like prints, which is good considering we already sell 15x15cm DLCards. Our Escapism posters look beautiful, and I look forward to doing more of those in the future! When it comes to apparel, I love clothes and fashion, but I don’t like boring junk. Don’t count on me for doing boring and generic “insert logo here” monochrome t-shirts. If we ever do clothes, I’d probably make sure we don’t do ugly fast fashion stuff, but I’d want us to do unique designs. We have a lot of amazing designers on our team, so we can definitely do something interesting! It might be on the more expensive side, but if they’re super high quality items, it’d be pretty awesome. We already have keychains, deskmats in progress, too. I just need more income to actually produce them… Kodama plushies sound like an adorable idea. LYSKO and the UPRISING girl, too… Lot of potential here, but it’s also some of the hardest merch to make. We’d have to partner with a commercial partner for this, which probably isn’t really ideal for a doujin circle… Things can be possible, but we’d have to wait and see!
-
-## Future of our Albums
-
-**What album series are people interested in? (Kodama)**
+**どのアルバムシリーズに興味がある？（Kodama）**
 
 - 53% UPRISING
-
 - 46% Gensokyo Party albums
-
 - 44% PARADISE
-
 - 38% Legendaria
-
 - 36% Solo Albums
-
 - 32% Memories
-
 - 30% Soundtracks
 
-**What sequel are people MOST interested in? (Kodama)**
+
+**最も続編を希望しているシリーズは？（Kodama）**
 
 - 24% UPRISING
-
 - 18% Gensokyo Party
-
 - 14% Memories
-
 - 12% PARADISE
 
-**What NEW ER album series are people interested in? (Kodama)**
 
-- 66% Codename “ROOTS” (Y2K, Jungle, Sampling, Breakbeat…)
+**新しいEclectic Resonanceアルバムシリーズで興味があるものは？（Kodama）**
 
-- 56% Codename “RESURRECTION” (Emotional Breakcore, Artcore, IDM…)
+- 66% Codename “ROOTS”（Y2K、Jungle、Sampling、Breakbeat……）
+- 56% Codename “RESURRECTION”（Emotional Breakcore、Artcore、IDM……）
+- 50% Codename “LAY BACK”（Smooth & Lounge Jazz、Soul……）
+- 45% Codename “TORN APART”（Experimental、Noise、Hard Breakcore...）
+- 37% Codename “CRAZY”（Cute & Silly Sounds、Denpa...）
 
-- 50% Codename “LAY BACK” (Smooth & Lounge Jazz, Soul…)
 
-- 45% Codename “TORN APART” (Experimental, Noise, Hard Breakcore…)
-
-- 37% Codename “CRAZY” (Cute & Silly Sounds, Denpa…)
-
-**What NEW ER album series are people interested in MOST? (Kodama)**
+**新しいEclectic Resonanceアルバムシリーズで最も興味があるものは？（Kodama）**
 
 - 18% Codename “RESURRECTION” (Emotional Breakcore, Artcore, IDM…)
 
@@ -331,7 +284,7 @@ I only want to make the classiest of merch, and for now, I feel like we’ve bee
 
 - 10% Codename “NOBLE” (Chamber Music, Piano, Orchestral…) 
 
-**What album series are people interested in? (COUNTERFEST)**
+**どのアルバムシリーズに興味がある？（COUNTERFEST）**
 
 - 47% SpeedSTARS
 
@@ -343,9 +296,9 @@ I only want to make the classiest of merch, and for now, I feel like we’ve bee
 
 - 22% Fragments of Gratitude 
 
-**What sequel are people MOST interested in? (COUNTERFEST)**
+**最も続編を希望しているシリーズは？（COUNTERFEST）**
 
-- 25% Aren’t interested in any of our previous releases
+- 25%が過去作品の続編には特に興味なし
 
 - 18% SpeedSTARS
 
@@ -355,167 +308,161 @@ I only want to make the classiest of merch, and for now, I feel like we’ve bee
 
 - 16% Moonstruck Analogy
 
-**What NEW album series are people interested in? (COUNTERFEST)**
+**新しいアルバムシリーズで興味があるものは？（COUNTERFEST）**
 
-- 61% Rhythm Games (Arcade, BEMANI, Performai)
-
-- 51% Nier/Drakengard
-
+- 61% 音楽ゲーム（Arcade、BEMANI、Performai）
+- 51% NieR/ドラッグオンドラグーン
 - 46% Madoka Magica
+- 38% CAVE ソフト（怒首領蜂、デススマイルズなど）
+- 34% 宝石の国
 
-- 38% CAVE Games (DoDonPachi, Deathsmiles etc) 
+**新しいアルバムシリーズで最も興味があるものは？（COUNTERFEST）**
 
-- 34% Land of the Lustrous
+- 28% 音楽ゲーム（Arcade、BEMANI、Performai）
+- 18% CAVE ソフト（怒首領蜂、デススマイルズなど）
+- 16% NieR/ドラッグオンドラグーン
+- 10% 魔法少女まどか☆マギカ
+- 8% 宝石の国
 
-**What NEW album series are people interested in MOST? (COUNTERFEST)**
 
-- 28% Rhythm Games (Arcade, BEMANI, Performai)
+**アルバムのリリース数について**
 
-- 18% CAVE Games (DoDonPachi, Deathsmiles etc)
+- 47%が、追いつくにはかなり多いが、その分毎年好きなものを選んで追えると考えている
+- 45%が、多ければ多いほど良いと考えている
 
-- 16% Nier/Drakengard
+**分析**
 
-- 10% Madoka Magica
+今でも東方が人気で嬉しいです！凄いですね...オリジナルアルバムについては、趣味が本当に多様ですね。嬉しいことです！つまり、どのアルバムを制作しても、誰かが喜んでくれるということですね。もしかすると、私たちのシステムは最初からずっとダイバースだったのかもしれませんね...駄洒落はさておき、どうやらROOTSとRESURRECTIONのコンセプトはかなり好評のようです。ただし、TREMORやPARADISEと共通する要素が少し多くなってしまう可能性があるので、もう少し待ったほうが良いと思います。今のところ、エモーショナルなArtcore/Breakcoreが好きな人たちは、「RESURRECTION」プロジェクトの登場を喜んでくれるでしょう！このプロジェクトの正式名称は「ECLECTIC RESONANCE HOWLING」となります！COUNTERFESTに関しては、来年Moonstruck Analogyの続編と宝石の国をテーマにした新作を制作する予定です。魔法少女まどか☆マギカのアルバムを希望している人がこんなにいることにも驚きました！私たちのリリース量に対して、皆さんがまだ「お腹いっぱい」になっていないようで嬉しいです。
 
-- 8% Land of the Lustrous
 
-**Our Albums Output**
+## インターネット上での活動について
 
-- 47% believe it’s a lot to catch up with, but that means they can pick what to follow each year
-
-- 45% believe the more the merrier
-
-**Analysis**
-
-I’m glad people are still onboard Touhou stuff! It truly is emblematic even to this day… For original albums, people really do have… Eclectic tastes. And I’m glad! That means we’re doing just what we want. Always a little something for everyone. Maybe our system has been diverse all along… Puns aside, it seems like people really do like the concepts behind ROOTS and RESURRECTION. ROOTS is great, but considering it might share a bit too many elements from TREMOR and PARADISE, I think it’d be better to wait a bit. For now, emotional artcore/breakcore fans will rejoice at the idea of the “RESURRECTION” project, which will be named “ECLECTIC RESONANCE HOWLING”! For COUNTERFEST, my plan was already to make a sequel to Moonstruck Analogy II next year, alongside a new album centered around Land of the Lustrous, so everything looks good to me. I’m surprised to see so many people eager for a Madoka album, too! I’m glad people don’t feel burnt out with our output too.
-
-## About our Internet Presence
-
-**Platforms used to check up on Kodama**
+**Kodamaの情報をチェックするために使うプラットフォーム**
 
 - 67% Discord
-
 - 53% Twitter / X
-
 - 48% Bandcamp / BOOTH
-
 - 36% SoundCloud / YouTube
-
 - 19% Bluesky
+- 11% 私たちウェブサイト
 
-- 11% Our Website
 
-**How often do you check our website?**
+**どのくらいの頻度でウェブサイトを確認するか**
 
-- 37% a few times a year
+- 37%が年に数回
+- 23%がウェブサイトの存在は知っているが利用していない
+- 23%がウェブサイトの存在を知らなかった
+- 17%がほとんど確認しない（年1回程度）
+- 2%が頻繁に確認する、月1回以上
 
-- 23% know about the website, but don’t use it
 
-- 23% didn’t know there was a website
+**何のためにウェブサイトを確認するか**
 
-- 17% rarely, like once a year
+- 44%がディスコグラフィーを確認するため
+- 44%が進行中のプロジェクトを確認するため
+- 25%がウェブサイトの存在を知らなかった
+- 17%がブログ記事を確認するため
+- 17%がウェブサイトの存在は知っているが、ほとんど／まったく利用しない
 
-- 2% frequently, once or more per month
 
-**Why do you check our website?**
+**分析**
 
-- 44% To check our discography
+ここについては、すでに認識していたことが多く、特に驚くような結果はありませんでした。残念ながら、今の時代だとウェブサイトを確認してもらうのは難しいですね。どんな組織にとっても自前のウェブサイトは不可欠だと思っていますが、時代が進むにつれて、ウェブページをわざわざ確認しに行こうと思う人はどんどん減ってきているのですね。
+時代に合わせていくしかありません。ただ、アクセス数が少ないからといってウェブサイトを諦めるつもりはありません。第三者のSNSではなく、私たち自身の公式ウェブサイトを頼りにしてもらう必要があります。問題は、それをどう実現するかということですね...
+この間、COUNTERFEST RECORDSのInstagram/TikTokを作りました。KodamaについてもInstagramとTikTokを作る予定だったのですが、なぜかKodama名義のアカウントを作ることができません...ただ正直に言うと、2000年以前生まれの私にとって、ああいうプラットフォームは本当に分かりづらいです。Twitter/Blueskyの方が使いやすいのですが、できる限りCOUNTERFESTのInstagram/TikTokも活用していこうと思います。
 
-- 44% To check our ongoing projects
 
-- 25% didn't know there was a website
+**まとめ**
 
-- 17% To check on blogposts
+改めまして、皆さんの応援、そしてアンケートへの回答に時間を割いてくださったことに心から感謝します。非常に多くの有益な情報を得ることができましたし、素敵で興味深いコメントや提案もいくつもいただきました！また1～2年後くらいに、同じようなアンケートを実施するかもしれません。どうやら皆さんの声も聞けたことですし、2027年の大まかな計画を立てることができそうです！
 
-- 17% know about the website, but rarely or never use it
 
-**Analysis**
+**2027年 リリース予定**
 
-Not much to notice here that I wasn’t already aware of. Unfortunately, it’s hard in today’s age to have people check our website out… I think it’s an imperative necessity for any organization, but I guess as time passes, less and less people are eager to check webpages. We just have to get on with the times. However, we won’t give up on the website just because not enough people check it out. We need people to rely on our first party website rather than third party SNS, the question is, how do we do that… We recently made an Instagram/TikTok for COUNTERFEST RECORDS, and my plan was to make two for Kodama as well, but for some reason, I cannot create an account for Kodama… Not gonna lie though, those kinds of platforms are just so hard to understand for someone born pre 2000 like me. I think Twitter/Bluesky will remain the most optimal social platforms, but I’ll try to use COUNTERFEST’s accounts whenever I can…
+もちろん、今後変更される可能性はあります。また、以下に掲載するのは一般参加を受け付ける公開プロジェクトのみです（そのため、特別企画／シークレットアルバムやソロアルバムは載せません）。青がKodama、赤がCOUNTERFESTのアルバムです。
 
-**Conclusion**
+- COUNTERFEST BOMB DISPOSAL（1月～3月）
+- ECLECTIC RESONANCE Legendaria II（M3-2027春）
+- Gensokyo Party Vol. 8 DJ Koishi 2（春例大祭）
+- Moonstruck Analogy -a TYPE-MOON tribute album- II（4月～6月）
+- COUNTERFEST HEROES 02（7月～9月）
+- ECLECTIC RESONANCE HOWLING（M3-2027秋）
+- Zn₂Fe(PO₄)₂·4H₂O -a Land of the Lustrous tribute album-（10月～12月）
 
-Once again, big thanks to everyone’s support and their time taking the survey. It had a lot of insight and we also got a few very nice and interesting comments and suggestions! We might do this again in a year or two’s time. It seems like the people have spoken, and we can do a rough estimation of the 2027 planning!
+今のところ、以上です！もちろん、他にもたくさんのアルバムを計画していますが、一般参加型のアルバムだけで7作品というのは、それだけでもかなりのボリュームです！この他にも、ここでは公開していないサウンドトラック、アレンジ、シングル、ソロアルバムなどのプロジェクトも予定しています！それでは、2027年に予定されているアルバムの完全なリストと、それぞれの概要／プロジェクトページをご覧ください。
 
-**Open Schedule for 2027**
-
-Of course, it’s always subject to change, and the projects below will only be publicly contributable projects (so we shall omit special/secret albums as well as solo albums). Albums in Blue are Kodama’s, while Red is COUNTERFEST.
-
-- COUNTERFEST BOMB DISPOSAL (January ~ March)
-
-- ECLECTIC RESONANCE Legendaria II (M3-2027 Spring)
-
-- Gensokyo Party Vol. 8 DJ Koishi 2 (Spring Reitaisai)
-
-- Moonstruck Analogy -a TYPE-MOON tribute album- II (April ~ June)
-
-- COUNTERFEST HEROES 02 (July ~ September)
-
-- ECLECTIC RESONANCE HOWLING (M3-2027 Fall)
-
-- Zn₂Fe(PO₄)₂·4H₂O -a Land of the Lustrous tribute album- (October ~ December)
-
-For now, that’s the plan! We do have many more albums planned, but seven albums is already a LOT to go through just for public albums! You can also expect soundtracks, arrangements, singles and solo album projects which are not disclosed there… Here’s the full list of planned albums for 2027, and their respective descriptions/project pages:
 
 **COUNTERFEST BOMB DISPOSAL**
 
-I WANNA SEE IT GO OFF! We at COUNTERFEST are setting up a BOMB DISPOSAL for chiptunes that are too dangerous for others to handle! COUNTERFEST BOMB DISPOSAL is a compilation album specially made for chiptune artists that is free of rules and expectations. Put on a blindfold and bring out your bats, it’s time to make art.
+[![COUNTERFEST BOMB DISPOSAL header](/assets/posts/bombDisposalHeader.webp)](https://counterfest.kodamasoft.net/projects/counterfest-bomb-disposal)
 
-Current release plan: Q1 2027
+I WANNA SEE IT GO OFF！COUNTERFESTでは、他の誰にも扱えないほど危険なチップチューンのための「爆弾の捨て場」を立てます！『COUNTERFEST BOMB DISPOSAL』は、チップチューン・アーティスト向けのルールや固定観念から解き放たれたコンピレーションアルバムです。目隠しをしてバットを振り回すような気持ちで、思いきりアートを作りましょう。 
+リリース予定: 2027年1月〜3月
 
-[Project page](https://counterfest.kodamasoft.net/projects/counterfest-bomb-disposal)
+[プロジェクトページ](https://counterfest.kodamasoft.net/projects/counterfest-bomb-disposal)
 
 **ECLECTIC RESONANCE Legendaria II**
 
-Our legendary heroes march through the blizzard. Pure white snow piles up as far as the eye can see, but the more they traverse through the white landscape, the more they question where they might be headed… Is it fame? Is it gold? Is it death? Is it something deeper? Their journey has taken them throughout the entire continent, and yet the world never ceases to surprise our warm and gentle crowd of heroes. They’ve witnessed both misery and happiness in the eyes of its residents, and carry a light which they all hope can reach the heart of their loved ones. A very clear hope pierces through the cold veil of those mountains, however: Their Legend is not yet coming to a close, and this here is just another brave step for our troupe to take.
+[![ECLECTIC RESONANCE Legendaria II header](/assets/posts/legendariaHeader.webp)](https://kodamasoft.net/projects/eclectic-resonance-legendaria-2)
 
-Current release plan: M3-2027 Spring
+伝説の英雄たちは、吹雪の中を進んでゆく。見渡す限り、一面に積もる純白の雪。されど白銀の世界を踏み越えてゆくほどに、彼らの胸にはひとつの疑問が浮かび始める――いったい、自分たちはどこへ向かっているのだろう？名声のためか。黄金のためか。それとも、死のためか。あるいは、もっと深い何かのためなのか。彼らの旅路は、すでに大陸全土へと及んでいる。それでもなお、この世界は、温かく穏やかな彼らの一行を驚かせることをやめない。彼らは、この世界に生きる者たちの瞳に宿る悲しみと幸福、その両方を目にしてきた。そして、愛する者たちの心へ届くことを、誰もが願う小さな光を携えている。しかし、山々を覆う冷たいとばりを貫く、ひときわ確かな希望がある。彼らの伝説は、まだ終わりを迎えてはいない。そしてこれは、彼らが踏み出す、またひとつの勇敢な一歩なのだ。
+リリース予定：M3-2027春
 
-[Project Page](https://kodamasoft.net/projects/eclectic-resonance-legendaria-2)
+
+[プロジェクトページ](https://kodamasoft.net/projects/eclectic-resonance-legendaria-2)
 
 **Gensokyo Party Vol. 8 DJ Koishi 2**
 
-“Koishi… Could you not make such noise, please…? What are y- oh.”
+[![Gensokyo Party Vol. 8 DJ Koishi 2 header](/assets/posts/koishi2Header.webp)](https://kodamasoft.net/projects/dj-koishi-2)
 
-Seems like the youngest Satori has awakened her big sister from her deep sleep! Though she has her pride to keep, Satori never knows how to say no to her dearly beloved sister. No choice for her but to join Koishi in the madness! This sequel to our 2023 Gensokyo Party album focuses on the best Touhou EDM has to offer, and is bound to get you on the dancefloor and open your third eye… No need to read minds for this one -  just move to the rhythm!
+「こいし……もう少し静かにしてくれないか……？　いったい何を――って、あれ？」
+どうやら、妹であるさとりが、眠りについていたお姉ちゃんを深い眠りから目覚めさせてしまったようです！威厳は守りたいところですが、愛するお姉ちゃんのお願いにはどうしても「やだ！」と言えないさとり。こうなったらもう、こいしと一緒に狂騒の渦へ飛び込むしかないでしょう！2023年にリリースした『Gensokyo Party DJ Koishi』の続編となる本作では、Touhou EDMの魅力を詰め込みました。思わずフロアで踊り出し、第三の眼まで開いてしまうこと間違いなし……！今回は心を読まなくても大丈夫。ただリズムに身を委ねて、思いっきり踊りましょう！
+リリース予定：例大祭2027春
 
-Current release plan: Reitaisai 2027 Spring
 
-[Project Page](https://kodamasoft.net/projects/dj-koishi-2)
+[プロジェクトページ](https://kodamasoft.net/projects/dj-koishi-2)
 
 **Moonstruck Analogy -a TYPE-MOON tribute album- II**
 
-It was a thrust like lightning. After five years, our very first tribute album published back in 2021 finally gets its long awaited sequel. The world of TYPE-MOON is vast, and sure doesn’t lack in content. Between the immense franchise that Fate/ has become, the atmospheric melancholy of Witch on the Holy Night, and the chilling yet beautiful world of Tsukihime, TYPE-MOON visual novels have become a staple in urban fantasy. With this album, we will celebrate it all as it deserves to be.
+[![Moonstruck Analogy -a TYPE-MOON tribute album- II header](/assets/posts/typeMoonHeader.webp)](https://counterfest.kodamasoft.net/projects/moonstruck-analogy-ii)
 
-Current release plan: Q2 2027
+それは、稲妻のような切っ先だった。5年後、2021年に発表された私たち初のトリビュートアルバムが、ついに待望の続編を迎えます。TYPE-MOONの世界は広大で、コンテンツも豊富です。今や巨大なフランチャイズへと成長した『フェイト』、幻想的な哀愁に満ちた『魔法使いの夜』、そして美しくも背筋を凍らせる『月姫』の世界――TYPE-MOONのビジュアルノベル作品は、今やアーバンファンタジーというジャンルにおける一つの定番となっています。このアルバムでは、そんなTYPE-MOONの世界すべてを、その魅力にふさわしい形で祝福していきます。
+リリース予定：2027年4月〜6月
 
-[Project Page](https://counterfest.kodamasoft.net/projects/moonstruck-analogy-ii)
+[プロジェクトページ](https://counterfest.kodamasoft.net/projects/moonstruck-analogy-ii)
 
 **COUNTERFEST HEROES 02**
 
-Round 2. Did you guys do your homework and like HEROES 01? Good. You like LYSKO? You better, so do we. Don’t worry, she’s right there, charging up just for you and me. I heard she planned to go and dig some sample CDs and obscure otaku references in some jungle temple. Yeah, I didn’t really get it either, but hey, she’ll get the job done just like she did last year on her moon mission. Just remember, as always: SAMPLING IS GOD.
+[![COUNTERFEST HEROES 02 header](/assets/posts/heroesHeader.webp)](https://kodamasoft.net/projects/dj-koishi-2)
 
-Current release plan: Q3 2027
+Round 2。みんな、ちゃんとHEROES 01を気に入ってくれたかな？ よし。LYSKOが好き？ ……好きになってもらわないと困るな。こっちは大好きだからな。心配しなくていい。彼女なら、君と俺のためにすぐそこで今チャージ中だよ。どこかのジャングルの神殿に潜り込んで、サンプルCDやら謎めいたオタクネタやらを掘り出しに行く計画を立ててるらしい。……うん、俺にもよく分からなかった。でもまあ、去年の月ミッションでやってのけたみたいに、今回もしっかり仕事をこなしてくれるだろう。いつものことだけど、これだけは忘れるな。
+**サンプリングって神だ。**
+リリース予定：2027年7月〜9月
 
-Project Page
+
+[プロジェクトページ](https://counterfest.kodamasoft.net/projects/counterfest-heroes-02)
 
 **ECLECTIC RESONANCE HOWLING**
 
-Scattered memories. The painful yearning of a long gone past. An inherent disturbance in one’s sanity. Surely, we’ve all been at a point in our life when we were helpless, without any idea on how to be free of the shackles holding our soul down… without hope. This album is an elegiac cry to those who feel this way, and for whom the only way to heal is to resonate with the sound of likeminded individuals.
+[![ECLECTIC RESONANCE HOWLING header](/assets/posts/howlingHeader.webp)](https://kodamasoft.net/projects/eclectic-resonance-howling)
 
-Current release plan: M3-2027 Fall
+散り散りになった記憶。遠い過去への、痛ましい憧憬。心の奥底に潜む、精神の揺らぎ。
+きっと誰もが人生のどこかで、為す術もなく、魂を縛りつける枷からどうすれば逃れられるのかさえ分からず、ただ絶望の中に取り残されたことがあるのではないでしょうか...このアルバムは、そんな想いを抱える人々へ捧げる哀歌であり、癒されるための唯一の道が、同じ痛みを分かち合う者たちの音と共鳴することにある――そんな人々のための、哀切なる叫びです。
+リリース予定：M3-2027秋
 
-Project Page
+[プロジェクトページ](https://kodamasoft.net/projects/eclectic-resonance-howling)
 
 **Zn₂Fe(PO₄)₂·4H₂O -a Land of the Lustrous tribute album-**
 
-“Once you've crossed that bridge, burn it.” Zn₂Fe(PO₄)₂·4H₂O is a concept album based on the masterpiece by Haruko Ichikawa, “Land of the Lustrous”.  Within it, you will find image songs inspired by the original manga’s story, as well as arrangements of the animated series. This album, reflective of the beauty and purity of its inspiration, will record Phosphophyllite’s world and leave an eternal trace of beauty onto our own.
+[![Zn₂Fe(PO₄)₂·4H₂O -a Land of the Lustrous tribute album- header](/assets/posts/hnkHeader.webp)](https://counterfest.kodamasoft.net/projects/land-of-the-lustrous)
 
-Current release plan: Q4 2027
+「渡ったら橋は燃やして」
+Zn₂Fe(PO₄)₂·4H₂Oは、市川春子氏による傑作『宝石の国』を題材としたコンセプトアルバムです。本作には、原作漫画の物語に着想を得たイメージソングに加え、アニメシリーズの楽曲アレンジも収録されます。そのインスピレーションの源である作品の美しさと純粋さを映し出すこのアルバムは、フォスフォフィライトの世界を音楽として記録し、私たちの世界にも永遠に残る美の痕跡を刻みます。
+リリース予定：2027年10月〜12月
 
-Project Page
+[プロジェクトページ](https://counterfest.kodamasoft.net/projects/land-of-the-lustrous)
 
 
-This was a massive blogpost, but it will probably be our last one before M3-2026 Fall. Please look forward to the rest of 2026, and stay tuned for more, as always! Thank you!
+かなり長いブログ記事になってしまいましたが、M3-2026秋前の更新は、おそらく今回が最後になるかと思います。2027年までの活動、どうぞ楽しみにしていてください！ありがとうございました！
 
 *Robin*
