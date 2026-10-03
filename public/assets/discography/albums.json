@@ -476,6 +476,18 @@
         "vgmdb": "https://vgmdb.net/album/161461",
 		"website": "/releases/la-mulana",
 		"fullAlbum": "https://www.youtube.com/watch?v=TQWd5APJZM4"
+	},
+	"gensokyo-party-vol7": {
+		"id": "KSDL-0024",
+		"releaseDate": "2026-10-04T00:00:00+0200",
+		"name": "Gensokyo Party Vol. 7 Moriya Barista 2",
+		"cover": "/assets/discography/covers/0024.png",
+		"coverColor": "ecc4c2",
+		"bandcamp": "https://kodamasounds.bandcamp.com/album/gensokyo-party-vol-7-moriya-barista-2",
+		"booth": "https://kodamasoft.booth.pm/items/8877127",
+		"website": "/releases/gensokyo-party-vol7",
+		"vgmdb": "https://vgmdb.net/album/156247",
+		"bandcampPhysical": "https://kodamasounds.bandcamp.com/merch/gensokyo-party-vol-7-moriya-barista-2-15x15cm-download-card"
 	},"eclectic-resonance-tremor": {
 		"id": "KSDL-0025",
 		"releaseDate": "2026-06-27T00:00:00+0200",

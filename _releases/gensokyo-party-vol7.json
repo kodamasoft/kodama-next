@@ -1,0 +1,677 @@
+{
+	"slug": "gensokyo-party-vol7",
+	"logo": "/assets/discography/logos/0024.png",
+	"color": "ffffff",
+	"soundcloud_track_id": "2405522562",
+	"cover": "/assets/discography/covers/0024.png",
+	"header": {
+		"image": "/assets/discography/headers/0024.png"
+	},
+	"background": {
+		"color": "b38974",
+		"text_color": "000000"
+	},
+	"title": "Gensokyo Party Vol. 7 Moriya Barista 2",
+	"circle": {
+		"name": "KodamaSounds",
+		"link": "/"
+	},
+	"specification": "15x15cm Download Card / \"Gensokyo at Peace\" Touhou Arrange Album",
+	"release_date": "Oct 4th, 2026 (秋季例大祭13)",
+	"catalog": "KSDL-0024",
+	"price": "Event Price: 2000 yen | Bandcamp Price: 15€ | Shop Price: 2963YEN",
+	"booth": {
+		"link": "https://x.com/4CornersDoujin",
+		"name": "Four Corners",
+		"other": " / ぬ24ab"
+	},
+	"store": {
+		"bandcamp": {
+			"name": "Bandcamp",
+			"link": "https://kodamasounds.bandcamp.com/album/gensokyo-party-vol-7-moriya-barista-2"
+		},
+		"booth": {
+			"name": "BOOTH",
+			"link": "https://kodamasoft.booth.pm/items/8877127"
+		},
+		"bandcampPhysical": {
+			"name": "Bandcamp (Physical)",
+			"link": "https://kodamasounds.bandcamp.com/merch/gensokyo-party-vol-7-moriya-barista-2-15x15cm-download-card"
+		}
+	},
+	"tracklist": {
+		"01": {
+			"title": {
+				"en": "Locked Girl ~ The Girl's Sealed Room",
+				"jp": "ラクトガール　～ 少女密室"
+			},
+			"artist": {
+				"en": "Twitter Tohobu",
+				"jp": "ついったー東方部"
+			},
+			"description": [
+				"• Original Composer: ZUN (Team Shanghai Alice)",
+				"• Arranger: tanigon (Twitter Tohobu)",
+				"• Pf: tanigon",
+				"• Sax: crow",
+				"• Bass: 2416",
+				"• Drums: GUCCHI",
+				"",
+				"• Programmed, Produced & Mixed by tanigon (Twitter Tohobu)",
+				"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+				"",
+				"• Original Track: Locked Girl ~ The Girl's Sealed Room [ラクトガール　～ 少女密室]",
+				"• Source: Touhou Koumakyou ~ the Embodiment of Scarlet Devil. [東方紅魔郷　～ the Embodiment of Scarlet Devil.]",
+				"",
+				"• Used Software: Cubase",
+				"",
+				"BPM: 138",
+				"Time Signatures: 4/4",
+				"Key: N/A",
+				"Genre: Jazz",
+				"",
+				"https://x.com/tanigon"
+			]
+		},
+		"02": {
+			"title": "Assim, rumo ao Céu",
+			"artist": "intelligencecasino",
+			"description": [
+				"• Original Composer: ZUN (Team Shanghai Alice)",
+				"• Arranger: intelligencecasino",
+				"• Vocals: Moca Miyamai [宮舞モカ] (Synthesizer V)",
+				"• Lyrics: intelligencecasino",
+				"",
+				"• Programmed, Produced & Mixed by intelligencecasino",
+				"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+				"",
+				"• Original Track: The Road of the Misfortune God ~ Dark Road [厄神様の通り道　～ Dark Road]",
+				"• Source: Touhou Fuujinroku ~ Mountain of Faith. [東方風神録　～ Mountain of Faith.]",
+				"",
+				"• Used Software: FL Studio",
+				"",
+				"• Lyrics",
+				"悲しみを　血に染まる泥と混ぜて",
+
+				"聖なる肌に　そっとなじませる",
+
+				"わたしから隠れるものは",
+				"きみにはもう　透けて見えるみたい",
+				"",
+				"言葉ひとつ　届かない場所へ",
+				"熱を残して　刻まれていく",
+				"もう名乗れない意味たちが",
+				"わたしを　静かに染めてく",
+				"",
+				"どこか上で　くらい銀河がほどけて",
+				"きみが先に　名前のない方へ",
+				"滲むまで　残りを手に取って",
+				"この静かな消失へ　連れていって",
+				"",
+				"燻る廃墟に　甘い雨が降る",
+				"ああ　全部　飲み込んでしまえばいいのに",
+				" ",
+				"視界の外へ　くるくる回る",
+				"天国みたいに　上昇して全部",
+				"空はきっと　重たく垂れて",
+				"この土地の　ゆるやかな終わりに",
+				"",
+				"言葉ひとつ　届かない場所へ",
+				"熱を残して　刻まれていく",
+				"もう名乗れない意味たちが",
+				"わたしを　静かに染めてく",
+				"包んでく 殺していく",
+				"",
+				"BPM: 85",
+				"Time Signatures: 4/4",
+				"Key: C Minor",
+				"Genre: Bossa Nova",
+				"",
+				"https://66clown.bandcamp.com/"
+			]
+		},
+		"03": {
+			"title": "Shattered Moon",
+			"artist": "Musicarus",
+			"description": [
+				"• Original Composer: U2 Akiyama [あきやまうに] (Twilight Frontier)",
+				"• Arranger: Musicarus",
+				"",
+				"• Programmed, Produced & Mixed by Musicarus",
+				"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+				"",
+				"• Original Track: Broken Moon [砕月]",
+				"• Source: Touhou Suimusou ~ Immaterial and Missing Power. [東方萃夢想　～ Immaterial and Missing Power.]",
+				"",
+				"BPM: 111",
+				"Time Signatures: 4/4",
+				"Key: Dbm",
+				"Genre: Lounge House",
+				"",
+				"https://musicarus.bandcamp.com"
+			]
+		},
+		"04": {
+			"title": "Eastern Breeze - Parable of Frozen Time",
+			"artist": "Levc_EGM",
+			"description": [
+				"• Original Composer: ZUN (Team Shanghai Alice)",
+				"• Arranger: Levc_EGM",
+				"",
+				"• Programmed, Produced, Mixed & Mastered by Levc_EGM",
+				"• Additional Mastering: Ceiling Adjustment",
+				"",
+				"• Original Track: Hakurei ~ Eastern Wind [博麗　～ Eastern Wind]",
+				"• Source: Touhou Fuumaroku ~ the Story of Eastern Wonderland. [東方封魔録　～ the Story of Eastern Wonderland.]",
+				"",
+				"• Used Software: FL Studio 21",
+				"• Used VSTs & Samples: Addictive Drums 2, DPinga Congas, Addictive Keys, Play (Goliath), Mel-Lofi 2, Sforzando, Plugsound Box, Falcon (V-Horns Tenor Sax, Plugsound pro), FL Sounfont player, Super Mario RPG sample pack",
+				"",
+				"• About this track: Another jazzy Touhou arrangement by me? Guess so. You know me. I love jazz. Just don't look at the heavy amount of ska albums I have on my phone with me at all times. Wait, should I make a ska arrangement? What am I even thinking. Recently, I've been listening to a lot of early Touhou music (I'm going chronologically). So when I was approached to contribute a new arrangement, I went with one of my favorites! It's a simple melody. But it allows me to expand it in some fun ways! I think it sounds good. No but seriously, when's the Touhou Ska album happening-",
+				"",
+				"BPM: 197.033 (intro), 210.862 (middle), 170 (end).",
+				"Time Signatures: 4/4",
+				"Key: B-flat minor",
+				"Genre: VGM Jazz",
+				"",
+				"https://levcegm.bandcamp.com/"
+			]
+		},
+		"05": {
+			"title": "Sueňo Místico ~ O Nieve o Pétalo de Cerezo",
+			"artist": "Someone45356",
+			"description": [
+				"• Original Composer: ZUN",
+				"• Arranger: Someone45356",
+				"• Piano, Upright Bass, Flute, Saxophone, Guiro, Conga, Tumbadora, Taped Cymbal & Cowbells: Someone45356",
+				"",
+				"• Programmed, Produced, Mixed & Mastered by Someone45356",
+				"• Additional Mastering: DC Offset filter, EQ, Limiting, Ceiling",
+				"",
+				"• Original Track: Ghostly Dream ~ Snow or Cherry Petal [妖々夢　～ Snow or Cherry Petal]",
+				"• Source: Touhou Youyoumu ~ Perfect Cherry Blossom. [東方妖々夢　～ Perfect Cherry Blossom.]",
+				"",
+				"• Used Software: Logic Pro for iPad",
+				"• Used VSTs & Samples: Orchestral Tools Andea, Splice, SWAM, Ink Audio Amateur Orchestra",
+				"",
+				"• About this track: I thought chachá would be an interesting type of music to try for a barista or coffee shop feel, that is hispanoamerican and still fits the vibe more or less. I was told I didn’t need to worry about that too much, but well I still put some thought into it. The track itself too was also a pick I chose for that precise reason, its very straight forward and simple for a touhou song, and so I thought it would be good for a rendition. ",
+				"",
+				"BPM: 120",
+				"Time Signatures: 4/4",
+				"Key: 4/4",
+				"Genre: Chachachá",
+				"",
+				"https://someone45356.bandcamp.com/"
+			]
+		},
+		"06": {
+			"title": "Corpse Cold Brew - A Toast to the Departed • Display Artist: KoDyMaxx",
+			"artist": "KoDyMaxx",
+			"description": [
+				"• Original Composer: ZUN (Team Shanghai Alice)",
+				"• Arranger: Maxx (KodamaSounds), Kopan (KodamaSounds), LyhNed (KodamaSounds)",
+				"• Guitars & Bass: Maxx (KodamaSounds)",
+				"• Keys: Kopan (KodamaSounds)",
+				"• Drums: LyhNed (KodamaSounds)",
+				"",
+				"• Programmed & Produced by Maxx (KodamaSounds), Kopan (KodamaSounds), LyhNed (KodamaSounds)",
+				"• Mixed by Maxx (KodamaSounds)",
+				"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+				"",
+				"• Original Track: Corpse Voyage ~ Be of good cheer! [死体旅行　～ Be of good cheer!]",
+				"• Source: Touhou Chireiden ~ Subterranean Animism. [東方地霊殿　～ Subterranean Animism.]",
+				"",
+				"• Used Software: Reaper, Cubase, FL Studio",
+				"",
+				"• About this track: You're at a cozy Café on a rainy day, having a nice warm drink while looking out the window. That is the picture we had in mind and hope to convey with this track.",
+				"",
+				"BPM: 120",
+				"Time Signatures: 4/4",
+				"Key: E Minor",
+				"Genre: Downtempo",
+				"",
+				"https://kodymaxx.bandcamp.com/"
+			]
+		},
+		"07": {
+			"title": "Inaba's Day Off",
+			"artist": "Cubey",
+			"description": [
+				"• Original Composer: ZUN (Team Shanghai Alice)",
+				"• Arranger: Cubey",
+				"",
+				"• Programmed, Produced & Mixed by Cubey",
+				"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+				"",
+				"• Original Track: Lunatic Eyes ~ Invisible Full Moon [狂気の瞳　～ Invisible Full Moon]",
+				"• Source: Touhou Eiyashou ~ Imperishable Night. [東方永夜抄　～ Imperishable Night.]",
+				"",
+				"• Used Software: GarageBand iOS",
+				"• Used VSTs & Samples: Numa Player, Korg Module, Apple loops, restaurant ambience from Fesliyan Studios",
+				"",
+				"• About this track: I chose Inaba's theme because any rest for Inaba is practically unheard of, given that she's a full-time student and servant. Her original theme is also quite chaotic; the harmonious chorus in 4/4 clashes with the meandering verses in 6/4. \"Inaba's Day Off\" is a tamer interpretation of the theme, as everything is pulled into 4/4 so it can breathe.",
+				"",
+				"BPM: 100",
+				"Time Signatures: 4/4",
+				"Key: E minor (0:00 ~ 0:43); D minor (0:43 ~ 1:12); C# minor (1:12 ~ 1:31); E minor (1:31 ~ 3:00); D minor (3:00 ~ 3:26)",
+				"Genre: Lo-fi / Downtempo",
+				"",
+				"https://cubeythepenguin.bandcamp.com/"
+			]
+		},
+		"08": {
+			"title": {
+				"en": "danger past, but the heat still remains...",
+				"jp": "喉元過ぎても熱さはまだ..."
+			},
+			"artist": "Lollipop",
+			"description": [
+				"• Original Composer: ZUN (Team Shanghai Alice)",
+				"• Arranger: Lollipop (dandelion sounds)",
+				"",
+				"• Programmed, Produced & Mixed by Lollipop (dandelion sounds)",
+				"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+				"",
+				"• Original Track: Lullaby of Deserted Hell [廃獄ララバイ]",
+				"• Source: Touhou Chireiden ~ Subterranean Animism. [東方地霊殿　～ Subterranean Animism.]",
+				"",
+				"• Used Software: REAPER, MuseScore 4",
+				"• Used VSTs & Samples: ",
+				"",
+				"• About this track: The Remains of Blazing Hell, huh... Honestly, even if we were to set up a café or something here, that'd be that, and I don't think we'd get a lot of foot traffic, y'know... ...Ah, the coffee, let's drink it before it goes cold! [灼熱地獄跡か... 流石にここに喫茶店など構えたら構えたで客足少ないだろうね... ...あっ、コーヒー、冷めないうちに早く飲んで！]",
+				"",
+				"BPM: 130 (0:00-1:32) - 106 (1:32-2:00) - 90 (2:00-2:10) - 128 (2:10-3:01) - 104 (3:01-3:26) - 104 gradually decreasing to 68 (3:26-3:55)",
+				"Time Signatures: 4/4 (0:00-3:01) - 3/4 (3:01-3:55)",
+				"Key: G minor",
+				"Genre: Bossa Nova / Ragtime / Instrumental",
+				"",
+				"https://x.com/Lollipop_314"
+			]
+		},
+		"09": {
+			"title": "Breaking Boundaries at the Café",
+			"artist": "Yumi Sakata",
+			"description": [
+				"• Original Composer: ZUN (Team Shanghai Alice)",
+				"• Arranger: Yumi Sakata (Holmgang Ov Gensokyo)",
+				"• Electric Guitar & Piano: Yumi Sakata (Holmgang Ov Gensokyo)",
+				"",
+				"• Programmed, Produced, Mixed & Mastered by Yumi Sakata (Holmgang Ov Gensokyo)",
+				"• Additional Mastering: Ceiling Adjustment",
+				"",
+				"• Original Track: Merry the Magician [魔術師メリー]",
+				"• Source: Ghostly Field Club. -ZUN's Music Collection Vol.2- [蓮台野夜行　～ Ghostly Field Club]",
+				"",
+				"• Used Software: Reaper",
+				"• Used VSTs & Samples: Neural DSP, Superior Drummer, Cinewinds, Noire",
+				"",
+				"• About this track: Been wanting to make jazz or jazz-fusion stuff for a while now. For this arrangement, I disregarded the dark vibe of the original track and made it sound upbeat and little-hearted. Something straight out of a \"Café de Touhou\" album.",
+				"",
+				"BPM: 120",
+				"Time Signatures: 3/4",
+				"Key: G#/C#",
+				"Genre: Café Jazz",
+				"",
+				"https://yumisakata.bandcamp.com/"
+			]
+		},
+		"10": {
+			"title": "Might as Well Live Your Life",
+			"artist": "Skyleo",
+			"description": [
+				"• Original Composer: ZUN (Team Shanghai Alice)",
+				"• Arranger: Skyleo",
+				"",
+				"• Programmed, Produced & Mixed by Skyleo",
+				"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+				"",
+				"• Original Track: Might as Well Stake Your Life to Solve the Riddle [どうせなら命を賭けて謎を解け]",
+				"• Source: Touhou Kinjoukyou ~ Fossilized Wonders. [東方錦上京 〜 Fossilized Wonders.]",
+				"",
+				"• Used Software: Cubase 13",
+				"",
+				"• About this track: Arrangement in a style inspired by Brazilian music in general, and Sérgio Mendes in particular. Always appreciated the joy of living from his music, as well as how danceable, classy and accessible it often is. I wanted my arrangement to embody these characteristics, while also putting my own twist to it.",
+				"",
+				"BPM: 95",
+				"Time Signatures: 4/4",
+				"Key: C# minor",
+				"Genre: Samba / Bossa Nova",
+				"",
+				"https://x.com/Skyleomusic",
+				""
+			]
+		},
+		"11": {
+			"title": "Plastic Love",
+			"artist": "milka",
+			"description": [
+				"• Original Composer: ZUN (Team Shanghai Alice)",
+				"• Arranger, Vocals & Lyrics: milka",
+				"",
+				"• Programmed, Produced & Mixed by milka",
+				"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+				"",
+				"• Original Track: Plastic Mind [プラスチックマインド]",
+				"• Source: Touhou Kaikidan ~ Mystic Square. [東方怪綺談　～ Mystic Square.]",
+				"",
+				"• Used Software: Cubase",
+				"",
+				"• Lyrics",
+				"赤い革表紙",
+				"金のインク滲む",
+				"綴じる糸の束",
+				"指につないでいる",
+				"",
+				"あの古びた棚に隠した",
+				"おとぎの国への入り口はどこ？",
+				"",
+				"あっちもこっちも帰れない",
+				"明後日いいこで待ってるの",
+				"時間がたってもなんにもない",
+				"さかさまの国で",
+				"",
+				"にっちもさっちもいかないで",
+				"糸巻に触れていて",
+				"金の糸を紡いでいる",
+				"語り部のうた",
+				"",
+				"",
+				"行きてかえりしは",
+				"旅の結末ね",
+				"海の涯ての島",
+				"目指さないでいてね",
+				"",
+				"あわのような水の涙が",
+				"あなたの歌の響きも隠した",
+				"",
+				"たわむれに刻む言葉は",
+				"あの白亜のお城に刻まれた",
+				"",
+				"あっちもこっちも帰れない",
+				"明後日いいこで待ってるの",
+				"時間がたってもなんにもない",
+				"さかさまの国で",
+				"",
+				"にっちもさっちもいかないで",
+				"糸巻に触れていて",
+				"金の糸を紡いでいる",
+				"語り部のうた",
+				"",
+				"BPM: 140",
+				"Time Signatures: 4/4",
+				"Key: E-flat major",
+				"Genre: Bossa Nova",
+				"",
+				"https://x.com/chi_e"
+			]
+		},
+		"12": {
+			"title": "Cestrum Nocturnum",
+			"artist": "YOKAI feat. Justin Thornburgh",
+			"description": [
+				"• Original Composer: ZUN (Team Shanghai Alice)",
+				"• Arranger: YOKAI (KodamaSounds)",
+				"• Classical Guitar: YOKAI (KodamaSounds)",
+				"• Whistle: Justin Thornburgh",
+				"",
+				"• Programmed, Produced by YOKAI (KodamaSounds)",
+				"• Mixed by Volumetrique (KodamaSounds)",
+				"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+				"",
+				"• Original Track: Illusionary Night ~ Ghostly Eyes [幻視の夜　～ Ghostly Eyes]",
+				"• Source: Touhou Eiyashou ~ Imperishable Night. [東方永夜抄　～ Imperishable Night.]",
+				"",
+				"• Used Software: Cubase 11",
+				"• Used VSTs & Samples: Easy Bass, Opus RA and Silk, HALione",
+				"",
+				"• About this track: This song is about the fragrances released by flowers at dusk, evoking memories of a first summer romance.",
+				"",
+				"BPM: 95",
+				"Time Signatures: 4/4",
+				"Key: Dm",
+				"Genre: Flamenco ",
+				"",
+				"https://yokaiproducer.bandcamp.com"
+			]
+		},
+		"13": {
+			"title": "Broken Moon ~ Dancing in the moonlight",
+			"artist": "Team LiBRA",
+			"description": [
+				"• Original Composer: U2 Akiyama [あきやまうに] (Twilight Frontier)",
+				"• Arranger: Team LiBRA",
+				"• Guitar: NezMayo [ねずまよ]",
+				"• Piano: NEMP",
+				"• Bass: MSPR",
+				"• Drum: Lee_Shiba_Inu",
+				"",
+				"• Produced by NezMayo [ねずまよ]",
+				"• Mixed by NEMP",
+				"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+				"",
+				"• Original Track: Broken Moon [砕月]",
+				"• Source: Touhou Suimusou ~ Immaterial and Missing Power. [東方萃夢想　～ Immaterial and Missing Power.]",
+				"",
+				"• Used Software: Cubase",
+				"",
+				"BPM: 160",
+				"Time Signatures: 4/4",
+				"Key: Ab",
+				"Genre: Jazz",
+				"",
+				"https://x.com/nezmayoi"
+			]
+		},
+		"14": {
+			"title": "After Hours",
+			"artist": "Ren",
+			"description": [
+				"• Original Composer: ZUN (Team Shanghai Alice)",
+				"• Arranger: Ren (Higan Daybreak / Ren Soundworks)",
+				"",
+				"• Programmed, Produced & Mixed by Ren (Higan Daybreak / Ren Soundworks)",
+				"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+				"",
+				"• Original Track: A Soul as Scarlet as a Ground Cherry [ほおずきみたいに紅い魂] & Apparitions Stalk the Night [妖魔夜行]",
+				"• Source: Touhou Koumakyou ~ the Embodiment of Scarlet Devil. [東方紅魔郷　～ the Embodiment of Scarlet Devil.]",
+				"",
+				"• Used Software: FL Studio 20",
+				"• Used VSTs & Samples: FLEX, Kontakt 6",
+				"",
+				"BPM: 104",
+				"Time Signatures: 4/4",
+				"Key: F Minor",
+				"Genre: Smooth Jazz",
+				"",
+				"https://rensoundworks.bandcamp.com/",
+				""
+			]
+		},
+		"15": {
+			"title": "The End of Prison",
+			"artist": {
+				"en": "TENMON",
+				"jp": "天門"
+			},
+			"description": [
+				"• Original Composer: ZUN (Team Shanghai Alice)",
+				"• Arranger: TENMON [天門] (DENSOU-GAKUDAN)",
+				"",
+				"• Programmed, Produced, Mixed & Mastered by TENMON [天門] (DENSOU-GAKUDAN)",
+				"• Additional Mastering: Ceiling Adjustment",
+				"",
+				"• Original Track: Lullaby of Deserted Hell [廃獄ララバイ]",
+				"• Source: Touhou Chireiden ~ Subterranean Animism. [東方地霊殿　～ Subterranean Animism.]",
+				"",
+				"• About this track: The age of imprisonment is over. Everything has been set free, and all shall be filled with freedom. [監獄の時代はもう終わり、全てが解放され、自由に満たされる。]",
+				"",
+				"BPM: 82",
+				"Time Signatures: 3/4",
+				"Key: N/A",
+				"Genre: New Age Music",
+				"",
+				"https://x.com/tenmon2010"
+			]
+		}
+	},
+	"youtube_id": "VhGLItLxH8g",
+	"credits": {
+		"1": {
+			"role": "Band",
+			"id": "Twitter Tohobu"
+		},
+		"2": {
+			"role": "Arranger & Pf",
+			"id": "tanigon"
+		},
+		"3": {
+			"role": "Sax",
+			"id": "crow"
+		},
+		"4": {
+			"role": "Bass",
+			"id": "2416"
+		},
+		"5": {
+			"role": "Drums",
+			"id": "GUCCHI"
+		},
+		"6": {
+			"role": "Arranger & Lyrics",
+			"id": "intelligencecasino"
+		},
+		"7": {
+			"role": "Vocals",
+			"id": "Moca Miyamai"
+		},
+		"8": {
+			"role": "Arranger",
+			"id": "Levc_EGM"
+		},
+		"9": {
+			"role": "Arranger & Instruments",
+			"id": "Someone45356"
+		},
+		"10": {
+			"role": "Band",
+			"id": "KoDyMaxx"
+		},
+		"11": {
+			"role": "Arranger, Guitars & Bass",
+			"id": "Maxx"
+		},
+		"12": {
+			"role": "Arranger & Keys",
+			"id": "Kopan"
+		},
+		"13": {
+			"role": "Arranger & Drums",
+			"id": "LyhNed"
+		},
+		"14": {
+			"role": "Arranger",
+			"id": "Cubey"
+		},
+		"15": {
+			"role": "Arranger",
+			"id": "Lollipop"
+		},
+		"16": {
+			"role": "Arranger, Electric Guitar & Piano",
+			"id": "Yumi Sakata"
+		},
+		"17": {
+			"role": "Arranger",
+			"id": "Skyleo"
+		},
+		"18": {
+			"role": "Arranger, Vocals & Lyrics",
+			"id": "milka"
+		},
+		"19": {
+			"role": "Arranger & Classical Guitar",
+			"id": "YOKAI"
+		},
+		"20": {
+			"role": "Whistle",
+			"id": "Justin Thornburgh"
+		},
+		"21": {
+			"role": "Mixing Engineer (Tr.12)",
+			"id": "Volumetrique"
+		},
+		"22": {
+			"role": "Band & Arrangers",
+			"id": "Team LiBRA"
+		},
+		"23": {
+			"role": "Guitar",
+			"id": "NezMayo"
+		},
+		"24": {
+			"role": "Piano & Mixing Engineer (Tr.13)",
+			"id": "NEMP"
+		},
+		"25": {
+			"role": "Bass",
+			"id": "MSPR"
+		},
+		"26": {
+			"role": "Drum",
+			"id": "Lee_Shiba_Inu"
+		},
+		"27": {
+			"role": "Arranger",
+			"id": "Ren"
+		},
+		"28": {
+			"role": "Arranger",
+			"id": "TENMON"
+		},
+		"29": {
+			"role": "Mastering Engineer",
+			"id": "malicent"
+		},
+		"30": {
+			"role": "Illustration",
+			"id": "daitoko"
+		},
+		"31": {
+			"role": "Logo Designer",
+			"id": "shonocondo"
+		},
+		"32": {
+			"role": "Layout",
+			"id": "LkProd"
+		},
+		"33": {
+			"role": "Audio Crossfade, Supervisor & Planner",
+			"id": "Fivda"
+		},
+		"34": {
+			"role": "Japanese Translator",
+			"id": "Yanis"
+		},
+		"35": {
+			"role": "Crossfade Video",
+			"id": "RummySM"
+		},
+		"36": {
+			"role": "Web",
+			"id": "Doggibelle"
+		},
+		"37": {
+			"role": "Web",
+			"id": "VIIweights"
+		},
+		"38": {
+			"role": "Special Thanks",
+			"id": "RLZY"
+		}
+	},
+	"description": {
+		"en": "\"Lady Patchouli, care for another cup of tea?\" Seems like the Moriya shrine maiden got a new hire, and with that, the whole Scarlet Devil mansion has come forward to taste some new beverage! \"Moriya Barista 2\" will be the perfect new addition to your music rotation whenever you want to cool down, or share a warm and bittersweet cup of coffee with the local yokais.",
+		"jp": "「パチュリー様、お紅茶をもう一杯いかがですか？」どうやら守矢神社の魔法使いが新しい仲間を迎えたようで、紅魔館の方々も、新たな一杯を味わいにやって来ました！『Moriya Barista 2』は、ひと息つきたい時や、妖怪たちと温かくほろ苦いコーヒーを囲んで穏やかな時間を過ごしたい時にぴったりな、新たなお気に入りの一枚になることでしょう。"
+	},
+	"footer": "東方Project © 上海アリス幻樂団 © 黄昏フロンティア\n"
+}
