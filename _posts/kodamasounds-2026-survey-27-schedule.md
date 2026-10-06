@@ -501,7 +501,7 @@ Current release plan: Q2 2027
 
 **COUNTERFEST HEROES 02**
 
-[![COUNTERFEST HEROES 02 header](/assets/posts/heroesHeader.webp)](https://kodamasoft.net/projects/dj-koishi-2)
+[![COUNTERFEST HEROES 02 header](/assets/posts/heroesHeader.webp)](https://counterfest.kodamasoft.net/projects/counterfest-heroes-02)
 
 Round 2. Did you guys do your homework and like HEROES 01? Good. You like LYSKO? You better, so do we. Don’t worry, she’s right there, charging up just for you and me. I heard she planned to go and dig some sample CDs and obscure otaku references in some jungle temple. Yeah, I didn’t really get it either, but hey, she’ll get the job done just like she did last year on her moon mission. Just remember, as always: SAMPLING IS GOD.
 

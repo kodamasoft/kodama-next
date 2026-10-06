@@ -433,7 +433,7 @@ I WANNA SEE IT GO OFF！COUNTERFESTでは、他の誰にも扱えないほど危
 
 **COUNTERFEST HEROES 02**
 
-[![COUNTERFEST HEROES 02 header](/assets/posts/heroesHeader.webp)](https://kodamasoft.net/jp/projects/dj-koishi-2)
+[![COUNTERFEST HEROES 02 header](/assets/posts/heroesHeader.webp)](https://counterfest.kodamasoft.net/jp/projects/counterfest-heroes-02)
 
 Round 2。みんな、ちゃんとHEROES 01を気に入ってくれたかな？ よし。LYSKOが好き？ ……好きになってもらわないと困るな。こっちは大好きだからな。心配しなくていい。彼女なら、君と俺のためにすぐそこで今チャージ中だよ。どこかのジャングルの神殿に潜り込んで、サンプルCDやら謎めいたオタクネタやらを掘り出しに行く計画を立ててるらしい。……うん、俺にもよく分からなかった。でもまあ、去年の月ミッションでやってのけたみたいに、今回もしっかり仕事をこなしてくれるだろう。いつものことだけど、これだけは忘れるな。
 **サンプリングって神だ。**
