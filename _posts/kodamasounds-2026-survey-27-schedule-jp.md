@@ -394,73 +394,73 @@ twin: kodamasounds-2026-survey-27-schedule
 
 **COUNTERFEST BOMB DISPOSAL**
 
-[![COUNTERFEST BOMB DISPOSAL header](/assets/posts/bombDisposalHeader.webp)](https://counterfest.kodamasoft.net/projects/counterfest-bomb-disposal)
+[![COUNTERFEST BOMB DISPOSAL header](/assets/posts/bombDisposalHeader.webp)](https://counterfest.kodamasoft.net/jp/projects/counterfest-bomb-disposal)
 
 I WANNA SEE IT GO OFF！COUNTERFESTでは、他の誰にも扱えないほど危険なチップチューンのための「爆弾の捨て場」を立てます！『COUNTERFEST BOMB DISPOSAL』は、チップチューン・アーティスト向けのルールや固定観念から解き放たれたコンピレーションアルバムです。目隠しをしてバットを振り回すような気持ちで、思いきりアートを作りましょう。 
 リリース予定: 2027年1月〜3月
 
-[プロジェクトページ](https://counterfest.kodamasoft.net/projects/counterfest-bomb-disposal)
+[プロジェクトページ](https://counterfest.kodamasoft.net/jp/projects/counterfest-bomb-disposal)
 
 **ECLECTIC RESONANCE Legendaria II**
 
-[![ECLECTIC RESONANCE Legendaria II header](/assets/posts/legendariaHeader.webp)](https://kodamasoft.net/projects/eclectic-resonance-legendaria-2)
+[![ECLECTIC RESONANCE Legendaria II header](/assets/posts/legendariaHeader.webp)](https://kodamasoft.net/jp/projects/eclectic-resonance-legendaria-2)
 
 伝説の英雄たちは、吹雪の中を進んでゆく。見渡す限り、一面に積もる純白の雪。されど白銀の世界を踏み越えてゆくほどに、彼らの胸にはひとつの疑問が浮かび始める――いったい、自分たちはどこへ向かっているのだろう？名声のためか。黄金のためか。それとも、死のためか。あるいは、もっと深い何かのためなのか。彼らの旅路は、すでに大陸全土へと及んでいる。それでもなお、この世界は、温かく穏やかな彼らの一行を驚かせることをやめない。彼らは、この世界に生きる者たちの瞳に宿る悲しみと幸福、その両方を目にしてきた。そして、愛する者たちの心へ届くことを、誰もが願う小さな光を携えている。しかし、山々を覆う冷たいとばりを貫く、ひときわ確かな希望がある。彼らの伝説は、まだ終わりを迎えてはいない。そしてこれは、彼らが踏み出す、またひとつの勇敢な一歩なのだ。
 リリース予定：M3-2027春
 
 
-[プロジェクトページ](https://kodamasoft.net/projects/eclectic-resonance-legendaria-2)
+[プロジェクトページ](https://kodamasoft.net/jp/projects/eclectic-resonance-legendaria-2)
 
 **Gensokyo Party Vol. 8 DJ Koishi 2**
 
-[![Gensokyo Party Vol. 8 DJ Koishi 2 header](/assets/posts/koishi2Header.webp)](https://kodamasoft.net/projects/dj-koishi-2)
+[![Gensokyo Party Vol. 8 DJ Koishi 2 header](/assets/posts/koishi2Header.webp)](https://kodamasoft.net/jp/projects/dj-koishi-2)
 
 「こいし……もう少し静かにしてくれないか……？　いったい何を――って、あれ？」
 どうやら、妹であるさとりが、眠りについていたお姉ちゃんを深い眠りから目覚めさせてしまったようです！威厳は守りたいところですが、愛するお姉ちゃんのお願いにはどうしても「やだ！」と言えないさとり。こうなったらもう、こいしと一緒に狂騒の渦へ飛び込むしかないでしょう！2023年にリリースした『Gensokyo Party DJ Koishi』の続編となる本作では、Touhou EDMの魅力を詰め込みました。思わずフロアで踊り出し、第三の眼まで開いてしまうこと間違いなし……！今回は心を読まなくても大丈夫。ただリズムに身を委ねて、思いっきり踊りましょう！
 リリース予定：例大祭2027春
 
 
-[プロジェクトページ](https://kodamasoft.net/projects/dj-koishi-2)
+[プロジェクトページ](https://kodamasoft.net/jp/projects/dj-koishi-2)
 
 **Moonstruck Analogy -a TYPE-MOON tribute album- II**
 
-[![Moonstruck Analogy -a TYPE-MOON tribute album- II header](/assets/posts/typeMoonHeader.webp)](https://counterfest.kodamasoft.net/projects/moonstruck-analogy-ii)
+[![Moonstruck Analogy -a TYPE-MOON tribute album- II header](/assets/posts/typeMoonHeader.webp)](https://counterfest.kodamasoft.net/jp/projects/moonstruck-analogy-ii)
 
 それは、稲妻のような切っ先だった。5年後、2021年に発表された私たち初のトリビュートアルバムが、ついに待望の続編を迎えます。TYPE-MOONの世界は広大で、コンテンツも豊富です。今や巨大なフランチャイズへと成長した『フェイト』、幻想的な哀愁に満ちた『魔法使いの夜』、そして美しくも背筋を凍らせる『月姫』の世界――TYPE-MOONのビジュアルノベル作品は、今やアーバンファンタジーというジャンルにおける一つの定番となっています。このアルバムでは、そんなTYPE-MOONの世界すべてを、その魅力にふさわしい形で祝福していきます。
 リリース予定：2027年4月〜6月
 
-[プロジェクトページ](https://counterfest.kodamasoft.net/projects/moonstruck-analogy-ii)
+[プロジェクトページ](https://counterfest.kodamasoft.net/jp/projects/moonstruck-analogy-ii)
 
 **COUNTERFEST HEROES 02**
 
-[![COUNTERFEST HEROES 02 header](/assets/posts/heroesHeader.webp)](https://kodamasoft.net/projects/dj-koishi-2)
+[![COUNTERFEST HEROES 02 header](/assets/posts/heroesHeader.webp)](https://counterfest.kodamasoft.net/jp/projects/counterfest-heroes-02)
 
 Round 2。みんな、ちゃんとHEROES 01を気に入ってくれたかな？ よし。LYSKOが好き？ ……好きになってもらわないと困るな。こっちは大好きだからな。心配しなくていい。彼女なら、君と俺のためにすぐそこで今チャージ中だよ。どこかのジャングルの神殿に潜り込んで、サンプルCDやら謎めいたオタクネタやらを掘り出しに行く計画を立ててるらしい。……うん、俺にもよく分からなかった。でもまあ、去年の月ミッションでやってのけたみたいに、今回もしっかり仕事をこなしてくれるだろう。いつものことだけど、これだけは忘れるな。
 **サンプリングって神だ。**
 リリース予定：2027年7月〜9月
 
 
-[プロジェクトページ](https://counterfest.kodamasoft.net/projects/counterfest-heroes-02)
+[プロジェクトページ](https://counterfest.kodamasoft.net/jp/projects/counterfest-heroes-02)
 
 **ECLECTIC RESONANCE HOWLING**
 
-[![ECLECTIC RESONANCE HOWLING header](/assets/posts/howlingHeader.webp)](https://kodamasoft.net/projects/eclectic-resonance-howling)
+[![ECLECTIC RESONANCE HOWLING header](/assets/posts/howlingHeader.webp)](https://kodamasoft.net/jp/projects/eclectic-resonance-howling)
 
 散り散りになった記憶。遠い過去への、痛ましい憧憬。心の奥底に潜む、精神の揺らぎ。
 きっと誰もが人生のどこかで、為す術もなく、魂を縛りつける枷からどうすれば逃れられるのかさえ分からず、ただ絶望の中に取り残されたことがあるのではないでしょうか...このアルバムは、そんな想いを抱える人々へ捧げる哀歌であり、癒されるための唯一の道が、同じ痛みを分かち合う者たちの音と共鳴することにある――そんな人々のための、哀切なる叫びです。
 リリース予定：M3-2027秋
 
-[プロジェクトページ](https://kodamasoft.net/projects/eclectic-resonance-howling)
+[プロジェクトページ](https://kodamasoft.net/jp/projects/eclectic-resonance-howling)
 
 **Zn₂Fe(PO₄)₂·4H₂O -a Land of the Lustrous tribute album-**
 
-[![Zn₂Fe(PO₄)₂·4H₂O -a Land of the Lustrous tribute album- header](/assets/posts/hnkHeader.webp)](https://counterfest.kodamasoft.net/projects/land-of-the-lustrous)
+[![Zn₂Fe(PO₄)₂·4H₂O -a Land of the Lustrous tribute album- header](/assets/posts/hnkHeader.webp)](https://counterfest.kodamasoft.net/jp/projects/land-of-the-lustrous)
 
 「渡ったら橋は燃やして」
 Zn₂Fe(PO₄)₂·4H₂Oは、市川春子氏による傑作『宝石の国』を題材としたコンセプトアルバムです。本作には、原作漫画の物語に着想を得たイメージソングに加え、アニメシリーズの楽曲アレンジも収録されます。そのインスピレーションの源である作品の美しさと純粋さを映し出すこのアルバムは、フォスフォフィライトの世界を音楽として記録し、私たちの世界にも永遠に残る美の痕跡を刻みます。
 リリース予定：2027年10月〜12月
 
-[プロジェクトページ](https://counterfest.kodamasoft.net/projects/land-of-the-lustrous)
+[プロジェクトページ](https://counterfest.kodamasoft.net/jp/projects/land-of-the-lustrous)
 
 
 かなり長いブログ記事になってしまいましたが、M3-2026秋前の更新は、おそらく今回が最後になるかと思います。2027年までの活動、どうぞ楽しみにしていてください！ありがとうございました！
