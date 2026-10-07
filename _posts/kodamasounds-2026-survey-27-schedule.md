@@ -469,7 +469,7 @@ Current release plan: Q1 2027
 
 **ECLECTIC RESONANCE Legendaria II**
 
-[![ECLECTIC RESONANCE Legendaria II header](/assets/posts/legendariaHeader.webp)](https://kodamasoft.net/projects/eclectic-resonance-legendaria-2)
+[![ECLECTIC RESONANCE Legendaria II header](/assets/posts/legendariaHeader.png)](https://kodamasoft.net/projects/eclectic-resonance-legendaria-2)
 
 Our legendary heroes march through the blizzard. Pure white snow piles up as far as the eye can see, but the more they traverse through the white landscape, the more they question where they might be headed… Is it fame? Is it gold? Is it death? Is it something deeper? Their journey has taken them throughout the entire continent, and yet the world never ceases to surprise our warm and gentle crowd of heroes. They’ve witnessed both misery and happiness in the eyes of its residents, and carry a light which they all hope can reach the heart of their loved ones. A very clear hope pierces through the cold veil of those mountains, however: Their Legend is not yet coming to a close, and this here is just another brave step for our troupe to take.
 

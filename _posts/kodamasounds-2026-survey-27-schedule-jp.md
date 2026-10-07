@@ -403,7 +403,7 @@ I WANNA SEE IT GO OFF！COUNTERFESTでは、他の誰にも扱えないほど危
 
 **ECLECTIC RESONANCE Legendaria II**
 
-[![ECLECTIC RESONANCE Legendaria II header](/assets/posts/legendariaHeader.webp)](https://kodamasoft.net/jp/projects/eclectic-resonance-legendaria-2)
+[![ECLECTIC RESONANCE Legendaria II header](/assets/posts/legendariaHeader.png)](https://kodamasoft.net/jp/projects/eclectic-resonance-legendaria-2)
 
 伝説の英雄たちは、吹雪の中を進んでゆく。見渡す限り、一面に積もる純白の雪。されど白銀の世界を踏み越えてゆくほどに、彼らの胸にはひとつの疑問が浮かび始める――いったい、自分たちはどこへ向かっているのだろう？名声のためか。黄金のためか。それとも、死のためか。あるいは、もっと深い何かのためなのか。彼らの旅路は、すでに大陸全土へと及んでいる。それでもなお、この世界は、温かく穏やかな彼らの一行を驚かせることをやめない。彼らは、この世界に生きる者たちの瞳に宿る悲しみと幸福、その両方を目にしてきた。そして、愛する者たちの心へ届くことを、誰もが願う小さな光を携えている。しかし、山々を覆う冷たいとばりを貫く、ひときわ確かな希望がある。彼らの伝説は、まだ終わりを迎えてはいない。そしてこれは、彼らが踏み出す、またひとつの勇敢な一歩なのだ。
 リリース予定：M3-2027春
