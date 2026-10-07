@@ -1,22 +1,22 @@
 {
 	"slug": "eclectic-resonance-tremor",
 	"logo": "/assets/discography/logos/0024.png",
-	"color": "f8a70c",
+	"color": "dba235",
 	"soundcloud_track_id": "2301629312",
 	"cover": "/assets/discography/covers/0024.png",
 	"header": {
 		"image": "/assets/discography/headers/0024.png",
-		"fade": false,
-		"brightness": 1
+		"brightness": 1,
+		"fade": false
 	},
 	"layout": {
 		"youtube_position": "before_tracklist",
 		"content_width": "narrow"
 	},
 	"background": {
-		"color": "252525",
+		"color": "3b1a1a",
 		"image": "/assets/discography/backgrounds/ROCKS.png",
-		"text_color": "ffffff",
+		"text_color": "fff3d6",
 		"image_size": "width",
 		"image_position": "bottom",
 		"bottom_space": "10vw"
@@ -28,7 +28,7 @@
 	},
 	"specification": "2xCD Original Bass Music Compilation ",
 	"release_date": "Oct 26th, 2026 (M3-2026春)",
-	"catalog": "KSDL-0023",
+	"catalog": "KSCD-0007~8",
 	"price": "Event Price: 3000 yen | Bandcamp Price: 18€ | Shop Price: 3667 yen",
 	"booth": {
 		"link": "https://x.com/kodamasoft",
@@ -56,115 +56,70 @@
 		{
 			"_isMultiDisc": true,
 			"_discNames": [
-				"DISC1: TREMOR",
-				"DISC2: LOREM IPSUM"
+				"DISC1∴BRUTAL_VOLTAGE",
+				"DISC2∵sonic~form"
 			]
 		},
 		{
 			"01": {
-				"title": "Delirium",
-				"artist": "stuv",
+				"title": "Stereo",
+				"artist": "BHM",
 				"description": [
-					"• Composer & Arranger: stuv",
-					"• Guitars (Abasi Consepts Larada J8, Strandberg Boden Standard NX 6 Tremolo): stuv",
+					"• Composer & Arranger: BHM",
 					"",
-					"• Programmed, Produced, Mixed & Mastered by stuv",
-					"• Additional Mastering Engineer: Tape simulator for warmth and brightness, dynamic EQ for balance, multiband saturation for a tighter sound and master limiting",
-					"",
-					"• Used Software: Reaper",
-					"• Used VSTs & Samples: Neural DSP(Misha / Abasi / Gojira / Parallax ), Mixwave(Mike Stringer / Manuel Gardner Fernandes), GGD Studio Cabs Contenders Round 1,Superior Drummer 3, Mixwave Luke Holland",
-					"",
-					"• About this track: I should at least be allowed to be happy when I look at illusions [幻を見ている間くらいは幸せな気分でいてもいいはずだ]",
-					"",
-					"BPM: 128",
-					"Time Signature: 4/4",
-					"Key: N/A",
-					"Genre: Metal",
-					"",
-					"https://stuv-rf.bandcamp.com/"
-				]
-			},
-			"02": {
-				"title": "My Yandere GF Doesn't Seem To Go On Murder Sprees in Harajuku. I Want a Refund!",
-				"artist": "Mei Naganowa",
-				"description": [
-					"• Composer & Arranger: Mei Naganowa",
-					"• Vocals: Teto Kasane [重音テト], Yumenokessho PASTEL [夢ノ結唱PASTEL], Ayame, Nakuru [無來], Moka Miyamai [宮舞モカ]",
-					"• Lyrics: Mei Naganowa",
-					"",
-					"• Programmed, Produced & Mixed by Mei Naganowa",
-					"• Mastering Engineer: R-Man (Resonant Union)",
-					"",
-					"• Used Software: Bitwig 5",
-					"• Used VSTs & Samples: Kontakt 7, Serum, Nexus, EZBass",
-					"",
-					"• About this track: CRABCORE IS BACK Y'ALL! This time it has implied Yuri and... alt-idols, because they are basically crabcore if you insist. think about it, there ARE similarities between alt-idol metal and early-10s electronic metalcore...",
-					"",
-					"• Lyrics",
-					"Woo!",
-					"Let's GOOOOOOOO!!!!",
-					"how can I learn to be just as heartless as you",
-					"the heartlessness you had to hide, that you hid away from me",
-					"I only want to be prepared for the next time",
-					"tell me, what can I do to prevent myself from ending up with empty hands again?",
-					"I've held on to you for what seems to be my entire time of life",
-					"caught up in too high expectations",
-					"what's there to defend when it was doomed from the start?",
-					"all what's left are empty promises",
-					"So welcome to the bottom line",
-					"just leave your stuff at the door",
-					"make yourself comfortable, I invite you to sink as low as me",
-					"You circle your prey like a predator, waiting for the right moment to strike.",
-					"who's the one behind all this, I just wanna talk with them.",
-					"how can I learn to be just as heartless as you",
-					"the heartlessness you had to hide, that you hid away from me",
-					"I only want to be prepared for the next time",
-					"tell me, what can I do to prevent myself from ending up with empty hands again?",
-					"Do you think you can crawl back as if nothing ever happened?",
-					"I'll never show weaknes again",
-					"do you think I would die alone, you thought I can't do this at all on my own?",
-					"Our dignety has died with your lies,",
-					"you can have it back!",
-					"*BLEGH*",
-					"how can I learn to be just as heartless as you",
-					"the heartlessness you had to hide, that you hid away from me",
-					"I only want to be prepared for the next time",
-					"tell me, what can I do to prevent myself from ending up with empty hands again?",
-					"You, you have shown me the way to be a girl again (I guess I had to wake up),",
-					"You, you have shown me the way to be a girl again,",
-					"regretfulness, resentment, this is what disillusionment sounds like,",
-					"OH!",
-					"how can I learn to be just as heartless as you,",
-					"the heartlessness you had to hide, that you hid away from me,",
-					"",
-					"BPM: 148 - 188",
-					"Time Signature: 4/4",
-					"Key: C#min",
-					"Genre: Crabcore/Electronicore",
-					"",
-					"https://reekandthemeitriphecta.bandcamp.com"
-				]
-			},
-			"03": {
-				"title": "I Hate You, Yesterday",
-				"artist": "Aiyru",
-				"description": [
-					"• Composer & Arranger: Aiyru",
-					"• Guitar & Bass: Aiyru",
-					"",
-					"• Programmed, Produced, Mixed & Mastered by Aiyru",
-					"• Additional Mastering: -10.6dB of clip gain to avoid clipping. Bus compression for glue, dynamic EQ for balance, multiband saturation for a tighter sound, Vitalizer for subtle stereo width and master limiting",
+					"• Programmed, Produced, Mixed & Mastered by BHM",
+					"• Additional Mastering: slight EQing, multiband comp (sub), maximizer/limiting (bring up to target)",
 					"",
 					"• Used Software: FL Studio",
 					"",
-					"• About this track: rock",
+					"• About this track: A simple and energetic Bass House track!",
 					"",
-					"BPM: 220",
+					"BPM: 132",
 					"Time Signature: 4/4",
-					"Key: N/A",
-					"Genre: J-Punk",
+					"Key: D minor",
+					"Genre: Bass House",
 					"",
-					"https://aiyru.bandcamp.com/"
+					"https://x.com/weare_bhm"
+				]
+			},
+			"02": {
+				"title": "Twisted",
+				"artist": "Sonance",
+				"description": [
+					"• Composer & Arranger: Sonance",
+					"",
+					"• Programmed, Produced & Mixed by Sonance",
+					"• Mastering Engineer: Volumetrique (KodamaSounds)",
+					"",
+					"BPM: 145",
+					"Time Signature: 4/4",
+					"Key: D-sharp minor",
+					"Genre: Dubstep",
+					"",
+					"https://sonancetunes.bandcamp.com",
+					""
+				]
+			},
+			"03": {
+				"title": "BURN THIS DOWN",
+				"artist": "OsushiFreak",
+				"description": [
+					"• Composer & Arranger: OsushiFreak",
+					"",
+					"• Programmed, Produced & Mixed by OsushiFreak",
+					"• Mastering Engineer: Volumetrique (KodamaSounds)",
+					"",
+					"• Used Software: FL Studio 2025",
+					"• Used VSTs & Samples: OTT, GVST GClip, Rift, kHs Comb Filter",
+					"",
+					"• About this track: In this track, I tried to include as many elements as possible from the recent UK bass music trends, including UK Dubstep, ElectroPunk, Trap, Breaks, Hardtechno, and more. [この曲では、最近流行しているUK周辺のBassmusicの潮流、UK DubstepやElectroPunk、Trap、Breaks、Hardtechnoなどの要素をできる限りすべて取り入れようと試みました。]",
+					"",
+					"BPM: 140",
+					"Time Signature: 4/4",
+					"Key: D minor",
+					"Genre: Trap",
+					"",
+					"https://osushifreak.bandcamp.com/"
 				]
 			},
 			"04": {
@@ -1111,136 +1066,100 @@
 	"youtube_id": "3lJtBwPE-bQ",
 	"credits": {
 		"1": {
-			"id": "stuv",
-			"role": "Music & Guitars"
+			"role": "Music",
+			"id": "BHM"
 		},
 		"2": {
-			"id": "Mei Naganowa",
-			"role": "Music & Lyrics"
+			"role": "Music",
+			"id": "Sonance"
 		},
 		"3": {
-			"id": "Aiyru",
-			"role": "Music, Guitars & Bass"
+			"role": "Music",
+			"id": "OsushiFreak"
 		},
 		"4": {
-			"id": "gsharp",
-			"role": "Music, Lyrics & Guitars"
+			"role": "Music",
+			"id": "Hylen"
 		},
 		"5": {
-			"id": "intelligencecasino",
-			"role": "Music & Lyrics: intelligencecasino"
+			"role": "Music",
+			"id": "sanmal"
 		},
 		"6": {
-			"id": "Eden Forscythe",
-			"role": "Vocals"
+			"role": "Music",
+			"id": "Afflected Light"
 		},
 		"7": {
-			"id": "Yumi Sakata",
-			"role": "Music, Lyrics, Vocals & Guitars"
+			"role": "Music",
+			"id": "OrutO"
 		},
 		"8": {
-			"id": "Zohar Emulator",
-			"role": "Music & Guitars"
+			"role": "Music",
+			"id": "moyu"
 		},
 		"9": {
-			"id": "Rämillia",
-			"role": "Music & Guitars"
+			"role": "Music",
+			"id": "Tsukasa"
 		},
 		"10": {
-			"id": "Tee-vee",
-			"role": "Music, Lyrics, Vocals, Guitars & Bass "
+			"role": "Music",
+			"id": "kalsoer"
 		},
 		"11": {
-			"id": "JP Glovasa",
-			"role": "Music, Guitars & Bass"
+			"role": "Music",
+			"id": "TrippyGrunt"
 		},
 		"12": {
-			"id": "John Caputo",
-			"role": "Drums"
+			"role": "Music",
+			"id": "ej ito"
 		},
 		"13": {
-			"id": "R-Man",
-			"role": "Music, Lyrics, Guitars, Synths & Mastering Engineer"
+			"role": "Music",
+			"id": "XH"
 		},
 		"14": {
-			"id": "AKA",
-			"role": "Vocals"
+			"role": "Music",
+			"id": "Sh0wtime"
 		},
 		"15": {
-			"id": "5KiLOBYTE",
-			"role": "Music"
+			"role": "Music",
+			"id": "zot!k"
 		},
 		"16": {
-			"id": "KoDyMaxx",
-			"role": "Music & Instruments"
+			"role": "Music",
+			"id": "GOETIA"
 		},
 		"17": {
-			"id": "Nico Siberia",
-			"role": "Vocals & Lyrics"
+			"role": "Music",
+			"id": "PTB10"
 		},
 		"18": {
-			"id": "PSYQUO",
-			"role": "Music & Lyrics"
+			"role": "Music & Lyrics",
+			"id": "Asatsumei"
 		},
 		"19": {
-			"id": "Skye Senfort",
-			"role": "Vocals"
+			"role": "Music",
+			"id": "Maozon"
 		},
 		"20": {
-			"id": "Leyrinne",
-			"role": "Vocals & Lyrics"
+			"role": "Music, Mastering Engineer, Audio Crossfade & Special Thanks",
+			"id": "Volumetrique"
 		},
 		"21": {
-			"id": "MB",
-			"role": "Music & Guitars"
+			"role": "Vocals & Lyrics",
+			"id": "Renko"
 		},
 		"22": {
-			"id": "E-Sarge",
-			"role": "Additional Arranger & Instruments"
+			"role": "Music",
+			"id": "DevAdelso"
 		},
 		"23": {
-			"id": "Roy Girvan",
-			"role": "Guitars"
+			"role": "Music",
+			"id": "AIKATYPE"
 		},
 		"24": {
-			"id": "Noa Silversten",
-			"role": "Bass"
-		},
-		"25": {
-			"id": "Volumetrique",
-			"role": "Audio Crossfade"
-		},
-		"26": {
-			"id": "Manof",
-			"role": "Illustration & Logo Designer"
-		},
-		"27": {
-			"id": "shonocondo",
-			"role": "Logo Designer"
-		},
-		"28": {
-			"id": "Zeth",
-			"role": "Layout"
-		},
-		"29": {
-			"id": "Fivda",
-			"role": "Supervisor & Planner"
-		},
-		"30": {
-			"id": "Yanis",
-			"role": "Japanese Translator"
-		},
-		"31": {
-			"id": "RummySM",
-			"role": "Crossfade Video"
-		},
-		"32": {
-			"id": "Doggibelle",
-			"role": "Web"
-		},
-		"33": {
-			"id": "VIIweights",
-			"role": "Web"
+			"role": "Music",
+			"id": "V0iD"
 		}
 	},
 	"description": {
