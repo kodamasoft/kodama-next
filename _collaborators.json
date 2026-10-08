@@ -1198,16 +1198,6 @@
 			"vgmdb": "https://vgmdb.net/artist/62880"
 		}
 	},
-	"Natsuki Sakonmai": {
-		"name": "Natsuki Sakonmai",
-		"links": {
-			"twitter": "https://twitter.com/ReeKDoesDTM",
-			"bluesky": "https://reekdoesdtm.bsky.social",
-			"soundcloud": "https://soundcloud.com/reek_wobs",
-			"bandcamp": "https://reekandthemeitriphecta.bandcamp.com",
-			"vgmdb": "https://vgmdb.net/artist/83714"
-		}
-	},
 	"Mei Naganowa": {
 		"name": "Mei Naganowa",
 		"links": {
@@ -1218,6 +1208,16 @@
 			"spotify": "https://open.spotify.com/artist/5pyOQX3sse7yLpuiVILipH",
 			"apple": "https://music.apple.com/artist/1650549901",
 			"vgmdb": "https://vgmdb.net/artist/53341"
+		}
+	},
+	"Natsuki Sakonmai": {
+		"name": "Natsuki Sakonmai",
+		"links": {
+			"twitter": "https://twitter.com/ReeKDoesDTM",
+			"bluesky": "https://reekdoesdtm.bsky.social",
+			"soundcloud": "https://soundcloud.com/reek_wobs",
+			"bandcamp": "https://reekandthemeitriphecta.bandcamp.com",
+			"vgmdb": "https://vgmdb.net/artist/83714"
 		}
 	},
 	"V0iD": {
@@ -4071,6 +4071,9 @@
 			"spotify": "https://open.spotify.com/artist/5TyAO71ITdeZo2z6r3GXbn",
 			"vgmdb": "https://vgmdb.net/artist/79717"
 		}
+	},
+	"Ashley": {
+		"name": "Ashley"
 	},
 	"SampleEN": {
 		"name": "SampleEN",
