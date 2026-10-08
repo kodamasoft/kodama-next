@@ -31,8 +31,6 @@ Our [survey](https://forms.gle/8r84mSLqPvsesYvq5) is now closed for new answers!
 
 - 6% of our audience is in Japan
 
-- 6% of our audience is in UK
-
 **Discovered by who?**
 
 - 48% of our audience are regular listeners
