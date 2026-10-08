@@ -437,7 +437,7 @@ Once again, big thanks to everyone’s support and their time taking the survey.
 
 **Open Schedule for 2027**
 
-Of course, it’s always subject to change, and the projects below will only be publicly contributable projects (so we shall omit special/secret albums as well as solo albums). Albums in Blue are Kodama’s, while Red is COUNTERFEST.
+Of course, it’s always subject to change, and the projects below will only be publicly contributable projects (so we shall omit special/secret albums as well as solo albums).
 
 - COUNTERFEST BOMB DISPOSAL (January ~ March)
 
