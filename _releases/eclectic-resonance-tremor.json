@@ -1,0 +1,1137 @@
+{
+	"slug": "eclectic-resonance-tremor",
+	"logo": "/assets/discography/logos/CD0007-8.png",
+	"color": "dba235",
+	"soundcloud_track_id": "2414846145",
+	"cover": "/assets/discography/covers/CD0007-8.png",
+	"header": {
+		"image": "/assets/discography/headers/CD0007-8.png",
+		"brightness": 1,
+		"fade": false
+	},
+	"layout": {
+		"content_width": "narrow",
+		"button_style": "filled",
+		"youtube_position": "before_tracklist"
+	},
+	"background": {
+		"color": "3b1a1a",
+		"image": "/assets/discography/backgrounds/ROCKS.png",
+		"text_color": "fff3d6",
+		"image_size": "width",
+		"image_position": "bottom",
+		"bottom_space": "10vw"
+	},
+	"title": "ECLECTIC RESONANCE TREMOR",
+	"circle": {
+		"name": "KodamaSounds",
+		"link": "/"
+	},
+	"specification": "2xCD Original Bass Music Compilation ",
+	"release_date": "Oct 25th, 2026 (M3-2026秋)",
+	"catalog": "KSCD-0007~8",
+	"price": "Event Price: 3000 yen | Bandcamp Price: 18€ | Shop Price: 3667 yen",
+	"booth": {
+		"link": "https://x.com/kodamasoft",
+		"name": "KodamaSounds × Rolling Bassline",
+		"other": " / 第二展示場2F サ-39ab"
+	},
+	"store": {
+		"bandcamp": {
+			"name": "Bandcamp",
+			"link": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-tremor",
+			"physical": false
+		},
+		"booth": {
+			"name": "BOOTH",
+			"link": "https://kodamasoft.booth.pm/items/8847817",
+			"physical": false
+		},
+		"bandcampPhysical": {
+			"name": "Bandcamp",
+			"link": "https://kodamasounds.bandcamp.com/merch/eclectic-resonance-detuned-alloy-2-15x15cm-download-card",
+			"physical": true
+		}
+	},
+	"tracklist": [
+		{
+			"_isMultiDisc": true,
+			"_discNames": [
+				"DISC1∴BRUTAL_VOLTAGE",
+				"DISC2∵sonic~form"
+			]
+		},
+		{
+			"01": {
+				"title": "Stereo",
+				"artist": "BHM",
+				"description": [
+					"• Composer & Arranger: BHM",
+					"",
+					"• Programmed, Produced, Mixed & Mastered by BHM",
+					"• Additional Mastering: slight EQing, multiband comp (sub), maximizer/limiting (bring up to target)",
+					"",
+					"• Used Software: FL Studio",
+					"",
+					"• About this track: A simple and energetic Bass House track!",
+					"",
+					"BPM: 132",
+					"Time Signature: 4/4",
+					"Key: D minor",
+					"Genre: Bass House",
+					"",
+					"https://x.com/weare_bhm"
+				]
+			},
+			"02": {
+				"title": "Twisted",
+				"artist": "Sonance",
+				"description": [
+					"• Composer & Arranger: Sonance",
+					"",
+					"• Programmed, Produced & Mixed by Sonance",
+					"• Mastering Engineer: Volumetrique (KodamaSounds)",
+					"",
+					"BPM: 145",
+					"Time Signature: 4/4",
+					"Key: D-sharp minor",
+					"Genre: Dubstep",
+					"",
+					"https://sonancetunes.bandcamp.com",
+					""
+				]
+			},
+			"03": {
+				"title": "BURN THIS DOWN",
+				"artist": "OsushiFreak",
+				"description": [
+					"• Composer & Arranger: OsushiFreak",
+					"",
+					"• Programmed, Produced & Mixed by OsushiFreak",
+					"• Mastering Engineer: Volumetrique (KodamaSounds)",
+					"",
+					"• Used Software: FL Studio 2025",
+					"• Used VSTs & Samples: OTT, GVST GClip, Rift, kHs Comb Filter",
+					"",
+					"• About this track: In this track, I tried to include as many elements as possible from the recent UK bass music trends, including UK Dubstep, ElectroPunk, Trap, Breaks, Hardtechno, and more. [この曲では、最近流行しているUK周辺のBassmusicの潮流、UK DubstepやElectroPunk、Trap、Breaks、Hardtechnoなどの要素をできる限りすべて取り入れようと試みました。]",
+					"",
+					"BPM: 140",
+					"Time Signature: 4/4",
+					"Key: D minor",
+					"Genre: Trap",
+					"",
+					"https://osushifreak.bandcamp.com/"
+				]
+			},
+			"04": {
+				"title": "DUCKMAGIC!!",
+				"artist": "Hylen",
+				"description": [
+					"• Composer & Arranger: Hylen (Hylen Lab)",
+					"• Guitar: Hylen (Hylen Lab)",
+					"",
+					"• Programmed, Produced, Mixed & Mastered by Hylen (Hylen Lab)",
+					"• Additional Mastering: Gain (lowered for LUFS target)",
+					"",
+					"• Used Software: Ableton",
+					"",
+					"• About this track: THISISDUCK",
+					"",
+					"BPM: 140-105(1:54~)",
+					"Time Signature: 4/4",
+					"Key: N/A",
+					"Genre: Bass",
+					"",
+					"https://x.com/Hylen_JP",
+					""
+				]
+			},
+			"05": {
+				"title": "DND",
+				"artist": "sanmal",
+				"description": [
+					"• Composer & Arranger: sanmal (MYORPH)",
+					"",
+					"• Programmed, Produced & Mixed by sanmal (MYORPH)",
+					"• Mastering Engineer: Volumetrique (KodamaSounds)",
+					"",
+					"• Used Software: Ableton Live",
+					"• Used VSTs & Samples: Serum ",
+					"",
+					"• About this track: I don't like taking phone calls.",
+					"",
+					"BPM: 175",
+					"Time Signature: 4/4",
+					"Key: N/A",
+					"Genre: Drum and Bass",
+					"",
+					"https://sanmal.bandcamp.com/",
+					""
+				]
+			},
+			"06": {
+				"title": "AC-130 Above!",
+				"artist": "Afflected Light",
+				"description": [
+					"• Composer & Arranger: Natsuki Sakonmai",
+					"",
+					"• Programmed, Produced & Mixed by Natsuki Sakonmai",
+					"• Mastering Engineer: Volumetrique (KodamaSounds)",
+					"",
+					"• Used Software: Bitwig 5",
+					"• Used VSTs & Samples: Serum, Serum 2, Vital, Massive, Bitspeek, Kontakt",
+					"",
+					"• About this track: \"this is DRUMstep, not DUBstep\" (you're a real one if you got that reference) Guys, if we're reviving Brostep then we should also be reviving Drumstep, if we're at it already! like, come on. if we're bringing back things then we should bring back BOTH!",
+					"",
+					"BPM: 175",
+					"Time Signature: 4/4",
+					"Key: F minor",
+					"Genre: Drumstep (with the obligatory 2nd drop DnB switch)",
+					"",
+					"https://reekandthemeitriphecta.bandcamp.com",
+					""
+				]
+			},
+			"07": {
+				"title": "GRUDGE",
+				"artist": "OrutO",
+				"description": [
+					"• Composer & Arranger: OrutO (SoundCreate / bethefool.)",
+					"",
+					"• Programmed, Produced,  Mixed & Mastered by OrutO (SoundCreate / bethefool.)",
+					"• Additional Mastering: Gain (lowered for LUFS target), EQing",
+					"",
+					"• Used Software: Studio One",
+					"• Used VSTs & Samples: The first one is the horn used in the intro and outro, and the second one combines the glitch and vocal sample used in the pre-drop. (It actually says 'GRUDGE') Also, it has a growl-based sound like NIMDA, a tearout artist I respect.",
+					"",
+					"• About this track: This song was made with the image of the Count of Monte Cristo I read when I was little. The Arabian-inspired melody that appears in both the intro and outro represents Edmond’s wealth. In the intro, it represents the fortune he had before his downfall, while its return in the outro represents the wealth he gains after carrying out his revenge. I wanted the melody to create a sense of coming full circle, connecting the beginning and the end of his story. As the intro transitions into the buildup, the music represents Edmond’s sudden downfall and the loss of everything he once had. The drop then represents the anger and resentment that have been building inside him after years of betrayal and imprisonment.",
+					"",
+					"BPM: 140",
+					"Time Signature: 4/4",
+					"Key: Em",
+					"Genre: Tearout Dubstep",
+					"",
+					"https://x.com/oruto_key",
+					""
+				]
+			},
+			"08": {
+				"title": "CANT GET YOU",
+				"artist": "moyu",
+				"description": [
+					"• Composer & Arranger: moyu (STICKLOVERZ)",
+					"",
+					"• Programmed, Produced & Mixed by moyu (STICKLOVERZ)",
+					"• Mastering Engineer: Volumetrique (KodamaSounds)",
+					"",
+					"• Used Software: FL Studio 2026",
+					"• Used VSTs & Samples: SERUM 2, gv_kit1_rep_vocal_loop_main_wet_140_Em.wav (from Grime Vocal Pack by Sample Magic), VOX_MDTH2_128_vocal_resampled_off_my_brain_Cmin.wav (from Serum 2 Minimal Deep Tech House 2 by VOX), Cymatics - Raver - 135 BPM E Min.wav (From RECKLESS Henry Fong Artist Pack by Cymatics)",
+					"",
+					"• About this track: Trap featuring aggressive bass and Rave elements.",
+					"",
+					"BPM: 145",
+					"Time Signature: 4/4",
+					"Key: E-flat minor",
+					"Genre: Hybrid Trap / Bass House / Techno",
+					"",
+					"https://moyu.bandcamp.com/music",
+					""
+				]
+			},
+			"09": {
+				"title": "Flourite Halo",
+				"artist": "Tsukasa",
+				"description": [
+					"• Composer & Arranger: Tsukasa",
+					"",
+					"• Programmed, Produced & Mixed by Tsukasa",
+					"• Mastering Engineer: Volumetrique (KodamaSounds)",
+					"",
+					"• Used Software: FL Studio",
+					"• Used VSTs & Samples: Serum 2, Spire",
+					"",
+					"• About this track: I've simply tried to make a more aggressive version of the stuff I usually do, while also trying to keep the classic Brostep mood on point.",
+					"",
+					"BPM: 150",
+					"Time Signature: 4/4",
+					"Key: A minor",
+					"Genre: Dubstep / Brostep",
+					"",
+					"https://x.com/tsukasaedm"
+				]
+			},
+			"10": {
+				"title": "overtransfer",
+				"artist": "kalsoer",
+				"description": [
+					"• Composer & Arranger: kalsoer",
+					"",
+					"• Programmed, Produced & Mixed by kalsoer",
+					"• Mastering Engineer: Volumetrique (KodamaSounds)",
+					"",
+					"BPM: 146",
+					"Time Signature: 4/4",
+					"Key: E minor",
+					"Genre: 140 UK Trap / Techno",
+					"",
+					"https://kalsoer.bandcamp.com/",
+					""
+				]
+			},
+			"11": {
+				"title": "Unknown*Recklessness",
+				"artist": "TrippyGrunt",
+				"description": [
+					"• Composer & Arranger: TrippyGrunt",
+					"",
+					"• Programmed, Produced, Mixed & Mastered by TrippyGrunt",
+					"• Additional Mastering: Gain (lowered for LUFS target)",
+					"",
+					"• Used Software: FL Studio",
+					"• Used VSTs & Samples: Serum, JoeB Growl Sample",
+					"",
+					"• About this track: Like cute bet hard beat",
+					"",
+					"BPM: 150",
+					"Time Signature: N/A",
+					"Key: N/A",
+					"Genre: Dubstep",
+					"",
+					"https://linktr.ee/trippygrunt",
+					""
+				]
+			},
+			"12": {
+				"title": "Toxic floor",
+				"artist": "ej ito",
+				"description": [
+					"• Composer & Arranger: ej ito",
+					"",
+					"• Programmed, Produced & Mixed by ej ito",
+					"• Mastering Engineer: Volumetrique (KodamaSounds)",
+					"",
+					"BPM: 180",
+					"Time Signature: 4/4",
+					"Key: N/A",
+					"Genre: Drum and Bass",
+					"",
+					"https://x.com/ito_ej",
+					""
+				]
+			},
+			"13": {
+				"title": "rush!!",
+				"artist": "XH",
+				"description": [
+					"• Composer & Arranger: XH",
+					"",
+					"• Programmed, Produced, Mixed & Mastered by XH",
+					"",
+					"• Used Software: Logic Pro",
+					"",
+					"BPM: 150",
+					"Time Signature: 4/4",
+					"Key: Dmin",
+					"Genre: Hard Trap",
+					"",
+					"https://xhmusic.bandcamp.com/",
+					""
+				]
+			},
+			"14": {
+				"title": "GONE",
+				"artist": "Sh0wtime",
+				"description": [
+					"• Composer & Arranger: Liam Khanh Hoang",
+					"",
+					"• Programmed, Produced, Mixed & Mastered by Liam Khanh Hoang",
+					"• Additional Mastering: Gain (lowered for LUFS target)",
+					"",
+					"• Used Software: Bitwig Studio",
+					"",
+					"• About this track: Started in LA in July 2026",
+					"",
+					"BPM: 150",
+					"Time Signature: 4/4",
+					"Key: C Minor",
+					"Genre: Trap",
+					"",
+					"https://x.com/sh0wtime_st",
+					""
+				]
+			},
+			"15": {
+				"title": "Flore",
+				"artist": "zot!k",
+				"description": [
+					"• Composer & Arranger: zot!k (Musekinin Records)",
+					"",
+					"• Programmed, Produced & Mixed by zot!k (Musekinin Records)",
+					"• Mastering Engineer: Volumetrique (KodamaSounds)",
+					"",
+					"• Used Software: Bitwig Studio 6",
+					"• Used VSTs & Samples: Dropgun Samples UK DUBSTEP",
+					"",
+					"• About this track: I made it as a dance music track based on UK Dubstep, incorporating nuances from a variety of different genres. [UK Dubstepを元に様々なジャンルのニュアンスを取り入れたダンスミュージックに仕上げました。]",
+					"",
+					"BPM: 140",
+					"Time Signature: 4/4",
+					"Key: D-sharp minor",
+					"Genre: UK Dubstep",
+					"",
+					"https://zotik.bandcamp.com",
+					""
+				]
+			},
+			"16": {
+				"title": "Faulknor",
+				"artist": "GOETIΛ",
+				"description": [
+					"• Composer & Arranger: GOETIΛ (Sigillum Azoetia)",
+					"",
+					"• Programmed, Produced, Mixed & Mastered by GOETIΛ (Sigillum Azoetia)",
+					"• Additional Mastering: Eqing, maximizer (more loudness for LUFS target)",
+					"",
+					"BPM: 174",
+					"Time Signature: 4/4",
+					"Key: F minor",
+					"Genre: Drum and Bass",
+					"",
+					"https://arsgoetia1.bandcamp.com/",
+					""
+				]
+			},
+			"17": {
+				"title": "Aurora (Top of the World)",
+				"artist": "PTB10",
+				"description": [
+					"• Composer & Arranger: PTB10",
+					"",
+					"• Programmed, Produced & Mixed by PTB10",
+					"• Mastering Engineer: Volumetrique (KodamaSounds)",
+					"",
+					"• Used Software: FL Studio",
+					"• Used VSTs & Samples: Vital for most synth patches, and vocals from Black Octopus Sound - Top Of The World Vocals",
+					"",
+					"• About this track: Aurora (Top of the World) is my answer to the 2010s brostep sound, with unapologetic vocalised basses and the classic half-time feel. But it's also a feel-good track, making heavy use of euphoric chords and atmospheric vocals.",
+					"",
+					"BPM: 155",
+					"Time Signature: 4/4",
+					"Key: E-flat minor",
+					"Genre: Dubstep",
+					"",
+					"https://ptb10.bandcamp.com/",
+					""
+				]
+			},
+			"18": {
+				"title": "EAT'EMUP",
+				"artist": "Asatsumei feat. Yi Xi & Eri",
+				"description": [
+					"• Composer, Arranger & Lyrics: Mei Naganowa",
+					"• Vocals: Yi Xi 2 (Synthesizer V), Eri 2 (Synthesizer V)",
+					"",
+					"• Programmed, Produced & Mixed by ",
+					"• Mastering Engineer: Volumetrique (KodamaSounds)",
+					"",
+					"• Used Software: Bitwig 5.1",
+					"• Used VSTs & Samples: Serum 2, Vital, Current, DeFORM, Omnisphere, Kontakt",
+					"",
+					"• About this track: The release of Never Say Die vol. 7 did things to me fr. didn't make, like, a banger-type song since idkwhen. (also before you ask - YES! Yi Xi and Eri are indeed doing the Virus Syndicate lmao)",
+					"",
+					"• Lyrics",
+					"It's Yi Xi (and Eri!)",
+					"Carnivore Crew (arf arf arf)",
+					"Asatsumei, DISAAAIIPOOOOOOL (this is KodamaSounds, you fucking idiot-)",
+					"HUUUUEEEGGHHH (oh my god...)",
+					"",
+					"Been locked in since day 1",
+					"Knives out and they run",
+					"You don't know about how we rollin'",
+					"Like a John Doe, you are a no-name, son.",
+					"Plate cleaned but I ain't done.",
+					"This next serving is a great one.",
+					"We take over, you take some, but still fail to be the big one.",
+					"Yi Xi comin' with the Cannibal Flow.",
+					"Wake up, spit, then get that dough.",
+					"Carnivore Crew with the Ko'",
+					"Doin' it big, we badder than most.",
+					"Stone cold, homegrown - got the whole scene in a chokehold.",
+					"Red gold, you be just bone.",
+					"Nothing can rattle my throne.",
+					"",
+					"Stir up the pot then eat 'em up.",
+					"We blow up the spot, then we beat 'em up.",
+					"(Be a good kid and set up the table)",
+					"Ero: Dinner is served, we're ready to eat it up, yo.",
+					"Stir up the pot then eat 'em up.",
+					"We blow up the spot, then we beat 'em up.",
+					"(Carnivore Crew, we make shit bang).",
+					"Meat Gang, Meat Gang, we're ready to eat 'em up!'",
+					"",
+					"Yo, Meat Gang, ayy, hah",
+					"Sleeper agent, I activate.",
+					"Makin' moves like \"Damn! she ate!\"",
+					"Chain reaction, call to action",
+					"You just sit there and masturbate.",
+					"We go hard. We go ham.",
+					"We spit fire - battering ram.",
+					"Dicking around in the kitchen. We eating you up like Chicken Strips, fam.",
+					"We pull up and burn it all.",
+					"This Riot ain't Virtual.",
+					"It's nothing personal.",
+					"I heard it all, the man dem still mad, just because they're the first to fall.",
+					"You're Fast Food, like McD's.",
+					"ain't no vegan, nah, we want beef.",
+					"so \"jack that back, double up reload. Kodama - this is the way we roll\"",
+					"",
+					"Stir up the pot then eat 'em up.",
+					"We blow up the spot, then we beat 'em up.",
+					"(Be a good kid and set up the table)",
+					"Ero: Dinner is served, we're ready to eat it up, yo.",
+					"Stir up the pot then eat 'em up.",
+					"We blow up the spot, then we beat 'em up.",
+					"(Carnivore Crew, we make shit bang).",
+					"Meat Gang, Meat Gang, we're ready to eat 'em up!'",
+					"",
+					"BPM: 145",
+					"Time Signature: 4/4",
+					"Key: D-sharp minor",
+					"Genre: Dubstep / XDM",
+					"",
+					"https://reekandthemeitriphecta.bandcamp.com/"
+				]
+			}
+		},
+		{
+			"01": {
+				"title": "serendipity",
+				"artist": "Maozon & Volumetrique feat. Renko",
+				"description": [
+					"• Composer & Arranger: Maozon (UMBRL) & Volumetrique (KodamaSounds)",
+					"• Vocals & Lyrics: Renko (ORANGE★JAM / FELT)",
+					"",
+					"• Programmed, Produced & Mixed by Maozon (UMBRL) & Volumetrique (KodamaSounds)",
+					"• Mastering Engineer: Volumetrique (KodamaSounds)",
+					"",
+					"• Used Software: FL Studio",
+					"• Used VSTs & Samples: TBD",
+					"",
+					"• About this track",
+					"Maozon: I wanted to try my hand at melodic and smooth vocal drum & bass for quite some time. This track could not have existed without any one of those elements: my composition and bass track, Volumetrique’s sound design and ideas, and Renko’s lyrics and vocals. I am deeply grateful to KodamaSounds for giving me this precious opportunity, to my two collaborators, and to everyone who picked up this album and gave it a listen! [予てからメロディックでスムースなボーカルドラムンベースに挑戦したいと思っていました。この楽曲は私の作曲・ベーストラックにVolumetriqueのサウンドデザイン・アイデア、そしてRenkoの歌詞とボーカル、どの要素が欠けても存在し得ませんでした。貴重な機会を頂けたKodamaSounds、コラボレーターの二人、そしてこのアルバムを手にとって聴いて頂いた皆様に大変感謝します！]",
+					"Volumetrique: I had the honor of working with a Drum and Bass legend from Japan, which I admire a lot, Maozon; as well as a great vocalist and lyricist, Renko. I had lots of fun playing with the slap bass, and learned a lot from my collaborators, which I would like to thank once again for their ideas, feedback and patience. Being able to work on vocals is new to me, but I will keep this experience very close to my heart.",
+					"Renko: Thank you for having me on for such a fun and amazing track! It was fun getting to be a part of it and working alongside Maozon & Volumetrique. Shoutout to Julie for calling upon me for this. Not only did they write a melody that was fun to sing and felt like an incredible match, when I listened through for the first time, I knew the kind of lyrics I wanted to write for it. Definitely something that was catchy, expressive, with feelings about when something lovely catches you off guard when you least expect it. If you know, you know!",
+					"",
+					"• Lyrics",
+					"What could be, be the odds",
+					"That you could be the one holding all the cards?",
+					"Serendipity followed me onto you,",
+					"And I have simply fallen for your every word.",
+					"",
+					"Every time, since that day, I think about you every night, every day.",
+					"I know that when I’m in love with you, you’re lighting up my world.",
+					"",
+					"And it’s the way you, you keep on smiling.",
+					"The laughter in your voice, it’s all so mesmerizing.",
+					"You’re stuck on my mind,",
+					"So don’t leave me behind.",
+					"Baby, could you be mine?",
+					"Don’t you let me go.",
+					"",
+					"And the way you hold me so very tight...",
+					"This feeling lasting a lifetime,",
+					"As if I’m still dreaming,",
+					"And the way you look into my eyes.",
+					"",
+					"Just imagine...",
+					"",
+					"As if I’m still dreaming,",
+					"And the way you look into my eyes.",
+					"",
+					"Ever-longing...",
+					"",
+					"Could I still be dreaming?",
+					"Tell me one more time.",
+					"",
+					"I’m drawn in by those lips so sweet, lingering,",
+					"I see the sparkle in your eyes when you speak.",
+					"So can we call it destiny, call it fate?",
+					"I know that you’re the one that I’ve been waiting for.",
+					"",
+					"Every time, since that day, I wanna kiss you every night, every day.",
+					"I’m tracing the shape of you until I start to memorize...",
+					"",
+					"And it’s the way you, you keep on smiling.",
+					"The laughter in your voice, it keeps drawing me into you.",
+					"You’re stuck on my mind,",
+					"So don’t leave me behind.",
+					"Baby, oh, it’s a sign.",
+					"Don’t you let me go.",
+					"",
+					"And the way you hold me and every night,",
+					"Your kisses lingering, feels like I’m",
+					"Always needing you.",
+					"I know that I can’t simply get enough.",
+					"",
+					"Automatic...",
+					"",
+					"A brand new experience,",
+					"When I’m here with you.",
+					"",
+					"Like destiny...",
+					"And here you are, from the start.",
+					"You’ve got me feeling something new, something hot.",
+					"Serendipity showed the way, way to you,",
+					"And I have simply fallen for your every word.",
+					"",
+					"Every time, since that day, I think about you every night, every day.",
+					"I’m tracing the shape of you until I start to memorize the way you love.",
+					"",
+					"BPM: 174",
+					"Time Signature: 4/4",
+					"Key: B-flat major / G minor",
+					"Genre: Drum and Bass",
+					"",
+					"https://maozon.bandcamp.com/"
+				]
+			},
+			"02": {
+				"title": "Aftershock",
+				"artist": "DevAdelso",
+				"description": [
+					"• Composer & Arranger: DevAdelso",
+					"",
+					"• Programmed, Produced, Mixed & Mastered by DevAdelso",
+					"• Additional Mastering: EQing, Gain, Limiter",
+					"",
+					"• Used Software: Reaper",
+					"",
+					"BPM: 180",
+					"Time Signature: 4/4",
+					"Key: F# Major / D# Minor",
+					"Genre: Drum and Bass",
+					"",
+					"https://devadelso.bandcamp.com/",
+					""
+				]
+			},
+			"03": {
+				"title": "Major's Theme",
+				"artist": "AIKATYPE",
+				"description": [
+					"• Composer & Arranger: AIKATYPE (KodamaSounds)",
+					"",
+					"• Programmed, Produced & Mixed by AIKATYPE (KodamaSounds)",
+					"• Mastering Engineer: Volumetrique (KodamaSounds)",
+					"",
+					"• About this track: Well! I tried to make a Neuro-esque track inspired by the Anime 'Dorohedoro', This time i've tried to go past 2 minutes and compose with a more structured approach in mind. Someone should really try to make a Dorohedoro AMV with this...",
+					"",
+					"BPM: 174",
+					"Time Signature: 4/4",
+					"Key: N/A",
+					"Genre: Drum and Bass",
+					"",
+					"https://x.com/aikatype",
+					""
+				]
+			},
+			"04": {
+				"title": "Neurosystemic Synthesis",
+				"artist": "V0iD",
+				"description": [
+					"• Composer & Arranger: V0iD (The Cynphetic Collective)",
+					"",
+					"• Programmed, Produced, Mixed & Mastered by V0iD (The Cynphetic Collective)",
+					"• Additional Mastering: Gain (lowered for LUFS target), slight EQing (tonal balance)",
+					"",
+					"• Used Software: Reaper",
+					"• Used VSTs & Samples: Falcon, Serum2, Vital, Phaseplant, Omnisphere, ProtoPlasm, Keyscape",
+					"",
+					"• About this track: Restless convergence. Mechanical intensity and moments of luminous stillness, always seeming on the verge of becoming something else.",
+					"",
+					"BPM: 145",
+					"Time Signature: 4/4",
+					"Key: Em Dorian",
+					"Genre: Hi-tech / Dubstep / Glitch-IDM / Glitch Hop",
+					"",
+					"https://v0idisk.bandcamp.com/",
+					""
+				]
+			},
+			"05": {
+				"title": "Subcubic",
+				"artist": "Sanaas",
+				"description": [
+					"• Composer & Arranger: Sanaas (Lilium Records / J-NERATION)",
+					"",
+					"• Programmed, Produced & Mixed by Sanaas (Lilium Records / J-NERATION)",
+					"• Mastering Engineer: Volumetrique (KodamaSounds)",
+					"",
+					"https://sanatrium.bandcamp.com/",
+					""
+				]
+			},
+			"06": {
+				"title": "Seeking",
+				"artist": "trailmix37",
+				"description": [
+					"• Composer & Arranger: trailmix37 (KodamaSounds)",
+					"",
+					"• Programmed, Produced & Mixed by trailmix37 (KodamaSounds)",
+					"• Mastering Engineer: Volumetrique (KodamaSounds)",
+					"",
+					"• Used VSTs & Samples: Serum 2",
+					"",
+					"BPM: 145",
+					"Time Signature: 4/4",
+					"Key: G minor",
+					"Genre: Dubstep",
+					"",
+					"https://x.com/trailmix37"
+				]
+			},
+			"07": {
+				"title": "MARTER",
+				"artist": "ECLAIR",
+				"description": [
+					"• Composer & Arranger: ECLAIR",
+					"",
+					"• Programmed, Produced & Mixed by ECLAIR",
+					"• Mastering Engineer: Volumetrique (KodamaSounds)",
+					"",
+					"BPM: 140",
+					"Time Signature: 4/4",
+					"Key: D",
+					"Genre: Dubstep",
+					"",
+					"https://x.com/IamECLAIR"
+				]
+			},
+			"08": {
+				"title": "Go Big",
+				"artist": "PudZ",
+				"description": [
+					"• Composer & Arranger: PudZ (bethefool.)",
+					"",
+					"• Programmed, Produced & Mixed by PudZ (bethefool.)",
+					"• Mastering Engineer: Volumetrique (KodamaSounds)",
+					"",
+					"• Used Software: FL Studio",
+					"• Used VSTs & Samples: Splice Dropgun samples (DS_BTH_125_vocal_harmonies_female_loop_do_my_thing_bridge_dry_G#)",
+					"",
+					"• About this track: I want to help spread Speed House as a new form of Bass House. For this track, I focused on creating a powerful bass sound and a fun, fast-paced feel.",
+					"",
+					"BPM: 150",
+					"Time Signature: 4/4",
+					"Key: G minor",
+					"Genre: Speed House",
+					"",
+					"https://x.com/Pudding_zaemon",
+					""
+				]
+			},
+			"09": {
+				"title": "Astral Pulse",
+				"artist": "poniyama",
+				"description": [
+					"• Composer & Arranger: poniyama (Liminal Warp)",
+					"",
+					"• Programmed, Produced & Mixed by poniyama (Liminal Warp)",
+					"• Mastering Engineer: Volumetrique (KodamaSounds)",
+					"",
+					"• Used Software: Ableton Live",
+					"",
+					"BPM: 174",
+					"Time Signature: 4/4",
+					"Key: N/A",
+					"Genre: Drum and Bass",
+					"",
+					"https://poniyama.bandcamp.com",
+					""
+				]
+			},
+			"10": {
+				"title": "F92",
+				"artist": "ETH4N",
+				"description": [
+					"• Composer & Arranger: ETH4N",
+					"",
+					"• Programmed, Produced & Mixed by ETH4N",
+					"• Mastering Engineer: Volumetrique (KodamaSounds)",
+					"",
+					"https://eth4n.bandcamp.com/"
+				]
+			},
+			"11": {
+				"title": "fdbk ctrl",
+				"artist": "Oversleep",
+				"description": [
+					"• Composer & Arranger: Oversleep",
+					"",
+					"• Programmed, Produced & Mixed by Oversleep",
+					"• Mastering Engineer: Volumetrique (KodamaSounds)",
+					"",
+					"• Used Software: Ableton Live",
+					"• Used VSTs & Samples: serum2, Kontakt, Current, Repro-1, zebra3, ",
+					"",
+					"• About this track: This track explores the creation of various sonic spaces through the extensive use of feedback-based effects, including echo, reverb, delay, phaser, comb filters, and Ableton Live’s Corpus. [echo, reverb, delay, phaser, comb filter, ableton live付属のcorpusなど、音をフィードバックさせるエフェクトを多用して様々な空間を作る実験をすることが今回の楽曲のテーマです。]",
+					"",
+					"BPM: 176",
+					"Time Signature: 4/4",
+					"Key: C minor",
+					"Genre: Drum and Bass",
+					"",
+					"https://over-sleep.bandcamp.com"
+				]
+			},
+			"12": {
+				"title": "Regrind Protocol",
+				"artist": {
+					"en": "NotWo",
+					"jp": "のとを"
+				},
+				"description": [
+					"• Composer & Arranger: NotWo [のとを]",
+					"",
+					"• Programmed, Produced & Mixed by NotWo [のとを]",
+					"• Mastering Engineer: Volumetrique (KodamaSounds)",
+					"",
+					"• Used Software: Ableton Live 12 Suite",
+					"",
+					"• About this track: I composed the track by repeatedly stretching completed sounds and reusing them as basses, glitches, and drums. Drawing on IDM and neurobass, I aimed for a sound design that is more flexible in the temporal dimension. I also focused on keeping the track intense while adhering to the conventions of dance music—fixed kick and snare placements, with the groove defined by the sub-bass in order to fit the compilation’s theme. [完成させた音源を再び引き延ばすことでベースやグリッチ、ドラムとして再利用するというプロセスを繰り返して作成しました。IDMやニューロベースの文脈を利用して、より時間方向に対して柔軟なサウンドデザインを行うことを試みました。また、コンピレーションのテーマに適応するよう、激しく、またダンスミュージックのフォーマット（キックとスネアを定点で鳴らし、サブベースによってグルーヴが規定される）を順守することも意識しました。]",
+					"",
+					"BPM: 149",
+					"Time Signature: 4/4",
+					"Key: F minor",
+					"Genre: Neurohop",
+					"",
+					"https://enigmatically.bandcamp.com/",
+					""
+				]
+			},
+			"13": {
+				"title": "retrieval act",
+				"artist": "abnovark",
+				"description": [
+					"• Composer & Arranger: abnovark",
+					"",
+					"• Programmed, Produced & Mixed by abnovark",
+					"• Mastering Engineer: Volumetrique (KodamaSounds)",
+					"",
+					"• Used Software: Ableton live",
+					"• Used VSTs & Samples: resampling and stretched kalimba sound",
+					"",
+					"BPM: 145",
+					"Time Signature: 4/4",
+					"Key: D major",
+					"Genre: IDM / Garage",
+					"",
+					"https://x.com/abnovark"
+				]
+			},
+			"14": {
+				"title": "Scoping",
+				"artist": "ELECTR",
+				"description": [
+					"• Composer & Arranger: ELECTR",
+					"",
+					"• Programmed, Produced & Mixed by ELECTR",
+					"• Mastering Engineer: Volumetrique (KodamaSounds)",
+					"",
+					"BPM: 172",
+					"Time Signature: 4/4",
+					"Key: N/A",
+					"Genre: Drum and Bass",
+					"",
+					"https://x.com/electr_nics"
+				]
+			},
+			"15": {
+				"title": "The Rains of Tomorrow",
+				"artist": "Kloser",
+				"description": [
+					"• Composer & Arranger: Kloser",
+					"",
+					"• Programmed, Produced, Mixed & Mastered by Kloser",
+					"",
+					"• Used Software: FL Studio",
+					"• Used VSTs & Samples: Serum 2, Fruity Granulizer",
+					"",
+					"• About this track: Rains fall down, storm cells brew, oncoming destruction gathers on the horizon and all you can do is watch it as it approaches.",
+					"",
+					"BPM: 150",
+					"Time Signature: 4/4",
+					"Key: N/A",
+					"Genre: Dubstep",
+					"",
+					"https://x.com/AusKloser"
+				]
+			},
+			"16": {
+				"title": "music for synthesizers",
+				"artist": "goropi",
+				"description": [
+					"• Composer & Arranger: goropi",
+					"",
+					"• Programmed, Produced & Mixed by goropi",
+					"• Mastering Engineer: Volumetrique (KodamaSounds)",
+					"",
+					"• Used Software: Ableton Live",
+					"• Used VSTs & Samples: Reaktor 6 Kontakt",
+					"",
+					"• About this track: I wanted to make a song that isn’t something you hear very often, so I incorporated elements inspired by Steve Reich’s style. [あまり作られてないような曲を作りたくてsteve reichのような感じを混ぜたりしました。]",
+					"",
+					"BPM: 130",
+					"Time Signature: 4/4",
+					"Key: C minor",
+					"Genre: Dubstep",
+					"",
+					"https://goropi.bandcamp.com"
+				]
+			},
+			"17": {
+				"title": "Hornfels",
+				"artist": "Zohka",
+				"description": [
+					"• Composer & Arranger: Zohka",
+					"",
+					"• Programmed, Produced & Mixed by Zohka",
+					"• Mastering Engineer: Volumetrique (KodamaSounds)",
+					"",
+					"BPM: 176",
+					"Time Signature: 4/4",
+					"Key: D-sharp major",
+					"Genre: Electronic",
+					"",
+					"https://zohka.bandcamp.com"
+				]
+			},
+			"18": {
+				"title": "Cyclamen",
+				"artist": "Supire & Rhino kawara",
+				"description": [
+					"• Composer & Arranger: Supire (NH / innofract), Rhino kawara",
+					"",
+					"• Programmed, Produced & Mixed by Supire (NH / innofract), Rhino kawara",
+					"• Mastering Engineer: Volumetrique (KodamaSounds)",
+					"",
+					"BPM: 172",
+					"Time Signature: 4/4",
+					"Key: F minor",
+					"Genre: Neurohop/Experimental/IDM",
+					"",
+					"https://x.com/NH_supaia",
+					"https://x.com/rhinokawara"
+				]
+			}
+		}
+	],
+	"youtube_id": "3lJtBwPE-bQ",
+	"credits": {
+		"1": {
+			"role": "Music",
+			"id": "BHM"
+		},
+		"2": {
+			"role": "Music",
+			"id": "Sonance"
+		},
+		"3": {
+			"role": "Music",
+			"id": "OsushiFreak"
+		},
+		"4": {
+			"role": "Music & Guitar",
+			"id": "Hylen"
+		},
+		"5": {
+			"role": "Music",
+			"id": "sanmal"
+		},
+		"6": {
+			"role": "Music",
+			"id": "Afflected Light"
+		},
+		"7": {
+			"role": "Music",
+			"id": "Natsuki Sakonmai"
+		},
+		"8": {
+			"role": "Music",
+			"id": "OrutO"
+		},
+		"9": {
+			"role": "Music",
+			"id": "moyu"
+		},
+		"10": {
+			"role": "Music",
+			"id": "Tsukasa"
+		},
+		"11": {
+			"role": "Music",
+			"id": "kalsoer"
+		},
+		"12": {
+			"role": "Music",
+			"id": "TrippyGrunt"
+		},
+		"13": {
+			"role": "Music",
+			"id": "ej ito"
+		},
+		"14": {
+			"role": "Music",
+			"id": "XH"
+		},
+		"15": {
+			"role": "Music",
+			"id": "Sh0wtime"
+		},
+		"16": {
+			"role": "Music",
+			"id": "zot!k"
+		},
+		"17": {
+			"role": "Music",
+			"id": "GOETIA"
+		},
+		"18": {
+			"role": "Music",
+			"id": "PTB10"
+		},
+		"19": {
+			"role": "Music",
+			"id": "Asatsumei"
+		},
+		"20": {
+			"role": "Music & Lyrics",
+			"id": "Mei Naganowa"
+		},
+		"21": {
+			"role": "Music",
+			"id": "Maozon"
+		},
+		"22": {
+			"role": "Music, Mastering Engineer, Audio Crossfade & Special Thanks",
+			"id": "Volumetrique"
+		},
+		"23": {
+			"role": "Vocals & Lyrics",
+			"id": "Renko"
+		},
+		"24": {
+			"role": "Music",
+			"id": "DevAdelso"
+		},
+		"25": {
+			"role": "Music",
+			"id": "AIKATYPE"
+		},
+		"26": {
+			"role": "Music",
+			"id": "V0iD"
+		},
+		"27": {
+			"role": "Music",
+			"id": "Sanaas"
+		},
+		"28": {
+			"role": "Music",
+			"id": "trailmix37"
+		},
+		"29": {
+			"role": "Music",
+			"id": "ECLAIR"
+		},
+		"30": {
+			"role": "Music",
+			"id": "PudZ"
+		},
+		"31": {
+			"role": "Music",
+			"id": "poniyama"
+		},
+		"32": {
+			"role": "Music",
+			"id": "ETH4N"
+		},
+		"33": {
+			"role": "Music",
+			"id": "Oversleep"
+		},
+		"34": {
+			"role": "Music",
+			"id": "NotWo"
+		},
+		"35": {
+			"role": "Music",
+			"id": "abnovark"
+		},
+		"36": {
+			"role": "Music",
+			"id": "ELECTR"
+		},
+		"37": {
+			"role": "Music",
+			"id": "Kloser"
+		},
+		"38": {
+			"role": "Music",
+			"id": "goropi"
+		},
+		"39": {
+			"role": "Music",
+			"id": "Zohka"
+		},
+		"40": {
+			"role": "Music",
+			"id": "Supire"
+		},
+		"41": {
+			"role": "Music",
+			"id": "Rhino kawara"
+		},
+		"42": {
+			"role": "Illustration",
+			"id": "ne_pura"
+		},
+		"43": {
+			"role": "Layout, Design & Crossfade Video",
+			"id": "Zeth"
+		},
+		"44": {
+			"role": "Supervisor & Planner",
+			"id": "Fivda"
+		},
+		"45": {
+			"role": "Japanese Translator",
+			"id": "Yanis"
+		},
+		"46": {
+			"role": "Web",
+			"id": "Doggibelle"
+		},
+		"47": {
+			"role": "Web",
+			"id": "VIIweights"
+		},
+		"48": {
+			"role": "Special Thanks",
+			"id": "RLZY"
+		},
+		"49": {
+			"role": "Special Thanks",
+			"id": "Claire"
+		},
+		"50": {
+			"role": "Special Thanks",
+			"id": "Ashley"
+		}
+	},
+	"description": {
+		"en": "Do you feel it? The ground shaking beneath your feet? This overwhelming sonic power taking over you? Let the TREMOR guide your steps. Let the sound waves carry your convictions. TREMOR's a compilation to listen through when you want nothing but the most exciting sounds. On one side, a photovoltaic barrage of pure violence pierces through you. On the other side, a strange, bittersweet emotional surge resonates deep within you. The power of BASS is all that matters - in all different kinds of shapes and forms.",
+		"jp": "足元で大地が震えているのを感じるか？全身を呑み込んでいく、この圧倒的な音の力を感じるか？己の歩みを、TREMORに委ねろ。その信念を、音の波に乗せろ。TREMOR――それは、ただひたすらに刺激的な音を求めるときに聴くコンピレーション。片側からは、太陽光発電の砲撃のような純粋な暴力性を持つサウンドが身体を貫く。もう片側からは、どこか奇妙で、ほろ苦い感情の奔流が、深く心の奥底へと響き渡る。重要なのは、ただひとつ。BASSの力。何の形でも。"
+	},
+	"footer": ""
+}

@@ -488,5 +488,18 @@
 		"website": "/releases/gensokyo-party-vol7",
 		"vgmdb": "https://vgmdb.net/album/156247",
 		"bandcampPhysical": "https://kodamasounds.bandcamp.com/merch/gensokyo-party-vol-7-moriya-barista-2-15x15cm-download-card"
+	},
+	"eclectic-resonance-tremor": {
+		"id": "KSCD-0007~8",
+		"releaseDate": "2026-10-25T00:00:00+0200",
+		"name": "ECLECTIC RESONANCE TREMOR",
+		"cover": "/assets/discography/covers/CD0007-8.png",
+		"coverColor": "#faaf18",
+		"bandcamp": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-tremor",
+		"bandcampPhysical": "https://kodamasounds.bandcamp.com/album/eclectic-resonance-tremor",
+		"booth": "https://kodamasoft.booth.pm/items/8847817",
+		"website": "/releases/eclectic-resonance-tremor",
+		"vgmdb": "https://vgmdb.net/album/156246"
 	}
+
 }
