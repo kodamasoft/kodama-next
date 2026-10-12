@@ -66,8 +66,8 @@ export default function ProjectInfo({ slug, children }) {
 			<strong>
 				{t('projects:project-info.artwork-commission')}:
 			</strong>{' '}
-			{project.artwork_comission
-				? t('projects:common.statuses.' + project.artwork_comission)
+			{project.artwork_commission
+				? t('projects:common.statuses.' + project.artwork_commission)
 				: ' ??? '}
 			<br />
 		</p>

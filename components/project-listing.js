@@ -44,16 +44,16 @@ export default function ProjectListing({ project, category, bgImage }) {
 			'inline-block py-1 px-2.5 leading-none text-center whitespace-nowrap align-baseline font-bold text-white rounded-full text-base';
 
 		switch (status) {
-			case 'completed':
+			case 'gen-releases':
 				styles += ' bg-purple-500/70';
 				break;
 			case 'ongoing':
 				styles += ' bg-green-500/70';
 				break;
-			case 'accepting':
+			case 'gen-open':
 				styles += ' bg-yellow-600/70';
 				break;
-			case 'cancelled':
+			case 'gen-cancelled':
 				styles += ' bg-red-500/70';
 				break;
 			case 'about-to-release':
@@ -77,7 +77,7 @@ export default function ProjectListing({ project, category, bgImage }) {
 				backgroundColor: project.color + '44',
 			}}>
 			<Link
-				href={'/projects/' + project.slug}
+				href={project.status === 'gen-released' ? `/releases/${project.slug}` : `/projects/${project.slug}`}
 				passHref
 				key={project.slug}
 				className={
@@ -109,59 +109,63 @@ export default function ProjectListing({ project, category, bgImage }) {
 
 				<div className='flex-col flex'>
 					<div className='flex flex-row justify-evenly gap-2'>
-						<div className='p-2'>
-							<p>
-								Project duration
+						<div className='p-2 flex-1/3'>
+							<p className='font-bold text-xl'>
+								{t('projects:project-info.current-duration')}
 							</p>
-							<p>{project.duration}</p>
+							<p className='text-green-400 text-xl font-bold'>{project.duration}</p>
 						</div>
 
-						<div className='p-2'>
-							<p>
-								Project status
+						<div className='p-2 flex-1/3'>
+							<p className='font-bold text-xl'>
+								{t('projects:project-info.status')}
 							</p>
 							<span className={statusBadgeStyles(project.status)}>
 								{status}
 							</span>{' '}
 						</div>
 
-						<div className='p-2'>
-							<p>
-								Finished tracks
+						<div className='p-2 flex-1/3'>
+							<p className='font-bold text-xl'>
+								{t('projects:project-info.current-number-of-finished-tracks')}
 							</p>
-							<p>{project.finished_tracks}</p>
+							<p className='text-red-400 text-xl font-bold'>{project.finished_tracks}</p>
 						</div>
 					</div>
 
 					<div className='flex flex-row justify-evenly gap-2'>
-						<div className='p-2'>
-							<p>
-								Illust/design status
+						<div className='p-2 flex-1/3'>
+							<p className='font-bold text-xl'>
+								{t('projects:project-info.artwork-commission')}
 							</p>
-							<p>{project.artwork_comission}</p>
+							<p>{t('projects:common.statuses.' + project.artwork_commission)}</p>
 						</div>
-						<div className='p-2'>
-							<p>
-								Mastering status
+						<div className='p-2 flex-1/3'>
+							<p className='font-bold text-xl'>
+								{t('projects:project-info.mastering-status')}
 							</p>
-							<p>{project.mastering.status}</p>
+							<p>{t('projects:common.statuses.' + project.mastering.status)}</p>
 						</div>
 					</div>
 
-					{deadline && (
-						<div className='p-2'>
-						<p>
-							Deadline : {deadline}
-						</p>
-						</div>
-					)}
-					{releaseDate && (
-						<div className='p-2'>
-						<p>
-							Release date : {releaseDate}
-						</p>
-						</div>
-					)}
+					<div className='flex flex-row justify-evenly gap-2'>
+						{deadline && (
+							<div className='p-2'>
+							<p className='font-bold text-xl'>
+								Deadline : <span className='text-yellow-200'>{deadline}</span>
+							</p>
+							</div>
+						)}
+						{releaseDate && (
+							<div className='p-2'>
+							<p className='font-bold text-xl'>
+								Release date : <span className='text-blue-500'>{releaseDate}</span>
+							</p>
+							</div>
+						)}
+					</div>
+
+					
 				</div>
 			</Link>
 		</div>
