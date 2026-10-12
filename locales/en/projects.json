@@ -23,6 +23,7 @@
         "album-title": "Album Title",
         "status": "Status",
         "approximate-completion": "Approximate Completion",
+        "releaseDate": "Release Date",
         "current-duration": "Current Duration",
         "current-number-of-finished-tracks": "Current Number of Finished Tracks",
         "mastering-engineer": "Mastering Engineer",

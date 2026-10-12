@@ -33,6 +33,16 @@ export default function ProjectInfo({ slug, children }) {
 				{t('projects:project-info.approximate-completion')}:
 			</strong>{' '}
 			{project.percentage ? project.percentage : ' ??? '}%<br />*/}
+
+			<strong>{t('projects:project-info.releaseDate')}:</strong>{' '}
+				{project.releaseDate ? (
+				new Date(project.releaseDate).toLocaleDateString(lang, {
+					year: 'numeric',
+					month: 'long',
+					day: 'numeric',
+				})
+				) : null}
+			<br />
 			<strong>{t('projects:project-info.current-duration')}:</strong>{' '}
 			{project.duration ? project.duration : ' ??? '}
 			<br />

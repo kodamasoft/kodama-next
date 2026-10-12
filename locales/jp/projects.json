@@ -23,6 +23,7 @@
         "album-title": "アルバムのタイトル",
         "status": "ステータス",
         "approximate-completion": "完成率の目安",
+        "releaseDate": "リリース日",
         "current-duration": "現在の長さ",
         "current-number-of-finished-tracks": "現在の完成曲数",
         "mastering-engineer": "マスタリングエンジニア",

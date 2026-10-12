@@ -7,6 +7,7 @@ export default function ProjectListing({ project, category }) {
 
 	const [status, setStatus] = useState('');
 	const [deadline, setDeadline] = useState('');
+	const [releaseDate, setReleaseDate] = useState('');
 
 	useEffect(() => {
 		setStatus(t('projects:common.statuses.' + project.status));
@@ -15,6 +16,21 @@ export default function ProjectListing({ project, category }) {
 			setDeadline(
 				t(
 					new Date(project.deadline).toLocaleDateString(lang, {
+						year: 'numeric',
+						month: 'short',
+						day: 'numeric',
+					})
+				)
+			);
+	}, [project, t, lang]);
+
+	useEffect(() => {
+		setStatus(t('projects:common.statuses.' + project.status));
+
+		if (project.releaseDate)
+			setReleaseDate(
+				t(
+					new Date(project.releaseDate).toLocaleDateString(lang, {
 						year: 'numeric',
 						month: 'short',
 						day: 'numeric',
@@ -85,6 +101,9 @@ export default function ProjectListing({ project, category }) {
 				</span>{' '}
 				| {/*{project.percentage}% |*/} {project.duration}
 			</p>
+			{/* Info about the release date so I don't forget
+			{t('projects:project-info.releaseDate')}: {releaseDate}
+			*/}
 			<div className="w-full border border-white/50 h-2 rounded-full overflow-hidden mt-2 p-0 m-0">
 				<div
 					className="h-full rounded-full p-0 m-0"
