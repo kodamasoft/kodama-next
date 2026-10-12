@@ -103,17 +103,24 @@ export default function ProjectListing({ project, category, bgImage }) {
 	}
 
 	return (
-		<div 
-			className={'flex flex-col text-center no-underline not-prose md:max-w-2xl mx-auto content-center rounded-xl my-5 transition relative hover:-translate-y-1' }
+		<div
+			className={
+				'flex flex-col text-center no-underline not-prose md:max-w-2xl mx-auto content-center rounded-xl my-5 transition relative hover:-translate-y-1'
+			}
 			style={{
 				backgroundImage: `url(${bgImage})`,
 				backgroundSize: 'cover',
 				backgroundPosition: 'center',
 				backgroundRepeat: 'no-repeat',
 				backgroundColor: project.color + '44',
-			}}>
+			}}
+		>
 			<Link
-				href={project.status === 'gen-released' ? `/releases/${project.slug}` : `/projects/${project.slug}`}
+				href={
+					project.status === 'gen-released'
+						? `/releases/${project.slug}`
+						: `/projects/${project.slug}`
+				}
 				passHref
 				key={project.slug}
 				className={
@@ -143,17 +150,19 @@ export default function ProjectListing({ project, category, bgImage }) {
 					)}
 				</p>
 
-				<div className='flex-col flex'>
-					<div className='flex flex-row justify-evenly gap-2'>
-						<div className='p-2 flex-1/3'>
-							<p className='font-bold text-xl'>
+				<div className="flex-col flex">
+					<div className="flex flex-row justify-evenly gap-2">
+						<div className="p-2 flex-1/3">
+							<p className="font-bold text-xl">
 								{t('projects:project-info.current-duration')}
 							</p>
-							<p className='text-green-400 text-xl font-bold'>{project.duration}</p>
+							<p className="text-green-400 text-xl font-bold">
+								{project.duration}
+							</p>
 						</div>
 
-						<div className='p-2 flex-1/3'>
-							<p className='font-bold text-xl'>
+						<div className="p-2 flex-1/3">
+							<p className="font-bold text-xl">
 								{t('projects:project-info.status')}
 							</p>
 							<span className={statusBadgeStyles(project.status)}>
@@ -161,51 +170,65 @@ export default function ProjectListing({ project, category, bgImage }) {
 							</span>{' '}
 						</div>
 
-						<div className='p-2 flex-1/3'>
-							<p className='font-bold text-xl'>
-								{t('projects:project-info.current-number-of-finished-tracks')}
+						<div className="p-2 flex-1/3">
+							<p className="font-bold text-xl">
+								{t(
+									'projects:project-info.current-number-of-finished-tracks'
+								)}
 							</p>
-							<p className='text-red-400 text-xl font-bold'>{project.finished_tracks}</p>
+							<p className="text-red-400 text-xl font-bold">
+								{project.finished_tracks}
+							</p>
 						</div>
 					</div>
 
-					<div className='flex flex-row justify-evenly gap-2'>
-						<div className='p-2 flex-1/3'>
-							<p className='font-bold text-xl'>
+					<div className="flex flex-row justify-evenly gap-2">
+						<div className="p-2 flex-1/3">
+							<p className="font-bold text-xl">
 								{t('projects:project-info.artwork-commission')}
 							</p>
 							<span className={statusBadgeStyles(project.status)}>
-								{t('projects:common.statuses.' + project.artwork_commission)}
+								{t(
+									'projects:common.statuses.' +
+										project.artwork_commission
+								)}
 							</span>{' '}
 						</div>
-						<div className='p-2 flex-1/3'>
-							<p className='font-bold text-xl'>
+						<div className="p-2 flex-1/3">
+							<p className="font-bold text-xl">
 								{t('projects:project-info.mastering-status')}
 							</p>
 							<span className={statusBadgeStyles(project.status)}>
-								{t('projects:common.statuses.' + project.mastering.status)}
+								{t(
+									'projects:common.statuses.' +
+										project.mastering.status
+								)}
 							</span>{' '}
 						</div>
 					</div>
 
-					<div className='flex flex-row justify-evenly gap-2'>
+					<div className="flex flex-row justify-evenly gap-2">
 						{deadline && (
-							<div className='p-2'>
-							<p className='font-bold text-xl'>
-								Deadline : <span className='text-yellow-200'>{deadline}</span>
-							</p>
+							<div className="p-2">
+								<p className="font-bold text-xl">
+									Deadline :{' '}
+									<span className="text-yellow-200">
+										{deadline}
+									</span>
+								</p>
 							</div>
 						)}
 						{releaseDate && (
-							<div className='p-2'>
-							<p className='font-bold text-xl'>
-								Release date : <span className='text-blue-500'>{releaseDate}</span>
-							</p>
+							<div className="p-2">
+								<p className="font-bold text-xl">
+									Release date :{' '}
+									<span className="text-blue-500">
+										{releaseDate}
+									</span>
+								</p>
 							</div>
 						)}
 					</div>
-
-					
 				</div>
 			</Link>
 		</div>
