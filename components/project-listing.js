@@ -96,7 +96,7 @@ export default function ProjectListing({ project, category, bgImage }) {
 							'.title'
 					)}
 				</h3>
-				<p className="font-normal text-base">
+				<p className="font-normal text-base py-2">
 					{t('projects:common.themes')}:{' '}
 					{t(
 						'projects:' +
@@ -106,29 +106,63 @@ export default function ProjectListing({ project, category, bgImage }) {
 							'.themes'
 					)}
 				</p>
-				<p>
-					<span className={statusBadgeStyles(project.status)}>
-						{status}
-					</span>{' '}
-					| {/*{project.percentage}% |*/} {project.duration}
-				</p>
-				{/* Info about the release date so I don't forget
-				{t('projects:project-info.releaseDate')}: {releaseDate}
-				*/}
-				<div className="w-full border border-white/50 h-2 rounded-full overflow-hidden mt-2 p-0 m-0">
-					<div
-						className="h-full rounded-full p-0 m-0"
-						style={{
-							width: project.percentage + '%',
-							backgroundColor: project.color,
-						}}
-					></div>
+
+				<div className='flex-col flex'>
+					<div className='flex flex-row justify-evenly gap-2'>
+						<div className='p-2'>
+							<p>
+								Project duration
+							</p>
+							<p>{project.duration}</p>
+						</div>
+
+						<div className='p-2'>
+							<p>
+								Project status
+							</p>
+							<span className={statusBadgeStyles(project.status)}>
+								{status}
+							</span>{' '}
+						</div>
+
+						<div className='p-2'>
+							<p>
+								Finished tracks
+							</p>
+							<p>{project.finished_tracks}</p>
+						</div>
+					</div>
+
+					<div className='flex flex-row justify-evenly gap-2'>
+						<div className='p-2'>
+							<p>
+								Illust/design status
+							</p>
+							<p>{project.artwork_comission}</p>
+						</div>
+						<div className='p-2'>
+							<p>
+								Mastering status
+							</p>
+							<p>{project.mastering.status}</p>
+						</div>
+					</div>
+
+					{deadline && (
+						<div className='p-2'>
+						<p>
+							Deadline : {deadline}
+						</p>
+						</div>
+					)}
+					{releaseDate && (
+						<div className='p-2'>
+						<p>
+							Release date : {releaseDate}
+						</p>
+						</div>
+					)}
 				</div>
-				{deadline && (
-					<p>
-						{t('projects:common.deadline')}: {deadline}
-					</p>
-				)}
 			</Link>
 		</div>
 	);
