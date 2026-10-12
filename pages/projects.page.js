@@ -68,6 +68,7 @@ export default function Projects({ filteredPosts }) {
 															project={project}
 															category={category}
 															key={project.slug}
+															bgImage={project.bgImage}
 														/>
 													);
 												}

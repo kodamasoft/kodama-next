@@ -35,6 +35,7 @@
 				"status": "accepting",
 				"percentage": "0",
 				"duration": "00:00",
+				"bgImage": "./assets/discography/headers/0017.png",
 				"finished_tracks": "0",
 				"mastering": {
 					"status": "pending",
@@ -49,6 +50,7 @@
 				"percentage": "100",
 				"duration": "1:41:38",
 				"finished_tracks": "16",
+				"bgImage": "./assets/discography/headers/0018.jpg",
 				"mastering": {
 					"status": "completed",
 					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"
@@ -62,6 +64,7 @@
 				"percentage": "100",
 				"duration": "58:48",
 				"finished_tracks": "16",
+				"bgImage": "./assets/discography/headers/0020.png",
 				"mastering": {
 					"status": "completed",
 					"engineer": "R-Man (Resonant Union)"
@@ -76,6 +79,7 @@
 				"duration": "2:01:47",
 				"finished_tracks": "30",
 				"deadline": "2025-09-13T23:59:59Z",
+				"bgImage": "./assets/discography/headers/CD0003-4.png",
 				"mastering": {
 					"status": "pending",
 					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"
@@ -90,6 +94,7 @@
 				"duration": "1:30:17",
 				"finished_tracks": "27",
 				"deadline": "2025-09-13T23:59:59Z",
+				"bgImage": "./assets/discography/headers/KSCD-0005~6.png",
 				"mastering": {
 					"status": "pending",
 					"engineer": "sdhizumi"
@@ -103,6 +108,7 @@
 				"percentage": "100",
 				"duration": "1:05:11",
 				"deadline": "2026-02-28T23:59:59Z",
+				"bgImage": "./assets/discography/headers/0023.png",
 				"finished_tracks": "15",
 				"mastering": {
 					"status": "pending",
@@ -164,6 +170,7 @@
 				"percentage": "100",
 				"duration": "1:03:55",
 				"finished_tracks": "14",
+				"bgImage": "./assets/discography/headers/0019.png",
 				"mastering": {
 					"status": "completed",
 					"engineer": "blobdash"
@@ -176,6 +183,7 @@
 				"status": "released",
 				"percentage": "100",
 				"duration": "1:01:02",
+				"bgImage": "./assets/discography/headers/0024.png",
 				"finished_tracks": "15",
 				"deadline": "2026-08-14T23:59:59Z",
 				"mastering": {
