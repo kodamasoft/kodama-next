@@ -44,20 +44,56 @@ export default function ProjectListing({ project, category, bgImage }) {
 			'inline-block py-1 px-2.5 leading-none text-center whitespace-nowrap align-baseline font-bold text-white rounded-full text-base';
 
 		switch (status) {
-			case 'gen-releases':
-				styles += ' bg-purple-500/70';
-				break;
-			case 'ongoing':
-				styles += ' bg-green-500/70';
+			case 'gen-released':
+				styles += ' bg-blue-500/70';
 				break;
 			case 'gen-open':
-				styles += ' bg-yellow-600/70';
+				styles += ' bg-green-600/70';
 				break;
 			case 'gen-cancelled':
 				styles += ' bg-red-500/70';
 				break;
+			case 'gen-delayed':
+				styles += ' bg-red-200/70';
+				break;
+			case 'gen-closed':
+				styles += ' bg-orange-500/70';
+				break;
 			case 'about-to-release':
 				styles += ' bg-orange-500/70';
+				break;
+			case 'gen-unreleased':
+				styles += ' bg-yellow-500/70';
+				break;
+			case 'gen-announced':
+				styles += ' bg-teal-500/70';
+				break;
+			case 'illust-notstarted':
+				styles += ' bg-red-500/70';
+				break;
+			case 'illust-inprogress':
+				styles += ' bg-orange-500/70';
+				break;
+			case 'illust-design':
+				styles += ' bg-yellow-500/70';
+				break;
+			case 'illust-layout':
+				styles += ' bg-teal-500/70';
+				break;
+			case 'illust-complete-digital':
+				styles += ' bg-blue-500/70';
+				break;
+			case 'illust-complete-physical':
+				styles += ' bg-blue-500/70';
+				break;
+			case 'master-notstarted':
+				styles += ' bg-red-500/70';
+				break;
+			case 'master-inprogress':
+				styles += ' bg-orange-500/70';
+				break;
+			case 'master-complete':
+				styles += ' bg-blue-500/70';
 				break;
 			default:
 				styles += ' bg-gray-500/70';
@@ -138,13 +174,17 @@ export default function ProjectListing({ project, category, bgImage }) {
 							<p className='font-bold text-xl'>
 								{t('projects:project-info.artwork-commission')}
 							</p>
-							<p>{t('projects:common.statuses.' + project.artwork_commission)}</p>
+							<span className={statusBadgeStyles(project.status)}>
+								{t('projects:common.statuses.' + project.artwork_commission)}
+							</span>{' '}
 						</div>
 						<div className='p-2 flex-1/3'>
 							<p className='font-bold text-xl'>
 								{t('projects:project-info.mastering-status')}
 							</p>
-							<p>{t('projects:common.statuses.' + project.mastering.status)}</p>
+							<span className={statusBadgeStyles(project.status)}>
+								{t('projects:common.statuses.' + project.mastering.status)}
+							</span>{' '}
 						</div>
 					</div>
 
