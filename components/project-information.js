@@ -27,10 +27,12 @@ export default function ProjectInfo({ slug, children }) {
 			<strong>{t('projects:project-info.status')}:</strong>{' '}
 			{t('projects:common.statuses.' + project.status)}
 			<br />
+			{/* Legacy information, we don't show completion percentage anymore
+
 			<strong>
 				{t('projects:project-info.approximate-completion')}:
 			</strong>{' '}
-			{project.percentage ? project.percentage : ' ??? '}%<br />
+			{project.percentage ? project.percentage : ' ??? '}%<br />*/}
 			<strong>{t('projects:project-info.current-duration')}:</strong>{' '}
 			{project.duration ? project.duration : ' ??? '}
 			<br />

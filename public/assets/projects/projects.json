@@ -117,6 +117,7 @@
 				"percentage": "100",
 				"duration": "2:19:29",
 				"deadline": "2026-08-31T23:59:59Z",
+				"releaseDate": "2026-08-31T23:59:59Z",
 				"finished_tracks": "30",
 				"mastering": {
 					"status": "pending",
