@@ -27,10 +27,21 @@ export default function ProjectInfo({ slug, children }) {
 			<strong>{t('projects:project-info.status')}:</strong>{' '}
 			{t('projects:common.statuses.' + project.status)}
 			<br />
+			{/* Legacy information, we don't show completion percentage anymore
+
 			<strong>
 				{t('projects:project-info.approximate-completion')}:
 			</strong>{' '}
-			{project.percentage ? project.percentage : ' ??? '}%<br />
+			{project.percentage ? project.percentage : ' ??? '}%<br />*/}
+			<strong>{t('projects:project-info.releaseDate')}:</strong>{' '}
+			{project.releaseDate
+				? new Date(project.releaseDate).toLocaleDateString(lang, {
+						year: 'numeric',
+						month: 'long',
+						day: 'numeric',
+					})
+				: null}
+			<br />
 			<strong>{t('projects:project-info.current-duration')}:</strong>{' '}
 			{project.duration ? project.duration : ' ??? '}
 			<br />
@@ -54,8 +65,8 @@ export default function ProjectInfo({ slug, children }) {
 			<strong>
 				{t('projects:project-info.artwork-commission')}:
 			</strong>{' '}
-			{project.artwork_comission
-				? t('projects:common.statuses.' + project.artwork_comission)
+			{project.artwork_commission
+				? t('projects:common.statuses.' + project.artwork_commission)
 				: ' ??? '}
 			<br />
 		</p>

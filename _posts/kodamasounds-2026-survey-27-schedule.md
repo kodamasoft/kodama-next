@@ -31,8 +31,6 @@ Our [survey](https://forms.gle/8r84mSLqPvsesYvq5) is now closed for new answers!
 
 - 6% of our audience is in Japan
 
-- 6% of our audience is in UK
-
 **Discovered by who?**
 
 - 48% of our audience are regular listeners
@@ -439,7 +437,7 @@ Once again, big thanks to everyone’s support and their time taking the survey.
 
 **Open Schedule for 2027**
 
-Of course, it’s always subject to change, and the projects below will only be publicly contributable projects (so we shall omit special/secret albums as well as solo albums). Albums in Blue are Kodama’s, while Red is COUNTERFEST.
+Of course, it’s always subject to change, and the projects below will only be publicly contributable projects (so we shall omit special/secret albums as well as solo albums).
 
 - COUNTERFEST BOMB DISPOSAL (January ~ March)
 
@@ -469,7 +467,7 @@ Current release plan: Q1 2027
 
 **ECLECTIC RESONANCE Legendaria II**
 
-[![ECLECTIC RESONANCE Legendaria II header](/assets/posts/legendariaHeader.webp)](https://kodamasoft.net/projects/eclectic-resonance-legendaria-2)
+[![ECLECTIC RESONANCE Legendaria II header](/assets/posts/legendariaHeader.png)](https://kodamasoft.net/projects/eclectic-resonance-legendaria-2)
 
 Our legendary heroes march through the blizzard. Pure white snow piles up as far as the eye can see, but the more they traverse through the white landscape, the more they question where they might be headed… Is it fame? Is it gold? Is it death? Is it something deeper? Their journey has taken them throughout the entire continent, and yet the world never ceases to surprise our warm and gentle crowd of heroes. They’ve witnessed both misery and happiness in the eyes of its residents, and carry a light which they all hope can reach the heart of their loved ones. A very clear hope pierces through the cold veil of those mountains, however: Their Legend is not yet coming to a close, and this here is just another brave step for our troupe to take.
 
@@ -501,7 +499,7 @@ Current release plan: Q2 2027
 
 **COUNTERFEST HEROES 02**
 
-[![COUNTERFEST HEROES 02 header](/assets/posts/heroesHeader.webp)](https://kodamasoft.net/projects/dj-koishi-2)
+[![COUNTERFEST HEROES 02 header](/assets/posts/heroesHeader.webp)](https://counterfest.kodamasoft.net/projects/counterfest-heroes-02)
 
 Round 2. Did you guys do your homework and like HEROES 01? Good. You like LYSKO? You better, so do we. Don’t worry, she’s right there, charging up just for you and me. I heard she planned to go and dig some sample CDs and obscure otaku references in some jungle temple. Yeah, I didn’t really get it either, but hey, she’ll get the job done just like she did last year on her moon mission. Just remember, as always: SAMPLING IS GOD.
 

@@ -77,7 +77,7 @@ The `projects.json` file is structured as follows:
   "projects": [
    {
     "slug":"eclectic-resonance-legendaria",
-    "status": "accepting",
+    "status": "gen-open",
     "percentage": "0",
     "duration": "00:00",
     "finished_tracks": "0",
@@ -86,7 +86,7 @@ The `projects.json` file is structured as follows:
      "status": "pending",
      "engineer": "R-Man (Resonant Union)"
     },
-    "artwork_comission": "Pending",
+    "artwork_commission": "Pending",
     "color": "#d44215"
    },
             ...
@@ -109,7 +109,7 @@ The file contains a list of categories.
   - `mastering` is the mastering information of the project.
     - `status` is the status of the mastering.
     - `engineer` is the mastering engineer.
-  - `artwork_comission` is the status of the artwork commission.
+  - `artwork_commission` is the status of the artwork commission.
   - `color` is the color of the project card.
 
 ### Project pages
