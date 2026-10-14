@@ -500,6 +500,16 @@
 		"booth": "https://kodamasoft.booth.pm/items/8847817",
 		"website": "/releases/eclectic-resonance-tremor",
 		"vgmdb": "https://vgmdb.net/album/156246"
-	}
-
+	},
+	"wunsch-in-farbe": {
+        "id": "KSDS-0003",
+        "releaseDate": "2026-10-15T00:00:00+0200",
+        "name": "Wunsch in Farbe",
+        "cover": "/assets/discography/covers/KSDS-0003.png",
+        "coverColor": "#0090fe",
+        "bandcamp": "https://kodamasounds.bandcamp.com/album/wunsch-in-farbe",
+        "booth": "https://kodamasoft.booth.pm/items/8934549",
+        "vgmdb": "https://vgmdb.net/album/164662",
+        "mv": "https://www.youtube.com/watch?v=hPTojMKEUxQ"
+    }
 }
