@@ -1,30 +1,11 @@
 {
-	"jys music": {
+	"jys_music": {
 		"name": "jys_music",
 		"links": {
-			"twitter": "https://x.com/JYS_music",
-			"bluesky": "https://bsky.app/profile/jysmusic.bsky.social",
-			"bandcamp": "https://justinshin.bandcamp.com",
 			"youtube": "https://www.youtube.com/channel/UCp4cy51E4xjh4TDCf_-DAOQ",
-			"soundcloud": "https://soundcloud.com/jys_music",
-			"apple": "https://music.apple.com/artist/justin-shin/1684597162",
-			"spotify": "https://open.spotify.com/artist/2QNYXujy2jpaW8Eg2REgmS",
-			"website": "https://www.justinshinmusic.com",
-			"vgmdb": "https://vgmdb.net/artist/57038"
-		}
-	},
-	"Justin Shin": {
-		"name": "Justin Shin",
-		"links": {
-			"twitter": "https://x.com/JYS_music",
-			"bluesky": "https://bsky.app/profile/jysmusic.bsky.social",
-			"bandcamp": "https://justinshin.bandcamp.com",
-			"youtube": "https://www.youtube.com/channel/UCp4cy51E4xjh4TDCf_-DAOQ",
-			"soundcloud": "https://soundcloud.com/jys_music",
-			"apple": "https://music.apple.com/artist/justin-shin/1684597162",
-			"spotify": "https://open.spotify.com/artist/2QNYXujy2jpaW8Eg2REgmS",
-			"website": "https://www.justinshinmusic.com",
-			"vgmdb": "https://vgmdb.net/artist/57038"
+			"soundcloud": "https://soundcloud.com/user-741569740",
+			"twitter": "https://twitter.com/jys_music",
+			"vgmdb": "https://vgmdb.net/artist/54333"
 		}
 	},
 	"Rosie Drown": {
@@ -39,7 +20,6 @@
 		"name": "Philip Saguil",
 		"links": {
 			"twitter": "https://twitter.com/FireFallsMusic",
-			"bluesky": "https://bsky.app/profile/firefallsmusic.bsky.social",
 			"vgmdb": "https://vgmdb.net/artist/48226",
 			"youtube": "https://www.youtube.com/@FireFallsMusic",
 			"bandcamp": "https://philipsaguil.bandcamp.com"
@@ -49,13 +29,10 @@
 		"name": "Tee-vee",
 		"links": {
 			"website": "https://teevee.neocities.org/",
-			"bluesky": "https://bsky.app/profile/teeveeterminal.bsky.social",
 			"twitter": "https://twitter.com/teevee_terminal",
 			"bandcamp": "https://teeveemusic.bandcamp.com/",
 			"soundcloud": "https://soundcloud.com/tee-vee-novae",
 			"youtube": "https://www.youtube.com/user/teevee27",
-			"spotify": "https://open.spotify.com/artist/08gCV0DiAryuIskNBgxhDs",
-			"apple": "https://music.apple.com/artist/1784404283",
 			"vgmdb": "https://vgmdb.net/artist/36399"
 		}
 	},
@@ -79,6 +56,7 @@
 			"vgmdb": "https://vgmdb.net/artist/46083"
 		}
 	},
+
 	"Smart Cat Rides Bicycle": {
 		"name": "Smart Cat Rides Bicycle",
 		"links": {
@@ -121,13 +99,6 @@
 	},
 	"Dylan Hendrick": {
 		"name": "Dylan Hendrick",
-		"links": {
-			"twitter": "https://twitter.com/HendrickDylan",
-			"vgmdb": "https://vgmdb.net/artist/54380"
-		}
-	},
-	"LyhNed": {
-		"name": "LyhNed",
 		"links": {
 			"twitter": "https://twitter.com/HendrickDylan",
 			"vgmdb": "https://vgmdb.net/artist/54380"
@@ -187,7 +158,6 @@
 			"jp": "亜店"
 		},
 		"links": {
-			"bluesky": "https://bsky.app/profile/intelligencecasino.bsky.social",
 			"bandcamp": "https://66clown.bandcamp.com/",
 			"soundcloud": "https://soundcloud.com/intelligencecasino",
 			"vgmdb": "https://vgmdb.net/artist/54381"
@@ -196,7 +166,6 @@
 	"intelligencecasino": {
 		"name": "intelligencecasino",
 		"links": {
-			"bluesky": "https://bsky.app/profile/intelligencecasino.bsky.social",
 			"bandcamp": "https://66clown.bandcamp.com/",
 			"soundcloud": "https://soundcloud.com/intelligencecasino",
 			"vgmdb": "https://vgmdb.net/artist/54381"
@@ -216,7 +185,6 @@
 		"name": "Ren",
 		"links": {
 			"twitter": "https://twitter.com/RenSoundworks",
-			"bluesky": "https://bsky.app/profile/rensoundworks.bsky.social",
 			"bandcamp": "https://rensoundworks.bandcamp.com/",
 			"soundcloud": "https://soundcloud.com/higanren",
 			"vgmdb": "https://vgmdb.net/artist/46976"
@@ -225,11 +193,11 @@
 	"Lollipop": {
 		"name": "Lollipop",
 		"links": {
+			"website": "https://lollipop314.github.io/site/",
 			"twitter": "https://twitter.com/Lollipop_314",
 			"soundcloud": "https://soundcloud.com/lollipop-144989227/",
 			"youtube": "https://www.youtube.com/@lollipop6258",
 			"bandcamp": "https://lollipop314.bandcamp.com/",
-			"website": "https://lollipop314.github.io/site/",
 			"vgmdb": "https://vgmdb.net/artist/48955"
 		}
 	},
@@ -256,11 +224,11 @@
 	"malicent": {
 		"name": "malicent",
 		"links": {
+			"website": "http://cursedmonastery.blog.fc2.com/",
 			"twitter": "https://twitter.com/malicent_hart",
 			"bandcamp": "https://malicent.bandcamp.com/",
 			"soundcloud": "https://soundcloud.com/malicent",
 			"youtube": "https://www.youtube.com/@MalicentHart",
-			"website": "http://cursedmonastery.blog.fc2.com/",
 			"vgmdb": "https://vgmdb.net/artist/12619"
 		}
 	},
@@ -278,7 +246,6 @@
 		"links": {
 			"website": "https://sites.google.com/view/shonocondo",
 			"twitter": "https://twitter.com/shonocondo",
-			"bluesky": "https://bsky.app/profile/shonocondo.bsky.social",
 			"pixiv": "https://shonocondo.fanbox.cc/",
 			"vgmdb": "https://vgmdb.net/artist/47392"
 		}
@@ -291,24 +258,8 @@
 			"bandcamp": "https://kodamasounds.bandcamp.com/",
 			"soundcloud": "https://soundcloud.com/fivda",
 			"youtube": "https://www.youtube.com/channel/UCiYBeqqQUagH-q-sAdsQPOw",
-			"apple": "https://music.apple.com/artist/1683189527",
-			"spotify": "https://open.spotify.com/artist/75Kv4UNjg8e2WYti6AT4VM",
 			"vgmdb": "https://vgmdb.net/artist/36408",
-			"website": "https://fivda.net"
-		}
-	},
-	"DJ ROUGE-GORGE": {
-		"name": "DJ ROUGE-GORGE",
-		"links": {
-			"twitter": "https://twitter.com/Fivda_",
-			"bluesky:": "https://bsky.app/profile/fivda.bsky.social",
-			"bandcamp": "https://kodamasounds.bandcamp.com/",
-			"soundcloud": "https://soundcloud.com/fivda",
-			"youtube": "https://www.youtube.com/channel/UCiYBeqqQUagH-q-sAdsQPOw",
-			"apple": "https://music.apple.com/artist/1748725061",
-			"spotify": "https://open.spotify.com/artist/3C09h1fglYUYLNhA1n3pgT",
-			"vgmdb": "https://vgmdb.net/artist/59938",
-			"website": "https://fivda.net"
+			"website": "https://linktr.ee/fivda"
 		}
 	},
 	"Yanis": {
@@ -349,19 +300,15 @@
 		"name": "Eyhz",
 		"links": {
 			"twitter": "https://twitter.com/Eyhz6",
-			"youtube": "https://www.youtube.com/channel/UCAFm3VrcZGV5osyGNa9VYvA",
 			"vgmdb": "https://vgmdb.net/artist/53706"
 		}
 	},
 	"Mitomoro": {
 		"name": "Mitomoro",
 		"links": {
-			"twitter": "https://x.com/Mitomoro",
-			"youtube": "https://www.youtube.com/channel/UCVOMYQPE5naoay0sN5W9O_A",
-			"bandcamp": "https://mitomoro.bandcamp.com",
+			"facebook": "https://www.facebook.com/mitomoromusic/",
 			"soundcloud": "https://soundcloud.com/mitomoro",
-			"apple": "https://music.apple.com/artist/1473231126",
-			"spotify": "https://open.spotify.com/artist/3T4C9VQCeR73EPdY1cslYN",
+			"twitter": "https://twitter.com/Mitomoro",
 			"vgmdb": "https://vgmdb.net/artist/49145"
 		}
 	},
@@ -377,7 +324,7 @@
 	"GOETIA": {
 		"name": "GOETIΛ",
 		"links": {
-			"bandcamp": "https://arsgoetia1.bandcamp.com/",
+			"bandcamp": "https://arsgoetia1.bandcamp.com/releases",
 			"soundcloud": "https://soundcloud.com/ars_goetia",
 			"youtube": "https://www.youtube.com/channel/UCaBnlDM9zC_KdPkMC0eZd-A",
 			"twitter": "https://twitter.com/Ars_Goetia_",
@@ -389,14 +336,13 @@
 	"VTQ": {
 		"name": "VTQ",
 		"links": {
-			"twitter": "https://twitter.com/volumetrique",
-			"bluesky": "https://bsky.app/profile/volumetrique.live",
 			"soundcloud": "https://soundcloud.com/volumetrique",
 			"website": "https://volumetrique.live/",
-			"apple": "https://music.apple.com/artist/volumetrique/1660587296",
+			"apple": "https://music.apple.com/us/artist/vtq/1612529444",
 			"youtube": "https://www.youtube.com/channel/UCA-8abzeuoKeSfcaysVlT8Q",
 			"bandcamp": "https://volumetrique.bandcamp.com/",
-			"spotify": "https://open.spotify.com/artist/2UzS5YyS7ozTI23XTKh0P8",
+			"spotify": "https://open.spotify.com/artist/59g6uy62eR7Dsu3t9hQP9Q",
+			"twitter": "https://twitter.com/volumetrique",
 			"vgmdb": "https://vgmdb.net/artist/56092"
 		}
 	},
@@ -455,11 +401,10 @@
 			"vgmdb": "https://vgmdb.net/artist/36399"
 		}
 	},
-	"MelissaLiTian": {
-		"name": "MelissaLiTian",
+	"melissalitian": {
+		"name": "melissalitian",
 		"links": {
 			"twitter": "https://twitter.com/MelissaLiTian",
-			"website": "https://li-tian.carrd.co",
 			"vgmdb": "https://vgmdb.net/artist/36407"
 		}
 	},
@@ -474,7 +419,7 @@
 	"krz": {
 		"name": "krz",
 		"links": {
-			"website": "https://krz.rocks/",
+			"website": "https://krz.rocks",
 			"vgmdb": "https://vgmdb.net/artist/62573"
 		}
 	},
@@ -482,7 +427,6 @@
 		"name": "MB",
 		"links": {
 			"twitter": "https://twitter.com/MBgov1133",
-			"bluesky": "https://bsky.app/profile/mbgov.bsky.social",
 			"youtube": "https://www.youtube.com/channel/UCJi791FFenRxNgzTVGvarRg",
 			"bandcamp": "https://mbgov1133.bandcamp.com/",
 			"vgmdb": "https://vgmdb.net/artist/49326"
@@ -515,11 +459,11 @@
 	"Yumi Sakata": {
 		"name": "Yumi Sakata",
 		"links": {
-			"twitter": "https://x.com/YumiSakataMusic",
 			"bandcamp": "https://yumisakata.bandcamp.com/album/sins-of-the-fossil-world",
 			"youtube": "https://www.youtube.com/@YumiSakata/featured",
 			"soundcloud": "https://soundcloud.com/yumi-sakata-music",
 			"spotify": "https://open.spotify.com/artist/71Q5wFTtnvfca20C5LexUO",
+			"twitter": "https://x.com/YumiSakataMusic",
 			"vgmdb": "https://vgmdb.net/artist/57074"
 		}
 	},
@@ -570,16 +514,7 @@
 	"Rammy": {
 		"name": "Rammy",
 		"links": {
-			"bluesky": "https://bsky.app/profile/rammy.bsky.social",
-			"youtube": "https://www.youtube.com/@ramillia_music",
-			"vgmdb": "https://vgmdb.net/artist/75887"
-		}
-	},
-	"Rämillia": {
-		"name": "Rämillia",
-		"links": {
-			"bluesky": "https://bsky.app/profile/rammy.bsky.social",
-			"youtube": "https://www.youtube.com/@ramillia_music",
+			"twitter": "https://twitter.com/___rammyy___",
 			"vgmdb": "https://vgmdb.net/artist/59515"
 		}
 	},
@@ -627,6 +562,18 @@
 			"soundcloud": "https://soundcloud.com/litmus_star",
 			"spotify": "https://open.spotify.com/intl-fr/artist/75Kv4UNjg8e2WYti6AT4VM",
 			"vgmdb": "https://vgmdb.net/artist/48925"
+		}
+	},
+	"DJ ROUGE-GORGE": {
+		"name": "DJ ROUGE-GORGE",
+		"links": {
+			"twitter": "https://twitter.com/Fivda_",
+			"bandcamp": "https://kodamasounds.bandcamp.com/",
+			"soundcloud": "https://soundcloud.com/fivda",
+			"youtube": "https://www.youtube.com/channel/UCiYBeqqQUagH-q-sAdsQPOw",
+			"website": "https://linktr.ee/fivda",
+			"spotify": "open.spotify.com/artist/75Kv4UNjg8e2WYti6AT4VM",
+			"vgmdb": "https://vgmdb.net/artist/59938"
 		}
 	},
 	"trailmix37": {
@@ -683,6 +630,7 @@
 	"cal": {
 		"name": "cal",
 		"links": {
+			"twitter": "https://twitter.com/vgmcal",
 			"vgmdb": "https://vgmdb.net/artist/60705"
 		}
 	},
@@ -693,9 +641,7 @@
 		},
 		"links": {
 			"twitter": "https://twitter.com/leyrinne",
-			"bluesky": "https://bsky.app/profile/leyrinne.bsky.social",
 			"youtube": "https://www.youtube.com/@Leyrinne",
-			"soundcloud": "https://soundcloud.com/leyrinne",
 			"vgmdb": "https://vgmdb.net/artist/60704"
 		}
 	},
@@ -719,7 +665,6 @@
 			"soundcloud": "https://soundcloud.com/mediamonochrome",
 			"youtube": "https://www.youtube.com/c/Monochrome009",
 			"spotify": "https://open.spotify.com/intl-fr/artist/3X0oRJbUPUaB9cmB8mDQTA?si=zSBChDvdTiyxL3hlad9lSA",
-			"apple": "https://music.apple.com/artist/1697803902",
 			"vgmdb": "https://vgmdb.net/artist/60697"
 		}
 	},
@@ -843,29 +788,24 @@
 		"name": "Nuchuu",
 		"links": {
 			"twitter": "https://twitter.com/Neema_Dreamer",
-			"bluesky": "https://bsky.app/profile/neemadreamer.bsky.social",
 			"bandcamp": "https://nuchuu.bandcamp.com",
 			"youtube": "https://www.youtube.com/channel/UCiqC6Ip0v8G0Y44VYne5JiA",
 			"soundcloud": "https://soundcloud.com/nuchuu-music",
 			"pixiv": "https://www.pixiv.net/en/users/56832475",
-			"spotify": "https://open.spotify.com/artist/4RnN9zkAmAfFqAiXsoYpjF",
-			"apple": "https://music.apple.com/artist/nuchuu/1583176179",
-			"website": "https://linktr.ee/neemadreamer",
-			"vgmdb": "https://vgmdb.net/artist/60683"
+			"vgmdb": "https://vgmdb.net/artist/60683",
+			"website": "https://linktr.ee/neemadreamer"
 		}
 	},
 	"PSYQUO": {
 		"name": "PSYQUO",
 		"links": {
 			"twitter": "https://twitter.com/PSYQUO_",
-			"bluesky": "https://bsky.app/profile/psyquo.bsky.social",
 			"bandcamp": "https://psyquo.bandcamp.com",
+			"spotify": "https://open.spotify.com/intl-fr/artist/5C7Wc7qxuhynsdfZ9ETs8u?si=LYrGZDrbRuusjNo8pHF8WQ",
 			"youtube": "https://www.youtube.com/channel/UCP14Evt7dZpOgJZ3ZBQFgHA",
 			"soundcloud": "https://soundcloud.com/psyquo",
-			"spotify": "https://open.spotify.com/artist/5C7Wc7qxuhynsdfZ9ETs8u",
-			"apple": "https://music.apple.com/artist/1619961883",
-			"website": "https://psyquo.carrd.co",
-			"vgmdb": "https://vgmdb.net/artist/56093"
+			"vgmdb": "https://vgmdb.net/artist/56093",
+			"website": "https://psyquo.carrd.co"
 		}
 	},
 	"Kurin T": {
@@ -990,15 +930,17 @@
 			"bluesky": "https://bsky.app/profile/aikatype.bsky.social",
 			"soundcloud": "https://soundcloud.com/aikatype",
 			"youtube": "https://www.youtube.com/@aikatype",
+			"apple": "https://music.apple.com/artist/1722324619",
+			"spotify": "https://open.spotify.com/artist/5hpRHrefBe7rvXTHzV6pZF",
 			"vgmdb": "https://vgmdb.net/artist/60619"
 		}
 	},
 	"Zeth": {
 		"name": "Zeth",
 		"links": {
-			"website": "https://linktr.ee/ZethZ161",
-			"bluesky": "https://bsky.app/profile/zethz161.bsky.social",
+			"website": "https://zethlim.crd.co",
 			"twitter": "https://twitter.com/ZethZ161",
+			"bluesky": "https://bsky.app/profile/zethz161.bsky.social",
 			"vgmdb": "https://vgmdb.net/artist/53348"
 		}
 	},
@@ -1020,8 +962,6 @@
 			"twitter": "https://twitter.com/chouxworld",
 			"youtube": "https://www.youtube.com/@chouxworld",
 			"soundcloud": "https://soundcloud.com/chouxworld",
-			"apple": "https://music.apple.com/artist/1619932450",
-			"spotify": "https://open.spotify.com/artist/0lMdSfoNu7PrifhfGYjM7S",
 			"vgmdb": "https://vgmdb.net/artist/57362"
 		}
 	},
@@ -1068,12 +1008,9 @@
 		"name": "HEAVYVIPER",
 		"links": {
 			"twitter": "https://twitter.com/HeavyViper",
-			"bluesky": "https://bsky.app/profile/heavyviper.bsky.social",
 			"bandcamp": "http://heavyviper.bandcamp.com/",
 			"youtube": "http://www.youtube.com/channel/UC1cIYxsbWlBP5t2L_THtRRQ",
 			"soundcloud": "https://soundcloud.com/heavyviper",
-			"apple": "https://music.apple.com/artist/1748217782",
-			"spotify": "https://open.spotify.com/artist/3juw87q9Kbu7mBH0Q9ATB0",
 			"vgmdb": "https://vgmdb.net/artist/17972"
 		}
 	},
@@ -1091,8 +1028,6 @@
 			"bandcamp": "https://muscises.bandcamp.com",
 			"youtube": "https://www.youtube.com/channel/UCC2oUuOXqcd7ewj_X-Eqprg",
 			"soundcloud": "https://soundcloud.com/muscises",
-			"apple": "https://music.apple.com/artist/1745962121",
-			"spotify": "https://open.spotify.com/artist/6WoNDnTBPRW2UakqttliOS",
 			"vgmdb": "https://vgmdb.net/artist/62524"
 		}
 	},
@@ -1109,7 +1044,6 @@
 		"name": "scythe",
 		"links": {
 			"twitter": "https://twitter.com/scythe1005",
-			"bluesky": "https://bsky.app/profile/scythe-chiptune.com",
 			"bandcamp": "https://scythe1005.bandcamp.com/music",
 			"youtube": "https://www.youtube.com/user/AMAZISTscythe1005",
 			"soundcloud": "https://soundcloud.com/scythe1005",
@@ -1137,8 +1071,6 @@
 			"bandcamp": "https://takuikaninja.bandcamp.com",
 			"youtube": "https://www.youtube.com/c/TakuikaNinja",
 			"soundcloud": "https://soundcloud.com/takuikaninja",
-			"apple": "https://music.apple.com/artist/1712922995",
-			"spotify": "https://open.spotify.com/artist/5SfKAQDfsGe9d5QaPv0RoT",
 			"vgmdb": "https://vgmdb.net/artist/62761"
 		}
 	},
@@ -1170,7 +1102,6 @@
 		"name": "marklincadet",
 		"links": {
 			"twitter": "https://twitter.com/marklincadet",
-			"bluesky": "https://bsky.app/profile/marklincadet.bsky.social",
 			"youtube": "https://www.youtube.com/channel/UCj9i7LKeaXESr-d6ojejtZA",
 			"vgmdb": "https://vgmdb.net/artist/59659"
 		}
@@ -1190,8 +1121,8 @@
 		"links": {
 			"twitter": "https://twitter.com/dot_noise",
 			"youtube": "https://www.youtube.com/@dot_noise",
-			"soundcloud": "https://soundcloud.com/dotnoise",
 			"website": "https://linktr.ee/dotnoise",
+			"soundcloud": "https://soundcloud.com/dotnoise",
 			"spotify": "https://open.spotify.com/artist/1Mv4KiZivPAUasSBy2BIr6",
 			"apple": "https://music.apple.com/artist/noise/1754734746",
 			"vgmdb": "https://vgmdb.net/artist/62473"
@@ -1201,7 +1132,6 @@
 		"name": "Xeudo Code",
 		"links": {
 			"twitter": "https://twitter.com/XeudoCode",
-			"bluesky": "https://bsky.app/profile/harue2022.bsky.social",
 			"bandcamp": "https://xeudocode.bandcamp.com/music",
 			"youtube": "https://www.youtube.com/channel/UCT7OsTt-cvWKW7BuLj_q2Rg",
 			"soundcloud": "https://soundcloud.com/xeudocode",
@@ -1224,23 +1154,11 @@
 		"name": "ReeK",
 		"links": {
 			"twitter": "https://twitter.com/ReeKDoesDTM",
-			"bluesky": "https://bsky.app/profile/reekdoesdtm.bsky.social",
+			"bluesky": "https://reekdoesdtm.bsky.social",
 			"soundcloud": "https://soundcloud.com/reek_wobs",
 			"bandcamp": "https://reekandthemeitriphecta.bandcamp.com",
 			"spotify": "https://open.spotify.com/artist/6g1tKcNoNq2ZqlCiYyAh4i",
-			"apple": "https://music.apple.com/artist/reek/1581269980",
-			"vgmdb": "https://vgmdb.net/artist/53341"
-		}
-	},
-	"Asayami": {
-		"name": "Asayami",
-		"links": {
-			"twitter": "https://twitter.com/ReeKDoesDTM",
-			"bluesky": "https://bsky.app/profile/reekdoesdtm.bsky.social",
-			"soundcloud": "https://soundcloud.com/reek_wobs",
-			"bandcamp": "https://reekandthemeitriphecta.bandcamp.com",
-			"spotify": "https://open.spotify.com/artist/6g1tKcNoNq2ZqlCiYyAh4i",
-			"apple": "https://music.apple.com/artist/reek/1581269980",
+			"apple": "https://music.apple.com/artist/1581269980",
 			"vgmdb": "https://vgmdb.net/artist/53341"
 		}
 	},
@@ -1248,24 +1166,58 @@
 		"name": "Afflected Light",
 		"links": {
 			"twitter": "https://twitter.com/ReeKDoesDTM",
-			"bluesky": "https://bsky.app/profile/reekdoesdtm.bsky.social",
+			"bluesky": "https://reekdoesdtm.bsky.social",
 			"soundcloud": "https://soundcloud.com/reek_wobs",
 			"bandcamp": "https://reekandthemeitriphecta.bandcamp.com",
-			"spotify": "https://open.spotify.com/artist/6g1tKcNoNq2ZqlCiYyAh4i",
-			"apple": "https://music.apple.com/artist/reek/1581269980",
-			"vgmdb": "https://vgmdb.net/artist/53341"
+			"spotify": "https://open.spotify.com/artist/5xU4akMPkaRS5uv06LiQog",
+			"apple": "https://music.apple.com/artist/1745927403",
+			"vgmdb": "https://vgmdb.net/artist/62630"
+		}
+	},
+	"Asatsumei": {
+		"name": "Asatsumei",
+		"links": {
+			"twitter": "https://twitter.com/ReeKDoesDTM",
+			"bluesky": "https://reekdoesdtm.bsky.social",
+			"soundcloud": "https://soundcloud.com/reek_wobs",
+			"bandcamp": "https://reekandthemeitriphecta.bandcamp.com",
+			"spotify": "https://open.spotify.com/artist/1QES16MaP9kxxQFb6WkQh1/",
+			"apple": "https://music.apple.com/artist/1652419850",
+			"vgmdb": "https://vgmdb.net/artist/55662"
+		}
+	},
+	"Asayami": {
+		"name": "Asayami",
+		"links": {
+			"twitter": "https://twitter.com/ReeKDoesDTM",
+			"bluesky": "https://reekdoesdtm.bsky.social",
+			"soundcloud": "https://soundcloud.com/reek_wobs",
+			"bandcamp": "https://reekandthemeitriphecta.bandcamp.com",
+			"spotify": "https://open.spotify.com/artist/0HdK9fOTJnSHd66bSmYVyB",
+			"apple": "https://music.apple.com/artist/1738921528",
+			"vgmdb": "https://vgmdb.net/artist/62880"
 		}
 	},
 	"Mei Naganowa": {
 		"name": "Mei Naganowa",
 		"links": {
 			"twitter": "https://twitter.com/ReeKDoesDTM",
-			"bluesky": "https://bsky.app/profile/reekdoesdtm.bsky.social",
+			"bluesky": "https://reekdoesdtm.bsky.social",
 			"soundcloud": "https://soundcloud.com/reek_wobs",
 			"bandcamp": "https://reekandthemeitriphecta.bandcamp.com",
-			"spotify": "https://open.spotify.com/artist/6g1tKcNoNq2ZqlCiYyAh4i",
-			"apple": "https://music.apple.com/artist/reek/1581269980",
+			"spotify": "https://open.spotify.com/artist/5pyOQX3sse7yLpuiVILipH",
+			"apple": "https://music.apple.com/artist/1650549901",
 			"vgmdb": "https://vgmdb.net/artist/53341"
+		}
+	},
+	"Natsuki Sakonmai": {
+		"name": "Natsuki Sakonmai",
+		"links": {
+			"twitter": "https://twitter.com/ReeKDoesDTM",
+			"bluesky": "https://reekdoesdtm.bsky.social",
+			"soundcloud": "https://soundcloud.com/reek_wobs",
+			"bandcamp": "https://reekandthemeitriphecta.bandcamp.com",
+			"vgmdb": "https://vgmdb.net/artist/83714"
 		}
 	},
 	"V0iD": {
@@ -1283,7 +1235,6 @@
 		"name": "Foodbot",
 		"links": {
 			"twitter": "https://twitter.com/Foodbot4",
-			"bluesky": "https://bsky.app/profile/foodbot.bsky.social",
 			"bandcamp": "https://foodbot.bandcamp.com/music",
 			"youtube": "https://www.youtube.com/channel/UCoiwXTR6Q36gqxP4ykfIYtg",
 			"soundcloud": "https://soundcloud.com/foodbot",
@@ -1327,7 +1278,6 @@
 		"name": "takehirotei",
 		"links": {
 			"twitter": "https://twitter.com/takehirotei",
-			"bluesky": "https://bsky.app/profile/takehirotei.bsky.social",
 			"bandcamp": "https://takehirotei.bandcamp.com",
 			"youtube": "https://www.youtube.com/channel/UCM3JSULS1pF_zk14xk70wXg",
 			"soundcloud": "https://soundcloud.com/takehirotei",
@@ -1345,8 +1295,6 @@
 			"bandcamp": "https://g3ntlebreeze.bandcamp.com/",
 			"youtube": "https://www.youtube.com/channel/UCv30x8z45BPMJ1TQ4ljZsRA",
 			"soundcloud": "https://soundcloud.com/g3ntlebreeze",
-			"apple": "https://music.apple.com/artist/1611947807",
-			"spotify": "https://open.spotify.com/artist/7q1DZnAWQx5RnSKvhaiVf5",
 			"website": "https://g3ntlebreeze.carrd.co/",
 			"vgmdb": "https://vgmdb.net/artist/57483"
 		}
@@ -1365,7 +1313,6 @@
 		"name": "ne_pura",
 		"links": {
 			"twitter": "https://twitter.com/nepperoni",
-			"bluesky": "https://bsky.app/profile/nepperoni.bsky.social",
 			"pixiv": "https://www.pixiv.net/en/users/56006676",
 			"vgmdb": "https://vgmdb.net/artist/60617"
 		}
@@ -1433,16 +1380,6 @@
 			"vgmdb": "https://vgmdb.net/artist/12109"
 		}
 	},
-	"Tony Astro": {
-		"name": "Tony Astro",
-		"links": {
-			"twitter": "https://x.com/TonyAstroVEVO",
-			"youtube": "https://www.youtube.com/@MagicManTonyAstro",
-			"soundcloud": "https://soundcloud.com/tonyastro",
-			"bandcamp": "https://tonyastro.bandcamp.com",
-			"vgmdb": "https://vgmdb.net/artist/64831"
-		}
-	},
 	"MAGIC MAN TONY ASTRO": {
 		"name": "MAGIC MAN TONY ASTRO",
 		"links": {
@@ -1497,8 +1434,6 @@
 			"website": "https://jaxcheese.net",
 			"soundcloud": "https://soundcloud.com/jaxcheese",
 			"bandcamp": "https://jaxcheese.bandcamp.com",
-			"apple": "https://music.apple.com/artist/1775358479",
-			"spotify": "https://open.spotify.com/artist/4pmdwSOBQU8aZq36htVIQW",
 			"vgmdb": "https://vgmdb.net/artist/62747"
 		}
 	},
@@ -1506,12 +1441,9 @@
 		"name": "Tobokegao",
 		"links": {
 			"twitter": "https://x.com/to6okegao",
-			"bluesky": "https://bsky.app/profile/tobokegao.bsky.social",
 			"bandcamp": "https://tbkgao.bandcamp.com",
 			"youtube": "https://www.youtube.com/to6okegao",
 			"soundcloud": "https://soundcloud.com/tobokegao",
-			"apple": "https://music.apple.com/artist/1532385760",
-			"spotify": "https://open.spotify.com/artist/2ZW0H3Dntod1TN6dUFKY3v",
 			"website": "https://tobokegao.github.io",
 			"vgmdb": "https://vgmdb.net/artist/47842"
 		}
@@ -1550,7 +1482,6 @@
 		"name": "SpiralFlip",
 		"links": {
 			"twitter": "https://x.com/SpiralFlip",
-			"bluesky": "https://bsky.app/profile/spiralflip.bsky.social",
 			"bandcamp": "https://spiralflip.bandcamp.com",
 			"youtube": "https://www.youtube.com/channel/UCzDxWU19jeXdIaRMyWyDVJA",
 			"spotify": "https://open.spotify.com/artist/16LZTQTkuKjgoIAS4oHurP",
@@ -1584,6 +1515,7 @@
 		"links": {
 			"youtube": "https://www.youtube.com/user/HombreDeElectricidad",
 			"soundcloud": "https://soundcloud.com/justinthornburgh",
+			"website": "link",
 			"vgmdb": "https://vgmdb.net/artist/27594"
 		}
 	},
@@ -1700,7 +1632,6 @@
 		"name": "WujuBlade",
 		"links": {
 			"twitter": "https://x.com/WujuB1ade",
-			"bluesky": "https://bsky.app/profile/wujublade.bsky.social",
 			"soundcloud": "https://soundcloud.com/WujuBlade",
 			"website": "https://linktr.ee/WujuBlade",
 			"vgmdb": "https://vgmdb.net/artist/66099"
@@ -1728,7 +1659,6 @@
 		"name": "Transendium",
 		"links": {
 			"twitter": "https://x.com/ardentminus",
-			"bluesky": "https://bsky.app/profile/transendium.bsky.social",
 			"youtube": "https://www.youtube.com/@Transendium",
 			"pixiv": "https://www.pixiv.net/en/users/88643785",
 			"vgmdb": "https://vgmdb.net/artist/58510"
@@ -1748,6 +1678,7 @@
 		"links": {
 			"twitter": "https://x.com/kalsoermusic",
 			"soundcloud": "https://soundcloud.com/kalsoermusic",
+			"bandcamp": "https://kalsoer.bandcamp.com/",
 			"vgmdb": "https://vgmdb.net/artist/62969"
 		}
 	},
@@ -1775,11 +1706,11 @@
 		"name": "sanmal",
 		"links": {
 			"twitter": "https://x.com/sanmal307",
-			"bluesky": "https://bsky.app/profile/ssaanmal.bsky.social",
+			"bluesky": "https://bsky.app/profile/sanmal.bandcamp.com",
 			"youtube": "https://www.youtube.com/channel/UCsM4zA6Og--d9sP6ssLmztA",
 			"soundcloud": "https://soundcloud.com/sanmal307",
 			"spotify": "https://open.spotify.com/artist/55m6sM4v4CWCN8fEOMvWfR",
-			"apple": "https://music.apple.com/artist/1231903578",
+			"apple": "https://music.apple.com/artist/sanmal/1231903578",
 			"website": "https://sanmal307.studio.site",
 			"vgmdb": "https://vgmdb.net/artist/55595"
 		}
@@ -1806,7 +1737,7 @@
 		"links": {
 			"twitter": "https://x.com/Faxyne",
 			"bandcamp": "https://raphlesia.bandcamp.com",
-			"soundcloud": "https://soundcloud.com/faxyne",
+			"soundcloud": "https://soundcloud.com/raphlesia",
 			"vgmdb": "https://vgmdb.net/artist/53070"
 		}
 	},
@@ -1814,9 +1745,8 @@
 		"name": "Faxyne",
 		"links": {
 			"twitter": "https://x.com/Faxyne",
-			"bluesky": "https://bsky.app/profile/idiosavan.me",
 			"bandcamp": "https://raphlesia.bandcamp.com",
-			"soundcloud": "https://soundcloud.com/faxyne",
+			"soundcloud": "https://soundcloud.com/raphlesia",
 			"vgmdb": "https://vgmdb.net/artist/53070"
 		}
 	},
@@ -1907,9 +1837,6 @@
 			"vgmdb": "https://vgmdb.net/artist/70693"
 		}
 	},
-	"Amael": {
-		"name": "Amael"
-	},
 	"Kat": {
 		"name": "Kat",
 		"links": {
@@ -1947,7 +1874,6 @@
 			"youtube": "https://www.youtube.com/@utzbo",
 			"soundcloud": "https://soundcloud.com/utzbo",
 			"spotify": "https://open.spotify.com/artist/2jRusHcGFTiPAmZPiErlTQ",
-			"apple": "https://music.apple.com/artist/utzbo/1750697434",
 			"vgmdb": "https://vgmdb.net/artist/56782"
 		}
 	},
@@ -1969,21 +1895,6 @@
 			"youtube": "https://www.youtube.com/@iberaiemelia",
 			"soundcloud": "https://soundcloud.com/emelia-kaylee",
 			"website": "https://iberaiemelia.kasuka.be/",
-			"spotify": "https://open.spotify.com/artist/0Zckel75c8A233bEb3MGLL",
-			"apple": "https://music.apple.com/artist/emelia-k/1814369952",
-			"bluesky": "https://bsky.app/profile/iberaiemelia.kasuka.be",
-			"vgmdb": "https://vgmdb.net/artist/54807"
-		}
-	},
-	"イベライ/Emelia": {
-		"name": "イベライ/Emelia",
-		"links": {
-			"youtube": "https://www.youtube.com/@iberaiemelia",
-			"soundcloud": "https://soundcloud.com/emelia-kaylee",
-			"website": "https://iberaiemelia.kasuka.be/",
-			"spotify": "https://open.spotify.com/artist/74kQmc6W0j8SWltX564FAN",
-			"apple": "https://music.apple.com/artist/1881988290",
-			"bluesky": "https://bsky.app/profile/iberaiemelia.kasuka.be",
 			"vgmdb": "https://vgmdb.net/artist/54807"
 		}
 	},
@@ -2028,24 +1939,11 @@
 			"vgmdb": "https://vgmdb.net/artist/20565"
 		}
 	},
-	"dante gofar": {
-		"name": "dante gofar",
-		"links": {
-			"twitter": "https://x.com/SoundCirclet",
-			"bluesky": "https://bsky.app/profile/soundcirclet.net",
-			"bandcamp": "https://soundcirclet.bandcamp.com",
-			"youtube": "https://www.youtube.com/channel/UC95Xopdv7f_L2AbfE-VMuxA",
-			"soundcloud": "https://soundcloud.com/soundcirclet",
-			"website": "https://www.soundcirclet.net",
-			"spotify": "https://open.spotify.com/artist/6CoLwCySMSJpmgxFcqMmkX",
-			"apple": "https://music.apple.com/artist/soundcirclet/1464394297",
-			"vgmdb": "https://vgmdb.net/artist/20565"
-		}
-	},
 	"KaNa": {
 		"name": "KaNa",
 		"links": {
 			"twitter": "https://x.com/kanaijuin",
+			"bluesky": "link",
 			"bandcamp": "https://kanaijuin.bandcamp.com",
 			"youtube": "https://www.youtube.com/channel/UCOt9ImjcJIDAa6Z4chd0UMQ",
 			"soundcloud": "https://soundcloud.com/kanaijuin",
@@ -2059,7 +1957,7 @@
 		"name": "wrashi",
 		"links": {
 			"twitter": "https://x.com/wrashi_",
-			"bluesky": "https://bsky.app/profile/alchemzik.com",
+			"bluesky": "https://bsky.app/profile/did:plc:g6amuofbkh246nq47eb7oing",
 			"soundcloud": "https://soundcloud.com/wrashi",
 			"website": "https://alchemzik.com",
 			"vgmdb": "https://vgmdb.net/artist/57040"
@@ -2076,6 +1974,14 @@
 			"apple": "https://music.apple.com/artist/hexacube/1598710668",
 			"website": "https://linktr.ee/hexacube",
 			"vgmdb": "https://vgmdb.net/artist/59847"
+		}
+	},
+	"COPYRiGHT JOKER": {
+		"name": "COPYRiGHT JOKER",
+		"links": {
+			"bandcamp": "https://copyrightjoker.bandcamp.com/",
+			"soundcloud": "https://soundcloud.com/copyrightjoker",
+			"vgmdb": "https://vgmdb.net/artist/81349"
 		}
 	},
 	"vervid!": {
@@ -2108,11 +2014,13 @@
 	"SnugglyBun": {
 		"name": "SnugglyBun",
 		"links": {
+			"twitter": "link",
 			"bluesky": "https://bsky.app/profile/snugglybun.bsky.social",
 			"bandcamp": "https://valeriasan.bandcamp.com/",
 			"youtube": "https://www.youtube.com/@snugglybun",
 			"website": "https://snugglybun.nekoweb.org/",
-			"apple": "https://music.apple.com/artist/snugglybun/1798268734"
+			"apple": "https://music.apple.com/artist/snugglybun/1798268734",
+			"vgmdb": "link"
 		}
 	},
 	"Claire": {
@@ -2221,7 +2129,7 @@
 	"Leizh": {
 		"name": "Leizh",
 		"links": {
-			"instagram": "www.instagram.com/leizh_art"
+			"instagram": "https://instagram.com/leizh_art"
 		}
 	},
 	"moyu": {
@@ -2231,6 +2139,7 @@
 			"bluesky": "https://bsky.app/profile/moyumoyu.bsky.social",
 			"bandcamp": "https://moyu.bandcamp.com",
 			"soundcloud": "https://soundcloud.com/moyumusic",
+			"youtube": "https://www.youtube.com/@moyu_musix",
 			"apple": "https://music.apple.com/artist/moyu/1783090833",
 			"spotify": "https://open.spotify.com/artist/60LXogItkImT0Q6wZXAH2A",
 			"website": "https://linktr.ee/moyumoyu",
@@ -2257,7 +2166,7 @@
 	"Alkome": {
 		"name": "Alkome",
 		"links": {
-			"twitter": "https://x.com/Alkome0x63",
+			"twitter": "https://vgmdb.net/artist/57268",
 			"bandcamp": "https://alkome.bandcamp.com/",
 			"youtube": "https://www.youtube.com/channel/UCQSR1orJCx-jj-WKN9LYBfw",
 			"soundcloud": "https://soundcloud.com/alkome",
@@ -2334,8 +2243,8 @@
 			"vgmdb": "https://vgmdb.net/artist/58776"
 		}
 	},
-	"Lila Mellark": {
-		"name": "Lila Mellark",
+	"Lila mellark": {
+		"name": "Lila mellark",
 		"links": {
 			"bandcamp": "https://lilamellark.bandcamp.com/",
 			"youtube": "https://www.youtube.com/@lilamellark/",
@@ -2456,7 +2365,6 @@
 	"v1ris": {
 		"name": "v1ris",
 		"links": {
-			"twitter": "https://x.com/v1ris_music",
 			"bluesky": "https://bsky.app/profile/v1ris.com",
 			"bandcamp": "https://v1ris.bandcamp.com",
 			"youtube": "https://www.youtube.com/@v1ris_music",
@@ -2523,6 +2431,7 @@
 		"name": "ViRiX Dreamcore",
 		"links": {
 			"twitter": "https://x.com/ViRiX_Dreamcore",
+			"bluesky": "https://bsky.app/profile/virixdreamcore.bsky.social",
 			"bandcamp": "https://virixdreamcore.bandcamp.com/",
 			"youtube": "https://www.youtube.com/c/ViRiXDreamcore",
 			"soundcloud": "https://soundcloud.com/virix",
@@ -2592,10 +2501,15 @@
 	"Max Peace": {
 		"name": "Max Peace",
 		"links": {
-			"twitter": "https://x.com/robinemimimmi",
 			"youtube": "https://youtube.com/@maxpeacemusic?si=lb-KDJOPhbk-ZH",
 			"bandcamp": "https://maxpeacemusic.bandcamp.com/music",
 			"vgmdb": "https://vgmdb.net/artist/74850"
+		}
+	},
+	"DRS": {
+		"name": "DRS",
+		"links": {
+			"twitter": "https://x.com/MCDRS"
 		}
 	},
 	"Renpul": {
@@ -2817,6 +2731,7 @@
 	"exnoiz": {
 		"name": "exnoiz",
 		"links": {
+			"twiter": "https://twitter.com/ex_noiz",
 			"bandcamp": "https://exnoiz.bandcamp.com/",
 			"soundcloud": "https://soundcloud.com/exnoiz",
 			"spotify": "https://open.spotify.com/artist/5hQKLbZJ29ywTirQ2cCO5k",
@@ -3198,7 +3113,7 @@
 		"name": "poniyama",
 		"links": {
 			"twitter": "https://x.com/poniyama_com",
-			"bandcamp": "https://poniyama.bandcamp.com/music",
+			"bandcamp": "https://poniyama.bandcamp.com/",
 			"soundcloud": "https://soundcloud.com/poniyama_com",
 			"vgmdb": "https://vgmdb.net/artist/53642"
 		}
@@ -3805,6 +3720,136 @@
 			"vgmdb": "https://vgmdb.net/artist/61007"
 		}
 	},
+	"goropi": {
+		"name": "goropi",
+		"links": {
+			"twitter": "https://twitter.com/goropi_",
+			"bluesky": "https://bsky.app/profile/goropi-2.bsky.social",
+			"bandcamp": "https://goropi.bandcamp.com/",
+			"youtube": "https://www.youtube.com/@goropi_",
+			"soundcloud": "https://soundcloud.com/goropimusic",
+			"apple": "https://music.apple.com/artist/goropi/1465846749",
+			"spotify": "https://open.spotify.com/artist/6xxAijf7Js6RFgXgV5EUnO",
+			"website": "https://goropi.carrd.co/",
+			"vgmdb": "https://vgmdb.net/artist/81154"
+		}
+	},
+	"degrade": {
+		"name": "degrade",
+		"links": {
+			"twitter": "https://twitter.com/goropi_",
+			"bluesky": "https://bsky.app/profile/goropi-2.bsky.social",
+			"bandcamp": "https://goropi.bandcamp.com/",
+			"youtube": "https://www.youtube.com/@goropi_",
+			"soundcloud": "https://soundcloud.com/degradedubz",
+			"apple": "https://music.apple.com/artist/goropi/1465846749",
+			"spotify": "https://open.spotify.com/artist/6xxAijf7Js6RFgXgV5EUnO",
+			"website": "https://goropi.carrd.co/",
+			"vgmdb": "https://vgmdb.net/artist/81154"
+		}
+	},
+	"sabi": {
+		"name": "sabi",
+		"links": {
+			"twitter": "https://x.com/sabi_c",
+			"soundcloud": "https://soundcloud.com/sabi-kuzu",
+			"vgmdb": "https://vgmdb.net/artist/62468"
+		}
+	},
+	"ECLAIR": {
+		"name": "ECLAIR",
+		"links": {
+			"twitter": "https://x.com/IamECLAIR",
+			"soundcloud": "https://soundcloud.com/eclair_music",
+			"spotify": "https://open.spotify.com/artist/5MOWFk4njjBKLC3KjdaBpJ",
+			"vgmdb": "https://vgmdb.net/artist/73476"
+		}
+	},
+	"Internet Baby": {
+		"name": {
+			"en": "Internet Baby",
+			"jp": "インターネット乳幼児"
+		},
+		"links": {
+			"twitch": "https://x.com/_internetbaby_",
+			"soundcloud": "https://soundcloud.com/8wzhtf90izl3",
+			"vgmdb": "https://vgmdb.net/artist/81350"
+		}
+	},
+	"IZEI": {
+		"name": "IZEI",
+		"links": {
+			"twitter": "https://x.com/IZEInNOIZKILLER",
+			"bandcamp": "https://izei.bandcamp.com/",
+			"youtube": "https://www.youtube.com/@IZEI_NOIZKILLER_Official",
+			"soundcloud": "https://soundcloud.com/izeinnoizkiller",
+			"vgmdb": "https://vgmdb.net/artist/79318"
+		}
+	},
+	"pencil": {
+		"name": "pencil",
+		"links": {
+			"twitter": "https://x.com/pencilest",
+			"bandcamp": "https://pencil.bandcamp.com/",
+			"soundcloud": "https://soundcloud.com/penciler",
+			"vgmdb": "https://vgmdb.net/artist/48938"
+		}
+	},
+	"Sonance": {
+		"name": "Sonance",
+		"links": {
+			"twitter": "https://x.com/sonancetunes",
+			"bluesky": "https://bsky.app/profile/sonancetunes.bsky.social",
+			"bandcamp": "https://sonancetunes.bandcamp.com/",
+			"youtube": "https://www.youtube.com/@sonancetunes",
+			"soundcloud": "https://soundcloud.com/sonancetunes",
+			"spotify": "https://open.spotify.com/artist/3Rq1wd74sMQhJVznrzfi0Z",
+			"vgmdb": "https://vgmdb.net/artist/72211"
+		}
+	},
+	"Temma": {
+		"name": "Temma",
+		"links": {
+			"twitter": "https://twitter.com/Temma40",
+			"bandcamp": "https://temma.bandcamp.com/music",
+			"youtube": "https://www.youtube.com/@temma1612",
+			"soundcloud": "https://soundcloud.com/temmaa",
+			"vgmdb": "https://vgmdb.net/artist/71550"
+		}
+	},
+	"zot!k": {
+		"name": "zot!k",
+		"links": {
+			"twitter": "https://twitter.com/raka__c",
+			"bandcamp": "https://zotik.bandcamp.com/",
+			"soundcloud": "https://soundcloud.com/zotiiik",
+			"vgmdb": "https://vgmdb.net/artist/59691"
+		}
+	},
+	"Oversleep": {
+		"name": "Oversleep",
+		"links": {
+			"twitter": "https://twitter.com/_over_sleep_",
+			"bandcamp": "https://over-sleep.bandcamp.com",
+			"youtube": "https://www.youtube.com/@oversleep8680",
+			"soundcloud": "https://soundcloud.com/oversleep_tkm",
+			"vgmdb": "https://vgmdb.net/artist/41532"
+		}
+	},
+	"DJ GATO GRANDE": {
+		"name": "DJ GATO GRANDE",
+		"links": {
+			"vgmdb": "https://vgmdb.net/artist/82144"
+		}
+	},
+	"ChocoPain": {
+		"name": "ChocoPain",
+		"links": {
+			"bluesky": "https://bsky.app/profile/chocopain.bsky.social",
+			"website": "https://linktr.ee/ChocoPain",
+			"vgmdb": "https://vgmdb.net/artist/82365"
+		}
+	},
 	"Twitter Tohobu": {
 		"name": {
 			"en": "Twitter Tohobu",
@@ -3949,8 +3994,233 @@
 			"vgmdb": "https://vgmdb.net/artist/1936"
 		}
 	},
-		"SampleEN": {
-		"name": "Sample",
+	"BHM": {
+		"name": "BHM",
+		"links": {
+			"twitter": "https://x.com/weare_bhm",
+			"youtube": "https://www.youtube.com/@weare_bhm",
+			"soundcloud": "https://soundcloud.com/wearebhm",
+			"spotify": "https://open.spotify.com/artist/6cCI9EonADBddsyOCOKHj4",
+			"website": "https://linktr.ee/wearebhm",
+			"vgmdb": "https://vgmdb.net/artist/76788"
+		}
+	},
+	"OsushiFreak": {
+		"name": "OsushiFreak",
+		"links": {
+			"twitter": "https://twitter.com/OsushiFreak",
+			"bandcamp": "https://osushifreak.bandcamp.com/",
+			"youtube": "https://www.youtube.com/@OsushiFreak",
+			"soundcloud": "https://soundcloud.com/yqtvusaiod9u",
+			"apple": "https://music.apple.com/artist/1745413229",
+			"spotify": "https://open.spotify.com/artist/23fjaAdWAmiSnOzqCmUamv",
+			"website": "https://lit.link/en/osushifreak",
+			"vgmdb": "https://vgmdb.net/artist/80020"
+		}
+	},
+	"Hylen": {
+		"name": "Hylen",
+		"links": {
+			"twitter": "https://twitter.com/hylen_jp",
+			"bandcamp": "https://hylen.bandcamp.com/",
+			"youtube": "https://www.youtube.com/channel/UCoocox8POFVPvPi7jAnzC3g",
+			"soundcloud": "https://soundcloud.com/hylen",
+			"apple": "https://music.apple.com/artist/hylen/1376046490",
+			"spotify": "https://open.spotify.com/artist/1glUbGdkshgCb1d4ossJBi",
+			"website": "https://hylenlab.info/",
+			"vgmdb": "https://vgmdb.net/artist/47551"
+		}
+	},
+	"OrutO": {
+		"name": "OrutO",
+		"links": {
+			"twitter": "https://x.com/oruto_key",
+			"soundcloud": "https://soundcloud.com/oruto_sound",
+			"vgmdb": "https://vgmdb.net/artist/83615"
+		}
+	},
+	"Tsukasa": {
+		"name": "Tsukasa",
+		"links": {
+			"twitter": "https://x.com/tsukasaedm",
+			"bandcamp": "https://tsukasa.bandcamp.com/",
+			"youtube": "https://www.youtube.com/@tsukasa4167",
+			"soundcloud": "https://soundcloud.com/tsukasa-270273689",
+			"spotify": "https://open.spotify.com/artist/2PYNPFxumf0SERseMvjRoB",
+			"website": "https://linktr.ee/tsukasaedm",
+			"vgmdb": "https://vgmdb.net/artist/75893"
+		}
+	},
+	"TrippyGrunt": {
+		"name": "TrippyGrunt",
+		"links": {
+			"youtube": "https://www.youtube.com/@trippygrunt",
+			"soundcloud": "https://soundcloud.com/TrippyGrunt",
+			"apple": "https://music.apple.com/artist/1653322373",
+			"spotify": "https://open.spotify.com/artist/7ojHFSUxh5ExnfjoXLc0rM",
+			"website": "linhttps://linktr.ee/trippygruntk",
+			"vgmdb": "https://vgmdb.net/artist/82807"
+		}
+	},
+	"ej ito": {
+		"name": "ej ito",
+		"links": {
+			"twitter": "https://x.com/lapislazh",
+			"bandcamp": "https://lapislazh.bandcamp.com",
+			"soundcloud": "https://soundcloud.com/ejitoyokado",
+			"vgmdb": "https://vgmdb.net/artist/62341"
+		}
+	},
+	"Lazhward": {
+		"name": "Lazhward",
+		"links": {
+			"twitter": "https://x.com/lapislazh",
+			"bandcamp": "https://lapislazh.bandcamp.com",
+			"soundcloud": "https://soundcloud.com/lapislazhward",
+			"vgmdb": "https://vgmdb.net/artist/63596"
+		}
+	},
+	"PTB10": {
+		"name": "PTB10",
+		"links": {
+			"twitter": "https://x.com/ptb10music",
+			"bandcamp": "https://ptb10.bandcamp.com/",
+			"youtube": "https://www.youtube.com/@PTB10",
+			"soundcloud": "https://soundcloud.com/ptb10",
+			"apple": "https://music.apple.com/artist/1454992729",
+			"spotify": "https://open.spotify.com/artist/49gwBvboGt7eVGbU67hbkX",
+			"vgmdb": "https://vgmdb.net/artist/56112"
+		}
+	},
+	"Maozon": {
+		"name": "Maozon",
+		"links": {
+			"twitter": "https://x.com/maozon",
+			"bandcamp": "https://maozon.bandcamp.com/",
+			"youtube": "https://www.youtube.com/channel/UCVMstGZC6zCjlgdAoD7A90Q",
+			"soundcloud": "https://soundcloud.com/maozon",
+			"apple": "https://music.apple.com/artist/594394809",
+			"spotify": "https://open.spotify.com/artist/1U5zkI2XNuCMR219oZt3VV",
+			"vgmdb": "https://vgmdb.net/artist/15914"
+		}
+	},
+	"Renko": {
+		"name": "Renko",
+		"links": {
+			"twitter": "https://x.com/Renko_",
+			"bluesky": "https://bsky.app/profile/renko.studio",
+			"youtube": "https://youtube.com/@Renkomatic",
+			"soundcloud": "https://soundcloud.com/renkomatic",
+			"apple": "https://music.apple.com/artist/1117287220",
+			"spotify": "https://open.spotify.com/artist/2CpPSW5bxLgbCIwcaKrMwW",
+			"website": "https://renko.studio",
+			"vgmdb": "https://vgmdb.net/artist/12818"
+		}
+	},
+	"DevAdelso": {
+		"name": "DevAdelso",
+		"links": {
+			"bluesky": "https://bsky.app/profile/devadelso.bsky.social",
+			"bandcamp": "https://devadelso.bandcamp.com/",
+			"youtube": "https://www.youtube.com/@DevAdelso",
+			"soundcloud": "https://on.soundcloud.com/kyJCgvFzluFBjulUXV",
+			"apple": "https://music.apple.com/artist/1739409903",
+			"spotify": "https://open.spotify.com/artist/1NEXuYvFv5ncemBTsPMUkv",
+			"website": "https://linktr.ee/DevAdelso",
+			"vgmdb": "https://vgmdb.net/artist/84950"
+		}
+	},
+	"Sanaas": {
+		"name": "Sanaas",
+		"links": {
+			"twitter": "https://x.com/_Sanaas",
+			"bandcamp": "https://sanatrium.bandcamp.com",
+			"soundcloud": "https://soundcloud.com/sanaas",
+			"apple": "https://music.apple.com/artist/875711340",
+			"spotify": "https://open.spotify.com/artist/3dJ5mXNLhIElreO64ian8W",
+			"vgmdb": "https://vgmdb.net/artist/32576"
+		}
+	},
+	"PudZ": {
+		"name": "PudZ",
+		"links": {
+			"twitter": "https://x.com/Pudding_zaemon",
+			"bluesky": "https://bsky.app/profile/puddingzaemon.bsky.social",
+			"youtube": "https://www.youtube.com/@puddingzaemon",
+			"soundcloud": "https://soundcloud.com/puddingzaemon",
+			"website": "https://puddingzaemon.bio.link",
+			"vgmdb": "https://vgmdb.net/artist/72172"
+		}
+	},
+	"ETH4N": {
+		"name": "ETH4N",
+		"links": {
+			"twitter": "https://x.com/eth4n_alc",
+			"bandcamp": "https://eth4n.bandcamp.com/",
+			"soundcloud": "https://soundcloud.com/eth4nalc",
+			"spotify": "https://open.spotify.com/artist/4wGgH8BNA0OzcxfLowcsc0",
+			"vgmdb": "https://vgmdb.net/artist/66286"
+		}
+	},
+	"NotWo": {
+		"name": {
+			"en": "NotWo",
+			"jp": "のとを"
+		},
+		"links": {
+			"twitter": "https://twitter.com/teatimes57",
+			"bandcamp": "https://enigmatically.bandcamp.com/",
+			"youtube": "https://www.youtube.com/@enigmatically57",
+			"soundcloud": "https://soundcloud.com/teatimes57",
+			"apple": "https://music.apple.com/artist/1862437002",
+			"spotify": "https://open.spotify.com/artist/3RN4RjWAmkQARNJzl9VKar",
+			"website": "https://lit.link/enigmatically",
+			"vgmdb": "https://vgmdb.net/artist/60911"
+		}
+	},
+	"abnovark": {
+		"name": "abnovark",
+		"links": {
+			"twitter": "https://twitter.com/abnovark",
+			"soundcloud": "https://soundcloud.com/abnovark",
+			"vgmdb": "https://vgmdb.net/artist/72158"
+		}
+	},
+	"ELECTR": {
+		"name": "ELECTR",
+		"links": {
+			"twitter": "https://x.com/electr_nics",
+			"soundcloud": "https://soundcloud.com/electr-nics",
+			"vgmdb": "https://vgmdb.net/artist/63367"
+		}
+	},
+	"Kloser": {
+		"name": "Kloser",
+		"links": {
+			"twitter": "https://x.com/AusKloser",
+			"bluesky": "https://bsky.app/profile/kloseraus.bsky.social",
+			"soundcloud": "https://soundcloud.com/kloseraus",
+			"apple": "https://music.apple.com/artist/1677976486",
+			"spotify": "https://open.spotify.com/artist/6pPseqJ4JVfBr8zskM5N5r",
+			"vgmdb": "https://vgmdb.net/artist/61131"
+		}
+	},
+	"Rhino kawara": {
+		"name": "Rhino kawara",
+		"links": {
+			"twitter": "https://x.com/rhinokawara",
+			"bandcamp": "https://rhinokawara.bandcamp.com",
+			"soundcloud": "https://soundcloud.com/user-238636283",
+			"apple": "https://music.apple.com/artist/1522408917",
+			"spotify": "https://open.spotify.com/artist/5TyAO71ITdeZo2z6r3GXbn",
+			"vgmdb": "https://vgmdb.net/artist/79717"
+		}
+	},
+	"Ashley": {
+		"name": "Ashley"
+	},
+	"SampleEN": {
+		"name": "SampleEN",
 		"links": {
 			"twitter": "link",
 			"bluesky": "link",
