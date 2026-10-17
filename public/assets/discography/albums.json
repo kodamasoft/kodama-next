@@ -510,6 +510,9 @@
         "bandcamp": "https://kodamasounds.bandcamp.com/album/wunsch-in-farbe",
         "booth": "https://kodamasoft.booth.pm/items/8934549",
         "vgmdb": "https://vgmdb.net/album/164662",
-        "mv": "https://www.youtube.com/watch?v=hPTojMKEUxQ"
+        "mv": "https://www.youtube.com/watch?v=hPTojMKEUxQ",
+		"spotify": "https://open.spotify.com/album/2qTnOpGyoaEbJZpJb8VLmc",
+		"appleMusic": "https://music.apple.com/album/6821729992",
+		"youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_kTOlCvSw6Tx3sLLPVqz-pLFmT_toWZKeE"
     }
 }
