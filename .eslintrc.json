@@ -3,5 +3,13 @@
     "rules": {
         "quotes": ["error", "single"],
         "jsx-quotes": ["error", "prefer-double"]
-    }
+    },
+    "overrides": [
+        {
+            "files": ["components/release/album/release-credits.js"],
+            "rules": {
+                "released-album-unknown-collaborator": "warn"
+            }
+        }
+    ]
 }
