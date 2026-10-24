@@ -8,7 +8,7 @@
 		"lint:fix": "eslint --rulesdir eslint-rules --fix ."
 	},
 	"files": [
-		"eslint-rules"
+		".eslintrc.json"
 	],
 	"dependencies": {
 		"@gsap/react": "^2.1.2",
