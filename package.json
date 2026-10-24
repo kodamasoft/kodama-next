@@ -7,6 +7,9 @@
 		"lint": "next lint --no-cache --rulesdir eslint-rules",
 		"lint:fix": "eslint --rulesdir eslint-rules --fix ."
 	},
+	"files": [
+		"eslint-rules"
+	],
 	"dependencies": {
 		"@gsap/react": "^2.1.2",
 		"@hackernoon/pixel-icon-library": "^1.0.5",
