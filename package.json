@@ -4,8 +4,8 @@
 		"dev": "next",
 		"build": "next build",
 		"start": "next start",
-		"lint": "next lint --no-cache --rulesdir eslint-rules",
-		"lint:fix": "eslint --rulesdir eslint-rules --fix ."
+		"lint": "next lint --no-cache --rulesdir ./eslint-rules .",
+		"lint:fix": "eslint --rulesdir ./eslint-rules . --fix ."
 	},
 	"files": [
 		"eslint-rules"
