@@ -6,7 +6,7 @@
     },
     "overrides": [
         {
-            "files": ["components/release/album/release-credits.js"],
+            "files": ["components/release/album/release-credits.js","components/release/album/themes/la-mulana-credits.js"],
             "rules": {
                 "released-album-unknown-collaborator": "warn"
             }
