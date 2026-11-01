@@ -151,7 +151,7 @@ export default function ProjectListing({ project, category, bgImage }) {
 				</p>
 
 				<div className="flex-col flex">
-					<div className="flex flex-row justify-evenly gap-2">
+					<div className="flex flex-row justify-evenly gap-2 flex-wrap">
 						<div className="p-2 flex-1/3">
 							<p className="font-bold text-xl">
 								{t('projects:project-info.current-duration')}
@@ -182,7 +182,7 @@ export default function ProjectListing({ project, category, bgImage }) {
 						</div>
 					</div>
 
-					<div className="flex flex-row justify-evenly gap-2">
+					<div className="flex flex-row justify-evenly gap-2 flex-wrap">
 						<div className="p-2 flex-1/3">
 							<p className="font-bold text-xl">
 								{t('projects:project-info.artwork-commission')}
