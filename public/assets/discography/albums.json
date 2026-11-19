@@ -532,5 +532,13 @@
 		"cover": "/assets/discography/covers/CD0002.png",
 		"coverColor": "#2f6af4",
 		"website": "/releases/diary-of-a-nobody"
+	},
+	"wind-run": {
+		"id": "KSCD-0002",
+		"releaseDate": "2026-12-31T00:00:00+0200",
+		"name": "Wind Run / Casio Lamb",
+		"cover": "/assets/discography/covers/CD0002.png",
+		"coverColor": "#2f6af4",
+		"website": "/releases/wind-run"
 	}
 }
