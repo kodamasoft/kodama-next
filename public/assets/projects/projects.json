@@ -8,12 +8,13 @@
 				"percentage": "0",
 				"duration": "00:00",
 				"finished_tracks": "0",
+				"bgImage": "./assets/discography/headers/0016.png",
 				"deadline": "2027-03-07T23:59:59Z",
 				"mastering": {
 					"status": "master-inprogress",
 					"engineer": "TBD"
 				},
-				"artwork_commission": "illust-notstarted",
+				"artwork_commission": "illust-inprogress",
 				"color": "#d44215"
 			},
 			{
@@ -28,7 +29,7 @@
 					"engineer": ""
 				},
 				"artwork_commission": "illust-notstarted",
-				"color": "#9f1239"
+				"color": "#000000"
 			},
 			{
 				"slug": "eclectic-resonance-hollow-horizons-2",
@@ -119,14 +120,15 @@
 			},
 			{
 				"slug": "eclectic-resonance-tremor",
-				"status": "about-to-release",
+				"status": "gen-released",
 				"percentage": "100",
 				"duration": "2:19:29",
 				"deadline": "2026-08-31T23:59:59Z",
 				"releaseDate": "",
-				"finished_tracks": "30",
+				"finished_tracks": "36",
+				"bgImage": "./assets/discography/headers/CD0007-8.png",
 				"mastering": {
-					"status": "master-inprogress",
+					"status": "master-complete",
 					"engineer": "Volumetrique (KodamaSounds)"
 				},
 				"artwork_commission": "illust-complete-physical",
@@ -148,7 +150,7 @@
 					"status": "master-inprogress",
 					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"
 				},
-				"artwork_commission": "illust-notstarted",
+				"artwork_commission": "illust-inprogress",
 				"color": "#65a30d"
 			},
 			{
