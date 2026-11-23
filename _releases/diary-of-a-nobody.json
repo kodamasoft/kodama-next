@@ -1,17 +1,24 @@
 {
 	"slug": "diary-of-a-nobody",
 	"logo": "/assets/discography/logos/CD0009.png",
-	"color": "dd72db",
+	"color": "e68cdd",
 	"soundcloud_track_id": "2136875400",
 	"cover": "/assets/discography/covers/CD0009.png",
 	"header": {
 		"image": "/assets/discography/headers/CD0009.png",
 		"brightness": 1,
-		"fade": false
+		"blur": 1
 	},
 	"background": {
-		"color": "452f38",
-		"text_color": "f9f5df"
+		"color": "38212b",
+		"text_color": "f9f5df",
+		"image": "/assets/discography/backgrounds/CD0009.png",
+		"image_size": "width",
+		"image_position": "bottom",
+		"overlay": 0.45,
+		"bottom_space": "15vw",
+		"panel_text_color": "fefbe8",
+		"panel_color": "9c5c56"
 	},
 	"title": "The Diary of a Nobody / KoDyMaxx",
 	"circle": {
@@ -38,19 +45,23 @@
 		},
 		"diverse": {
 			"name": "Diverse Direct",
-			"link": ""
+			"link": "",
+			"physical": true
 		},
 		"melonbooks": {
 			"name": "Melon Books",
-			"link": ""
+			"link": "",
+			"physical": true
 		},
 		"akibahobby": {
 			"name": "AKIBA-HOBBY",
-			"link": ""
+			"link": "",
+			"physical": true
 		},
 		"bandcampPhysical": {
 			"name": "Bandcamp (Physical)",
-			"link": ""
+			"link": "",
+			"physical": true
 		}
 	},
 	"tracklist": {
@@ -521,5 +532,10 @@
 			"id": "Kat"
 		}
 	},
-	"footer": "All music and visuals owned by KodamaSounds and their respective artists"
+	"footer": "All music and visuals owned by KodamaSounds and their respective artists",
+	"layout": {
+		"content_width": "compact",
+		"logo_height": 490
+	},
+	"description": ""
 }
