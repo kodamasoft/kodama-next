@@ -146,6 +146,7 @@
 				"duration": "00:00",
 				"finished_tracks": "0",
 				"deadline": "2027-02-15T23:59:59Z",
+				"bgImage": "./assets/discography/headers/CD0025.png",
 				"mastering": {
 					"status": "master-inprogress",
 					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"
@@ -159,6 +160,7 @@
 				"percentage": "0",
 				"duration": "00:00",
 				"finished_tracks": "0",
+				"bgImage": "./assets/discography/headers/CD0026.png",
 				"mastering": {
 					"status": "master-inprogress",
 					"engineer": "TBD"
